@@ -1,0 +1,53 @@
+{
+	"type": "lecture",
+	"id": "10",
+	"content_type": "video",
+	"property_keys": ["type", "id", "content_type"],
+	"title": {
+		"ru": "Введение в курс",
+		"kk": "Курсқа кіріспе",
+		"en": "Course Introduction"
+	},
+	"files_list": [
+		{
+			"path": "metadata.json",
+			"type": "metadata",
+			"lang": "en"
+		},
+		{
+			"path": "video/ru/video.mp4",
+			"type": "video",
+			"lang": "ru"
+		},
+		{
+			"path": "presentation/presentation.en.pptx",
+			"type": "presentation",
+			"lang": "en"
+		},
+    {
+      "path": "chapters/chapters.en.vtt",
+      "type": "chapters",
+      "lang": "en"
+    },
+    {
+      "path": "chapters/chapters.kk.vtt",
+      "type": "chapters",
+      "lang": "kk"
+    },
+    {
+      "path": "chapters/chapters.ru.vtt",
+      "type": "chapters",
+      "lang": "ru"
+    },
+		{
+			"path": "subtitles/subtitles.kk.vtt",
+			"type": "subtitles",
+			"lang": "kk"
+		},
+    {
+      "path": "subtitles/subtitles.ru.vtt",
+      "type": "subtitles",
+      "lang": "ru"
+    }
+	]
+}
