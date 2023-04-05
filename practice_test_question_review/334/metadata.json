@@ -1,0 +1,43 @@
+{
+    "type": "practice_test_question_review",
+    "files_list": [
+        {
+            "path": "metadata.json",
+            "type": "metadata",
+            "lang": "en"
+        },
+        {
+            "path": "video/ru/video.mp4",
+            "type": "video",
+            "lang": "ru"
+        },
+        {
+            "path": "presentation/presentation.en.pptx",
+            "type": "presentation",
+            "lang": "en"
+        }
+    ],
+    "property_keys": [
+        "type",
+        "id",
+        "content_type",
+        "aws_service",
+        "aws_group"
+    ],
+    "aws_service": [
+        "GuardDuty",
+        "CloudTrail",
+        "Inspector"
+    ],
+    "aws_group": [
+        "Management & Governance",
+        "AWS Cost Management"
+    ],
+    "id": "334",
+    "title": {
+        "ru": "Practice test quesion reivew",
+        "en": "Practice test quesion reivew",
+        "kk": "Practice test quesion reivew"
+    },
+    "content_type": "video"
+}
