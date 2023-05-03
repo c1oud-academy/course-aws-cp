@@ -1,0 +1,28 @@
+{
+	"type": "qna",
+	"id": "60",
+	"content_type": "video",
+	"property_keys": ["type", "id", "content_type"],
+	"title": {
+		"ru": "Сессия ответов и вопросов #60",
+		"kk": "Сұрақ-жауап сессиясы #60",
+		"en": "Questions & answers session #60"
+	},
+	"files_list": [
+		{
+			"path": "metadata.json",
+			"type": "metadata",
+			"lang": "en"
+		},
+		{
+			"path": "video/ru/video.mp4",
+			"type": "video",
+			"lang": "ru"
+		},
+		{
+			"path": "presentation/presentation.en.pptx",
+			"type": "presentation",
+			"lang": "en"
+    }
+	]
+}

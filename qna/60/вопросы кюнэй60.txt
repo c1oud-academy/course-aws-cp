@@ -1,0 +1,11 @@
+Вопросы кюнэй60
+
+Как расшифруется IP? What does IP stand for? 
+Откуда берутся цифры на IP-адрес? Where do the numbers for the IP address come from?
+RFC 1918 range
+10.0.0.0 - 10.255.255.255 (10/8 prefix)
+172.16.0.0 - 172.31.255.255 (172.16/12 prefix)
+192.168.0.0 - 192.168.255.255 (192.168/16 prefix)
+Использование AWS Transit Gateway помимо того, что упростит инфраструктуру, поможет ли сэкономить деньги? Т.е. не будет ли дешевле использовать VPC peering? In addition to simplifying the infrastructure, will using AWS Transit Gateway save money? Wouldn't it be cheaper to use VPC peering?
+Что такое файеруол firewall? What is a firewall?
+Лекция по networking & content delivery была очень объемной и не простой для понимания. Что ожидать на следующих лекциях? The lecture on networking and content delivery was very voluminous and not easy to understand. What can we expect in the next lectures?

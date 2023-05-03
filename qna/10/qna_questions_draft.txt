@@ -1,0 +1,39 @@
+List of Questions for Q'n'A session #10
+
+1)  Что такое облако и облачные технологии?
+What are cloud and cloud technologies?
+
+2)  Что такое провайдер? Облачный провайдер?
+What does the Cloud provider mean? Any examples?
+
+3)  Чем занимается системный администратор?
+What are responsibilities of system administrator?
+What is the difference between system administrator and SysOps?
+
+4)  Не могли бы вы детальней разъяснить суть лабораторной работы на конкретном примере?
+Сould you explain the essence of the laboratory work with an example in more detail?
+
+5)  Что такое AWS консоль?
+What is the AWS Management Console?
+
+6)  До какого времени у нас будет доступ к материалам вне рамках дедлайна? Или доступ прекращается как только заканчивается семестр?
+When is the deadline for access to Telegram-bot platform?
+
+7)  Какая шкала оценок на вашей платформе?
+Could you share some details on how course progress is calculated in Telegram-bot?
+
+8)  Что такое песочница?
+What is a sandbox?
+
+9)  Почему Вы сдавали именно экзамен AWS Сertified DevOps Engineer – Professional?
+Why did you choose AWS Сertified DevOps Engineer – Professional exam among other Professional and Specialty exams?
+
+10) What is the recommended path of acquiring AWS Certificates and why?
+
+11) Who will send us the link to Telegram-bot and Telegram group chat?
+
+12) Why do we pass the tests in English?
+13) How the assessment is done for knowledge check test?
+14) How the assessment is done for practice test?
+
+
