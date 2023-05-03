@@ -1,0 +1,29 @@
+List of Questions for Q'n'A session #30
+
+1) Почему AWS выгодно принимать данные бесплатно?
+Why is it profitable for AWS to accept data for free?
+
+2) Лицензии на сервисы выгодней покупать у AWS или у других компании? Почему?
+Is it more profitable to buy licenses for the services from AWS or from other companies? Why?
+
+3) Можете ли привести реальный пример цен использования определенного сервиса?
+Can you give a real-life example of the prices for using a certain service?
+
+4) На каком этапе использования AWS стоит начать присматриваться к Reserved Instances?
+When is it worth start using Rsesrved Instances?
+
+5) Можем ли мы зарегистрировать свой AWS Account?
+Could we create own AWS Account?
+
+6) Почему AWS предоставляет бесплатно некоторые сервисы?
+Why does AWS provide some services free of charge?
+
+7) Стоит ли использовать AWS Organizations для небольшого личного проекта?
+Is it worth using AWS Organizations for small startup project?
+
+8) Какой Support Plan выбрать для небольшого личного проекта?
+What is the best Support Plan for small startup project?
+
+
+
+

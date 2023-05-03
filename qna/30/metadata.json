@@ -1,0 +1,33 @@
+{
+	"type": "qna",
+	"id": "30",
+	"content_type": "video",
+	"property_keys": ["type", "id", "content_type"],
+	"title": {
+		"ru": "Сессия ответов и вопросов #30",
+		"kk": "Сұрақ-жауап сессиясы #30",
+		"en": "Questions & answers session #30"
+	},
+	"files_list": [
+		{
+			"path": "metadata.json",
+			"type": "metadata",
+			"lang": "en"
+		},
+		{
+			"path": "video/ru/video.mp4",
+			"type": "video",
+			"lang": "ru"
+		},
+    {
+      "path": "video/kk/video.mp4",
+      "type": "video",
+      "lang": "kk"
+    },
+		{
+			"path": "presentation/presentation.en.pptx",
+			"type": "presentation",
+			"lang": "en"
+    }
+	]
+}
