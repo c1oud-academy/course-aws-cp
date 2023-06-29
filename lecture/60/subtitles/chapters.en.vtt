@@ -1,0 +1,91 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:52.400
+Introduction
+
+00:00:52.400 --> 00:02:12.644
+Section 1
+
+00:02:12.644 --> 00:04:37.400
+IP addresses
+
+00:04:37.400 --> 00:10:54.400
+CIDR
+
+00:10:54.400 --> 00:12:43.400
+OSI model
+
+00:12:43.400 --> 00:20:42.400
+Section 2
+
+00:20:42.400 --> 00:22:14.400
+Public IP address types
+
+00:22:15.400 --> 00:23:13.400
+Elastic Network Interface
+
+00:23:14.400 --> 00:24:54.400
+Route tables and routes
+
+00:24:55.400 --> 00:26:34.400
+Section 2 key takeaways
+
+00:26:36.400 --> 00:26:46.400
+Section 3
+
+00:26:48.400 --> 00:27:29.400
+Internet gateway
+
+00:27:29.400 --> 00:29:58.400
+NAT Gateway
+
+00:29:58.400 --> 00:31:15.400
+VPC sharing
+
+00:31:15.400 --> 00:34:12.400
+VPC peering
+
+00:34:12.400 --> 00:36:01.400
+AWS Site-to-Site VPN
+
+00:36:01.400 --> 00:37:23.400
+AWS Direct Connect
+
+00:37:23.400 --> 00:38:50.400
+VPC Endpoints
+
+00:38:50.400 --> 00:41:02.400
+AWS Transit Gateway
+
+00:41:02.400 --> 00:44:23.400
+Section 3 key takeaways
+
+00:44:23.400 --> 00:44:36.651
+Section 4
+
+00:44:36.663 --> 00:48:27.400
+Security Groups
+
+00:48:27.400 --> 00:52:16.400
+Network ACLs
+
+00:52:16.400 --> 00:54:30.400
+Security Groups VS Network ACLs
+
+00:54:30.400 --> 00:54:47.400
+Section 4 key takeaways
+
+00:54:47.400 --> 01:05:37.400
+Section 5
+
+01:05:37.400 --> 01:06:59.400
+Section 5 key takeaways
+
+01:06:59.400 --> 01:15:07.400
+Section 6
+
+01:15:09.400 --> 01:16:09.400
+Section 6 key takeaways
+
+01:16:11.400 --> 01:17:32.400
+Module summary
