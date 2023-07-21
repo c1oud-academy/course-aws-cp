@@ -1,0 +1,40 @@
+WEBVTT
+
+00:00:00.000 --> 00:01:08.000
+Introduction
+
+00:01:09.000 --> 00:05:46.000
+Section 1
+
+00:05:47.000 --> 00:08:12.000
+Categorizing compute services
+
+00:08:13.000 --> 00:10:00.000
+Choosing the optimal compute service
+
+00:10:00.000 --> 00:17:22.000
+Section 2. Amazon EC2
+
+00:17:22.000 --> 00:47:19.000
+Launching an Amazon EC2 instance
+
+00:47:19.000 --> 00:54:51.000
+Amazon EC2 instance lifecycle
+
+00:54:51.000 --> 00:56:39.000
+Amazon CloudWatch 
+
+00:56:39.000 --> 00:59:22.000
+Section 2 key takeaways
+
+00:59:22.000 --> 01:15:52.000
+Section 3
+
+01:15:53.000 --> 01:25:11.000
+The four pillars of cost optimization
+
+01:25:12.000 --> 01:27:02.400
+Section 3 key takeaways
+
+01:27:03.400 --> 01:27:39.400
+Module summary
