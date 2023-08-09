@@ -28,6 +28,11 @@
 			"path": "presentation/presentation.en.pptx",
 			"type": "presentation",
 			"lang": "en"
+    },    
+    {
+    	"path": "chapters/chapters.en.vtt",
+      "type": "chapters",
+      "lang": "en"
     },
     {
       "path": "subtitles/subtitles.ru.vtt",
