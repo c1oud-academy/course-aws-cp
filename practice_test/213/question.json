@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "AWS Trusted Advisor"
+        },
+        {
+            "text": "Amazon Inspector"
+        },
+        {
+            "text": "AWS Config"
+        },
+        {
+            "right_answer": true,
+            "text": "Amazon GuardDuty"
+        }
+    ],
+    "text": "Which AWS Service provides a threat detection service by automatically analyzing your CloudTrail logs, VPC Flow Logs, and DNS Logs for suspicious activity?"
+}

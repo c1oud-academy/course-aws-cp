@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "right_answer": true,
+            "text": "diversified"
+        },
+        {
+            "text": "capacity-optimized"
+        },
+        {
+            "text": "lowest-price"
+        },
+        {
+            "text": "distributed"
+        }
+    ],
+    "text": "What is the best EC2 allocation strategy if you want to acquire Spot instances distributed across all pools?"
+}

@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "Public IP"
+        },
+        {
+            "text": "Static IP"
+        },
+        {
+            "right_answer": true,
+            "text": "Elastic IP"
+        },
+        {
+            "text": "Dynamic IP"
+        }
+    ],
+    "text": "Which AWS feature allows you to attach a static IP to an EC2 instance that will not change between reboots and can be re-assigned to another EC2 instance?"
+}

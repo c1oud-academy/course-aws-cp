@@ -1,0 +1,35 @@
+{
+    "type": "practice_test",
+    "aws_group": [
+        "Networking & Content Delivery"
+    ],
+    "id": "448",
+    "property_keys": [
+        "type",
+        "id",
+        "content_type",
+        "aws_service",
+        "aws_group"
+    ],
+    "title": {
+        "en": "Practice test quesion 448",
+        "kk": "Practice test quesion 448",
+        "ru": "Practice test quesion 448"
+    },
+    "files_list": [
+        {
+            "type": "metadata",
+            "lang": "en",
+            "path": "metadata.json"
+        },
+        {
+            "type": "question",
+            "lang": "en",
+            "path": "question.json"
+        }
+    ],
+    "aws_service": [
+        "Route 53"
+    ],
+    "content_type": "test"
+}

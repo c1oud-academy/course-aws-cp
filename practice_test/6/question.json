@@ -1,0 +1,18 @@
+{
+    "text": "Your application needs to temporarily access a number of AWS resources. What is the recommended, most secure way of doing that?",
+    "answers": [
+        {
+            "text": "Create an IAM user and embed Access Keys in the application."
+        },
+        {
+            "text": "Create an IAM role and allow the application to temporarily assume it.",
+            "right_answer": true
+        },
+        {
+            "text": "Create an IAM group and add the application to it."
+        },
+        {
+            "text": "Assign IAM permissions directly to the Application using the principle of least privilege."
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "right_answer": true,
+            "text": "Implement a Multi-AZ deployment."
+        },
+        {
+            "text": "Deploy RDS to an EC2 Spot Fleet."
+        },
+        {
+            "text": "Implement a Multi-Region deployment."
+        },
+        {
+            "text": "Implement a Read Replica."
+        }
+    ],
+    "text": "Your company is running an RDS database with MySQL. Your boss has asked you to configure RDS so that in case the primary database fails, you have a standby database for failover (i.e. your boss wants to ensure high availability of your database). How would you configure RDS to meet this requirement?"
+}

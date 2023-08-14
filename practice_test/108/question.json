@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "Amazon GuardDuty"
+        },
+        {
+            "right_answer": true,
+            "text": "Amazon Inspector"
+        },
+        {
+            "text": "AWS Shield"
+        },
+        {
+            "text": "Amazon Detective"
+        }
+    ],
+    "text": "Which AWS service provides an automated security assessment to help improve the security and compliance of applications deployed to AWS?"
+}

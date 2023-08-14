@@ -1,0 +1,26 @@
+{
+    "answers": [
+        {
+            "text": "Amazon Inspector"
+        },
+        {
+            "right_answer": true,
+            "text": "AWS Firewall Manager"
+        },
+        {
+            "right_answer": true,
+            "text": "AWS WAF"
+        },
+        {
+            "text": "Amazon CloudWatch"
+        },
+        {
+            "text": "Amazon Macie"
+        },
+        {
+            "right_answer": true,
+            "text": "Amazon VPC Security Groups"
+        }
+    ],
+    "text": "In addition to Amazon VPC, what other AWS services or features should you consider using to protect network and host-level boundaries in AWS?"
+}

@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "Update the Nitro Hypervisor to a new version."
+        },
+        {
+            "text": "Migrate to a different version of the Hypervisor."
+        },
+        {
+            "right_answer": true,
+            "text": "Nothing. This is AWS's responsibility as per the Shared Responsibility Model."
+        },
+        {
+            "text": "Call up AWS Support and complain about the issue."
+        }
+    ],
+    "text": "The EC2 Nitro Hypervisor is having issues and not delivering the right level of performance. You have been called in to deal with this problem. What do you do?"
+}

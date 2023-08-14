@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "Updating MySQL on RDS to the latest version."
+        },
+        {
+            "right_answer": true,
+            "text": "Creating custom IAM roles with least-privilege permissions."
+        },
+        {
+            "text": "Security patching of the Operating System which runs SNS and SQS."
+        },
+        {
+            "text": "Updating the version of Python on Lambda."
+        }
+    ],
+    "text": "Which of the following is the responsibility of the customer in accordance with AWS's Shared Responsibility Model?"
+}

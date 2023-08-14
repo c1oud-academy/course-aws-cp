@@ -1,0 +1,26 @@
+{
+    "answers": [
+        {
+            "text": "Amazon Neptune"
+        },
+        {
+            "right_answer": true,
+            "text": "Amazon EC2"
+        },
+        {
+            "text": "Amazon ECS"
+        },
+        {
+            "right_answer": true,
+            "text": "Elastic Load Balancing"
+        },
+        {
+            "text": "AWS Lambda"
+        },
+        {
+            "right_answer": true,
+            "text": "Amazon CloudFront"
+        }
+    ],
+    "text": "AWS Shield Advanced provides additional protection to which AWS Services?"
+}

@@ -1,0 +1,37 @@
+{
+    "id": "57",
+    "files_list": [
+        {
+            "type": "metadata",
+            "path": "metadata.json",
+            "lang": "en"
+        },
+        {
+            "type": "question",
+            "path": "question.json",
+            "lang": "en"
+        }
+    ],
+    "aws_service": [
+        "Lambda",
+        "Batch",
+        "EC2"
+    ],
+    "content_type": "test",
+    "type": "practice_test",
+    "title": {
+        "en": "Practice test quesion 57",
+        "ru": "Practice test quesion 57",
+        "kk": "Practice test quesion 57"
+    },
+    "property_keys": [
+        "type",
+        "id",
+        "content_type",
+        "aws_service",
+        "aws_group"
+    ],
+    "aws_group": [
+        "Compute"
+    ]
+}

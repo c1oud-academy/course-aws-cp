@@ -1,0 +1,18 @@
+{
+    "text": "What AWS Service can you use to monitor VPC and VPN connections?",
+    "answers": [
+        {
+            "text": "Amazon CloudWatch",
+            "right_answer": true
+        },
+        {
+            "text": "AWS CloudTrail"
+        },
+        {
+            "text": "AWS Personal Health Dashboard"
+        },
+        {
+            "text": "AWS Control Tower"
+        }
+    ]
+}

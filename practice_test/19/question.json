@@ -1,0 +1,18 @@
+{
+    "text": "Which AWS service could you use to scan objects in your S3 buckets for credentials, source code, and API Keys?",
+    "answers": [
+        {
+            "text": "Amazon GuardDuty"
+        },
+        {
+            "text": "Amazon Macie",
+            "right_answer": true
+        },
+        {
+            "text": "AWS Security Hub"
+        },
+        {
+            "text": "Amazon Inspector"
+        }
+    ]
+}

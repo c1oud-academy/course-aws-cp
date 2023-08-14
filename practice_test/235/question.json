@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "right_answer": true,
+            "text": "S3 Bucket Policy"
+        },
+        {
+            "text": "S3 ACL"
+        },
+        {
+            "text": "CORS"
+        },
+        {
+            "text": "Lifecycle Policy"
+        }
+    ],
+    "text": "In Amazon S3 what feature would you use to grant access to your buckets and objects to other AWS accounts and IAM users?"
+}

@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "Kinesis Video Streams"
+        },
+        {
+            "text": "Kinesis Data Analytics"
+        },
+        {
+            "text": "Kinesis Firehose"
+        },
+        {
+            "right_answer": true,
+            "text": "Kinesis Data Streams"
+        }
+    ],
+    "text": "Which Amazon Kinesis service provides a scalable and durable real-time data streaming service that can capture data from multiple sources, with support for replay capability and 7 days worth of storage?"
+}

@@ -1,0 +1,18 @@
+{
+    "text": "Which AWS service uses Machine Learning to analyze events across multiple AWS data sources to detect malicious activity in your AWS accounts?",
+    "answers": [
+        {
+            "text": "Amazon Inspector"
+        },
+        {
+            "text": "AWS Resource Access Manager"
+        },
+        {
+            "text": "Amazon GuardDuty",
+            "right_answer": true
+        },
+        {
+            "text": "AWS Shield"
+        }
+    ]
+}

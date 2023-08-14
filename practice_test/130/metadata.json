@@ -1,0 +1,39 @@
+{
+    "aws_service": [
+        "S3",
+        "EC2",
+        "Availability Zone"
+    ],
+    "type": "practice_test",
+    "title": {
+        "kk": "Practice test quesion 130",
+        "en": "Practice test quesion 130",
+        "ru": "Practice test quesion 130"
+    },
+    "content_type": "test",
+    "id": "130",
+    "property_keys": [
+        "type",
+        "id",
+        "content_type",
+        "aws_service",
+        "aws_group"
+    ],
+    "aws_group": [
+        "Misc",
+        "AWS Global Infrastructure",
+        "AWS Cost Management"
+    ],
+    "files_list": [
+        {
+            "type": "metadata",
+            "path": "metadata.json",
+            "lang": "en"
+        },
+        {
+            "type": "question",
+            "path": "question.json",
+            "lang": "en"
+        }
+    ]
+}

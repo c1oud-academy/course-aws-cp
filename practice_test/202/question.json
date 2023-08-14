@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "Security Groups are stateless and NACLs are stateful."
+        },
+        {
+            "text": "Security Groups are stateless and NACLs are stateless."
+        },
+        {
+            "text": "Security Groups are stateful and NACLs are stateful."
+        },
+        {
+            "right_answer": true,
+            "text": "Security Groups are stateful and NACLs are stateless."
+        }
+    ],
+    "text": "Which of the following statements about Security Groups and Network ACLs (NACL) is true?"
+}

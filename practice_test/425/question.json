@@ -1,0 +1,23 @@
+{
+    "text": "Which of the following determines what you pay for Amazon Aurora?",
+    "answers": [
+        {
+            "text": "Data Transfer In"
+        },
+        {
+            "text": "Data Transfer Out to CloudFront"
+        },
+        {
+            "text": "Storage Rate",
+            "right_answer": true
+        },
+        {
+            "text": "Data Transfer Out to Internet",
+            "right_answer": true
+        },
+        {
+            "text": "I/O Rate",
+            "right_answer": true
+        }
+    ]
+}

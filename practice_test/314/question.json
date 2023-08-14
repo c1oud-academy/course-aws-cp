@@ -1,0 +1,22 @@
+{
+    "answers": [
+        {
+            "text": "AWS Budgets"
+        },
+        {
+            "text": "Reserved Instance Reporting"
+        },
+        {
+            "text": "AWS Trusted Advisor"
+        },
+        {
+            "right_answer": true,
+            "text": "Cost Explorer"
+        },
+        {
+            "right_answer": true,
+            "text": "AWS Cost and Usage Reports"
+        }
+    ],
+    "text": "Where can you get the Cost Allocation Tags information after you have set them up?"
+}

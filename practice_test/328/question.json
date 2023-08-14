@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "AWS Identity & Access Management (IAM)"
+        },
+        {
+            "text": "AWS Billing Dashboard"
+        },
+        {
+            "right_answer": true,
+            "text": "AWS Organizations"
+        },
+        {
+            "text": "AWS Cloud Directory"
+        }
+    ],
+    "text": "What AWS service can you use to centrally manage your billing, create groups of accounts, and apply policies for these groups for governance?"
+}

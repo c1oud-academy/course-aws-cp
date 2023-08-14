@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "Savings Plan"
+        },
+        {
+            "text": "AWS Budgets"
+        },
+        {
+            "right_answer": true,
+            "text": "AWS Cost Explorer"
+        },
+        {
+            "text": "AWS Cost and Usage Report"
+        }
+    ],
+    "text": "Your company has asked you to present a utilization and coverage report for your Reserved Instances. Which service would you use to get this data?"
+}

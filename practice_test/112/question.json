@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "You get better performance than running the same service yourself on an EC2 instance."
+        },
+        {
+            "text": "It alleviates the need for you to choose the underlying instance class and capacity."
+        },
+        {
+            "right_answer": true,
+            "text": "Patching and maintenance of the Operating System are done for you automatically."
+        },
+        {
+            "text": "It's more cost-effective to run."
+        }
+    ],
+    "text": "Which of the following is an advantage of using a managed PaaS (Platform as a Service) like RDS or ElastiCache?"
+}

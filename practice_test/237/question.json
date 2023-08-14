@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "right_answer": true,
+            "text": "It provides outbound-only Internet communication over IPv6 and is designed for IPv6 traffic only."
+        },
+        {
+            "text": "Egress-Only Internet Gateways allow you to associate a security group whereas that's impossible to do with a NAT Gateway."
+        },
+        {
+            "text": "It provides outbound-only Internet communication over IPv6 & IPv4 and is designed for IPv6 and IPv4 traffic."
+        },
+        {
+            "text": "It's a cheaper alternative to the more expensive NAT Gateway Service."
+        }
+    ],
+    "text": "What is the purpose of using an Egress-Only Internet Gateway in AWS?"
+}

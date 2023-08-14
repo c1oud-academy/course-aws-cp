@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "IAM Role Policy"
+        },
+        {
+            "text": "Bucket Policy"
+        },
+        {
+            "text": "Tag Policy"
+        },
+        {
+            "right_answer": true,
+            "text": "Service Control Policy (SCP)"
+        }
+    ],
+    "text": "Your company is using AWS Organizations to centrally manage all departments. You want to disallow Organizational Units (OU) like finance and operations from creating EC2 Instances. What feature can you use to accomplish that?"
+}

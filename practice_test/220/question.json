@@ -1,0 +1,29 @@
+{
+    "answers": [
+        {
+            "text": "EC2 Instances"
+        },
+        {
+            "text": "Amazon CloudFront"
+        },
+        {
+            "text": "EBS Volumes"
+        },
+        {
+            "right_answer": true,
+            "text": "Auto Scaling Groups"
+        },
+        {
+            "right_answer": true,
+            "text": "Security Groups"
+        },
+        {
+            "right_answer": true,
+            "text": "Elastic Load Balancer"
+        },
+        {
+            "text": "AWS IAM"
+        }
+    ],
+    "text": "Which of the following services or features are Regional?"
+}

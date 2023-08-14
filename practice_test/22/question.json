@@ -1,0 +1,22 @@
+{
+    "text": "Which AWS services do you need to use to create a billing alarm?",
+    "answers": [
+        {
+            "text": "AWS CloudTrail"
+        },
+        {
+            "text": "Amazon CloudWatch",
+            "right_answer": true
+        },
+        {
+            "text": "AWS Cost Explorer"
+        },
+        {
+            "text": "Billing and Cost Management",
+            "right_answer": true
+        },
+        {
+            "text": "AWS Cost and Usage Report"
+        }
+    ]
+}

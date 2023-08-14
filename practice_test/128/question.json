@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "right_answer": true,
+            "text": "Latency Routing"
+        },
+        {
+            "text": "Weighted Routing"
+        },
+        {
+            "text": "Geolocation Routing"
+        },
+        {
+            "text": "Performance Optimized Routing"
+        }
+    ],
+    "text": "Your company is building an application that has customers in North America, Europe, and Australia. You want to route requests to EC2 instances with the lowest possible latency. What type of Route 53 Routing Policy would you use to achieve this?"
+}

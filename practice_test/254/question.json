@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "AWS X-Ray"
+        },
+        {
+            "right_answer": true,
+            "text": "AWS CloudWatch"
+        },
+        {
+            "text": "Amazon Inspector"
+        },
+        {
+            "text": "Amazon Connect"
+        }
+    ],
+    "text": "What AWS service helps to collect monitoring and operational data in the form of logs, metrics, and events?"
+}

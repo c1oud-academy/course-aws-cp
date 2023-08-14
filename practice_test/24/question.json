@@ -1,0 +1,18 @@
+{
+    "text": "Which AWS service uses Chef to automate how servers are configured and deployed?",
+    "answers": [
+        {
+            "text": "AWS CloudFormation"
+        },
+        {
+            "text": "AWS Config"
+        },
+        {
+            "text": "AWS Systems Manager"
+        },
+        {
+            "text": "AWS OpsWorks",
+            "right_answer": true
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "right_answer": true,
+            "text": "AWS Artifact"
+        },
+        {
+            "text": "Amazon Inspector"
+        },
+        {
+            "text": "Amazon Detective"
+        },
+        {
+            "text": "AWS CloudHSM"
+        }
+    ],
+    "text": "As part of an audit, you've been asked to demonstrate the current compliance of AWS infrastructure including the AWS ISO certifications. What service can you use to download compliance documents from AWS?"
+}

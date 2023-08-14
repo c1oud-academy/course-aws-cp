@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "Use a root account password which is emailed directly to you by AWS."
+        },
+        {
+            "right_answer": true,
+            "text": "Use your SSH private key. No password is needed."
+        },
+        {
+            "text": "Use your SSH public key. No password is needed."
+        },
+        {
+            "text": "Use a root account password that is given to you at the end of the AMI configuration."
+        }
+    ],
+    "text": "You have just launched an EC2 instance running Amazon Linux and are trying to SSH into it. How do you authenticate your account?"
+}

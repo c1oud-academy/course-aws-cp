@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "S3 Glacier"
+        },
+        {
+            "text": "S3 Standard - IA"
+        },
+        {
+            "right_answer": true,
+            "text": "S3 One Zone - IA"
+        },
+        {
+            "text": "S3 Standard"
+        }
+    ],
+    "text": "Which S3 storage class has an availability of 99.5% (lowest among all other classes)?"
+}

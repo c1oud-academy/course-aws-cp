@@ -1,0 +1,18 @@
+{
+    "text": "Your company wants to be able to access AWS cloud storage from their on-premise computers. This includes mounting AWS storage as a virtual tape. What AWS service can be best used to achieve this?",
+    "answers": [
+        {
+            "text": "Amazon S3"
+        },
+        {
+            "text": "AWS Storage Gateway",
+            "right_answer": true
+        },
+        {
+            "text": "Amazon EFS"
+        },
+        {
+            "text": "Amazon EBS"
+        }
+    ]
+}

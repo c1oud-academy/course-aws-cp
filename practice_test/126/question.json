@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "right_answer": true,
+            "text": "Amazon ElastiCache"
+        },
+        {
+            "text": "Amazon S3"
+        },
+        {
+            "text": "Amazon DynamoDB Accelerator (DAX)"
+        },
+        {
+            "text": "Amazon DynamoDB"
+        }
+    ],
+    "text": "Your application is making an expensive query to your RDS database. The query has a lot of joins and calculations and takes a long time to process. You want to cache that query result so that you don't have to perform the operation too many times. What is a service that can help you with that?"
+}

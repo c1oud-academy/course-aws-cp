@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "3"
+        },
+        {
+            "text": "1"
+        },
+        {
+            "text": "4"
+        },
+        {
+            "right_answer": true,
+            "text": "2"
+        }
+    ],
+    "text": "How many Availability Zones are needed (at a minimum) to ensure High Availability (HA) when used with Application Load Balancer?"
+}

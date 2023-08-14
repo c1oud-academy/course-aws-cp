@@ -1,0 +1,35 @@
+{
+    "type": "practice_test",
+    "aws_group": [
+        "AWS Cost Management"
+    ],
+    "id": "428",
+    "property_keys": [
+        "type",
+        "id",
+        "content_type",
+        "aws_service",
+        "aws_group"
+    ],
+    "title": {
+        "en": "Practice test quesion 428",
+        "kk": "Practice test quesion 428",
+        "ru": "Practice test quesion 428"
+    },
+    "files_list": [
+        {
+            "type": "metadata",
+            "lang": "en",
+            "path": "metadata.json"
+        },
+        {
+            "type": "question",
+            "lang": "en",
+            "path": "question.json"
+        }
+    ],
+    "aws_service": [
+        "AWS Cost Explorer"
+    ],
+    "content_type": "test"
+}

@@ -1,0 +1,18 @@
+{
+    "text": "Which AWS service allows you to create symmetric or asymmetric customer master keys in order to encrypt data?",
+    "answers": [
+        {
+            "text": "AWS Key Management Service (KMS)",
+            "right_answer": true
+        },
+        {
+            "text": "AWS Certificate Manager"
+        },
+        {
+            "text": "AWS Secrets Manager"
+        },
+        {
+            "text": "Amazon Cognito"
+        }
+    ]
+}

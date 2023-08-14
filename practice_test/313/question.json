@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "Physical and Environment controls"
+        },
+        {
+            "text": "Service and Communications Protection"
+        },
+        {
+            "text": "Zone Security"
+        },
+        {
+            "right_answer": true,
+            "text": "Awareness & Training"
+        }
+    ],
+    "text": "According to the AWS Shared Responsibility Model, which one of the following options is a shared control between AWS and the customer?"
+}

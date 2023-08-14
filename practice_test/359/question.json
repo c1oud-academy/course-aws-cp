@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "right_answer": true,
+            "text": "Technology Partners build services & products on top of AWS which they then sell to their customers."
+        },
+        {
+            "text": "Technology Partners provide professional services to help other companies design, architect, and build applications on AWS."
+        },
+        {
+            "text": "Technology Partners provide advice on setting and managing up on-premises infrastructure, configuring, and managing servers."
+        },
+        {
+            "text": "Technology Partners provide educational services, including in-person and online training, focused on how to build technical solutions."
+        }
+    ],
+    "text": "In the AWS Partner Network (APN) what do Technology Partners primarily do?"
+}

@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "Public"
+        },
+        {
+            "text": "Mixed"
+        },
+        {
+            "text": "Private"
+        },
+        {
+            "right_answer": true,
+            "text": "Hybrid"
+        }
+    ],
+    "text": "Your company is migrating some of its infrastructure to AWS. However, they have decided to keep a few servers on-premise which will work with the infrastructure running in AWS. What type of cloud computing model is this?"
+}

@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "None"
+        },
+        {
+            "text": "Full Set of Checks"
+        },
+        {
+            "text": "5 Core Checks"
+        },
+        {
+            "right_answer": true,
+            "text": "7 Core Checks"
+        }
+    ],
+    "text": "On the Basic support plan how many AWS Trusted Advisor core checks are you given?"
+}

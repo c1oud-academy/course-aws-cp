@@ -1,0 +1,18 @@
+{
+    "text": "When it comes to S3 Cross-Region Replication (CRR) which of the following is true?",
+    "answers": [
+        {
+            "text": "Buckets that are configured for object replication can be owned by the same AWS account or by different accounts",
+            "right_answer": true
+        },
+        {
+            "text": "Buckets that are configured for object replication must be in the same Region but different AZ."
+        },
+        {
+            "text": "Buckets that are configured for object replication must have versioning disabled."
+        },
+        {
+            "text": "Buckets that are configured for object replication must be owned by the same AWS account."
+        }
+    ]
+}

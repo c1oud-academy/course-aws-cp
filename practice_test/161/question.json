@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "right_answer": true,
+            "text": "Geolocation Routing"
+        },
+        {
+            "text": "Location Routing"
+        },
+        {
+            "text": "Weighted Routing"
+        },
+        {
+            "text": "Latency Routing"
+        }
+    ],
+    "text": "Your company is building an application that has customers in North America, Europe, and Australia. You want to route requests from users in the USA to EC2 instances that are located in the USA. Likewise, users from Europe should only be routed to European EC2 instances. What type of Route 53 Routing Policy would you use to achieve this?"
+}

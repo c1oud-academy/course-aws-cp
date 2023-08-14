@@ -1,0 +1,18 @@
+{
+    "text": "What AWS Service can you use to help estimate the cost of migrating on-premises infrastructure to AWS?",
+    "answers": [
+        {
+            "text": "AWS Cost Explorer"
+        },
+        {
+            "text": "Total Cost of Ownership (TCO) Calculator",
+            "right_answer": true
+        },
+        {
+            "text": "Pricing Calculator"
+        },
+        {
+            "text": "Simple Monthly Calculator"
+        }
+    ]
+}

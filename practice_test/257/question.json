@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "AWS Config"
+        },
+        {
+            "text": "AWS Control Tower"
+        },
+        {
+            "text": "AWS Organizations"
+        },
+        {
+            "right_answer": true,
+            "text": "AWS Service Catalog"
+        }
+    ],
+    "text": "Which AWS Service allows organizations to create and manage catalogs of IT services that are approved for use on AWS?"
+}

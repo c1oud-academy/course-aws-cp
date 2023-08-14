@@ -1,0 +1,41 @@
+{
+    "type": "practice_test",
+    "aws_group": [
+        "Networking & Content Delivery",
+        "Security, Identity, & Compliance"
+    ],
+    "id": "455",
+    "property_keys": [
+        "type",
+        "id",
+        "content_type",
+        "aws_service",
+        "aws_group"
+    ],
+    "title": {
+        "en": "Practice test quesion 455",
+        "kk": "Practice test quesion 455",
+        "ru": "Practice test quesion 455"
+    },
+    "files_list": [
+        {
+            "type": "metadata",
+            "lang": "en",
+            "path": "metadata.json"
+        },
+        {
+            "type": "question",
+            "lang": "en",
+            "path": "question.json"
+        }
+    ],
+    "aws_service": [
+        "EC2",
+        "Route 53",
+        "RDS",
+        "CloudFront",
+        "DynamoDB",
+        "S3"
+    ],
+    "content_type": "test"
+}

@@ -1,0 +1,18 @@
+{
+    "text": "Your company needs to transfer 80TB of data to S3 as a once-off exercise. However, the Internet connection is slow and it'll take a month to do so. What's the fastest and cheapest way you can accomplish this?",
+    "answers": [
+        {
+            "text": "AWS VPN"
+        },
+        {
+            "text": "AWS Snowball",
+            "right_answer": true
+        },
+        {
+            "text": "AWS Storage Gateway"
+        },
+        {
+            "text": "AWS Direct Connect"
+        }
+    ]
+}

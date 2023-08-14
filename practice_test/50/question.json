@@ -1,0 +1,18 @@
+{
+    "text": "What AWS Service provides alerts and remediation guidance when AWS is experiencing events that may impact you directly?",
+    "answers": [
+        {
+            "text": "AWS Organizations"
+        },
+        {
+            "text": "AWS Control Tower"
+        },
+        {
+            "text": "AWS Personal Health Dashboard",
+            "right_answer": true
+        },
+        {
+            "text": "AWS Status"
+        }
+    ]
+}

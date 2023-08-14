@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "right_answer": true,
+            "text": "Security Groups are stateful and they block all inbound traffic by default."
+        },
+        {
+            "text": "Security Groups are stateless and they block all inbound traffic by default."
+        },
+        {
+            "text": "Security Groups are stateful and they allow all inbound traffic by default."
+        },
+        {
+            "text": "Security Groups are stateless and they allow all inbound traffic by default."
+        }
+    ],
+    "text": "Which of the following is a correct statement about Security Groups and inbound traffic?"
+}

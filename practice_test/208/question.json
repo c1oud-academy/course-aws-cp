@@ -1,0 +1,28 @@
+{
+    "answers": [
+        {
+            "text": "Microsoft SQL"
+        },
+        {
+            "text": "MariaDB"
+        },
+        {
+            "text": "Amazon DocumentDB"
+        },
+        {
+            "right_answer": true,
+            "text": "PostgreSQL"
+        },
+        {
+            "text": "Oracle"
+        },
+        {
+            "right_answer": true,
+            "text": "MySQL"
+        },
+        {
+            "text": "Amazon DynamoDB"
+        }
+    ],
+    "text": "Amazon Aurora is compatible with which databases?"
+}

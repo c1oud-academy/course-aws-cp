@@ -1,0 +1,35 @@
+{
+    "type": "practice_test",
+    "aws_group": [
+        "Storage"
+    ],
+    "id": "434",
+    "property_keys": [
+        "type",
+        "id",
+        "content_type",
+        "aws_service",
+        "aws_group"
+    ],
+    "title": {
+        "en": "Practice test quesion 434",
+        "kk": "Practice test quesion 434",
+        "ru": "Practice test quesion 434"
+    },
+    "files_list": [
+        {
+            "type": "metadata",
+            "lang": "en",
+            "path": "metadata.json"
+        },
+        {
+            "type": "question",
+            "lang": "en",
+            "path": "question.json"
+        }
+    ],
+    "aws_service": [
+        "S3"
+    ],
+    "content_type": "test"
+}

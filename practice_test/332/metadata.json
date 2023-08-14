@@ -1,0 +1,36 @@
+{
+    "type": "practice_test",
+    "files_list": [
+        {
+            "path": "metadata.json",
+            "type": "metadata",
+            "lang": "en"
+        },
+        {
+            "path": "question.json",
+            "type": "question",
+            "lang": "en"
+        }
+    ],
+    "property_keys": [
+        "type",
+        "id",
+        "content_type",
+        "aws_service",
+        "aws_group"
+    ],
+    "aws_service": [
+        "S3 Glacier",
+        "S3"
+    ],
+    "aws_group": [
+        "Storage"
+    ],
+    "id": "332",
+    "title": {
+        "ru": "Practice test quesion 332",
+        "en": "Practice test quesion 332",
+        "kk": "Practice test quesion 332"
+    },
+    "content_type": "test"
+}

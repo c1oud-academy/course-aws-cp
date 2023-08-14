@@ -1,0 +1,39 @@
+{
+    "type": "practice_test",
+    "files_list": [
+        {
+            "path": "metadata.json",
+            "type": "metadata",
+            "lang": "en"
+        },
+        {
+            "path": "question.json",
+            "type": "question",
+            "lang": "en"
+        }
+    ],
+    "property_keys": [
+        "type",
+        "id",
+        "content_type",
+        "aws_service",
+        "aws_group"
+    ],
+    "aws_service": [
+        "RDS",
+        "Availability Zone",
+        "EC2"
+    ],
+    "aws_group": [
+        "AWS Global Infrastructure",
+        "Compute",
+        "Database"
+    ],
+    "id": "354",
+    "title": {
+        "ru": "Practice test quesion 354",
+        "en": "Practice test quesion 354",
+        "kk": "Practice test quesion 354"
+    },
+    "content_type": "test"
+}

@@ -1,0 +1,35 @@
+{
+    "aws_service": [
+        "Support"
+    ],
+    "type": "practice_test",
+    "title": {
+        "kk": "Practice test quesion 110",
+        "en": "Practice test quesion 110",
+        "ru": "Practice test quesion 110"
+    },
+    "content_type": "test",
+    "id": "110",
+    "property_keys": [
+        "type",
+        "id",
+        "content_type",
+        "aws_service",
+        "aws_group"
+    ],
+    "aws_group": [
+        "Customer Enablement"
+    ],
+    "files_list": [
+        {
+            "type": "metadata",
+            "path": "metadata.json",
+            "lang": "en"
+        },
+        {
+            "type": "question",
+            "path": "question.json",
+            "lang": "en"
+        }
+    ]
+}

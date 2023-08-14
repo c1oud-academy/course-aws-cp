@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "right_answer": true,
+            "text": "1 byte minimum and 40 terabytes maximum."
+        },
+        {
+            "text": "1 byte minimum and 40 gigabytes maximum."
+        },
+        {
+            "text": "0 bytes minimum and 40 terabytes maximum."
+        },
+        {
+            "text": "0 bytes minimum and 40 gigabytes maximum."
+        }
+    ],
+    "text": "What is the minimum and the maximum size that a single archive can be in Amazon S3 Glacier?"
+}

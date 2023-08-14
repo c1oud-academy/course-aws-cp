@@ -1,0 +1,18 @@
+{
+    "text": "Which AWS service provides on-demand access to AWS' security and compliance reports and certain online agreements.",
+    "answers": [
+        {
+            "text": "AWS Cloud9"
+        },
+        {
+            "text": "AWS Artifact",
+            "right_answer": true
+        },
+        {
+            "text": "AWS Certificate Manager"
+        },
+        {
+            "text": "AWS Resource Access Manager"
+        }
+    ]
+}

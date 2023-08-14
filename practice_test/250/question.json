@@ -1,0 +1,23 @@
+{
+    "answers": [
+        {
+            "right_answer": true,
+            "text": "Platform as a Service (PaaS)"
+        },
+        {
+            "right_answer": true,
+            "text": "Infrastructure as a Service (IaaS)"
+        },
+        {
+            "text": "EC2 as a Service (EC2aaS)"
+        },
+        {
+            "text": "Mainframe as a Service (MaaS)"
+        },
+        {
+            "right_answer": true,
+            "text": "Software as a Service (SaaS)"
+        }
+    ],
+    "text": "Which of the following are Cloud Computing Models?"
+}

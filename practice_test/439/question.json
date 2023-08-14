@@ -1,0 +1,18 @@
+{
+    "text": "You want to retrieve information about your EC2 instances that includes its IP address, instance ID, hostname, and security group information. How can you do it?",
+    "answers": [
+        {
+            "text": "Query the EC2 user metadata."
+        },
+        {
+            "text": "Call up AWS technical support."
+        },
+        {
+            "text": "Look at the EC2 Info tab in the EC2 console."
+        },
+        {
+            "text": "Query the EC2 instance metadata.",
+            "right_answer": true
+        }
+    ]
+}

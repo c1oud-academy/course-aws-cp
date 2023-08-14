@@ -1,0 +1,41 @@
+{
+    "type": "practice_test",
+    "files_list": [
+        {
+            "path": "metadata.json",
+            "type": "metadata",
+            "lang": "en"
+        },
+        {
+            "path": "question.json",
+            "type": "question",
+            "lang": "en"
+        }
+    ],
+    "property_keys": [
+        "type",
+        "id",
+        "content_type",
+        "aws_service",
+        "aws_group"
+    ],
+    "aws_service": [
+        "EFS",
+        "CloudFront",
+        "S3 Glacier",
+        "DynamoDB",
+        "S3"
+    ],
+    "aws_group": [
+        "Storage",
+        "Networking & Content Delivery",
+        "Database"
+    ],
+    "id": "326",
+    "title": {
+        "ru": "Practice test quesion 326",
+        "en": "Practice test quesion 326",
+        "kk": "Practice test quesion 326"
+    },
+    "content_type": "test"
+}

@@ -1,0 +1,485 @@
+QUESTION_ID_PLACEHOLDER
+Your company wants to purchase a few Reserved Instances. What reservation terms does AWS offer?
+B) 2 Years
++A) 3 Years
+B) 5 Years
+B) 4 Years
++A) 1 Year
+
+QUESTION_ID_PLACEHOLDER
+What is the minimum number of Availability Zones that an AWS Region may have?
+B) 4
+B) 3
+B) 1
++A) 2
+
+QUESTION_ID_PLACEHOLDER
+Which of the following is true for the AWS Developer Support Plan?
+B) You will have access to programmatic case management capability (API).
+B) You can get contextual (to your use-case) architectural guidance from AWS.
++A) If your system is impaired you will get a response from AWS within 12 business hours.
+B) If your system is impaired you will get a response from AWS within 6 business hours.
+B) You will get Interoperability & configuration guidance and troubleshooting for third-party software.
++A) You will get general architectural guidance.
+
+QUESTION_ID_PLACEHOLDER
+When it comes to AWS Relational Database Services what are your responsibilities?
++A) Schema creation.
+B) Storage capacity management (with Storage Auto Scaling).
+B) Operating System Updates
++A) Database parameter configuration and tuning.
++A) User access control.
+B) Failover management.
+
+QUESTION_ID_PLACEHOLDER
+What AWS service lets you set up a firewall to monitor and protect against malicious HTTP/HTTPS requests sent to API Gateway, CloudFront, or ALB? Hint: this service lets you set and block on conditions such as IP addresses that requests originate from.
++A) AWS WAF
+B) Amazon Inspector
+B) Amazon VPC Security Groups
+B) AWS Firewall Manager
+
+QUESTION_ID_PLACEHOLDER
+Which Elastic Load Balancer is suited for the EC2-Classic network and is designed to provide load balancing across multiple EC2 Instances?
++A) Classic Load Balancer
+B) Performance Load Balancer
+B) Application Load Balancer
+B) Network Load Balancer
+
+QUESTION_ID_PLACEHOLDER
+Which support plan allows you to Access to Infrastructure Event Management for additional fee?
+B) Developer
+B) Basic
+B) Enterprise
++A) Business
+
+QUESTION_ID_PLACEHOLDER
+What are the types of object replication supported by Amazon S3?
++A) Same-Region Replication (SRR)
++A) Cross-Region Replication (CRR)
+B) Cross-User Replication (CUR)
+B) Same-Account Replication (SAR)
+B) Cross-Account Replication (CAR)
+
+QUESTION_ID_PLACEHOLDER
+Which AWS service allows you to launch and manage preconfigured instances, a database, create a static IP or a load balancer, and add storage simply? This Service is suitable for simple web applications, websites, and dev/test environments.
+B) Amazon Lumberyard
++A) Amazon Lightsail
+B) Amazon SageMaker
+B) Amazon VPC
+
+QUESTION_ID_PLACEHOLDER
+Which AWS service helps you meet compliance requirements by using a dedicated Hardware Security Module instances within AWS?
++A) AWS CloudHSM
+B) AWS Key Management Service
+B) AWS Resource Access Manager
+B) AWS Certificate Manager
+
+QUESTION_ID_PLACEHOLDER
+Which Amazon Kinesis service provides a scalable and durable real-time data streaming service that can capture data from multiple sources, with support for replay capability and 7 days worth of storage?
+B) Kinesis Video Streams
+B) Kinesis Data Analytics
+B) Kinesis Firehose
++A) Kinesis Data Streams
+
+QUESTION_ID_PLACEHOLDER
+Which EC2 Instance Types allow you to bring your own software licenses to minimize costs and improve compliance?
+B) On-Demand Instances
+B) Reserved Instances
+B) Dedicated Instances
+B) Spot Instances
++A) Bare Metal Instances
++A) Dedicated Hosts
+
+QUESTION_ID_PLACEHOLDER
+According to the AWS Shared Responsibility Model, which one of the following options is a shared control between AWS and the customer?
+B) Physical and Environment controls
+B) Service and Communications Protection
+B) Zone Security
++A) Awareness & Training
+
+QUESTION_ID_PLACEHOLDER
+Where can you get the Cost Allocation Tags information after you have set them up?
+B) AWS Budgets
+B) Reserved Instance Reporting
+B) AWS Trusted Advisor
++A) Cost Explorer
++A) AWS Cost and Usage Reports
+
+QUESTION_ID_PLACEHOLDER
+What are the benefits of using edge locations to host your data?
++A) Less load on your servers.
+B) Always cheaper to run and maintain.
+B) Improved high-availability and tolerance to DDOS attacks.
++A) Faster for your users (lower latency).
+B) Removes the need to have any other infrastructure.
+
+QUESTION_ID_PLACEHOLDER
+What are the types of Customer Master Keys (CMKs) support by AWS KMS?
+B) IAM Managed CMK
++A) AWS Managed CMK
++A) Customer Managed CMK
++A) AWS Owned CMK
+B) Customer Validated CMK
+B) IAM Owned CMK
+
+QUESTION_ID_PLACEHOLDER
+Which AWS block storage service provides the fastest performance?
++A) Amazon EBS
+B) Amazon S3 Glacier
+B) Amazon S3
+B) Amazon EFS
+
+QUESTION_ID_PLACEHOLDER
+Which of the following is described by the following statement, 'X bring native AWS services, infrastructure, and operating models to virtually any data center, co-location space, or on-premises facility'?
+B) Availability Zone
+B) AWS Wavelength
++A) AWS Outpost
+B) AWS Local Zone
+
+QUESTION_ID_PLACEHOLDER
+Which of the following is a global team of AWS experts that can help your organisation migrate to AWS, advise on organizational change, deploy automated and robust IT practices, and assist with rolling out a DevOps practice?
++A) AWS Professional Services
+B) Technical Account Managers
+B) Concierge Support Team
+B) AWS Technical Support
+
+QUESTION_ID_PLACEHOLDER
+Are S3 buckets regional or global?
+B) Data is stored regionally. Bucket names are regionally unique.
++A) Data is stored regionally. Bucket names are globally unique.
+B) Data is stored globally. Bucket names are globally unique.
+B) Data is stored globally. Bucket names are regionally unique.
+
+QUESTION_ID_PLACEHOLDER
+Which Elastic Load Balancer, operating at Layer 7, is best suited for load balancing HTTP and HTTPS traffic and providing request routing needed by modern applications?
+B) Network Load Balancer
++A) Application Load Balancer
+B) Classic Load Balancer
+B) Performance Load Balancer
+
+QUESTION_ID_PLACEHOLDER
+What do Amazon Inspector and Amazon Detective do?
+B) Amazon Inspector notifies the administrator if it detects that someone has inappropriately access the AWS console.
++A) Amazon Detective analyzes logs from VPCs, CloudTrail, and GuardDuty and using ML and statistical analysis determines if there's a security problem.
++A) Amazon Inspector checks for unintended network accessibility of EC2 Instances and for vulnerabilities in those EC2 Instances.
+B) Amazon Detective is a logging service that logs all API calls in AWS. You can review them later.
+B) Amazon Inspector acts as a virtual firewall for the API Gateway, ALB, and CloudFront. You can define rules and permissions that Inspector executes.
+B) Amazon Detective scans your VPC for open ports and vulnerabilities in infrastructure within that VPC.
+
+QUESTION_ID_PLACEHOLDER
+Your company is choosing which AWS Region to use for their application. What factors should the company consider?
++A) Availability of all needed services in the Region.
++A) Cost of required services in the Region.
+B) Volume discounts for the AWS Region.
++A) Region proximity to the potential users in order to minimize latency.
+B) Enhanced Regional security.
+
+QUESTION_ID_PLACEHOLDER
+You have been asked to show a record of historical configuration changes in your AWS infrastructure. Which AWS Service could you use to accomplish that?
++A) AWS Config
+B) Amazon Change Manager
+B) Amazon CloudWatch
+B) AWS CloudTrail
+
+QUESTION_ID_PLACEHOLDER
+You are setting up WordPress on AWS. You want the Web Server to be publicly accessible but for the database to be hidden from the Internet. What is a way you can do it?
+B) In a VPC create a private subnet and place both, web server and database, in it. No special security group configuration is needed.
+B) In a VPC create two separate public subnets. Place a web server in one public subnet and the database in another public subnet. Allow the webserver to access the database using a correctly configured security group.
+B) In a VPC create a public subnet and place both, web server and database, in it. No special security group configuration is needed.
++A) In a VPC create a public subnet for the webserver and a private subnet for the database. Allow the webserver to access the database using a correctly configured security group.
+
+QUESTION_ID_PLACEHOLDER
+You are building a YouTube clone in AWS. Your users from all over the world are complaining that the videos are slow to load. What two services would you use to serve video files as quickly as possible?
++A) Amazon S3
+B) Amazon S3 Glacier
++A) Amazon CloudFront
+B) Amazon EBS
+B) Amazon DynamoDB
+B) Amazon EFS
+
+QUESTION_ID_PLACEHOLDER
+Which of the following statements about S3 Buckets are true?
++A) Bucket names must be at least 3 and no more than 63 characters long.
++A) Bucket names must be unique across all existing bucket names in Amazon S3.
+B) Bucket names are allowed to be formatted as IP Addresses like (192.168.5.4).
++A) Bucket names must start with a lowercase letter or number.
+B) Bucket names do not have to comply with DNS naming conventions.
+B) Bucket names can contain uppercase characters.
+
+QUESTION_ID_PLACEHOLDER
+What AWS service can you use to centrally manage your billing, create groups of accounts, and apply policies for these groups for governance?
+B) AWS Identity & Access Management (IAM)
+B) AWS Billing Dashboard
++A) AWS Organizations
+B) AWS Cloud Directory
+
+QUESTION_ID_PLACEHOLDER
+Which AWS service should you use if you need a fast, managed, NoSQL Database.
++A) Amazon DynamoDB
+B) Amazon RDS
+B) Amazon Aurora
+B) Amazon ElastiCache
+
+QUESTION_ID_PLACEHOLDER
+What is the mandatory automatic rotation period on AWS Managed CMKs?
++A) 3 Years
+B) 1 Year
+B) 6 Months
+B) 30 Days
+
+QUESTION_ID_PLACEHOLDER
+Which AWS Service allows you to analyse data in Amazon S3 using standard SQL?
+B) AWS DataSync
+B) Amazon Aurora
++A) Amazon Athena
+B) Amazon Timestream
+
+QUESTION_ID_PLACEHOLDER
+What is the minimum and the maximum size that a single archive can be in Amazon S3 Glacier?
++A) 1 byte minimum and 40 terabytes maximum.
+B) 1 byte minimum and 40 gigabytes maximum.
+B) 0 bytes minimum and 40 terabytes maximum.
+B) 0 bytes minimum and 40 gigabytes maximum.
+
+QUESTION_ID_PLACEHOLDER
+What is the economic benefit of using AWS (on-demand instance types and PAYG services) instead of your own on-premises data center?
++A) You can replace upfront Capital Expenses (CAPEX) with variable Operational Expenses (OPEX).
+B) You can replace fluctuating Operational Expenses (OPEX) with upfront Capital Expenses (CAPEX).
+B) You have to pay both upfront and variable CAPEX and OPEX costs.
+B) You no longer have to consider CAPEX nor OPEX expenses when using AWS.
+
+QUESTION_ID_PLACEHOLDER
+What is the benefit of tagging resources when it comes to security?
+B) Any tagged instances or resources are automatically monitored by Amazon GuardDuty and Amazon Inspector.
++A) Tagging instances or other resources with an owner or work queue can help to identify the right people to engage.
++A) Tagging systems with an attribute or data classification can help to estimate the impact of an incident.
+B) Tagging an instance or another resource causes it to be tracked and logged by AWS CloudTrail.
+B) Tagging of resources is a requirement if you want technical support from AWS.
+
+QUESTION_ID_PLACEHOLDER
+Which EBS volume type is recommended for infrequently accessed workloads (particularly where lowest storage cost is important)?
+B) Provisioned IOPS SSD (io1)
+B) Throughput Optimized HDD (st1)
+B) General Purpose SSD (gp2)
++A) Cold HDD (sc1)
+
+QUESTION_ID_PLACEHOLDER
+Which of the following is the cheapest AWS Support Plan that supports programmatic case management using an API?
++A) Business
+B) Basic
+B) Developer
+B) Enterprise
+
+QUESTION_ID_PLACEHOLDER
+Which of the following is correct about AWS Global Infrastructure?
++A) Edge locations exist separately to AWS Regions.
+B) AWS Wavelength is deployed in each Availability Zone.
++A) AWS Local Zone is an extension of an AWS Region.
+B) An edge location contains multiple Availability Zones.
+B) AWS Outposts only work in AWS Regions.
+B) Edge Locations are placed only in AWS Regions.
++A) An AWS Region contains multiple Availability Zones.
+
+QUESTION_ID_PLACEHOLDER
+What are the main differences between a key imported into and a key generated in AWS KMS?
+B) You cannot actually import keys. You can only generate keys in AWS KMS.
++A) You must keep a copy of the imported key so that you can re-import it at any time.
+B) Keys generated in AWS KMS must be rotated every 30 days.
+B) Imported keys cost more to store than keys generated in AWS KMS.
++A) You can set an expiration time for the imported key (or delete it on demand).
+
+QUESTION_ID_PLACEHOLDER
+Your company suspects that their AWS infrastructure has been compromised. You have been asked to investigate and conduct a root cause analysis. How can CloudFormation assist you in determining the cause of the incident?
+B) You can use CloudFormation to completely replace the old environment that may be compromised.
+B) CloudFormation cannot really help you at all.
++A) CloudFormation can be used to create a new, trusted environment in which to conduct a deeper investigation.
+B) CloudFormation can automatically create replicas of the existing system with copies of data.
+
+QUESTION_ID_PLACEHOLDER
+What AWS service provides central management of firewall rules across your account and applications through your AWS Organization?
++A) AWS Firewall Manager
+B) AWS Shield
+B) Amazon Macie
+B) AWS Web Application Firewall (WAF)
+
+QUESTION_ID_PLACEHOLDER
+Your company is looking to migrate on-premises infrastructure to AWS. They need help to design, build, and migrate data and applications. Who could help with this?
+B) AWS Partner Network Technology Partners
++A) AWS Partner Network Consulting Partners
+B) AWS Marketplace
+B) AWS Partner Network Education Partners
+
+QUESTION_ID_PLACEHOLDER
+In addition to Amazon VPC, what other AWS services or features should you consider using to protect network and host-level boundaries in AWS?
+B) Amazon Inspector
++A) AWS Firewall Manager
++A) AWS WAF
+B) Amazon CloudWatch
+B) Amazon Macie
++A) Amazon VPC Security Groups
+
+QUESTION_ID_PLACEHOLDER
+Which Elastic Load Balancer, operating at Layer 4, is best suited for load balancing of TCP, UDP, and TLS traffic where high performance is required?
+B) Application Load Balancer
+B) Performance Load Balancer
+B) Classic Load Balancer
++A) Network Load Balancer
+
+QUESTION_ID_PLACEHOLDER
+What is the purpose of a Virtual Private Gateway?
++A) A Virtual Private Gateway sits at the edge of the VPC and connects to VPN connections from on-premises data centers or networks.
+B) A Virtual Private Gateway is used to connect two VPCs in two different AWS accounts to one another.
+B) A Virtual Private Gateway connects two VPCs together in a secure fashion.
+B) A Virtual Private Gateway is used to connect two separate on-premises data centres or networks to each other.
+
+QUESTION_ID_PLACEHOLDER
+Which of the following services can use AWS KMS to allow encryption of data?
+B) Amazon ECS
++A) Amazon RDS
+B) Amazon Managed Apache Cassandra Service
++A) Amazon EBS
+B) Amazon CodeGuru
++A) Amazon S3
+
+QUESTION_ID_PLACEHOLDER
+What is the default maximum number of AWS accounts allowed in AWS Organizations?
++A) 4
+B) 3
+B) 1
+B) 2
+
+QUESTION_ID_PLACEHOLDER
+Normally, without raising limits with AWS, how many Internet Gateways can you have per VPC and how many Internet Gateways can you have in total per Region?
+B) 5 per VPC and 1 per Region
+B) 1 per VPC and 1 per Region
+B) 5 per VPC and 5 per Region
++A) 1 per VPC and 5 per Region
+
+QUESTION_ID_PLACEHOLDER
+Which of the following is described by the following statement, 'X consists of one or more discrete data centers each with redundant power, networking, and connectivity'?
+B) Outpost
++A) Availability Zone
+B) Region
+B) Subnet
+
+QUESTION_ID_PLACEHOLDER
+Your company has asked you to present a utilization and coverage report for your Reserved Instances. Which service would you use to get this data?
+B) Savings Plan
+B) AWS Budgets
++A) AWS Cost Explorer
+B) AWS Cost and Usage Report
+
+QUESTION_ID_PLACEHOLDER
+Your company wants to buy a number of Reserved Instances (Ris) that are only going to be used for a short period each day at 2 pm. What RI Type should it buy?
+B) Temporary RIs
+B) Standard RIs
+B) Convertible RIs
++A) Scheduled RIs
+
+QUESTION_ID_PLACEHOLDER
+Which of the following is described by the following statement, 'X place compute, storage, database, and other select AWS services closer to end-users. Each X location is an extension of an AWS Region where you can run your latency sensitive applications'?
+B) AWS Outposts
+B) Region
++A) AWS Local Zone
+B) Availability Zone
+
+QUESTION_ID_PLACEHOLDER
+What AWS service could you use to record API activity made on your AWS account and save this activity to log files in S3?
+B) AWS Config
+B) Amazon CloudWatch
+B) Amazon GuardDuty
++A) AWS CloudTrail
+
+QUESTION_ID_PLACEHOLDER
+Which low-cost AWS storage service is best suited for keeping archives which may need to be retrieved under 5 hours?
+B) Amazon S3 One Zone-IA
+B) Amazon S3 Deep Glacier
++A) Amazon S3 Glacier
+B) Amazon S3 Standard
+
+QUESTION_ID_PLACEHOLDER
+What is the primary purpose of deploying services like EC2 and RDS to multiple Availability Zones?
++A) It provides high availability.
+B) It improves cost optimization by routing traffic to a cheaper AZ.
+B) It helps to increase performance efficiency (that is, make things faster).
+B) It improves service security.
+
+QUESTION_ID_PLACEHOLDER
+What would you use to collect system events that describe changes in AWS resources?
+B) AWS SDK
++A) Amazon CloudWatch Events
+B) Amazon CloudWatch API
+B) Amazon Inspector
+
+QUESTION_ID_PLACEHOLDER
+Which service would you use to set reservation utilization or coverage targets, and then receive alerts if your utilization dropped below a threshold you defined?
+B) AWS CloudWatch Billing Alarms
++A) AWS Budgets
+B) Savings Plans
+B) AWS Cost Explorer
+
+QUESTION_ID_PLACEHOLDER
+Which of the following are examples of data backup & replication?
+B) Deploying EC2 to two different regions.
++A) Amazon EBS snapshot operations.
+B) Using Elastic Load Balancer with two AZs.
++A) Amazon S3 lifecycle policies and versioning.
++A) Amazon S3 Cross-Region Replication.
+B) Moving S3 bucket data from one region to another.
+
+QUESTION_ID_PLACEHOLDER
+What is one advantage of using consolidated billing?
++A) Potential volume pricing discounts.
+B) Ability to pay using PayPal.
+B) The ability for any member account to pay for the master account.
+B) Access to preferential customer support.
+
+QUESTION_ID_PLACEHOLDER
+In the AWS Partner Network (APN) what do Technology Partners primarily do?
++A) Technology Partners build services & products on top of AWS which they then sell to their customers.
+B) Technology Partners provide professional services to help other companies design, architect, and build applications on AWS.
+B) Technology Partners provide advice on setting and managing up on-premises infrastructure, configuring, and managing servers.
+B) Technology Partners provide educational services, including in-person and online training, focused on how to build technical solutions.
+
+QUESTION_ID_PLACEHOLDER
+Your company has asked you to import 10 asymmetric CMKs into AWS KMS. What are you going to do?
+B) You will import asymmetric CMKs to AWS KMS but allow KMS to convert them to symmetric keys.
+B) You will import the asymmetric CMKs just as you have been asked.
+B) You will say that you can only import 5 asymmetric CMKs into AWS KMS because that is a hard limit.
++A) You will say that is impossible to do because AWS KMS cannot import asymmetric keys.
+
+QUESTION_ID_PLACEHOLDER
+What AWS service allows you to aggregate and view results from Amazon GuardDuty, Amazon Macie, Amazon Inspector, AWS Firewall Manager, and IAM Access Analyzer, and conduct automated compliance checks?
+B) AWS WAF
++A) AWS Security Hub
+B) AWS Artifact
+B) Amazon Detective
+
+QUESTION_ID_PLACEHOLDER
+You want your EC2 Instance to be able to save and read files to S3. Which IAM feature should you use to help you with that?
++A) IAM Role
+B) IAM Access Analyzer
+B) IAM Group
+B) IAM User
+
+QUESTION_ID_PLACEHOLDER
+Your company wants to store 10 Terabytes of data in long-term storage. The company wants to minimize cost as much as possible and it is fine if It takes up to 12 hours to access the data. Which S3 Storage Class is most suitable?
+B) S3 Glacier
+B) S3 One Zone-IA
++A) S3 Glacier Deep Archive
+B) S3 Standard
+
+QUESTION_ID_PLACEHOLDER
+What is the primary purpose of an Elastic Load Balancer?
+B) Set up and govern a secure, compliant multi-account environment.
+B) Scale the number of available EC2 Instances to ensure that your application can handle the load.
++A) Distribute incoming application traffic across multiple targets such as EC2 instances, containers, and Lambda functions.
+B) To route end users to your application using DNS.
+
+QUESTION_ID_PLACEHOLDER
+How many Availability Zones are needed (at a minimum) to ensure High Availability (HA) when used with Application Load Balancer?
+B) 3
+B) 1
+B) 4
++A) 2
+

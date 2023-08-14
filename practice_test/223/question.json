@@ -1,0 +1,25 @@
+{
+    "answers": [
+        {
+            "right_answer": true,
+            "text": "AWS Landing Zone"
+        },
+        {
+            "right_answer": true,
+            "text": "AWS Control Tower"
+        },
+        {
+            "text": "AWS CloudFormation"
+        },
+        {
+            "text": "AWS Managed Services"
+        },
+        {
+            "text": "AWS OpsWorks"
+        },
+        {
+            "text": "AWS Organizations"
+        }
+    ],
+    "text": "Which AWS services can be used to create a foundational AWS environment based on best practice blueprints implemented through AWS Service Catalog?"
+}

@@ -1,0 +1,39 @@
+{
+    "type": "practice_test",
+    "aws_group": [
+        "Database",
+        "Compute",
+        "Networking & Content Delivery"
+    ],
+    "id": "406",
+    "property_keys": [
+        "type",
+        "id",
+        "content_type",
+        "aws_service",
+        "aws_group"
+    ],
+    "title": {
+        "en": "Practice test quesion 406",
+        "kk": "Practice test quesion 406",
+        "ru": "Practice test quesion 406"
+    },
+    "files_list": [
+        {
+            "type": "metadata",
+            "lang": "en",
+            "path": "metadata.json"
+        },
+        {
+            "type": "question",
+            "lang": "en",
+            "path": "question.json"
+        }
+    ],
+    "aws_service": [
+        "EC2",
+        "Direct Connect",
+        "RDS"
+    ],
+    "content_type": "test"
+}

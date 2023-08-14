@@ -1,0 +1,23 @@
+{
+    "answers": [
+        {
+            "right_answer": true,
+            "text": "Cloud"
+        },
+        {
+            "right_answer": true,
+            "text": "On-Premises"
+        },
+        {
+            "right_answer": true,
+            "text": "Hybrid"
+        },
+        {
+            "text": "Mixed"
+        },
+        {
+            "text": "Private"
+        }
+    ],
+    "text": "What are the main Deployment Models?"
+}

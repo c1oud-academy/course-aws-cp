@@ -1,0 +1,22 @@
+{
+    "text": "Which of the following are AWS Well-Architected Framework pillars?",
+    "answers": [
+        {
+            "text": "Hardware Reliability"
+        },
+        {
+            "text": "Performance Efficiency",
+            "right_answer": true
+        },
+        {
+            "text": "Operational Excellence",
+            "right_answer": true
+        },
+        {
+            "text": "Speed to Market"
+        },
+        {
+            "text": "Resource Capacity"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "text": "Which AWS services or features can help you protect your network and host-level boundaries?",
+    "answers": [
+        {
+            "text": "AWS CloudFormation"
+        },
+        {
+            "text": "AWS Shield",
+            "right_answer": true
+        },
+        {
+            "text": "AWS Firewall Manager",
+            "right_answer": true
+        },
+        {
+            "text": "AWS STS"
+        },
+        {
+            "text": "Amazon Inspector"
+        }
+    ]
+}

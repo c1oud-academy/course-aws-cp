@@ -1,0 +1,18 @@
+{
+    "text": "Which of the following is a correct statement about Convertible Reserved Instances?",
+    "answers": [
+        {
+            "text": "Convertible Reserved Instances can be sold in the Reserved Instance Marketplace."
+        },
+        {
+            "text": "Convertible Reserved Instances are Reserved Instances that can be moved from one region to another."
+        },
+        {
+            "text": "Convertible Reserved Instances can be given back to AWS with a pro-rata amount paid back to you."
+        },
+        {
+            "text": "If you meet requirements, you can exchange Convertible Reserved Instances for another Convertible Reserved Instance with a different configuration.",
+            "right_answer": true
+        }
+    ]
+}

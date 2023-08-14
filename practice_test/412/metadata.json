@@ -1,0 +1,36 @@
+{
+    "type": "practice_test",
+    "aws_group": [
+        "Database"
+    ],
+    "id": "412",
+    "property_keys": [
+        "type",
+        "id",
+        "content_type",
+        "aws_service",
+        "aws_group"
+    ],
+    "title": {
+        "en": "Practice test quesion 412",
+        "kk": "Practice test quesion 412",
+        "ru": "Practice test quesion 412"
+    },
+    "files_list": [
+        {
+            "type": "metadata",
+            "lang": "en",
+            "path": "metadata.json"
+        },
+        {
+            "type": "question",
+            "lang": "en",
+            "path": "question.json"
+        }
+    ],
+    "aws_service": [
+        "ElastiCache",
+        "RDS"
+    ],
+    "content_type": "test"
+}

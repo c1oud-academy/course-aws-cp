@@ -1,0 +1,18 @@
+{
+    "text": "Which Amazon S3 encryption method requires that S3 manage the data and master encryption keys?",
+    "answers": [
+        {
+            "text": "SSE-KMS"
+        },
+        {
+            "text": "SSE-C"
+        },
+        {
+            "text": "SSE-S3",
+            "right_answer": true
+        },
+        {
+            "text": "CMK"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "text": "Which of the following database engines are available in Amazon RDS?",
+    "answers": [
+        {
+            "text": "MySQL",
+            "right_answer": true
+        },
+        {
+            "text": "DynamoDB"
+        },
+        {
+            "text": "Aurora",
+            "right_answer": true
+        },
+        {
+            "text": "Elasticsearch"
+        },
+        {
+            "text": "Neptune"
+        },
+        {
+            "text": "Oracle",
+            "right_answer": true
+        },
+        {
+            "text": "Microsoft SQL Server",
+            "right_answer": true
+        },
+        {
+            "text": "Hive"
+        }
+    ]
+}

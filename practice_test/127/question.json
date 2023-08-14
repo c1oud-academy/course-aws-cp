@@ -1,0 +1,22 @@
+{
+    "answers": [
+        {
+            "right_answer": true,
+            "text": "Data encryption at rest."
+        },
+        {
+            "text": "Strongly consistent reads across Regions."
+        },
+        {
+            "text": "Support for fast SQL queries."
+        },
+        {
+            "right_answer": true,
+            "text": "No servers to manage."
+        },
+        {
+            "text": "Global Secondary Indexes do not cost any extra."
+        }
+    ],
+    "text": "Which of these is a benefit of using Amazon DynamoDB?"
+}

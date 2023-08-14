@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "Outpost"
+        },
+        {
+            "right_answer": true,
+            "text": "Availability Zone"
+        },
+        {
+            "text": "Region"
+        },
+        {
+            "text": "Subnet"
+        }
+    ],
+    "text": "Which of the following is described by the following statement, 'X consists of one or more discrete data centers each with redundant power, networking, and connectivity'?"
+}

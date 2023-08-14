@@ -1,0 +1,25 @@
+{
+    "answers": [
+        {
+            "text": "You will have access to programmatic case management capability (API)."
+        },
+        {
+            "text": "You can get contextual (to your use-case) architectural guidance from AWS."
+        },
+        {
+            "right_answer": true,
+            "text": "If your system is impaired you will get a response from AWS within 12 business hours."
+        },
+        {
+            "text": "If your system is impaired you will get a response from AWS within 6 business hours."
+        },
+        {
+            "text": "You will get Interoperability & configuration guidance and troubleshooting for third-party software."
+        },
+        {
+            "right_answer": true,
+            "text": "You will get general architectural guidance."
+        }
+    ],
+    "text": "Which of the following is true for the AWS Developer Support Plan?"
+}

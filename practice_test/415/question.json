@@ -1,0 +1,18 @@
+{
+    "text": "A company has built an application using EC2 Instances connected to an on-premises network with a storage gateway, and AWS Direct Connect. What kind of architecture could this be?",
+    "answers": [
+        {
+            "text": "Platform-as-a-Service"
+        },
+        {
+            "text": "Serverless"
+        },
+        {
+            "text": "Infrastructure-as-a-Service"
+        },
+        {
+            "text": "Hybrid",
+            "right_answer": true
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "text": "Against which services are you allowed to carry out security assessments or penetration tests without getting prior approval from AWS?",
+    "answers": [
+        {
+            "text": "Amazon RDS",
+            "right_answer": true
+        },
+        {
+            "text": "Amazon DynamoDB"
+        },
+        {
+            "text": "Amazon S3"
+        },
+        {
+            "text": "Amazon CloudFront",
+            "right_answer": true
+        },
+        {
+            "text": "Amazon Route 53"
+        },
+        {
+            "text": "Amazon EC2 Instances",
+            "right_answer": true
+        }
+    ]
+}

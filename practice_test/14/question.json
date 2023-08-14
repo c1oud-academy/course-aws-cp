@@ -1,0 +1,19 @@
+{
+    "text": "Which of the following are recommended security design principles in AWS?",
+    "answers": [
+        {
+            "text": "Implement a strong identity foundation.",
+            "right_answer": true
+        },
+        {
+            "text": "Try to keep as much data on-premises as possible."
+        },
+        {
+            "text": "Protect data in transit and at rest.",
+            "right_answer": true
+        },
+        {
+            "text": "Keep EC2 instances and Databases in different regions."
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "Savings Plan"
+        },
+        {
+            "right_answer": true,
+            "text": "AWS Cost Explorer"
+        },
+        {
+            "text": "AWS Budgets"
+        },
+        {
+            "text": "AWS Inspector"
+        }
+    ],
+    "text": "Which AWS service lets you visualize, understand, and manage your AWS costs and usage over time?"
+}

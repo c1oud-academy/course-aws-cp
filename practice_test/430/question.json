@@ -1,0 +1,19 @@
+{
+    "text": "What are the two types of subnets you can have?",
+    "answers": [
+        {
+            "text": "Hybrid"
+        },
+        {
+            "text": "Dynamic"
+        },
+        {
+            "text": "Private",
+            "right_answer": true
+        },
+        {
+            "text": "Public",
+            "right_answer": true
+        }
+    ]
+}

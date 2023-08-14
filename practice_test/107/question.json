@@ -1,0 +1,23 @@
+{
+    "answers": [
+        {
+            "text": "Customers can run enough instances to handle peak workloads."
+        },
+        {
+            "right_answer": true,
+            "text": "EC2 instances can be launched on-demand to correspond to varying workloads."
+        },
+        {
+            "right_answer": true,
+            "text": "EC2 instances can be pre-paid for higher savings."
+        },
+        {
+            "text": "Customers can acquire different EC2 instances including dedicated hosts."
+        },
+        {
+            "right_answer": true,
+            "text": "If workloads can be terminated and resumed, buying spot instances can result in even greater savings."
+        }
+    ],
+    "text": "In what ways can AWS be more economical than traditional data centers for compute workloads?"
+}

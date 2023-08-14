@@ -1,0 +1,29 @@
+{
+    "answers": [
+        {
+            "right_answer": true,
+            "text": "Amazon Route 53"
+        },
+        {
+            "text": "Amazon Comprehend"
+        },
+        {
+            "text": "Amazon VPC"
+        },
+        {
+            "text": "EBS Volumes"
+        },
+        {
+            "right_answer": true,
+            "text": "Amazon CloudFront"
+        },
+        {
+            "right_answer": true,
+            "text": "AWS IAM"
+        },
+        {
+            "text": "AWS Global Availability Service"
+        }
+    ],
+    "text": "Which of the following are Global AWS services?"
+}

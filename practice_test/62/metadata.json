@@ -1,0 +1,36 @@
+{
+    "id": "62",
+    "files_list": [
+        {
+            "type": "metadata",
+            "path": "metadata.json",
+            "lang": "en"
+        },
+        {
+            "type": "question",
+            "path": "question.json",
+            "lang": "en"
+        }
+    ],
+    "aws_service": [
+        "IAM"
+    ],
+    "content_type": "test",
+    "type": "practice_test",
+    "title": {
+        "en": "Practice test quesion 62",
+        "ru": "Practice test quesion 62",
+        "kk": "Practice test quesion 62"
+    },
+    "property_keys": [
+        "type",
+        "id",
+        "content_type",
+        "aws_service",
+        "aws_group"
+    ],
+    "aws_group": [
+        "Security, Identity, & Compliance",
+        "Storage"
+    ]
+}

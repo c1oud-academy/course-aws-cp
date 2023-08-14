@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "AWS Trusted Advisor"
+        },
+        {
+            "text": "AWS Cost & Usage Report"
+        },
+        {
+            "text": "AWS Cost Explorer"
+        },
+        {
+            "right_answer": true,
+            "text": "AWS Budgets"
+        }
+    ],
+    "text": "Which AWS service lets you set a custom budget and receive alerts when your cost or usage has exceeded the budgeted amount?"
+}

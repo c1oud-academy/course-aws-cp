@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "Hybrid"
+        },
+        {
+            "text": "Infrastructure-as-a-Service"
+        },
+        {
+            "right_answer": true,
+            "text": "Serverless"
+        },
+        {
+            "text": "Platform-as-a-Service"
+        }
+    ],
+    "text": "A company has built an application that uses AWS Lambda, API Gateway, DynamoDB, and S3. What kind of architecture is it?"
+}

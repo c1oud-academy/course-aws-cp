@@ -1,0 +1,18 @@
+{
+    "text": "How many Elastic IP addresses can you have per region by default?",
+    "answers": [
+        {
+            "text": "4"
+        },
+        {
+            "text": "5",
+            "right_answer": true
+        },
+        {
+            "text": "2"
+        },
+        {
+            "text": "10"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "text": "What is the recommended best practice when it comes to assigning permissions to an IAM User?",
+    "answers": [
+        {
+            "text": "Grant as many privileges/permissions as possible to increase efficiency."
+        },
+        {
+            "text": "Grant full admin right to all IAM Users for maximum power."
+        },
+        {
+            "text": "There's no defined best practice for this."
+        },
+        {
+            "text": "Grant as fewer privileges/permissions as possible for the User to get their job done.",
+            "right_answer": true
+        }
+    ]
+}

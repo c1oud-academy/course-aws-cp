@@ -1,0 +1,33 @@
+{
+    "text": "Which of these features is offered by Route 53?",
+    "answers": [
+        {
+            "text": "Load Balancing"
+        },
+        {
+            "text": "Domain Name Registration",
+            "right_answer": true
+        },
+        {
+            "text": "Subnet Routing"
+        },
+        {
+            "text": "DNS Failover",
+            "right_answer": true
+        },
+        {
+            "text": "Health checks and monitoring",
+            "right_answer": true
+        },
+        {
+            "text": "Elastic IPs"
+        },
+        {
+            "text": "Firewall"
+        },
+        {
+            "text": "Latency based routing",
+            "right_answer": true
+        }
+    ]
+}

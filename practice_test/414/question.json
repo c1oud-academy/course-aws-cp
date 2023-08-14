@@ -1,0 +1,29 @@
+{
+    "text": "What Amazon CloudWatch metrics types are available for Amazon S3?",
+    "answers": [
+        {
+            "text": "Performance metrics"
+        },
+        {
+            "text": "Replication metrics",
+            "right_answer": true
+        },
+        {
+            "text": "Accessibility metrics"
+        },
+        {
+            "text": "Storage metrics",
+            "right_answer": true
+        },
+        {
+            "text": "Size metrics"
+        },
+        {
+            "text": "Request metrics",
+            "right_answer": true
+        },
+        {
+            "text": "Availability metrics"
+        }
+    ]
+}

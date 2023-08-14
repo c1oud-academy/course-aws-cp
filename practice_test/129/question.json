@@ -1,0 +1,31 @@
+{
+    "answers": [
+        {
+            "text": "High resolution has a one-minute granularity."
+        },
+        {
+            "text": "High resolution has a five-minute granularity."
+        },
+        {
+            "text": "Standard resolution has a one-second granularity."
+        },
+        {
+            "text": "Standard resolution has a five-minute granularity."
+        },
+        {
+            "text": "High resolution has a one-hour granularity."
+        },
+        {
+            "text": "Standard resolution has a one-hour granularity."
+        },
+        {
+            "right_answer": true,
+            "text": "Standard resolution has a one-minute granularity."
+        },
+        {
+            "right_answer": true,
+            "text": "High resolution has a one-second granularity."
+        }
+    ],
+    "text": "CloudWatch custom metrics come in two resolutions: Standard and High. At what rate is data reported for those two resolutions?"
+}

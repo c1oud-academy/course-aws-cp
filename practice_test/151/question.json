@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "right_answer": true,
+            "text": "Disaster Recovery and Local Performance"
+        },
+        {
+            "text": "Scalability"
+        },
+        {
+            "text": "High Availability"
+        },
+        {
+            "text": "Backup"
+        }
+    ],
+    "text": "What is the main purpose of a Multi-Region RDS deployment?"
+}

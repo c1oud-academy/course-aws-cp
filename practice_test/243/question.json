@@ -1,0 +1,34 @@
+{
+    "answers": [
+        {
+            "text": "100 seconds"
+        },
+        {
+            "right_answer": true,
+            "text": "5 seconds"
+        },
+        {
+            "right_answer": true,
+            "text": "Any multiple of 60 seconds"
+        },
+        {
+            "text": "20 seconds"
+        },
+        {
+            "text": "150 seconds"
+        },
+        {
+            "right_answer": true,
+            "text": "30 seconds"
+        },
+        {
+            "right_answer": true,
+            "text": "1 second"
+        },
+        {
+            "right_answer": true,
+            "text": "10 seconds"
+        }
+    ],
+    "text": "At what rate can you read and retrieve a high-resolution metric from CloudWatch?"
+}

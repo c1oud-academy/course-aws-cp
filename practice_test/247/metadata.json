@@ -1,0 +1,38 @@
+{
+    "property_keys": [
+        "type",
+        "id",
+        "content_type",
+        "aws_service",
+        "aws_group"
+    ],
+    "aws_group": [
+        "AWS Cost Management",
+        "Management & Governance"
+    ],
+    "id": "247",
+    "files_list": [
+        {
+            "path": "metadata.json",
+            "lang": "en",
+            "type": "metadata"
+        },
+        {
+            "path": "question.json",
+            "lang": "en",
+            "type": "question"
+        }
+    ],
+    "content_type": "test",
+    "title": {
+        "kk": "Practice test quesion 247",
+        "en": "Practice test quesion 247",
+        "ru": "Practice test quesion 247"
+    },
+    "type": "practice_test",
+    "aws_service": [
+        "AWS Budgets",
+        "AWS Cost Explorer",
+        "Trusted Advisor"
+    ]
+}

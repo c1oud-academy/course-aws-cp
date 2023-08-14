@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "NACL provides monitoring for your subnets and traffic in a VPC."
+        },
+        {
+            "text": "NACL validates compliance in a VPC."
+        },
+        {
+            "text": "NACL works as a firewall for individual instances in a VPC."
+        },
+        {
+            "right_answer": true,
+            "text": "NACL works as a firewall for subnets in a VPC."
+        }
+    ],
+    "text": "What is the purpose of Network ACLs (NACLs)?"
+}

@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "AWS Virtual Private Network (VPN)"
+        },
+        {
+            "text": "Amazon Route 53"
+        },
+        {
+            "text": "AWS App Mesh"
+        },
+        {
+            "right_answer": true,
+            "text": "Amazon Virtual Private Cloud (VPC)"
+        }
+    ],
+    "text": "What AWS service allows a customer to create a Virtual Network within AWS?"
+}

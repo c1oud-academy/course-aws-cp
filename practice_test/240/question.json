@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "AWS can dispatch a team of solution architects and engineers to help you configure"
+        },
+        {
+            "right_answer": true,
+            "text": "AWS provides a way to programmatically provision needed resources. These are created and are made available to you rapidly."
+        },
+        {
+            "text": "AWS will send the needed hardware over to your datacentre in the form of an AWS Landing Zone."
+        },
+        {
+            "text": "AWS provides Professional services that can help you configure your servers over the phone."
+        }
+    ],
+    "text": "How does AWS help you get IT resources quickly?"
+}

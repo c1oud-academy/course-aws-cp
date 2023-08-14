@@ -1,0 +1,26 @@
+{
+    "answers": [
+        {
+            "right_answer": true,
+            "text": "Remove (or don't generate) account access key for your AWS root user."
+        },
+        {
+            "right_answer": true,
+            "text": "Use IAM Roles instead of long-term access keys where possible."
+        },
+        {
+            "text": "It's good practice to embed access keys directly into code."
+        },
+        {
+            "right_answer": true,
+            "text": "Rotate access keys periodically."
+        },
+        {
+            "text": "Feel free to share the private access key with anyone but not the public access key."
+        },
+        {
+            "text": "Use the same keys for different applications as much as possible."
+        }
+    ],
+    "text": "Which of the following are best practice recommendations for managing AWS Access Keys?"
+}

@@ -1,0 +1,22 @@
+{
+    "text": "What can you do with AWS Cost Management services?",
+    "answers": [
+        {
+            "text": "Migrate extra compute capacity from EC2 to Lambda."
+        },
+        {
+            "text": "Automatically terminate all resources and compute activity if your budget has been exceeded."
+        },
+        {
+            "text": "Create and manage Organizational Units (OU)."
+        },
+        {
+            "text": "Create a savings plan to save up to 72% on compute usage.",
+            "right_answer": true
+        },
+        {
+            "text": "Set custom budgets and receive notifications when they have been exceeded.",
+            "right_answer": true
+        }
+    ]
+}

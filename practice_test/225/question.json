@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "right_answer": true,
+            "text": "Hybrid"
+        },
+        {
+            "text": "Platform-as-a-Service"
+        },
+        {
+            "text": "Infrastructure-as-a-Service"
+        },
+        {
+            "text": "Serverless"
+        }
+    ],
+    "text": "A company has built an application that is running some of its systems in AWS and a part of the system using servers located on-premise. What kind of architecture is it?"
+}

@@ -1,0 +1,18 @@
+{
+    "text": "You have multiple AWS accounts for which you are paying. You want to have one bill for all of the accounts. What feature would you use to achieve this?",
+    "answers": [
+        {
+            "text": "Consolidated Billing",
+            "right_answer": true
+        },
+        {
+            "text": "AWS Marketplace"
+        },
+        {
+            "text": "Volume Discount"
+        },
+        {
+            "text": "AWS Managed Service"
+        }
+    ]
+}

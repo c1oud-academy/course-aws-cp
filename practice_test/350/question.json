@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "Temporary RIs"
+        },
+        {
+            "text": "Standard RIs"
+        },
+        {
+            "text": "Convertible RIs"
+        },
+        {
+            "right_answer": true,
+            "text": "Scheduled RIs"
+        }
+    ],
+    "text": "Your company wants to buy a number of Reserved Instances (Ris) that are only going to be used for a short period each day at 2 pm. What RI Type should it buy?"
+}

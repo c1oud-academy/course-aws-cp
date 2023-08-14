@@ -1,0 +1,22 @@
+{
+    "answers": [
+        {
+            "text": "Connect the root account to a specific person's (e.g. head of IT) email address/mobile number/MFA."
+        },
+        {
+            "text": "Deploy all core/critical resources under the root account."
+        },
+        {
+            "right_answer": true,
+            "text": "Enable physical or virtual MFA on the root account."
+        },
+        {
+            "right_answer": true,
+            "text": "Create a strong root account password."
+        },
+        {
+            "text": "Remove all extraneous permissions from the root account."
+        }
+    ],
+    "text": "What is the recommended best practice for securing your root AWS account?"
+}

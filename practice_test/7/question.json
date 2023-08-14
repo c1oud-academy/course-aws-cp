@@ -1,0 +1,18 @@
+{
+    "text": "What AWS service or feature allows you to get a single bill when you have multiple accounts and the ability to combine accounts to receive volume discounts?",
+    "answers": [
+        {
+            "text": "Consolidated billing",
+            "right_answer": true
+        },
+        {
+            "text": "AWS Budgets"
+        },
+        {
+            "text": "AWS Cost Explorer"
+        },
+        {
+            "text": "AWS Cost and Usage Report"
+        }
+    ]
+}

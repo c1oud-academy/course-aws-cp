@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "Amazon Lumberyard"
+        },
+        {
+            "right_answer": true,
+            "text": "Amazon Lightsail"
+        },
+        {
+            "text": "Amazon SageMaker"
+        },
+        {
+            "text": "Amazon VPC"
+        }
+    ],
+    "text": "Which AWS service allows you to launch and manage preconfigured instances, a database, create a static IP or a load balancer, and add storage simply? This Service is suitable for simple web applications, websites, and dev/test environments."
+}

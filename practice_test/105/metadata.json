@@ -1,0 +1,40 @@
+{
+    "aws_service": [
+        "Lambda",
+        "EC2",
+        "Availability Zone",
+        "Config"
+    ],
+    "type": "practice_test",
+    "title": {
+        "kk": "Practice test quesion 105",
+        "en": "Practice test quesion 105",
+        "ru": "Practice test quesion 105"
+    },
+    "content_type": "test",
+    "id": "105",
+    "property_keys": [
+        "type",
+        "id",
+        "content_type",
+        "aws_service",
+        "aws_group"
+    ],
+    "aws_group": [
+        "Management & Governance",
+        "AWS Global Infrastructure",
+        "Security, Identity, & Compliance"
+    ],
+    "files_list": [
+        {
+            "type": "metadata",
+            "path": "metadata.json",
+            "lang": "en"
+        },
+        {
+            "type": "question",
+            "path": "question.json",
+            "lang": "en"
+        }
+    ]
+}

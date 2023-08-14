@@ -1,0 +1,18 @@
+{
+    "text": "What can you use to test and troubleshoot identity-based policies, IAM permissions boundaries, Organization service control policies, and resource-based policies?",
+    "answers": [
+        {
+            "text": "IAM policy simulator",
+            "right_answer": true
+        },
+        {
+            "text": "IAM validation service"
+        },
+        {
+            "text": "Amazon GuardDuty"
+        },
+        {
+            "text": "Amazon Inspector"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "Amazon S3 One Zone-IA"
+        },
+        {
+            "text": "Amazon S3 Deep Glacier"
+        },
+        {
+            "right_answer": true,
+            "text": "Amazon S3 Glacier"
+        },
+        {
+            "text": "Amazon S3 Standard"
+        }
+    ],
+    "text": "Which low-cost AWS storage service is best suited for keeping archives which may need to be retrieved under 5 hours?"
+}

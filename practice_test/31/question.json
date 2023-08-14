@@ -1,0 +1,18 @@
+{
+    "text": "What is an Availability Zone in AWS?",
+    "answers": [
+        {
+            "text": "A separate geographical area that has a cluster of multiple, isolated data centers."
+        },
+        {
+            "text": "A small subset of AWS services located next to a large population, industry, and IT centers."
+        },
+        {
+            "text": "An AWS compute and storage services deployed within the telecommunications providers\u2019 data centers at the edge of the 5G networks."
+        },
+        {
+            "text": "One or more discrete data centers with redundant power, networking, and connectivity.",
+            "right_answer": true
+        }
+    ]
+}

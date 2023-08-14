@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "Organizations Access List"
+        },
+        {
+            "text": "Organizations ISC"
+        },
+        {
+            "right_answer": true,
+            "text": "Organizations SCP"
+        },
+        {
+            "text": "Organizations Control List"
+        }
+    ],
+    "text": "What IAM Policy type helps organizations define permissions for account members and organization units (OU)?"
+}

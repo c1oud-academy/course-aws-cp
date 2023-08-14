@@ -1,0 +1,18 @@
+{
+    "text": "Which AWS service can be used to scan for vulnerabilities in EC2 instances, check for unintended network access, and provide a report?",
+    "answers": [
+        {
+            "text": "Amazon Inspector",
+            "right_answer": true
+        },
+        {
+            "text": "Amazon Detective"
+        },
+        {
+            "text": "AWS GuardDuty"
+        },
+        {
+            "text": "AWS Shield"
+        }
+    ]
+}

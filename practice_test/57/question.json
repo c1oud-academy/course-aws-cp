@@ -1,0 +1,18 @@
+{
+    "text": "Which AWS service provides a fully managed container orchestration service?",
+    "answers": [
+        {
+            "text": "AWS Lambda"
+        },
+        {
+            "text": "AWS Batch"
+        },
+        {
+            "text": "Amazon ECS",
+            "right_answer": true
+        },
+        {
+            "text": "Amazon EC2"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "answers": [
+        {
+            "right_answer": true,
+            "text": "Basic"
+        },
+        {
+            "text": "Free"
+        },
+        {
+            "right_answer": true,
+            "text": "Business"
+        },
+        {
+            "right_answer": true,
+            "text": "Enterprise"
+        },
+        {
+            "right_answer": true,
+            "text": "Developer"
+        },
+        {
+            "text": "Professional"
+        }
+    ],
+    "text": "What are the available support plans offered by AWS?"
+}

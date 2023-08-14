@@ -1,0 +1,35 @@
+{
+    "property_keys": [
+        "type",
+        "id",
+        "content_type",
+        "aws_service",
+        "aws_group"
+    ],
+    "aws_group": [
+        "AWS Cost Management"
+    ],
+    "id": "245",
+    "files_list": [
+        {
+            "path": "metadata.json",
+            "lang": "en",
+            "type": "metadata"
+        },
+        {
+            "path": "question.json",
+            "lang": "en",
+            "type": "question"
+        }
+    ],
+    "content_type": "test",
+    "title": {
+        "kk": "Practice test quesion 245",
+        "en": "Practice test quesion 245",
+        "ru": "Practice test quesion 245"
+    },
+    "type": "practice_test",
+    "aws_service": [
+        "Misc"
+    ]
+}

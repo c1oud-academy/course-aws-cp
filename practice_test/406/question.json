@@ -1,0 +1,18 @@
+{
+    "text": "What is a Bastion Host?",
+    "answers": [
+        {
+            "text": "A Bastion Host is an intermediary Instance that provides access to a private network from an external network.",
+            "right_answer": true
+        },
+        {
+            "text": "A Bastion Host is a virtual network card, which is part of the Elastic Network Interface (ENI)."
+        },
+        {
+            "text": "A Bastion Host is a special EC2 Instance used to connect to AWS Direct Connect."
+        },
+        {
+            "text": "A Bastion Host is a special locked-down environment for hosting an RDS Database."
+        }
+    ]
+}

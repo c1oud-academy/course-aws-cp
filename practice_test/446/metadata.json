@@ -1,0 +1,35 @@
+{
+    "type": "practice_test",
+    "aws_group": [
+        "Management & Governance"
+    ],
+    "id": "446",
+    "property_keys": [
+        "type",
+        "id",
+        "content_type",
+        "aws_service",
+        "aws_group"
+    ],
+    "title": {
+        "en": "Practice test quesion 446",
+        "kk": "Practice test quesion 446",
+        "ru": "Practice test quesion 446"
+    },
+    "files_list": [
+        {
+            "type": "metadata",
+            "lang": "en",
+            "path": "metadata.json"
+        },
+        {
+            "type": "question",
+            "lang": "en",
+            "path": "question.json"
+        }
+    ],
+    "aws_service": [
+        "CloudWatch"
+    ],
+    "content_type": "test"
+}

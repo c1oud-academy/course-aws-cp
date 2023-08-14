@@ -1,0 +1,39 @@
+{
+    "type": "practice_test",
+    "aws_group": [
+        "Security, Identity, & Compliance",
+        "Developer Tools"
+    ],
+    "id": "416",
+    "property_keys": [
+        "type",
+        "id",
+        "content_type",
+        "aws_service",
+        "aws_group"
+    ],
+    "title": {
+        "en": "Practice test quesion 416",
+        "kk": "Practice test quesion 416",
+        "ru": "Practice test quesion 416"
+    },
+    "files_list": [
+        {
+            "type": "metadata",
+            "lang": "en",
+            "path": "metadata.json"
+        },
+        {
+            "type": "question",
+            "lang": "en",
+            "path": "question.json"
+        }
+    ],
+    "aws_service": [
+        "Resource Access Manager",
+        "Artifact",
+        "Certificate Manager",
+        "Cloud9"
+    ],
+    "content_type": "test"
+}

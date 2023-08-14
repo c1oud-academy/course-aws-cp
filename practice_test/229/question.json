@@ -1,0 +1,22 @@
+{
+    "answers": [
+        {
+            "text": "Amazon Timestream"
+        },
+        {
+            "text": "Amazon QLDB"
+        },
+        {
+            "right_answer": true,
+            "text": "Amazon Aurora"
+        },
+        {
+            "right_answer": true,
+            "text": "Amazon RDS"
+        },
+        {
+            "text": "Amazon DynamoDB"
+        }
+    ],
+    "text": "Which of the following are Relational database services on AWS?"
+}

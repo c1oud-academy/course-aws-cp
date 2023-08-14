@@ -1,0 +1,39 @@
+{
+    "type": "practice_test",
+    "aws_group": [
+        "Management & Governance",
+        "Security, Identity, & Compliance"
+    ],
+    "id": "409",
+    "property_keys": [
+        "type",
+        "id",
+        "content_type",
+        "aws_service",
+        "aws_group"
+    ],
+    "title": {
+        "en": "Practice test quesion 409",
+        "kk": "Practice test quesion 409",
+        "ru": "Practice test quesion 409"
+    },
+    "files_list": [
+        {
+            "type": "metadata",
+            "lang": "en",
+            "path": "metadata.json"
+        },
+        {
+            "type": "question",
+            "lang": "en",
+            "path": "question.json"
+        }
+    ],
+    "aws_service": [
+        "AWS Organizations",
+        "Cognito",
+        "IAM",
+        "AWS Single Sign-On"
+    ],
+    "content_type": "test"
+}

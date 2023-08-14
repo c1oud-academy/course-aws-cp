@@ -1,0 +1,18 @@
+{
+    "text": "What AWS service or feature can you use to inspect web requests and block them based on the IP address, embedded scripts that appear to be malicious, or strings encoded in the request?",
+    "answers": [
+        {
+            "text": "AWS WAF",
+            "right_answer": true
+        },
+        {
+            "text": "Amazon CloudFront"
+        },
+        {
+            "text": "Security Groups"
+        },
+        {
+            "text": "Network ACLs"
+        }
+    ]
+}

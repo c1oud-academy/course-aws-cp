@@ -1,0 +1,26 @@
+{
+    "answers": [
+        {
+            "right_answer": true,
+            "text": "Bucket names must be at least 3 and no more than 63 characters long."
+        },
+        {
+            "right_answer": true,
+            "text": "Bucket names must be unique across all existing bucket names in Amazon S3."
+        },
+        {
+            "text": "Bucket names are allowed to be formatted as IP Addresses like (192.168.5.4)."
+        },
+        {
+            "right_answer": true,
+            "text": "Bucket names must start with a lowercase letter or number."
+        },
+        {
+            "text": "Bucket names do not have to comply with DNS naming conventions."
+        },
+        {
+            "text": "Bucket names can contain uppercase characters."
+        }
+    ],
+    "text": "Which of the following statements about S3 Buckets are true?"
+}

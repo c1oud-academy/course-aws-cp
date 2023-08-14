@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "Standard RIs"
+        },
+        {
+            "text": "Exchangeable RIs"
+        },
+        {
+            "text": "Scheduled RIs"
+        },
+        {
+            "right_answer": true,
+            "text": "Convertible RIs"
+        }
+    ],
+    "text": "Your company wants to run a pilot program using a number of EC2 Instances. These may need to be exchanged for another set of EC2 Instances with a different configuration. What kind of Reserved Instance (RI) should you consider?"
+}

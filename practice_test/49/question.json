@@ -1,0 +1,18 @@
+{
+    "text": "You are building an application that can be interrupted at any time. What is the most cost-effective EC2 instance type for this application?",
+    "answers": [
+        {
+            "text": "On-Demand Instances"
+        },
+        {
+            "text": "Spot Instances",
+            "right_answer": true
+        },
+        {
+            "text": "Dedicated Instances"
+        },
+        {
+            "text": "Reserved Instances"
+        }
+    ]
+}

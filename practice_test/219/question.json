@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "Make all buckets and objects public for easier access."
+        },
+        {
+            "text": "Create object policies for each object in the bucket."
+        },
+        {
+            "text": "Use both ACL and Bucket Policies to lock down bucket access."
+        },
+        {
+            "right_answer": true,
+            "text": "Restrict access to buckets and objects only to the people that absolutely need it."
+        }
+    ],
+    "text": "Which of the following is recommended best practice when using S3?"
+}

@@ -1,0 +1,18 @@
+{
+    "text": "Where does Amazon RDS store DB snapshots and automated backups?",
+    "answers": [
+        {
+            "text": "Amazon EFS"
+        },
+        {
+            "text": "Amazon EC2 Instance Store"
+        },
+        {
+            "text": "Amazon EBS"
+        },
+        {
+            "text": "Amazon S3",
+            "right_answer": true
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "right_answer": true,
+            "text": "In 15 minutes"
+        },
+        {
+            "text": "In 1 hour"
+        },
+        {
+            "text": "In 12 hours"
+        },
+        {
+            "text": "In 4 hours"
+        }
+    ],
+    "text": "Your company has an Enterprise support plan and your business-critical system is down. How quickly can you expect to receive technical support from AWS?"
+}

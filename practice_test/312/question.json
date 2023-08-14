@@ -1,0 +1,25 @@
+{
+    "answers": [
+        {
+            "text": "On-Demand Instances"
+        },
+        {
+            "text": "Reserved Instances"
+        },
+        {
+            "text": "Dedicated Instances"
+        },
+        {
+            "text": "Spot Instances"
+        },
+        {
+            "right_answer": true,
+            "text": "Bare Metal Instances"
+        },
+        {
+            "right_answer": true,
+            "text": "Dedicated Hosts"
+        }
+    ],
+    "text": "Which EC2 Instance Types allow you to bring your own software licenses to minimize costs and improve compliance?"
+}

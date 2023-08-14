@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "Amazon S3"
+        },
+        {
+            "text": "Amazon EBS"
+        },
+        {
+            "right_answer": true,
+            "text": "Amazon EFS"
+        },
+        {
+            "text": "AWS Storage Gateway"
+        }
+    ],
+    "text": "Which storage service is best suited to mount as a shared volume across multiple regions and EC2 instances?"
+}

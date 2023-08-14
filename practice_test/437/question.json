@@ -1,0 +1,18 @@
+{
+    "text": "You want your EC2 instance to be able to access S3 and create new objects in a bucket. What's the best way to do this?",
+    "answers": [
+        {
+            "text": "Create an IAM role that allows access to S3 and assign it to the EC2 Instance.",
+            "right_answer": true
+        },
+        {
+            "text": "Use the EC2 console to assign permissions directly to the Instance."
+        },
+        {
+            "text": "Create an IAM user and use AWS Configure to add Access Keys to the EC2 Instance."
+        },
+        {
+            "text": "Raise an issue with AWS Support."
+        }
+    ]
+}

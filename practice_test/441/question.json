@@ -1,0 +1,18 @@
+{
+    "text": "Which AWS Service can distribute traffic across multiple regions while providing a number of routing types such as Latency Based Routing and Geoproximity?",
+    "answers": [
+        {
+            "text": "AWS Cloud Map"
+        },
+        {
+            "text": "Amazon CloudFront"
+        },
+        {
+            "text": "Amazon Route 53",
+            "right_answer": true
+        },
+        {
+            "text": "Elastic Load Balancer"
+        }
+    ]
+}

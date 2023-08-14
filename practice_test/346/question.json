@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "right_answer": true,
+            "text": "10"
+        },
+        {
+            "text": "50"
+        },
+        {
+            "text": "1"
+        },
+        {
+            "text": "5"
+        }
+    ],
+    "text": "What is the default maximum number of AWS accounts allowed in AWS Organizations?"
+}

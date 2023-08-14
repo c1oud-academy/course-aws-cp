@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "Throughput Optimized HDD"
+        },
+        {
+            "text": "Cold HDD"
+        },
+        {
+            "right_answer": true,
+            "text": "EBS Provisioned IOPS SSD"
+        },
+        {
+            "text": "EBS General Purpose SSD"
+        }
+    ],
+    "text": "Which is the fastest EBS volume type?"
+}

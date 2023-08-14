@@ -1,0 +1,18 @@
+{
+    "text": "When would you consider using a Transit Gateway?",
+    "answers": [
+        {
+            "text": "Transit Gateways are useful for connecting multiple VPCs and then aggregating their connectivity to resources on-premises.",
+            "right_answer": true
+        },
+        {
+            "text": "Transit Gateways are designed to enable communication between VPCs and AWS Lambda."
+        },
+        {
+            "text": "Transit Gateways are needed to enable AWS Direct Connect to work."
+        },
+        {
+            "text": "Transit Gateways is used to connect a single VPC to resources on-premises."
+        }
+    ]
+}

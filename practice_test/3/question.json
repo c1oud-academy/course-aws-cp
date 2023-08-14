@@ -1,0 +1,18 @@
+{
+    "text": "Your company has deployed an EC2 instance to two different Availability Zones and set up an ELB between them. What AWS Well-Architected Framework Pillar does this activity fall under?",
+    "answers": [
+        {
+            "text": "Reliability",
+            "right_answer": true
+        },
+        {
+            "text": "Performance Efficiency"
+        },
+        {
+            "text": "Security"
+        },
+        {
+            "text": "Operational Excellence"
+        }
+    ]
+}

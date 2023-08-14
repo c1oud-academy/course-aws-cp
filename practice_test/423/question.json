@@ -1,0 +1,26 @@
+{
+    "text": "Which of the following is the customer's responsibility in accordance with the Shared Responsibility Model?",
+    "answers": [
+        {
+            "text": "Updating RDS instance with the newest kernel update."
+        },
+        {
+            "text": "Installing the latest system updates on Windows on EC2.",
+            "right_answer": true
+        },
+        {
+            "text": "Installing anti-malware software on an RDS instance."
+        },
+        {
+            "text": "Freeing up space on S3 for new RDS backup images."
+        },
+        {
+            "text": "Installing anti-virus software on an EC2 Windows Instance.",
+            "right_answer": true
+        },
+        {
+            "text": "Updating Linux with the newest kernel patch on an EC2.",
+            "right_answer": true
+        }
+    ]
+}

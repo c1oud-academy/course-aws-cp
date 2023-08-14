@@ -1,0 +1,18 @@
+{
+    "text": "Which AWS service provides access to a managed, virtual desktop running either Linux or Windows?",
+    "answers": [
+        {
+            "text": "Amazon LightSail"
+        },
+        {
+            "text": "Amazon WorkDocs"
+        },
+        {
+            "text": "Amazon Chime"
+        },
+        {
+            "text": "Amazon WorkSpaces",
+            "right_answer": true
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": "24",
+    "files_list": [
+        {
+            "type": "metadata",
+            "path": "metadata.json",
+            "lang": "en"
+        },
+        {
+            "type": "question",
+            "path": "question.json",
+            "lang": "en"
+        }
+    ],
+    "aws_service": [
+        "CloudFormation",
+        "Systems Manager",
+        "OpsWorks",
+        "Config"
+    ],
+    "content_type": "test",
+    "type": "practice_test",
+    "title": {
+        "en": "Practice test quesion 24",
+        "ru": "Practice test quesion 24",
+        "kk": "Practice test quesion 24"
+    },
+    "property_keys": [
+        "type",
+        "id",
+        "content_type",
+        "aws_service",
+        "aws_group"
+    ],
+    "aws_group": [
+        "Management & Governance"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "type": "practice_test",
+    "aws_group": [
+        "Management & Governance",
+        "Networking & Content Delivery"
+    ],
+    "id": "451",
+    "property_keys": [
+        "type",
+        "id",
+        "content_type",
+        "aws_service",
+        "aws_group"
+    ],
+    "title": {
+        "en": "Practice test quesion 451",
+        "kk": "Practice test quesion 451",
+        "ru": "Practice test quesion 451"
+    },
+    "files_list": [
+        {
+            "type": "metadata",
+            "lang": "en",
+            "path": "metadata.json"
+        },
+        {
+            "type": "question",
+            "lang": "en",
+            "path": "question.json"
+        }
+    ],
+    "aws_service": [
+        "Control Tower",
+        "CloudTrail",
+        "CloudWatch"
+    ],
+    "content_type": "test"
+}

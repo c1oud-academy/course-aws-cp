@@ -1,0 +1,22 @@
+{
+    "text": "What are good use cases for using AWS Direct Connect?",
+    "answers": [
+        {
+            "text": "You are working with AWS Transit Gateway and it requires AWS Direct Connect."
+        },
+        {
+            "text": "It's a requirement of the AWS Enterprise Support plan."
+        },
+        {
+            "text": "You are working with large data sets.",
+            "right_answer": true
+        },
+        {
+            "text": "You are connecting to more than 5 VPCs from your on-premises network."
+        },
+        {
+            "text": "You have a hybrid environment and require private connectivity.",
+            "right_answer": true
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "NACLs are stateful. Default NACL blocks all inbound traffic by default."
+        },
+        {
+            "text": "NACLs are stateless. Default NACL blocks all inbound traffic by default."
+        },
+        {
+            "right_answer": true,
+            "text": "NACLs are stateless. Default NACL allows all inbound traffic by default."
+        },
+        {
+            "text": "NACLs are stateful. Default NACL allows all inbound traffic by default."
+        }
+    ],
+    "text": "Which of the following is a correct statement about your VPC's default Network Access Control List (NACL) and inbound traffic?"
+}

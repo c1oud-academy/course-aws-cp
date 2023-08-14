@@ -1,0 +1,40 @@
+{
+    "aws_service": [
+        "CloudTrail",
+        "Simple Notification Service",
+        "AWS Cost Explorer",
+        "CloudWatch"
+    ],
+    "type": "practice_test",
+    "title": {
+        "kk": "Practice test quesion 142",
+        "en": "Practice test quesion 142",
+        "ru": "Practice test quesion 142"
+    },
+    "content_type": "test",
+    "id": "142",
+    "property_keys": [
+        "type",
+        "id",
+        "content_type",
+        "aws_service",
+        "aws_group"
+    ],
+    "aws_group": [
+        "Application Integration",
+        "AWS Cost Management",
+        "Management & Governance"
+    ],
+    "files_list": [
+        {
+            "type": "metadata",
+            "path": "metadata.json",
+            "lang": "en"
+        },
+        {
+            "type": "question",
+            "path": "question.json",
+            "lang": "en"
+        }
+    ]
+}

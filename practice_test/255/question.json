@@ -1,0 +1,26 @@
+{
+    "answers": [
+        {
+            "text": "Use AWS root account keys to create VPCs."
+        },
+        {
+            "right_answer": true,
+            "text": "Use Customer Managed Policies Instead of Inline Policies."
+        },
+        {
+            "text": "Grant as many permissions to IAM Users as possible to minimize disruptions."
+        },
+        {
+            "right_answer": true,
+            "text": "Use Roles to Delegate Permissions."
+        },
+        {
+            "text": "Use the same IAM user for anyone who needs to access AWS."
+        },
+        {
+            "right_answer": true,
+            "text": "Rotate Credentials Regularly."
+        }
+    ],
+    "text": "Which of the following are IAM best practices?"
+}

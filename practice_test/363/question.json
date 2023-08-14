@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "S3 Glacier"
+        },
+        {
+            "text": "S3 One Zone-IA"
+        },
+        {
+            "right_answer": true,
+            "text": "S3 Glacier Deep Archive"
+        },
+        {
+            "text": "S3 Standard"
+        }
+    ],
+    "text": "Your company wants to store 10 Terabytes of data in long-term storage. The company wants to minimize cost as much as possible and it is fine if It takes up to 12 hours to access the data. Which S3 Storage Class is most suitable?"
+}

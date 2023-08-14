@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "AWS SDK"
+        },
+        {
+            "right_answer": true,
+            "text": "Amazon CloudWatch Events"
+        },
+        {
+            "text": "Amazon CloudWatch API"
+        },
+        {
+            "text": "Amazon Inspector"
+        }
+    ],
+    "text": "What would you use to collect system events that describe changes in AWS resources?"
+}

@@ -1,0 +1,40 @@
+{
+    "type": "practice_test",
+    "aws_group": [
+        "Management & Governance",
+        "Compute",
+        "Developer Tools"
+    ],
+    "id": "443",
+    "property_keys": [
+        "type",
+        "id",
+        "content_type",
+        "aws_service",
+        "aws_group"
+    ],
+    "title": {
+        "en": "Practice test quesion 443",
+        "kk": "Practice test quesion 443",
+        "ru": "Practice test quesion 443"
+    },
+    "files_list": [
+        {
+            "type": "metadata",
+            "lang": "en",
+            "path": "metadata.json"
+        },
+        {
+            "type": "question",
+            "lang": "en",
+            "path": "question.json"
+        }
+    ],
+    "aws_service": [
+        "CloudFormation",
+        "CodeDeploy",
+        "Elastic Beanstalk",
+        "CodeBuild"
+    ],
+    "content_type": "test"
+}

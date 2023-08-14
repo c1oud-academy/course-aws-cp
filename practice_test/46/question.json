@@ -1,0 +1,18 @@
+{
+    "text": "Your company needs a storage service for home directories, developer tools, and big data analytics. It also expects that this storage service will be accessed by a thousand EC2 instances at the same time. What storage service is best suited for this?",
+    "answers": [
+        {
+            "text": "Amazon EC2 Instance Store"
+        },
+        {
+            "text": "Amazon S3"
+        },
+        {
+            "text": "Amazon EBS"
+        },
+        {
+            "text": "Amazon EFS",
+            "right_answer": true
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "AWS Partner Network Technology Partners"
+        },
+        {
+            "right_answer": true,
+            "text": "AWS Partner Network Consulting Partners"
+        },
+        {
+            "text": "AWS Marketplace"
+        },
+        {
+            "text": "AWS Partner Network Education Partners"
+        }
+    ],
+    "text": "Your company is looking to migrate on-premises infrastructure to AWS. They need help to design, build, and migrate data and applications. Who could help with this?"
+}

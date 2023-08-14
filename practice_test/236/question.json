@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "Amazon Inspector"
+        },
+        {
+            "right_answer": true,
+            "text": "AWS Config"
+        },
+        {
+            "text": "AWS Trusted Advisor"
+        },
+        {
+            "text": "Amazon GuardDuty"
+        }
+    ],
+    "text": "Which AWS Service allows you to test (some of your) AWS resources against a number of pre-defined checks such as if CloudTrail encryption is enabled or if security groups disallow unrestricted SSH traffic?"
+}

@@ -1,0 +1,18 @@
+{
+    "text": "What kind of model has no server management, flexible scaling, and payment based on throughput or execution?",
+    "answers": [
+        {
+            "text": "Serverless",
+            "right_answer": true
+        },
+        {
+            "text": "PaaS"
+        },
+        {
+            "text": "IaaS"
+        },
+        {
+            "text": "Peer to Peer"
+        }
+    ]
+}

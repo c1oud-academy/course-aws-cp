@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "Server-Side Encryption with Customer-Provided Keys (SSE-C)"
+        },
+        {
+            "text": "Server-Side Encryption with Amazon S3-Managed Keys (SSE-S3)"
+        },
+        {
+            "right_answer": true,
+            "text": "Server-Side Encryption with Customer Master Keys (CMKs) Stored in AWS Key Management Service (SSE-KMS)"
+        },
+        {
+            "text": "Server-Side Encryption with Auto-Generated Keys (SSE-AGK)"
+        }
+    ],
+    "text": "Which Server-Side Encryption mechanism provides an audit trail?"
+}

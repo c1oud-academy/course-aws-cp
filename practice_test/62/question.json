@@ -1,0 +1,18 @@
+{
+    "text": "Which type of S3 Access Control gives you control at an AWS Account Level and User Level?",
+    "answers": [
+        {
+            "text": "ACLs"
+        },
+        {
+            "text": "SCP"
+        },
+        {
+            "text": "IAM Policies"
+        },
+        {
+            "text": "Bucket Policies",
+            "right_answer": true
+        }
+    ]
+}

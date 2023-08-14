@@ -1,0 +1,22 @@
+{
+    "answers": [
+        {
+            "right_answer": true,
+            "text": "Same-Region Replication (SRR)"
+        },
+        {
+            "right_answer": true,
+            "text": "Cross-Region Replication (CRR)"
+        },
+        {
+            "text": "Cross-User Replication (CUR)"
+        },
+        {
+            "text": "Same-Account Replication (SAR)"
+        },
+        {
+            "text": "Cross-Account Replication (CAR)"
+        }
+    ],
+    "text": "What are the types of object replication supported by Amazon S3?"
+}

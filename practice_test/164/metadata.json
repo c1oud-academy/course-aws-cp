@@ -1,0 +1,38 @@
+{
+    "aws_service": [
+        "Lambda",
+        "EC2",
+        "DynamoDB"
+    ],
+    "type": "practice_test",
+    "title": {
+        "kk": "Practice test quesion 164",
+        "en": "Practice test quesion 164",
+        "ru": "Practice test quesion 164"
+    },
+    "content_type": "test",
+    "id": "164",
+    "property_keys": [
+        "type",
+        "id",
+        "content_type",
+        "aws_service",
+        "aws_group"
+    ],
+    "aws_group": [
+        "Database",
+        "Compute"
+    ],
+    "files_list": [
+        {
+            "type": "metadata",
+            "path": "metadata.json",
+            "lang": "en"
+        },
+        {
+            "type": "question",
+            "path": "question.json",
+            "lang": "en"
+        }
+    ]
+}

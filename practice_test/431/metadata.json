@@ -1,0 +1,37 @@
+{
+    "type": "practice_test",
+    "aws_group": [
+        "Security, Identity, & Compliance"
+    ],
+    "id": "431",
+    "property_keys": [
+        "type",
+        "id",
+        "content_type",
+        "aws_service",
+        "aws_group"
+    ],
+    "title": {
+        "en": "Practice test quesion 431",
+        "kk": "Practice test quesion 431",
+        "ru": "Practice test quesion 431"
+    },
+    "files_list": [
+        {
+            "type": "metadata",
+            "lang": "en",
+            "path": "metadata.json"
+        },
+        {
+            "type": "question",
+            "lang": "en",
+            "path": "question.json"
+        }
+    ],
+    "aws_service": [
+        "Inspector",
+        "IAM",
+        "GuardDuty"
+    ],
+    "content_type": "test"
+}

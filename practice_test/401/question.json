@@ -1,0 +1,18 @@
+{
+    "text": "What is a VPC Endpoint?",
+    "answers": [
+        {
+            "text": "A VPC Endpoint is used to connect you to a VPC using HTTPS."
+        },
+        {
+            "text": "A VPC Endpoint provides a fault-tolerant and highly-available Internet Gateway (IGW)."
+        },
+        {
+            "text": "A VPC Endpoint allows you to connect from an on-premises network to a VPC."
+        },
+        {
+            "text": "A VPC Endpoint allows you to privately connect your VPC to supported AWS services without leaving the Amazon network.",
+            "right_answer": true
+        }
+    ]
+}

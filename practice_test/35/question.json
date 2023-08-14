@@ -1,0 +1,18 @@
+{
+    "text": "Which of the following allows you to create infrastructure using infrastructure as code?",
+    "answers": [
+        {
+            "text": "AWS CloudFormation",
+            "right_answer": true
+        },
+        {
+            "text": "AWS Elastic Beanstalk"
+        },
+        {
+            "text": "AWS Lambda"
+        },
+        {
+            "text": "AWS Fargate"
+        }
+    ]
+}

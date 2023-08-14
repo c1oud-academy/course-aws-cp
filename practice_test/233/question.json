@@ -1,0 +1,26 @@
+{
+    "answers": [
+        {
+            "right_answer": true,
+            "text": "NAT Gateways"
+        },
+        {
+            "text": "Launch Templates"
+        },
+        {
+            "right_answer": true,
+            "text": "Egress Only Internet Gateways"
+        },
+        {
+            "text": "EBS Volumes"
+        },
+        {
+            "right_answer": true,
+            "text": "Security Groups"
+        },
+        {
+            "text": "Capacity Reservations"
+        }
+    ],
+    "text": "In the VPC Service Console which of the following can you manage?"
+}

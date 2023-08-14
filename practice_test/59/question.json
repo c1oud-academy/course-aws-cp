@@ -1,0 +1,18 @@
+{
+    "text": "What feature takes advantage of Amazon CloudFront's globally distributed edge locations to accelerate the transfer of files between the customer and S3?",
+    "answers": [
+        {
+            "text": "Amazon S3 Multipart Upload"
+        },
+        {
+            "text": "Amazon S3 Fast Upload"
+        },
+        {
+            "text": "Amazon S3 Transfer Acceleration",
+            "right_answer": true
+        },
+        {
+            "text": "API Gateway"
+        }
+    ]
+}

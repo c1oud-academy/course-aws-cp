@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "Data is stored regionally. Bucket names are regionally unique."
+        },
+        {
+            "right_answer": true,
+            "text": "Data is stored regionally. Bucket names are globally unique."
+        },
+        {
+            "text": "Data is stored globally. Bucket names are globally unique."
+        },
+        {
+            "text": "Data is stored globally. Bucket names are regionally unique."
+        }
+    ],
+    "text": "Are S3 buckets regional or global?"
+}

@@ -1,0 +1,39 @@
+{
+    "type": "practice_test",
+    "aws_group": [
+        "Misc",
+        "AWS Cost Management"
+    ],
+    "id": "432",
+    "property_keys": [
+        "type",
+        "id",
+        "content_type",
+        "aws_service",
+        "aws_group"
+    ],
+    "title": {
+        "en": "Practice test quesion 432",
+        "kk": "Practice test quesion 432",
+        "ru": "Practice test quesion 432"
+    },
+    "files_list": [
+        {
+            "type": "metadata",
+            "lang": "en",
+            "path": "metadata.json"
+        },
+        {
+            "type": "question",
+            "lang": "en",
+            "path": "question.json"
+        }
+    ],
+    "aws_service": [
+        "CloudFormation",
+        "VPC",
+        "Lambda",
+        "IAM"
+    ],
+    "content_type": "test"
+}

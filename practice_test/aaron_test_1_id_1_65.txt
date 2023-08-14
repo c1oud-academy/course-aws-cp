@@ -1,0 +1,468 @@
+QUESTION_ID_PLACEHOLDER
+Your company has asked you to automate the patching of Windows and Linux EC2 instances. What AWS service would you consider using?
+B) Amazon Inspector
+B) AWS Config
++A) AWS Systems Manager
+B) AWS Resource Access Manager
+
+QUESTION_ID_PLACEHOLDER
+Your company has asked you to set up DNS failover. What Amazon Route 53 feature can you use to check that your EC2 instance is healthy or unhealthy?
++A) Health Check
+B) EC2 Check
+B) CloudWatch
+B) IP Ping
+
+QUESTION_ID_PLACEHOLDER
+Your company has deployed an EC2 instance to two different Availability Zones and set up an ELB between them. What AWS Well-Architected Framework Pillar does this activity fall under?
++A) Reliability
+B) Performance Efficiency
+B) Security
+B) Operational Excellence
+
+QUESTION_ID_PLACEHOLDER
+Which Amazon S3 encryption method requires that S3 manage the data and master encryption keys?
+B) SSE-KMS
+B) SSE-C
++A) SSE-S3
+B) CMK
+
+QUESTION_ID_PLACEHOLDER
+An AWS customer stores images in a bucket and wants other websites to be able to show them in a web browser. What S3 feature should be enabled to make this work?
+B) Access Logs
++A) CORS
+B) SSE-C
+B) Lifecycle Policy
+
+QUESTION_ID_PLACEHOLDER
+Your application needs to temporarily access a number of AWS resources. What is the recommended, most secure way of doing that?
+B) Create an IAM user and embed Access Keys in the application.
++A) Create an IAM role and allow the application to temporarily assume it.
+B) Create an IAM group and add the application to it.
+B) Assign IAM permissions directly to the Application using the principle of least privilege.
+
+QUESTION_ID_PLACEHOLDER
+What AWS service or feature allows you to get a single bill when you have multiple accounts and the ability to combine accounts to receive volume discounts?
++A) Consolidated billing
+B) AWS Budgets
+B) AWS Cost Explorer
+B) AWS Cost and Usage Report
+
+QUESTION_ID_PLACEHOLDER
+Which AWS Support Plans provides access to 24x7 Cloud Support Engineers via the phone?
+B) Basic
+B) Developer
++A) Business
++A) Enterprise
+B) Corporate
+
+QUESTION_ID_PLACEHOLDER
+What is the AWS Shared Responsibility Model?
+B) It's a set of best principles selected from the AWS Well-Architected Framework.
+B) It's a set of quickstart guides that show how to deploy common solutions on EC2 and RDS.
++A) It's a security and compliance framework that specifies what AWS is responsible for, what the customer is responsible for, and what are the shared responsibilities.
+B) It’s a framework that describes how to best architect AWS solutions in the Cloud environment.
+
+QUESTION_ID_PLACEHOLDER
+When it comes to S3 Cross-Region Replication (CRR) which of the following is true?
++A) Buckets that are configured for object replication can be owned by the same AWS account or by different accounts
+B) Buckets that are configured for object replication must be in the same Region but different AZ.
+B) Buckets that are configured for object replication must have versioning disabled.
+B) Buckets that are configured for object replication must be owned by the same AWS account.
+
+QUESTION_ID_PLACEHOLDER
+What type of storage is offered by Amazon S3?
++A) Object
+B) File
+B) Block
+B) Blob
+
+QUESTION_ID_PLACEHOLDER
+Which Amazon EC2 compute option will interrupt your workload and remove your instance, if it needs spare capacity?
+B) Reserved
++A) Spot
+B) Bare Metal
+B) On-Demand
+
+QUESTION_ID_PLACEHOLDER
+Which AWS service can you use to compare the cost of your applications in an on-premises or traditional hosting environment to AWS?
++A) AWS Total Cost of Ownership (TCO) Calculator
+B) AWS Simple Monthly Calculator
+B) AWS Cost Explorer
+B) AWS Pricing Calculator
+
+QUESTION_ID_PLACEHOLDER
+Which of the following are recommended security design principles in AWS?
++A) Implement a strong identity foundation.
+B) Try to keep as much data on-premises as possible.
++A) Protect data in transit and at rest.
+B) Keep EC2 instances and Databases in different regions.
+
+QUESTION_ID_PLACEHOLDER
+Which AWS service lets you create dashboards for Business Intelligence (BI) insights?
+B) Amazon Chime
+B) Amazon Athena
++A) Amazon QuickSight
+B) Amazon EMR
+
+QUESTION_ID_PLACEHOLDER
+Your company has asked you to set up a system that replicates data between multiple geographical regions. What feature of AWS would assist you in this?
++A) AWS Regions
+B) Edge Locations
+B) Availability Zones
+B) Local Zones
+
+QUESTION_ID_PLACEHOLDER
+What AWS services can you use to connect from an on-premise network to AWS?
++A) AWS VPN
+B) AWS Transit Gateway
+B) AWS Global Accelerator
++A) AWS Direct Connect
+B) AWS PrivateLink
+
+QUESTION_ID_PLACEHOLDER
+What are good use cases for using AWS Direct Connect?
+B) You are working with AWS Transit Gateway and it requires AWS Direct Connect.
+B) It's a requirement of the AWS Enterprise Support plan.
++A) You are working with large data sets.
+B) You are connecting to more than 5 VPCs from your on-premises network.
++A) You have a hybrid environment and require private connectivity.
+
+QUESTION_ID_PLACEHOLDER
+Which AWS service could you use to scan objects in your S3 buckets for credentials, source code, and API Keys?
+B) Amazon GuardDuty
++A) Amazon Macie
+B) AWS Security Hub
+B) Amazon Inspector
+
+QUESTION_ID_PLACEHOLDER
+Your company wants to be able to access AWS cloud storage from their on-premise computers. This includes mounting AWS storage as a virtual tape. What AWS service can be best used to achieve this?
+B) Amazon S3
++A) AWS Storage Gateway
+B) Amazon EFS
+B) Amazon EBS
+
+QUESTION_ID_PLACEHOLDER
+Which AWS service provides access to a managed, virtual desktop running either Linux or Windows?
+B) Amazon LightSail
+B) Amazon WorkDocs
+B) Amazon Chime
++A) Amazon WorkSpaces
+
+QUESTION_ID_PLACEHOLDER
+Which AWS services do you need to use to create a billing alarm?
+B) AWS CloudTrail
++A) Amazon CloudWatch
+B) AWS Cost Explorer
++A) Billing and Cost Management
+B) AWS Cost and Usage Report
+
+QUESTION_ID_PLACEHOLDER
+Which AWS services or features can help you protect your network and host-level boundaries?
+B) AWS CloudFormation
++A) AWS Shield
++A) AWS Firewall Manager
+B) AWS STS
+B) Amazon Inspector
+
+QUESTION_ID_PLACEHOLDER
+Which AWS service uses Chef to automate how servers are configured and deployed?
+B) AWS CloudFormation
+B) AWS Config
+B) AWS Systems Manager
++A) AWS OpsWorks
+
+QUESTION_ID_PLACEHOLDER
+The customer is responsible for patching the Operating System of which AWS service?
+B) AWS Fargate
+B) AWS Lambda
++A) Amazon Lightsail
+B) Amazon RDS
+
+QUESTION_ID_PLACEHOLDER
+Which of the following is a correct statement about default VPC Network Access Control Lists (NACLs) and outbound traffic?
+B) Default NACLs are stateful and they block all outbound traffic by default.
++A) Default NACLs are stateless and they allow all outbound traffic by default.
+B) Default NACLs are stateless and they block all outbound traffic by default.
+B) Default NACLs are stateful and they allow all outbound traffic by default.
+
+QUESTION_ID_PLACEHOLDER
+Which of the following are AWS Well-Architected Framework pillars?
+B) Hardware Reliability
++A) Performance Efficiency
++A) Operational Excellence
+B) Speed to Market
+B) Resource Capacity
+
+QUESTION_ID_PLACEHOLDER
+Which AWS service uses Machine Learning to analyze events across multiple AWS data sources to detect malicious activity in your AWS accounts?
+B) Amazon Inspector
+B) AWS Resource Access Manager
++A) Amazon GuardDuty
+B) AWS Shield
+
+QUESTION_ID_PLACEHOLDER
+Which AWS service or feature lets you centrally restrict permissions for all accounts in your organization?
+B) MFA
++A) SCP
+B) Amazon Cognito
+B) AWS Config
+
+QUESTION_ID_PLACEHOLDER
+Your company uses version control to store code, and multiple environments to experiment with, develop and test workloads. These strategies involve which pillar of the AWS Well-Architected Framework?
+B) Performance Efficiency
++A) Operational Excellence
+B) Security
+B) Reliability
+
+QUESTION_ID_PLACEHOLDER
+What is an Availability Zone in AWS?
+B) A separate geographical area that has a cluster of multiple, isolated data centers.
+B) A small subset of AWS services located next to a large population, industry, and IT centers.
+B) An AWS compute and storage services deployed within the telecommunications providers’ data centers at the edge of the 5G networks.
++A) One or more discrete data centers with redundant power, networking, and connectivity.
+
+QUESTION_ID_PLACEHOLDER
+Which fully managed Amazon Kinesis service allows you to capture, transform, and load data streams into AWS data stores (like S3 or Redshift) for near real-time analytics?
+B) Kinesis Data Streams
+B) Kinesis Video Streams
++A) Kinesis Data Firehose
+B) Kinesis Data Analytics
+
+QUESTION_ID_PLACEHOLDER
+If Security Groups work like a firewall; what is the purpose of using Network ACLs (NACLs)?
+B) NACLs are needed to secure containers in Elastic Container Service. Security Groups are needed for EC2 instances.
++A) NACLs work as a firewall for Subnets. Security Groups are a firewall for EC2 instances.
+B) NACLs are needed to specifically protect RDS.
+B) NACLs work as a firewall for EC2 instances. Security Groups are a firewall for Subnets.
+
+QUESTION_ID_PLACEHOLDER
+What are some of the advantages of using AWS?
+B) AWS is responsible for your data and applications.
++A) AWS is responsible for the capacity planning of physical servers.
++A) AWS is responsible for the maintenance of physical hardware.
+B) AWS is responsible for the security of all resources and services.
+B) AWS is responsible for proactive maintenance of the Operating System on EC2 instances.
+
+QUESTION_ID_PLACEHOLDER
+Which of the following allows you to create infrastructure using infrastructure as code?
++A) AWS CloudFormation
+B) AWS Elastic Beanstalk
+B) AWS Lambda
+B) AWS Fargate
+
+QUESTION_ID_PLACEHOLDER
+Which AWS service allows you to create symmetric or asymmetric customer master keys in order to encrypt data?
++A) AWS Key Management Service (KMS)
+B) AWS Certificate Manager
+B) AWS Secrets Manager
+B) Amazon Cognito
+
+QUESTION_ID_PLACEHOLDER
+Which of the following allows you to use your own eligible software licenses from vendors such as Microsoft and Oracle on Amazon EC2?
+B) On-Demand Instances
+B) Spot Instances
++A) Dedicated Hosts
+B) Reserved Instances
+
+QUESTION_ID_PLACEHOLDER
+One of the benefits of AWS is increased agility. What does it refer to?
+B) AWS allows you to trade CAPEX for OPEX.
+B) Hardware in AWS runs much quicker than in a similar on-premises environment.
+B) You avoid over-provisioning infrastructure by having AWS automatically figure out what you need.
++A) New computing resources can be provisioned much quicker than before. This saves cost and time.
+
+QUESTION_ID_PLACEHOLDER
+Which AWS service or feature lets you route traffic between two VPCs using private IP addresses?
+B) VPC Traffic Mirroring
+B) AWS Transit Gateway
+B) AWS PrivateLink
++A) VPC Peering
+
+QUESTION_ID_PLACEHOLDER
+What does elasticity refer to in AWS?
++A) Ability to horizontally (or vertically) scale resources.
+B) Ability to route traffic from one Availability Zone to another.
+B) Pay-as-you-go pricing model.
+B) Enhanced reliability of AWS Cloud services.
+
+QUESTION_ID_PLACEHOLDER
+Which AWS service or feature provides pre-made accelerators & templates to help solution architects deploy over 100 different production environments to AWS?
+B) AWS CloudFormation
+B) AWS Lightsail
+B) AWS CodePipeline
++A) AWS Quick Starts
+
+QUESTION_ID_PLACEHOLDER
+Which AWS service can be used to scan for vulnerabilities in EC2 instances, check for unintended network access, and provide a report?
++A) Amazon Inspector
+B) Amazon Detective
+B) AWS GuardDuty
+B) AWS Shield
+
+QUESTION_ID_PLACEHOLDER
+Which of the following is an AWS Cloud architecture design principle?
+B) Implement tight coupling.
++A) Implement loose coupling.
+B) Use monolithic design principles.
+B) Scale servers vertically.
++A) Use disposable resources instead of fixed servers.
+
+QUESTION_ID_PLACEHOLDER
+What AWS service or feature can you use to inspect web requests and block them based on the IP address, embedded scripts that appear to be malicious, or strings encoded in the request?
++A) AWS WAF
+B) Amazon CloudFront
+B) Security Groups
+B) Network ACLs
+
+QUESTION_ID_PLACEHOLDER
+Your company wants to get a number of Amazon EC Reserved Instances. What payment option would you recommend to get the largest possible discount?
+B) No Upfront
+B) Partial Upfront
+B) Switch to On-Demand Hourly
++A) All Upfront
+
+QUESTION_ID_PLACEHOLDER
+Your company needs a storage service for home directories, developer tools, and big data analytics. It also expects that this storage service will be accessed by a thousand EC2 instances at the same time. What storage service is best suited for this?
+B) Amazon EC2 Instance Store
+B) Amazon S3
+B) Amazon EBS
++A) Amazon EFS
+
+QUESTION_ID_PLACEHOLDER
+What are the benefits of using AWS?
+B) No need for Ops.
++A) AWS is cost-effective as you only pay for what you use.
+B) Increased staffing requirements.
++A) Increased agility and flexibility
+B) Access to data centers and hardware at any time.
+
+QUESTION_ID_PLACEHOLDER
+What is a Region in AWS?
+B) An AWS compute and storage services deployed within the telecommunications providers’ data centers at the edge of the 5G networks.
++A) A separate geographical area that has a cluster of multiple, isolated data centers.
+B) One or more discrete data centers with redundant power, networking, and connectivity.
+B) A small subset of AWS services located next to a large population, industry, and IT centers.
+
+QUESTION_ID_PLACEHOLDER
+You are building an application that can be interrupted at any time. What is the most cost-effective EC2 instance type for this application?
+B) On-Demand Instances
++A) Spot Instances
+B) Dedicated Instances
+B) Reserved Instances
+
+QUESTION_ID_PLACEHOLDER
+What AWS Service provides alerts and remediation guidance when AWS is experiencing events that may impact you directly?
+B) AWS Organizations
+B) AWS Control Tower
++A) AWS Personal Health Dashboard
+B) AWS Status
+
+QUESTION_ID_PLACEHOLDER
+What AWS service would you use to download AWS' security and compliance reports?
+B) Amazon Inspector
++A) AWS Artifact
+B) AWS Security Hub
+B) AWS Shield
+
+QUESTION_ID_PLACEHOLDER
+Which AWS service allows you to have your own source control repositories based on Git?
+B) AWS CodePipeline
+B) AWS CodeBuild
++A) AWS CodeCommit
+B) AWS DataSync
+
+QUESTION_ID_PLACEHOLDER
+What are the benefits provided by AWS Organizations?
+B) Ability to create more sub-accounts.
++A) Account control access and permissions.
++A) Access to Consolidated Billing.
+B) Access to a Technical Account Manager (TAM)
+B) Automated security and network penetration checks.
+
+QUESTION_ID_PLACEHOLDER
+What can you do with AWS Cost Management services?
+B) Migrate extra compute capacity from EC2 to Lambda.
+B) Automatically terminate all resources and compute activity if your budget has been exceeded.
+B) Create and manage Organizational Units (OU).
++A) Create a savings plan to save up to 72% on compute usage.
++A) Set custom budgets and receive notifications when they have been exceeded.
+
+QUESTION_ID_PLACEHOLDER
+What is a fully managed queue service that enables you to decouple microservices and serverless applications?
++A) Amazon SQS
+B) Amazon SES
+B) Amazon Kinesis
+B) Amazon SNS
+
+QUESTION_ID_PLACEHOLDER
+What is the key AWS global infrastructure feature used by Amazon CloudFront?
+B) Availability Zones
++A) Edge Locations
+B) Local Zones
+B) Regions
+
+QUESTION_ID_PLACEHOLDER
+Which AWS service provides a fully managed container orchestration service?
+B) AWS Lambda
+B) AWS Batch
++A) Amazon ECS
+B) Amazon EC2
+
+QUESTION_ID_PLACEHOLDER
+Which of the following is an IAM identity, with permission policies, that can be assumed by anyone who needs it for a session?
++A) IAM Role
+B) IAM Group
+B) IAM User
+B) IAM Policy
+
+QUESTION_ID_PLACEHOLDER
+What feature takes advantage of Amazon CloudFront's globally distributed edge locations to accelerate the transfer of files between the customer and S3?
+B) Amazon S3 Multipart Upload
+B) Amazon S3 Fast Upload
++A) Amazon S3 Transfer Acceleration
+B) API Gateway
+
+QUESTION_ID_PLACEHOLDER
+Which AWS service provides a 'hub and spoke' model of connectivity to allow multiple VPCs and on-premises networks to be connected easily?
+B) AWS VPN
++A) AWS Transit Gateway
+B) AWS Direct Connect
+B) Amazon Route 53
+
+QUESTION_ID_PLACEHOLDER
+What is one benefit of pay-as-you-go pricing model in AWS?
+B) Reduces operational expenses for AWS.
++A) It allows you to adapt to changing business needs without overcommitting budgets.
+B) Saves over 75% over equivalent on-demand capacity.
+B) Reduces up-front payments for AWS services.
+
+QUESTION_ID_PLACEHOLDER
+Which type of S3 Access Control gives you control at an AWS Account Level and User Level?
+B) ACLs
+B) SCP
+B) IAM Policies
++A) Bucket Policies
+
+QUESTION_ID_PLACEHOLDER
+For which of the following will you be charged by AWS?
+B) Creating an additional VPC.
+B) Creating an additional subnet in a VPC.
++A) Amount of data transferred from S3 out to the Internet.
++A) The number of executions made by AWS Lambda and duration.
+B) Adding an Internet Gateway to a subnet.
+
+QUESTION_ID_PLACEHOLDER
+Which of the following are recommended AWS security best practices?
+B) Use the Root account to set up all infrastructure.
++A) Use security groups and Network ACLs.
+B) Grant as many privileges/permissions to Roles as possible to increase efficiency.
++A) Use IAM policies to control access.
+B) Avoid using managed services to have a better security posture.
+
+QUESTION_ID_PLACEHOLDER
+Which AWS service can be used to cache relational database queries and reduce latency for end-users?
+B) Amazon S3
++A) Amazon ElastiCache
+B) AWS Lambda
+B) Amazon EC2
+

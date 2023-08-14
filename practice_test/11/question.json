@@ -1,0 +1,18 @@
+{
+    "text": "What type of storage is offered by Amazon S3?",
+    "answers": [
+        {
+            "text": "Object",
+            "right_answer": true
+        },
+        {
+            "text": "File"
+        },
+        {
+            "text": "Block"
+        },
+        {
+            "text": "Blob"
+        }
+    ]
+}

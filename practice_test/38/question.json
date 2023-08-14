@@ -1,0 +1,18 @@
+{
+    "text": "One of the benefits of AWS is increased agility. What does it refer to?",
+    "answers": [
+        {
+            "text": "AWS allows you to trade CAPEX for OPEX."
+        },
+        {
+            "text": "Hardware in AWS runs much quicker than in a similar on-premises environment."
+        },
+        {
+            "text": "You avoid over-provisioning infrastructure by having AWS automatically figure out what you need."
+        },
+        {
+            "text": "New computing resources can be provisioned much quicker than before. This saves cost and time.",
+            "right_answer": true
+        }
+    ]
+}

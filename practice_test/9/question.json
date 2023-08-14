@@ -1,0 +1,18 @@
+{
+    "text": "What is the AWS Shared Responsibility Model?",
+    "answers": [
+        {
+            "text": "It's a set of best principles selected from the AWS Well-Architected Framework."
+        },
+        {
+            "text": "It's a set of quickstart guides that show how to deploy common solutions on EC2 and RDS."
+        },
+        {
+            "text": "It's a security and compliance framework that specifies what AWS is responsible for, what the customer is responsible for, and what are the shared responsibilities.",
+            "right_answer": true
+        },
+        {
+            "text": "It\u2019s a framework that describes how to best architect AWS solutions in the Cloud environment."
+        }
+    ]
+}

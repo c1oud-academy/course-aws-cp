@@ -1,0 +1,22 @@
+{
+    "answers": [
+        {
+            "text": "2 Years"
+        },
+        {
+            "right_answer": true,
+            "text": "3 Years"
+        },
+        {
+            "text": "5 Years"
+        },
+        {
+            "text": "4 Years"
+        },
+        {
+            "right_answer": true,
+            "text": "1 Year"
+        }
+    ],
+    "text": "Your company wants to purchase a few Reserved Instances. What reservation terms does AWS offer?"
+}

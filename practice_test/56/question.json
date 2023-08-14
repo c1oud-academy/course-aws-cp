@@ -1,0 +1,18 @@
+{
+    "text": "What is the key AWS global infrastructure feature used by Amazon CloudFront?",
+    "answers": [
+        {
+            "text": "Availability Zones"
+        },
+        {
+            "text": "Edge Locations",
+            "right_answer": true
+        },
+        {
+            "text": "Local Zones"
+        },
+        {
+            "text": "Regions"
+        }
+    ]
+}

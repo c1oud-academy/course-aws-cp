@@ -1,0 +1,24 @@
+{
+    "answers": [
+        {
+            "text": "AWS Lambda"
+        },
+        {
+            "right_answer": true,
+            "text": "Amazon EC2 Spot Fleets"
+        },
+        {
+            "right_answer": true,
+            "text": "Amazon DynamoDB throughput capacity"
+        },
+        {
+            "right_answer": true,
+            "text": "Aurora replicas for Amazon Aurora"
+        },
+        {
+            "right_answer": true,
+            "text": "Amazon EC2 Auto Scaling Groups"
+        }
+    ],
+    "text": "Which of the following is AWS Auto Scaling capable of scaling?"
+}

@@ -1,0 +1,30 @@
+{
+    "text": "What can you do with Amazon CloudWatch?",
+    "answers": [
+        {
+            "text": "Send you a notification whenever a user logs in to AWS."
+        },
+        {
+            "text": "Create an unlimited amount of dashboards for free."
+        },
+        {
+            "text": "Enable detailed monitoring for EC2 instances.",
+            "right_answer": true
+        },
+        {
+            "text": "Capture API calls made by AWS Services."
+        },
+        {
+            "text": "Create alarms to stop, terminate, reboot or recover an EC2 instance.",
+            "right_answer": true
+        },
+        {
+            "text": "Set up Log retention policies.",
+            "right_answer": true
+        },
+        {
+            "text": "Log Route 53 DNS Queries.",
+            "right_answer": true
+        }
+    ]
+}

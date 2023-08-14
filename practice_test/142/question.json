@@ -1,0 +1,22 @@
+{
+    "answers": [
+        {
+            "right_answer": true,
+            "text": "Amazon CloudWatch"
+        },
+        {
+            "text": "AWS Cost and Usage Report"
+        },
+        {
+            "right_answer": true,
+            "text": "Amazon Simple Notification Service (SNS)"
+        },
+        {
+            "text": "AWS CloudTrail"
+        },
+        {
+            "text": "AWS Cost Explorer"
+        }
+    ],
+    "text": "Which two AWS services in combination can be used to create a billing alarm and send a notification when your AWS usage exceeds a set amount?"
+}

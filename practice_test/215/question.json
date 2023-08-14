@@ -1,0 +1,22 @@
+{
+    "answers": [
+        {
+            "text": "A domain name configured in Route 53."
+        },
+        {
+            "text": "An HTTPS certificate."
+        },
+        {
+            "right_answer": true,
+            "text": "An index document (like index.html) in the root of the bucket."
+        },
+        {
+            "text": "An error document in the root of the bucket."
+        },
+        {
+            "right_answer": true,
+            "text": "The option to 'Use this bucket to host a website' enabled."
+        }
+    ],
+    "text": "If you want to enable S3 static website hosting what do you need to have?"
+}
