@@ -1,0 +1,23 @@
+{
+    "answers": [
+        {
+            "right_answer": true,
+            "text": "Availability of all needed services in the Region."
+        },
+        {
+            "right_answer": true,
+            "text": "Cost of required services in the Region."
+        },
+        {
+            "text": "Volume discounts for the AWS Region."
+        },
+        {
+            "right_answer": true,
+            "text": "Region proximity to the potential users in order to minimize latency."
+        },
+        {
+            "text": "Enhanced Regional security."
+        }
+    ],
+    "text": "Your company is choosing which AWS Region to use for their application. What factors should the company consider?"
+}

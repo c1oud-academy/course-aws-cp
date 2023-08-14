@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "right_answer": true,
+            "text": "You can replace upfront Capital Expenses (CAPEX) with variable Operational Expenses (OPEX)."
+        },
+        {
+            "text": "You can replace fluctuating Operational Expenses (OPEX) with upfront Capital Expenses (CAPEX)."
+        },
+        {
+            "text": "You have to pay both upfront and variable CAPEX and OPEX costs."
+        },
+        {
+            "text": "You no longer have to consider CAPEX nor OPEX expenses when using AWS."
+        }
+    ],
+    "text": "What is the economic benefit of using AWS (on-demand instance types and PAYG services) instead of your own on-premises data center?"
+}

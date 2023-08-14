@@ -1,0 +1,10 @@
+{
+  "text": "How many semesters do you need to study in order to be fully prepared for AWS Certified Cloud Practitioner exam with C1oud academy courses?",
+  "answers": [
+    {"text": "1", "right_answer": true},
+    {"text": "2"},
+    {"text": "3"},
+    {"text": "4"}
+  ],
+  "right_answers_count": 1
+}

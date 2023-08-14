@@ -1,0 +1,18 @@
+{
+    "text": "What is the purpose of the Concierge Support Team?",
+    "answers": [
+        {
+            "text": "They provide account assistance on the Business Support Plan."
+        },
+        {
+            "text": "They provide technical assistance on the Enterprise Support Plan."
+        },
+        {
+            "text": "They provide account assistance on the Enterprise Support Plan.",
+            "right_answer": true
+        },
+        {
+            "text": "They provide technical assistance on the Business Support Plan."
+        }
+    ]
+}

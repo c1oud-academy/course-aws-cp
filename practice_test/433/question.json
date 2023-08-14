@@ -1,0 +1,18 @@
+{
+    "text": "Which AWS Service is best suited as a Data Warehouse solution?",
+    "answers": [
+        {
+            "text": "Amazon Redshift",
+            "right_answer": true
+        },
+        {
+            "text": "Amazon RDS on VMWare"
+        },
+        {
+            "text": "Amazon DynamoDB"
+        },
+        {
+            "text": "Amazon Aurora"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "text": "If Security Groups work like a firewall; what is the purpose of using Network ACLs (NACLs)?",
+    "answers": [
+        {
+            "text": "NACLs are needed to secure containers in Elastic Container Service. Security Groups are needed for EC2 instances."
+        },
+        {
+            "text": "NACLs work as a firewall for Subnets. Security Groups are a firewall for EC2 instances.",
+            "right_answer": true
+        },
+        {
+            "text": "NACLs are needed to specifically protect RDS."
+        },
+        {
+            "text": "NACLs work as a firewall for EC2 instances. Security Groups are a firewall for Subnets."
+        }
+    ]
+}

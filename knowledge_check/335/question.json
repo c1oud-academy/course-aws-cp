@@ -1,0 +1,18 @@
+{
+    "text": "Select support plan activated by default on new AWS accounts:",
+    "answers": [
+        {
+            "text": "Basic Support",
+            "right_answer": true
+        },
+        {
+            "text": "Developer Support"
+        },
+        {
+            "text": "Business Support"
+        },
+        {
+            "text": "Enterprise Support"
+        }
+    ]
+}

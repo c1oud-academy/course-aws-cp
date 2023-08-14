@@ -1,0 +1,38 @@
+{
+    "type": "practice_test",
+    "aws_group": [
+        "Networking & Content Delivery"
+    ],
+    "id": "429",
+    "property_keys": [
+        "type",
+        "id",
+        "content_type",
+        "aws_service",
+        "aws_group"
+    ],
+    "title": {
+        "en": "Practice test quesion 429",
+        "kk": "Practice test quesion 429",
+        "ru": "Practice test quesion 429"
+    },
+    "files_list": [
+        {
+            "type": "metadata",
+            "lang": "en",
+            "path": "metadata.json"
+        },
+        {
+            "type": "question",
+            "lang": "en",
+            "path": "question.json"
+        }
+    ],
+    "aws_service": [
+        "Neptune",
+        "EC2",
+        "DynamoDB",
+        "S3"
+    ],
+    "content_type": "test"
+}

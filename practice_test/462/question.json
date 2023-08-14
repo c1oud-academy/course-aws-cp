@@ -1,0 +1,29 @@
+{
+    "text": "Which of the following are CloudWatch Alarm states in Amazon CloudWatch?",
+    "answers": [
+        {
+            "text": "INSUFFICIENT_DATA",
+            "right_answer": true
+        },
+        {
+            "text": "SUCCESS"
+        },
+        {
+            "text": "OK",
+            "right_answer": true
+        },
+        {
+            "text": "NOT_OK"
+        },
+        {
+            "text": "ALARM",
+            "right_answer": true
+        },
+        {
+            "text": "VALID"
+        },
+        {
+            "text": "INVALID"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "text": "Which AWS service or feature lets you centrally restrict permissions for all accounts in your organization?",
+    "answers": [
+        {
+            "text": "MFA"
+        },
+        {
+            "text": "SCP",
+            "right_answer": true
+        },
+        {
+            "text": "Amazon Cognito"
+        },
+        {
+            "text": "AWS Config"
+        }
+    ]
+}

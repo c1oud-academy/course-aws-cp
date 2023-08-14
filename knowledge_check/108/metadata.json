@@ -1,0 +1,25 @@
+{
+	"type": "knowledge_check",
+	"id": "108",
+	"content_type": "test",
+	"linked_type": "lecture",
+	"linked_id": "10",
+	"property_keys": ["type", "id", "content_type", "linked_type", "linked_id"],
+	"title": {
+		"ru": "Knwledge check quesion 108",
+		"kk": "Knwledge check quesion 108",
+		"en": "Knwledge check quesion 108"
+	},
+	"files_list": [
+		{
+			"path": "metadata.json",
+			"type": "metadata",
+			"lang": "en"
+		},
+		{
+			"path": "question.json",
+			"type": "question",
+			"lang": "en"
+		}
+	]
+}

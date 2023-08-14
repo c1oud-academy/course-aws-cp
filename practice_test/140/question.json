@@ -1,0 +1,26 @@
+{
+    "answers": [
+        {
+            "right_answer": true,
+            "text": "Access Control List"
+        },
+        {
+            "right_answer": true,
+            "text": "Identity Based"
+        },
+        {
+            "right_answer": true,
+            "text": "Resource Based"
+        },
+        {
+            "text": "User Based"
+        },
+        {
+            "text": "Close Network Control List"
+        },
+        {
+            "text": "Role Based"
+        }
+    ],
+    "text": "Which of the following are IAM Policy types?"
+}

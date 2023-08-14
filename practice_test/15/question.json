@@ -1,0 +1,18 @@
+{
+    "text": "Which AWS service lets you create dashboards for Business Intelligence (BI) insights?",
+    "answers": [
+        {
+            "text": "Amazon Chime"
+        },
+        {
+            "text": "Amazon Athena"
+        },
+        {
+            "text": "Amazon QuickSight",
+            "right_answer": true
+        },
+        {
+            "text": "Amazon EMR"
+        }
+    ]
+}

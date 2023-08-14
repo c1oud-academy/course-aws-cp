@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "AWS Trusted Advisor"
+        },
+        {
+            "right_answer": true,
+            "text": "Amazon Inspector"
+        },
+        {
+            "text": "Amazon GuardDuty"
+        },
+        {
+            "text": "AWS Config"
+        }
+    ],
+    "text": "Your company has asked you to scan for security exposures and vulnerabilities in your EC2 instances.  Which AWS Service would you consider using to do this?"
+}

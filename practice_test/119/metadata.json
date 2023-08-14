@@ -1,0 +1,37 @@
+{
+    "aws_service": [
+        "Application Discovery Service",
+        "Artifact"
+    ],
+    "type": "practice_test",
+    "title": {
+        "kk": "Practice test quesion 119",
+        "en": "Practice test quesion 119",
+        "ru": "Practice test quesion 119"
+    },
+    "content_type": "test",
+    "id": "119",
+    "property_keys": [
+        "type",
+        "id",
+        "content_type",
+        "aws_service",
+        "aws_group"
+    ],
+    "aws_group": [
+        "Migration & Transfer",
+        "Security, Identity, & Compliance"
+    ],
+    "files_list": [
+        {
+            "type": "metadata",
+            "path": "metadata.json",
+            "lang": "en"
+        },
+        {
+            "type": "question",
+            "path": "question.json",
+            "lang": "en"
+        }
+    ]
+}

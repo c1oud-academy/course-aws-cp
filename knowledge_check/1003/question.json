@@ -1,0 +1,19 @@
+{
+    "text": "Select HDD based EBS volume types:",
+    "answers": [
+        {
+            "text": "General Purpose"
+        },
+        {
+            "text": "Provisioned IOPS"
+        },
+        {
+            "text": "Throughput-Optimized",
+            "right_answer": true
+        },
+        {
+            "text": "Cold",
+            "right_answer": true
+        }
+    ]
+}

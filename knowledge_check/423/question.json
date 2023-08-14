@@ -1,0 +1,30 @@
+{
+    "text": "What is the AWS service that is serverless, pay-as-you-go compute engine that lets you focus on building applications without managing servers?",
+    "answers": [
+        {
+            "text": "Amazon EC2"
+        },
+        {
+            "text": "Amazon EC2 Auto Scaling"
+        },
+        {
+            "text": "Amazon ECS"
+        },
+        {
+            "text": "Amazon ECR"
+        },
+        {
+            "text": "AWS Elastic Beanstalk"
+        },
+        {
+            "text": "AWS Lambda"
+        },
+        {
+            "text": "Amazon EKS"
+        },
+        {
+            "text": "AWS Fargate",
+            "right_answer": true
+        }
+    ]
+}

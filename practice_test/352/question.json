@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "AWS Config"
+        },
+        {
+            "text": "Amazon CloudWatch"
+        },
+        {
+            "text": "Amazon GuardDuty"
+        },
+        {
+            "right_answer": true,
+            "text": "AWS CloudTrail"
+        }
+    ],
+    "text": "What AWS service could you use to record API activity made on your AWS account and save this activity to log files in S3?"
+}

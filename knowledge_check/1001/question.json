@@ -1,0 +1,18 @@
+{
+    "text": "Select service that provides persistent block storage volumes for use with Amazon EC2 instances:",
+    "answers": [
+        {
+            "text": "Amazon EBS",
+            "right_answer": true
+        },
+        {
+            "text": "Amazon S3"
+        },
+        {
+            "text": "Amazon EFS"
+        },
+        {
+            "text": "Amazon S3 Glacier"
+        }
+    ]
+}

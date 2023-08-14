@@ -1,0 +1,18 @@
+{
+    "text": "What is the service where you can see your spendings in different perspectives with simple interactive UI?",
+    "answers": [
+        {
+            "text": "AWS Billing and Cost Management"
+        },
+        {
+            "text": "AWS Budgets"
+        },
+        {
+            "text": "AWS Cost and Usage Report"
+        },
+        {
+            "text": "AWS Cost Explorer",
+            "right_answer": true
+        }
+    ]
+}

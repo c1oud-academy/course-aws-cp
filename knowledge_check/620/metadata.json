@@ -1,0 +1,31 @@
+{
+    "id": "620",
+    "type": "knowledge_check",
+    "linked_type": "lecture",
+    "content_type": "test",
+    "files_list": [
+        {
+            "lang": "en",
+            "path": "metadata.json",
+            "type": "metadata"
+        },
+        {
+            "lang": "en",
+            "path": "question.json",
+            "type": "question"
+        }
+    ],
+    "title": {
+        "en": "Knowledge check quesion 620",
+        "kk": "Knowledge check quesion 620",
+        "ru": "Knowledge check quesion 620"
+    },
+    "property_keys": [
+        "type",
+        "id",
+        "content_type",
+        "linked_type",
+        "linked_id"
+    ],
+    "linked_id": "60"
+}

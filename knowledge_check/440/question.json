@@ -1,0 +1,24 @@
+{
+    "text": "What is the AWS service that allows you to create, manage, and control cryptographic keys?",
+    "answers": [
+        {
+            "text": "AWS IAM"
+        },
+        {
+            "text": "AWS Organizations"
+        },
+        {
+            "text": "Amazon Cognito"
+        },
+        {
+            "text": "AWS Artifact"
+        },
+        {
+            "text": "AWS Key Management Service",
+            "right_answer": true
+        },
+        {
+            "text": "AWS Shield"
+        }
+    ]
+}

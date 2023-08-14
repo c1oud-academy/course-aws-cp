@@ -1,0 +1,38 @@
+{
+    "property_keys": [
+        "type",
+        "id",
+        "content_type",
+        "aws_service",
+        "aws_group"
+    ],
+    "aws_group": [
+        "Storage",
+        "Compute"
+    ],
+    "id": "242",
+    "files_list": [
+        {
+            "path": "metadata.json",
+            "lang": "en",
+            "type": "metadata"
+        },
+        {
+            "path": "question.json",
+            "lang": "en",
+            "type": "question"
+        }
+    ],
+    "content_type": "test",
+    "title": {
+        "kk": "Practice test quesion 242",
+        "en": "Practice test quesion 242",
+        "ru": "Practice test quesion 242"
+    },
+    "type": "practice_test",
+    "aws_service": [
+        "S3",
+        "EFS",
+        "EC2"
+    ]
+}

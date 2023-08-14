@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "right_answer": true,
+            "text": "AWS IAM"
+        },
+        {
+            "text": "AWS Active Directory"
+        },
+        {
+            "text": "Amazon Identity"
+        },
+        {
+            "text": "Amazon Cognito"
+        }
+    ],
+    "text": "Which AWS service is used to manage Identity and User Access in AWS?"
+}

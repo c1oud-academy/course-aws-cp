@@ -1,0 +1,18 @@
+{
+    "text": "What does TCO stand for?",
+    "answers": [
+        {
+            "text": "Total Cost of Ownership",
+            "right_answer": true
+        },
+        {
+            "text": "Total Center of Ownership"
+        },
+        {
+            "text": "Total Company of Ownership"
+        },
+        {
+            "text": "Other"
+        }
+    ]
+}

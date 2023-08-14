@@ -1,0 +1,38 @@
+{
+    "aws_service": [
+        "S3",
+        "DynamoDB",
+        "ElastiCache"
+    ],
+    "type": "practice_test",
+    "title": {
+        "kk": "Practice test quesion 126",
+        "en": "Practice test quesion 126",
+        "ru": "Practice test quesion 126"
+    },
+    "content_type": "test",
+    "id": "126",
+    "property_keys": [
+        "type",
+        "id",
+        "content_type",
+        "aws_service",
+        "aws_group"
+    ],
+    "aws_group": [
+        "Database",
+        "Storage"
+    ],
+    "files_list": [
+        {
+            "type": "metadata",
+            "path": "metadata.json",
+            "lang": "en"
+        },
+        {
+            "type": "question",
+            "path": "question.json",
+            "lang": "en"
+        }
+    ]
+}

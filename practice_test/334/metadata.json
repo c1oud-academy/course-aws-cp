@@ -1,0 +1,38 @@
+{
+    "type": "practice_test",
+    "files_list": [
+        {
+            "path": "metadata.json",
+            "type": "metadata",
+            "lang": "en"
+        },
+        {
+            "path": "question.json",
+            "type": "question",
+            "lang": "en"
+        }
+    ],
+    "property_keys": [
+        "type",
+        "id",
+        "content_type",
+        "aws_service",
+        "aws_group"
+    ],
+    "aws_service": [
+        "GuardDuty",
+        "CloudTrail",
+        "Inspector"
+    ],
+    "aws_group": [
+        "Management & Governance",
+        "AWS Cost Management"
+    ],
+    "id": "334",
+    "title": {
+        "ru": "Practice test quesion 334",
+        "en": "Practice test quesion 334",
+        "kk": "Practice test quesion 334"
+    },
+    "content_type": "test"
+}

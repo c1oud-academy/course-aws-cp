@@ -1,0 +1,21 @@
+{
+    "answers": [
+        {
+            "text": "Event-driven, serverless compute service that enables you to run code without provisioning or managing servers"
+        },
+        {
+            "text": "Highly scalable, high-performance container management service which supports Docker containers"
+        },
+        {
+            "right_answer": true,
+            "text": "Managed Kubernetes service that makes it easy for you to run Kubernetes on AWS"
+        },
+        {
+            "text": "Fully managed Docker container registry that makes it easy for developers to store, manage, and deploy Docker container images"
+        },
+        {
+            "text": "Platform as a service (or PaaS) that facilitates the quick deployment, scaling, and management of your web applications and services"
+        }
+    ],
+    "text": "Select valid definition for Amazon EKS:"
+}

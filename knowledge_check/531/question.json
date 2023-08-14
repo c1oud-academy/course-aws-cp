@@ -1,0 +1,21 @@
+{
+    "text": "What is the AWS service that helps to discover sensitive and personal information in your data?",
+    "answers": [
+        {
+            "text": "AWS KMS"
+        },
+        {
+            "text": "AWS Macie",
+            "right_answer": true
+        },
+        {
+            "text": "AWS Shield"
+        },
+        {
+            "text": "AWS Organizations"
+        },
+        {
+            "text": "AWS Config"
+        }
+    ]
+}

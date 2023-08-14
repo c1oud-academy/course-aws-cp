@@ -1,0 +1,22 @@
+{
+    "text": "What are the benefits of using AWS?",
+    "answers": [
+        {
+            "text": "No need for Ops."
+        },
+        {
+            "text": "AWS is cost-effective as you only pay for what you use.",
+            "right_answer": true
+        },
+        {
+            "text": "Increased staffing requirements."
+        },
+        {
+            "text": "Increased agility and flexibility",
+            "right_answer": true
+        },
+        {
+            "text": "Access to data centers and hardware at any time."
+        }
+    ]
+}

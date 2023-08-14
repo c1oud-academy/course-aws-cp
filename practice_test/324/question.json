@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "right_answer": true,
+            "text": "AWS Config"
+        },
+        {
+            "text": "Amazon Change Manager"
+        },
+        {
+            "text": "Amazon CloudWatch"
+        },
+        {
+            "text": "AWS CloudTrail"
+        }
+    ],
+    "text": "You have been asked to show a record of historical configuration changes in your AWS infrastructure. Which AWS Service could you use to accomplish that?"
+}

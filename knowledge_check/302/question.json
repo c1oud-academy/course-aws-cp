@@ -1,0 +1,22 @@
+{
+    "text": "Select the main factors that affect the cost with AWS:",
+    "answers": [
+        {
+            "text": "Compute",
+            "right_answer": true
+        },
+        {
+            "text": "Data transfer",
+            "right_answer": true
+        },
+        {
+            "text": "Service"
+        },
+        {
+            "text": "Block"
+        },
+        {
+            "text": "Driver"
+        }
+    ]
+}

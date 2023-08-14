@@ -1,0 +1,19 @@
+{
+    "text": "What kind of VPC Endpoints are there?",
+    "answers": [
+        {
+            "text": "Terminated Endpoints"
+        },
+        {
+            "text": "Gateway Endpoints",
+            "right_answer": true
+        },
+        {
+            "text": "Interface Endpoints",
+            "right_answer": true
+        },
+        {
+            "text": "Direct Endpoints"
+        }
+    ]
+}

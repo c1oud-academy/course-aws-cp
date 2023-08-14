@@ -1,0 +1,21 @@
+{
+    "text": "What does PURI stand for?",
+    "answers": [
+        {
+            "text": "Partial Upfront Reserved Instance",
+            "right_answer": true
+        },
+        {
+            "text": "Partial Unreserved Regular Instance"
+        },
+        {
+            "text": "Part-time Upfront Reserved Instance"
+        },
+        {
+            "text": "Part-time Unreserved Regular Instance"
+        },
+        {
+            "text": "Other"
+        }
+    ]
+}

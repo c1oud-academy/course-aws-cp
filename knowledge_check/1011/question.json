@@ -1,0 +1,27 @@
+{
+    "text": "Select non-existing S3 storage class:",
+    "answers": [
+        {
+            "text": "Standard"
+        },
+        {
+            "text": "Intelligent-Tiering"
+        },
+        {
+            "text": "Standard-IA"
+        },
+        {
+            "text": "One Zone-IA"
+        },
+        {
+            "text": "Glacier"
+        },
+        {
+            "text": "Glacier Deep Archive"
+        },
+        {
+            "text": "Glacier Simple",
+            "right_answer": true
+        }
+    ]
+}

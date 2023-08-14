@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "AWS Well-Architected Tool"
+        },
+        {
+            "text": "AWS Inspector"
+        },
+        {
+            "text": "AWS Systems Manager"
+        },
+        {
+            "right_answer": true,
+            "text": "AWS Trusted Advisor"
+        }
+    ],
+    "text": "Which AWS service can scan your AWS environment and make recommendations on how to optimize cost, improve performance, security, and enhance fault tolerance?"
+}

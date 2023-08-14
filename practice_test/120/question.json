@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "AWS PrivateLink"
+        },
+        {
+            "text": "AWS Direct Connect"
+        },
+        {
+            "text": "AWS Global Accelerator"
+        },
+        {
+            "right_answer": true,
+            "text": "AWS Edge Locations"
+        }
+    ],
+    "text": "Which one of these components does AWS use to ensure low-latency delivery of data with Amazon CloudFront?"
+}

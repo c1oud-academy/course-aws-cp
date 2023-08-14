@@ -1,0 +1,18 @@
+{
+    "text": "What is the maximum file size in Amazon S3 Glacier?",
+    "answers": [
+        {
+            "text": "5 TB"
+        },
+        {
+            "text": "40 TB",
+            "right_answer": true
+        },
+        {
+            "text": "40 GB"
+        },
+        {
+            "text": "5 GB"
+        }
+    ]
+}

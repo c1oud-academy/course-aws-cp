@@ -1,0 +1,18 @@
+{
+    "text": "Your company has asked you to automate the patching of Windows and Linux EC2 instances. What AWS service would you consider using?",
+    "answers": [
+        {
+            "text": "Amazon Inspector"
+        },
+        {
+            "text": "AWS Config"
+        },
+        {
+            "text": "AWS Systems Manager",
+            "right_answer": true
+        },
+        {
+            "text": "AWS Resource Access Manager"
+        }
+    ]
+}

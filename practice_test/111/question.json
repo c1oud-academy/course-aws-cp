@@ -1,0 +1,22 @@
+{
+    "answers": [
+        {
+            "right_answer": true,
+            "text": "Security"
+        },
+        {
+            "text": "High-Availability"
+        },
+        {
+            "text": "Effectiveness"
+        },
+        {
+            "right_answer": true,
+            "text": "Reliability"
+        },
+        {
+            "text": "Resilience"
+        }
+    ],
+    "text": "Which of the following pillars make up the AWS Well-Architected Framework?"
+}

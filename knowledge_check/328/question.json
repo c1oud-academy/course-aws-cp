@@ -1,0 +1,33 @@
+{
+    "text": "Select services related to costs and billing:",
+    "answers": [
+        {
+            "text": "AWS Billing and Cost Managements",
+            "right_answer": true
+        },
+        {
+            "text": "AWS Budgets",
+            "right_answer": true
+        },
+        {
+            "text": "AWS Cost and Usage Report",
+            "right_answer": true
+        },
+        {
+            "text": "AWS Cost Explorer",
+            "right_answer": true
+        },
+        {
+            "text": "AWS EC2"
+        },
+        {
+            "text": "AWS Config"
+        },
+        {
+            "text": "AWS Organizations"
+        },
+        {
+            "text": "AWS IAM"
+        }
+    ]
+}

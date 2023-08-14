@@ -1,0 +1,18 @@
+{
+    "text": "If you want to encrypt your S3 bucket with Amazon managed S3 keys, what option should you choose?",
+    "answers": [
+        {
+            "text": "SSE-KMS"
+        },
+        {
+            "text": "SSE-S3",
+            "right_answer": true
+        },
+        {
+            "text": "SSE-C"
+        },
+        {
+            "text": "SSE-RSA"
+        }
+    ]
+}

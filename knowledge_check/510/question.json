@@ -1,0 +1,24 @@
+{
+    "text": "Select option with security in the cloud which is Customer responsibility according to Shared Responsibilty Model:",
+    "answers": [
+        {
+            "text": "Physical security of data centers"
+        },
+        {
+            "text": "Hardware infrastructure"
+        },
+        {
+            "text": "Software infrastructure"
+        },
+        {
+            "text": "Network infrastructure"
+        },
+        {
+            "text": "Virtualization infrastructure"
+        },
+        {
+            "text": "Applications",
+            "right_answer": true
+        }
+    ]
+}

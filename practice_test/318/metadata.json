@@ -1,0 +1,37 @@
+{
+    "type": "practice_test",
+    "files_list": [
+        {
+            "path": "metadata.json",
+            "type": "metadata",
+            "lang": "en"
+        },
+        {
+            "path": "question.json",
+            "type": "question",
+            "lang": "en"
+        }
+    ],
+    "property_keys": [
+        "type",
+        "id",
+        "content_type",
+        "aws_service",
+        "aws_group"
+    ],
+    "aws_service": [
+        "AWS Local Zone",
+        "Availability Zone",
+        "AWS Wavelength"
+    ],
+    "aws_group": [
+        "AWS Global Infrastructure"
+    ],
+    "id": "318",
+    "title": {
+        "ru": "Practice test quesion 318",
+        "en": "Practice test quesion 318",
+        "kk": "Practice test quesion 318"
+    },
+    "content_type": "test"
+}

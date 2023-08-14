@@ -1,0 +1,18 @@
+{
+    "text": "Which service helps to calculate the TCO of cloud infrastructure?",
+    "answers": [
+        {
+            "text": "Amazon TCO"
+        },
+        {
+            "text": "AWS TCO"
+        },
+        {
+            "text": "AWS Cost Calculator"
+        },
+        {
+            "text": "AWS Pricing Calculator",
+            "right_answer": true
+        }
+    ]
+}

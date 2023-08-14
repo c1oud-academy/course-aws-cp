@@ -1,0 +1,22 @@
+{
+    "text": "What are the benefits provided by AWS Organizations?",
+    "answers": [
+        {
+            "text": "Ability to create more sub-accounts."
+        },
+        {
+            "text": "Account control access and permissions.",
+            "right_answer": true
+        },
+        {
+            "text": "Access to Consolidated Billing.",
+            "right_answer": true
+        },
+        {
+            "text": "Access to a Technical Account Manager (TAM)"
+        },
+        {
+            "text": "Automated security and network penetration checks."
+        }
+    ]
+}

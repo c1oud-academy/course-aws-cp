@@ -1,0 +1,26 @@
+{
+    "text": "Which of the following can help to prevent accidental deletion of objects in S3?",
+    "answers": [
+        {
+            "text": "Enabling CloudTrail records"
+        },
+        {
+            "text": "Enabling Ask-On-Delete"
+        },
+        {
+            "text": "Enabling MFA Delete",
+            "right_answer": true
+        },
+        {
+            "text": "Enabling S3 Glacier"
+        },
+        {
+            "text": "Enabling Versioning",
+            "right_answer": true
+        },
+        {
+            "text": "Enabling Cross-Region Replication",
+            "right_answer": true
+        }
+    ]
+}

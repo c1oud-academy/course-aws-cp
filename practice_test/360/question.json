@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "You will import asymmetric CMKs to AWS KMS but allow KMS to convert them to symmetric keys."
+        },
+        {
+            "text": "You will import the asymmetric CMKs just as you have been asked."
+        },
+        {
+            "text": "You will say that you can only import 5 asymmetric CMKs into AWS KMS because that is a hard limit."
+        },
+        {
+            "right_answer": true,
+            "text": "You will say that is impossible to do because AWS KMS cannot import asymmetric keys."
+        }
+    ],
+    "text": "Your company has asked you to import 10 asymmetric CMKs into AWS KMS. What are you going to do?"
+}

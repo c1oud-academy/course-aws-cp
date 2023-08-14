@@ -1,0 +1,18 @@
+{
+    "text": "Select service that is serverless compute solution:",
+    "answers": [
+        {
+            "text": "Amazon EC2"
+        },
+        {
+            "text": "AWS Elastic Beanstalk"
+        },
+        {
+            "text": "AWS Lambda",
+            "right_answer": true
+        },
+        {
+            "text": "Amazon Lightsail"
+        }
+    ]
+}

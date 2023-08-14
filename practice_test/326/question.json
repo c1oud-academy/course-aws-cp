@@ -1,0 +1,25 @@
+{
+    "answers": [
+        {
+            "right_answer": true,
+            "text": "Amazon S3"
+        },
+        {
+            "text": "Amazon S3 Glacier"
+        },
+        {
+            "right_answer": true,
+            "text": "Amazon CloudFront"
+        },
+        {
+            "text": "Amazon EBS"
+        },
+        {
+            "text": "Amazon DynamoDB"
+        },
+        {
+            "text": "Amazon EFS"
+        }
+    ],
+    "text": "You are building a YouTube clone in AWS. Your users from all over the world are complaining that the videos are slow to load. What two services would you use to serve video files as quickly as possible?"
+}

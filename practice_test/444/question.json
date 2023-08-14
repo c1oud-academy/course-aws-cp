@@ -1,0 +1,18 @@
+{
+    "text": "What should you do first if your AWS Access Keys (access key ID and secret access key) are leaked, stolen, or revealed to the public?",
+    "answers": [
+        {
+            "text": "Call up the AWS Technical Support and report the incident."
+        },
+        {
+            "text": "Reset your AWS account password."
+        },
+        {
+            "text": "Invalidate credentials so they can no longer be used to access your account.",
+            "right_answer": true
+        },
+        {
+            "text": "Do nothing. This is not a big deal."
+        }
+    ]
+}

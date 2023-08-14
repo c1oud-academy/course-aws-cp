@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "On-Demand"
+        },
+        {
+            "text": "Dedicated"
+        },
+        {
+            "text": "Spot"
+        },
+        {
+            "right_answer": true,
+            "text": "Reserved"
+        }
+    ],
+    "text": "Which EC2 pricing model can provide a discount by paying for capacity ahead of time?"
+}

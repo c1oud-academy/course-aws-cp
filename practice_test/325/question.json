@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "In a VPC create a private subnet and place both, web server and database, in it. No special security group configuration is needed."
+        },
+        {
+            "text": "In a VPC create two separate public subnets. Place a web server in one public subnet and the database in another public subnet. Allow the webserver to access the database using a correctly configured security group."
+        },
+        {
+            "text": "In a VPC create a public subnet and place both, web server and database, in it. No special security group configuration is needed."
+        },
+        {
+            "right_answer": true,
+            "text": "In a VPC create a public subnet for the webserver and a private subnet for the database. Allow the webserver to access the database using a correctly configured security group."
+        }
+    ],
+    "text": "You are setting up WordPress on AWS. You want the Web Server to be publicly accessible but for the database to be hidden from the Internet. What is a way you can do it?"
+}

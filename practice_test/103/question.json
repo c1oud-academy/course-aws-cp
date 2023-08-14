@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "Backup"
+        },
+        {
+            "text": "High Availability"
+        },
+        {
+            "right_answer": true,
+            "text": "Scalability"
+        },
+        {
+            "text": "Disaster Recovery and Local Performance"
+        }
+    ],
+    "text": "What is the main purpose of RDS Read Replicas?"
+}

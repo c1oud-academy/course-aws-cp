@@ -1,0 +1,19 @@
+{
+    "text": "Select correct statements:",
+    "answers": [
+        {
+            "text": "Security Groups are stateful",
+            "right_answer": true
+        },
+        {
+            "text": "Security Groups are stateless"
+        },
+        {
+            "text": "Network ACLs are stateful"
+        },
+        {
+            "text": "Network ACLs are stateless",
+            "right_answer": true
+        }
+    ]
+}

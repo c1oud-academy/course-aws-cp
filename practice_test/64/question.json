@@ -1,0 +1,22 @@
+{
+    "text": "Which of the following are recommended AWS security best practices?",
+    "answers": [
+        {
+            "text": "Use the Root account to set up all infrastructure."
+        },
+        {
+            "text": "Use security groups and Network ACLs.",
+            "right_answer": true
+        },
+        {
+            "text": "Grant as many privileges/permissions to Roles as possible to increase efficiency."
+        },
+        {
+            "text": "Use IAM policies to control access.",
+            "right_answer": true
+        },
+        {
+            "text": "Avoid using managed services to have a better security posture."
+        }
+    ]
+}

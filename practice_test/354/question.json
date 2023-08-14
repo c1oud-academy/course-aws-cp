@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "right_answer": true,
+            "text": "It provides high availability."
+        },
+        {
+            "text": "It improves cost optimization by routing traffic to a cheaper AZ."
+        },
+        {
+            "text": "It helps to increase performance efficiency (that is, make things faster)."
+        },
+        {
+            "text": "It improves service security."
+        }
+    ],
+    "text": "What is the primary purpose of deploying services like EC2 and RDS to multiple Availability Zones?"
+}

@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "The Subnet must be associated with a NAT Instance."
+        },
+        {
+            "text": "The Subnet must be associated with a NAT Gateway Service."
+        },
+        {
+            "text": "The Subnet must have a Route Table that doesn't direct traffic to the Internet Gateway (IGW)."
+        },
+        {
+            "right_answer": true,
+            "text": "The Subnet must have a Route Table that directs traffic to the Internet Gateway (IGW)."
+        }
+    ],
+    "text": "When is a Subnet deemed to be a Public Subnet in AWS?"
+}

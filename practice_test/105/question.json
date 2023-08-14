@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "Maintaining Physical Hardware."
+        },
+        {
+            "text": "Securing network connections between Availability Zones."
+        },
+        {
+            "text": "Patching the Operating System in AWS Lambda."
+        },
+        {
+            "right_answer": true,
+            "text": "Configuring Security Groups with EC2."
+        }
+    ],
+    "text": "Which of the following is your responsibility under the AWS Shared Responsibility Model?"
+}

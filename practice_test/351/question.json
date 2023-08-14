@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "AWS Outposts"
+        },
+        {
+            "text": "Region"
+        },
+        {
+            "right_answer": true,
+            "text": "AWS Local Zone"
+        },
+        {
+            "text": "Availability Zone"
+        }
+    ],
+    "text": "Which of the following is described by the following statement, 'X place compute, storage, database, and other select AWS services closer to end-users. Each X location is an extension of an AWS Region where you can run your latency sensitive applications'?"
+}

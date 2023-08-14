@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "right_answer": true,
+            "text": "Lifecycle Management"
+        },
+        {
+            "text": "CORS"
+        },
+        {
+            "text": "Versioning"
+        },
+        {
+            "text": "Change Management"
+        }
+    ],
+    "text": "Which S3 feature can be used to move objects from one storage class to another based on specific configuration rules?"
+}

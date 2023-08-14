@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "Per-minute, with a minimum of 10 minutes."
+        },
+        {
+            "text": "Per-hour, with a minimum of 10 hours."
+        },
+        {
+            "right_answer": true,
+            "text": "Per-second, with a minimum of 60 seconds."
+        },
+        {
+            "text": "Per-day, with a minimum of 7 days."
+        }
+    ],
+    "text": "Linux EC2 On-Demand usage can be billed in which of the following increments?"
+}

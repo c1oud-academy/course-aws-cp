@@ -1,0 +1,18 @@
+{
+    "text": "What is the service where you can see all your monthly AWS bills?",
+    "answers": [
+        {
+            "text": "AWS Billing and Cost Management",
+            "right_answer": true
+        },
+        {
+            "text": "AWS Budgets"
+        },
+        {
+            "text": "AWS Cost and Usage Report"
+        },
+        {
+            "text": "AWS Cost Explorer"
+        }
+    ]
+}

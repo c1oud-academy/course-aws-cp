@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "A NAT Gateway Service is an EC2 instance you must manage yourself in a public subnet, it can be cheaper. A NAT Instance is a fully-managed, highly-available NAT service. It has a higher bandwidth."
+        },
+        {
+            "right_answer": true,
+            "text": "A NAT instance is an EC2 instance you must manage yourself in a public subnet, it can be cheaper. A NAT Gateway Service is a fully-managed, highly-available NAT service. It has a higher bandwidth."
+        },
+        {
+            "text": "A NAT Gateway requires at least 2 EC2 instances to be manually configured. A NAT Instance provisions these 2 EC2 instances automatically hence making administration easier."
+        },
+        {
+            "text": "A NAT instance requires at least 2 EC2 instances to be manually configured. A NAT Gateway provisions these 2 EC2 instances automatically hence making administration easier."
+        }
+    ],
+    "text": "What is a major difference between a NAT instance and a NAT Gateway Service?"
+}

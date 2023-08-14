@@ -1,0 +1,10 @@
+{
+  "text": "Select available activity groups in AWS Cloud Practitioner course:",
+  "answers": [
+    {"text": "Video activities", "right_answer": true},
+    {"text": "Audio activities"},
+    {"text": "Photo activities"},
+    {"text": "Test activities", "right_answer": true}
+  ],
+  "right_answers_count": 2
+}

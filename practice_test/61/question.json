@@ -1,0 +1,18 @@
+{
+    "text": "What is one benefit of pay-as-you-go pricing model in AWS?",
+    "answers": [
+        {
+            "text": "Reduces operational expenses for AWS."
+        },
+        {
+            "text": "It allows you to adapt to changing business needs without overcommitting budgets.",
+            "right_answer": true
+        },
+        {
+            "text": "Saves over 75% over equivalent on-demand capacity."
+        },
+        {
+            "text": "Reduces up-front payments for AWS services."
+        }
+    ]
+}

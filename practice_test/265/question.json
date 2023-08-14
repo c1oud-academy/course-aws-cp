@@ -1,0 +1,25 @@
+{
+    "answers": [
+        {
+            "text": "Amazon AMI"
+        },
+        {
+            "right_answer": true,
+            "text": "AWS Software Development Kit (SDKs)"
+        },
+        {
+            "text": "AWS Organizations"
+        },
+        {
+            "right_answer": true,
+            "text": "AWS Command Line Interface (CLI)"
+        },
+        {
+            "text": "AWS Control Tower"
+        },
+        {
+            "text": "AWS Managed Services"
+        }
+    ],
+    "text": "Which of the following can developers use to interact with various AWS Services?"
+}

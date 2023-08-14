@@ -1,0 +1,18 @@
+{
+    "text": "Which AWS service provides a 'hub and spoke' model of connectivity to allow multiple VPCs and on-premises networks to be connected easily?",
+    "answers": [
+        {
+            "text": "AWS VPN"
+        },
+        {
+            "text": "AWS Transit Gateway",
+            "right_answer": true
+        },
+        {
+            "text": "AWS Direct Connect"
+        },
+        {
+            "text": "Amazon Route 53"
+        }
+    ]
+}

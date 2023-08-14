@@ -1,0 +1,18 @@
+{
+    "text": "You are building an application that displays documents stored in S3. You need a service to help you detect if any of those documents contain Personally Identifiable Information (PII) as it needs to be removed. What AWS service could help you with that?",
+    "answers": [
+        {
+            "text": "Amazon Athena"
+        },
+        {
+            "text": "Amazon Rekognition"
+        },
+        {
+            "text": "Amazon Macie",
+            "right_answer": true
+        },
+        {
+            "text": "Amazon SageMaker"
+        }
+    ]
+}

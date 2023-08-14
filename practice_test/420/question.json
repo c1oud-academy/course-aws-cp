@@ -1,0 +1,18 @@
+{
+    "text": "On what AWS Support Plan do you get a Technical Account Manager (TAM)?",
+    "answers": [
+        {
+            "text": "Developer"
+        },
+        {
+            "text": "Enterprise",
+            "right_answer": true
+        },
+        {
+            "text": "Business"
+        },
+        {
+            "text": "Basic"
+        }
+    ]
+}

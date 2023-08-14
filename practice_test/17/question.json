@@ -1,0 +1,22 @@
+{
+    "text": "What AWS services can you use to connect from an on-premise network to AWS?",
+    "answers": [
+        {
+            "text": "AWS VPN",
+            "right_answer": true
+        },
+        {
+            "text": "AWS Transit Gateway"
+        },
+        {
+            "text": "AWS Global Accelerator"
+        },
+        {
+            "text": "AWS Direct Connect",
+            "right_answer": true
+        },
+        {
+            "text": "AWS PrivateLink"
+        }
+    ]
+}

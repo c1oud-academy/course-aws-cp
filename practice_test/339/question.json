@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "You can use CloudFormation to completely replace the old environment that may be compromised."
+        },
+        {
+            "text": "CloudFormation cannot really help you at all."
+        },
+        {
+            "right_answer": true,
+            "text": "CloudFormation can be used to create a new, trusted environment in which to conduct a deeper investigation."
+        },
+        {
+            "text": "CloudFormation can automatically create replicas of the existing system with copies of data."
+        }
+    ],
+    "text": "Your company suspects that their AWS infrastructure has been compromised. You have been asked to investigate and conduct a root cause analysis. How can CloudFormation assist you in determining the cause of the incident?"
+}

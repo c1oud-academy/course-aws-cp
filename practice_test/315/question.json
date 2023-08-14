@@ -1,0 +1,22 @@
+{
+    "answers": [
+        {
+            "right_answer": true,
+            "text": "Less load on your servers."
+        },
+        {
+            "text": "Always cheaper to run and maintain."
+        },
+        {
+            "text": "Improved high-availability and tolerance to DDOS attacks."
+        },
+        {
+            "right_answer": true,
+            "text": "Faster for your users (lower latency)."
+        },
+        {
+            "text": "Removes the need to have any other infrastructure."
+        }
+    ],
+    "text": "What are the benefits of using edge locations to host your data?"
+}

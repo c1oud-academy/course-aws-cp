@@ -1,0 +1,22 @@
+{
+    "text": "You have developed a web application that uses multiple EC2 Servers. How can you ensure that your app remains highly available and automatically scales?",
+    "answers": [
+        {
+            "text": "Use Elastic Load Balancer to distribute traffic to available, healthy instances.",
+            "right_answer": true
+        },
+        {
+            "text": "Use a mix of EC2 Spot Instances and Reserved Instances."
+        },
+        {
+            "text": "Use EBS and CloudFront to help with scalability."
+        },
+        {
+            "text": "Use Auto Scaling Groups to scale a number of instances.",
+            "right_answer": true
+        },
+        {
+            "text": "Use API Gateway to handle the variable number of requests coming in."
+        }
+    ]
+}

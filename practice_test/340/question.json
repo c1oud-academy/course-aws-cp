@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "right_answer": true,
+            "text": "AWS Firewall Manager"
+        },
+        {
+            "text": "AWS Shield"
+        },
+        {
+            "text": "Amazon Macie"
+        },
+        {
+            "text": "AWS Web Application Firewall (WAF)"
+        }
+    ],
+    "text": "What AWS service provides central management of firewall rules across your account and applications through your AWS Organization?"
+}

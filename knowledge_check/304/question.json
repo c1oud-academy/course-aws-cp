@@ -1,0 +1,18 @@
+{
+    "text": "Select option that is NOT a main factor that affects the cost with AWS:",
+    "answers": [
+        {
+            "text": "Service",
+            "right_answer": true
+        },
+        {
+            "text": "Compute"
+        },
+        {
+            "text": "Storage"
+        },
+        {
+            "text": "Data transfer"
+        }
+    ]
+}

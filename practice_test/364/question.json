@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "Set up and govern a secure, compliant multi-account environment."
+        },
+        {
+            "text": "Scale the number of available EC2 Instances to ensure that your application can handle the load."
+        },
+        {
+            "right_answer": true,
+            "text": "Distribute incoming application traffic across multiple targets such as EC2 instances, containers, and Lambda functions."
+        },
+        {
+            "text": "To route end users to your application using DNS."
+        }
+    ],
+    "text": "What is the primary purpose of an Elastic Load Balancer?"
+}

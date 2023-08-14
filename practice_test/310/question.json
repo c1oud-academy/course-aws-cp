@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "right_answer": true,
+            "text": "AWS CloudHSM"
+        },
+        {
+            "text": "AWS Key Management Service"
+        },
+        {
+            "text": "AWS Resource Access Manager"
+        },
+        {
+            "text": "AWS Certificate Manager"
+        }
+    ],
+    "text": "Which AWS service helps you meet compliance requirements by using a dedicated Hardware Security Module instances within AWS?"
+}

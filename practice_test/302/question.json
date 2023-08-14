@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "4"
+        },
+        {
+            "text": "3"
+        },
+        {
+            "text": "1"
+        },
+        {
+            "right_answer": true,
+            "text": "2"
+        }
+    ],
+    "text": "What is the minimum number of Availability Zones that an AWS Region may have?"
+}

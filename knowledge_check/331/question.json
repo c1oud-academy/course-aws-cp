@@ -1,0 +1,18 @@
+{
+    "text": "What is the service where you can generate raw data with all your spendings and with all available details?",
+    "answers": [
+        {
+            "text": "AWS Billing and Cost Management"
+        },
+        {
+            "text": "AWS Budgets"
+        },
+        {
+            "text": "AWS Cost and Usage Report",
+            "right_answer": true
+        },
+        {
+            "text": "AWS Cost Explorer"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "Cost Allocation Tags are used to show the Recommended Retail Price of each service and product."
+        },
+        {
+            "text": "Cost Allocation Tags are needed to enable the AWS Cost & Usage Report."
+        },
+        {
+            "text": "Cost Allocation Tags are used to track AWS costs and enable billing alerts once your spend goes above a certain budget."
+        },
+        {
+            "right_answer": true,
+            "text": "Cost Allocation Tags are used to track your AWS costs at a detailed level and display costs in a cost allocation report (CSV file)."
+        }
+    ],
+    "text": "What is the purpose of Cost Allocation Tags?"
+}

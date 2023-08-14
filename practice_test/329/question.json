@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "right_answer": true,
+            "text": "Amazon DynamoDB"
+        },
+        {
+            "text": "Amazon RDS"
+        },
+        {
+            "text": "Amazon Aurora"
+        },
+        {
+            "text": "Amazon ElastiCache"
+        }
+    ],
+    "text": "Which AWS service should you use if you need a fast, managed, NoSQL Database."
+}

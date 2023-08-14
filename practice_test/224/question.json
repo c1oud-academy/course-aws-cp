@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "Buy Convertible Reserved Instances on a 3-year term with an all upfront option plan."
+        },
+        {
+            "text": "Buy Convertible Reserved Instances on a 3-year term with a partial upfront option plan."
+        },
+        {
+            "right_answer": true,
+            "text": "Buy Standard Reserved Instances on a 3-year term with an all upfront payment plan."
+        },
+        {
+            "text": "Buy Standard Reserved Instances on a 3-year term with a partial upfront option plan."
+        }
+    ],
+    "text": "Your company wants to save money on EC2. The plan is to have the same EC2 instances for 3 years. What should your recommendation be to help get the cheapest price?"
+}

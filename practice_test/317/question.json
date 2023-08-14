@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "right_answer": true,
+            "text": "Amazon EBS"
+        },
+        {
+            "text": "Amazon S3 Glacier"
+        },
+        {
+            "text": "Amazon S3"
+        },
+        {
+            "text": "Amazon EFS"
+        }
+    ],
+    "text": "Which AWS block storage service provides the fastest performance?"
+}

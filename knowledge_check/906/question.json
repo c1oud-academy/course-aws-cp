@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "15 MB"
+        },
+        {
+            "text": "10 MB"
+        },
+        {
+            "right_answer": true,
+            "text": "10 GB"
+        },
+        {
+            "text": "15 GB"
+        }
+    ],
+    "text": "What is the maximum memory allocation for AWS Lambda function?"
+}

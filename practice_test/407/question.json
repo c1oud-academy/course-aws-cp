@@ -1,0 +1,18 @@
+{
+    "text": "How can you check when an IAM User last accessed AWS through the console or programmatically?",
+    "answers": [
+        {
+            "text": "In the main AWS console, click your name, then select 'My Organization', and look under 'Status'."
+        },
+        {
+            "text": "In the main AWS console, click your name, then select 'My Account', and look under 'Account Settings'."
+        },
+        {
+            "text": "In the IAM Console, choose Users, and look under 'Last Activity'.",
+            "right_answer": true
+        },
+        {
+            "text": "In the IAM Console, choose 'Credential Report' and then click 'Download Report'."
+        }
+    ]
+}

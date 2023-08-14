@@ -1,0 +1,18 @@
+{
+    "text": "What AWS service would you use to download AWS' security and compliance reports?",
+    "answers": [
+        {
+            "text": "Amazon Inspector"
+        },
+        {
+            "text": "AWS Artifact",
+            "right_answer": true
+        },
+        {
+            "text": "AWS Security Hub"
+        },
+        {
+            "text": "AWS Shield"
+        }
+    ]
+}

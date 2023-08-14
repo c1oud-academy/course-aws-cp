@@ -1,0 +1,26 @@
+{
+    "answers": [
+        {
+            "text": "IAM Managed CMK"
+        },
+        {
+            "right_answer": true,
+            "text": "AWS Managed CMK"
+        },
+        {
+            "right_answer": true,
+            "text": "Customer Managed CMK"
+        },
+        {
+            "right_answer": true,
+            "text": "AWS Owned CMK"
+        },
+        {
+            "text": "Customer Validated CMK"
+        },
+        {
+            "text": "IAM Owned CMK"
+        }
+    ],
+    "text": "What are the types of Customer Master Keys (CMKs) support by AWS KMS?"
+}

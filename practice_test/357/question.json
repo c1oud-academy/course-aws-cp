@@ -1,0 +1,26 @@
+{
+    "answers": [
+        {
+            "text": "Deploying EC2 to two different regions."
+        },
+        {
+            "right_answer": true,
+            "text": "Amazon EBS snapshot operations."
+        },
+        {
+            "text": "Using Elastic Load Balancer with two AZs."
+        },
+        {
+            "right_answer": true,
+            "text": "Amazon S3 lifecycle policies and versioning."
+        },
+        {
+            "right_answer": true,
+            "text": "Amazon S3 Cross-Region Replication."
+        },
+        {
+            "text": "Moving S3 bucket data from one region to another."
+        }
+    ],
+    "text": "Which of the following are examples of data backup & replication?"
+}

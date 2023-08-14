@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "right_answer": true,
+            "text": "It lets you request temporary, limited-privilege credentials for authentication with other AWS APIs."
+        },
+        {
+            "text": "It's used to enforce who is able to access your AWS account."
+        },
+        {
+            "text": "It's used to enable logging and API trail across AWS APIs."
+        },
+        {
+            "text": "It's used to allow EC2 Instances to access other AWS resources."
+        }
+    ],
+    "text": "What is the purpose of AWS STS?"
+}

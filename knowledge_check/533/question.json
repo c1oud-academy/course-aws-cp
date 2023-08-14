@@ -1,0 +1,21 @@
+{
+    "text": "What is the AWS threat detection service that monitors entire AWS account and delivers detailed security findings?",
+    "answers": [
+        {
+            "text": "AWS KMS"
+        },
+        {
+            "text": "AWS Inspector"
+        },
+        {
+            "text": "AWS Shield"
+        },
+        {
+            "text": "AWS Organizations"
+        },
+        {
+            "text": "AWS GuardDuty",
+            "right_answer": true
+        }
+    ]
+}

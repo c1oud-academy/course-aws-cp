@@ -1,0 +1,29 @@
+{
+    "text": "Which of the following connectivity options can you use to connect your on-premises network to an AWS VPC?",
+    "answers": [
+        {
+            "text": "Amazon Route 53"
+        },
+        {
+            "text": "AWS VPN CloudHub",
+            "right_answer": true
+        },
+        {
+            "text": "AWS PrivateLink"
+        },
+        {
+            "text": "VPC Peering"
+        },
+        {
+            "text": "AWS Direct Connect",
+            "right_answer": true
+        },
+        {
+            "text": "Amazon API Gateway"
+        },
+        {
+            "text": "AWS Managed VPN",
+            "right_answer": true
+        }
+    ]
+}

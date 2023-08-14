@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "right_answer": true,
+            "text": "Classic Load Balancer"
+        },
+        {
+            "text": "Performance Load Balancer"
+        },
+        {
+            "text": "Application Load Balancer"
+        },
+        {
+            "text": "Network Load Balancer"
+        }
+    ],
+    "text": "Which Elastic Load Balancer is suited for the EC2-Classic network and is designed to provide load balancing across multiple EC2 Instances?"
+}

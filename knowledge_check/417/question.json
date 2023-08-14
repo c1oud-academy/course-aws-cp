@@ -1,0 +1,30 @@
+{
+    "text": "What is the main AWS service for providing virtual servers?",
+    "answers": [
+        {
+            "text": "Amazon EC2",
+            "right_answer": true
+        },
+        {
+            "text": "Amazon EC2 Auto Scaling"
+        },
+        {
+            "text": "Amazon ECS"
+        },
+        {
+            "text": "Amazon ECR"
+        },
+        {
+            "text": "AWS Elastic Beanstalk"
+        },
+        {
+            "text": "AWS Lambda"
+        },
+        {
+            "text": "Amazon EKS"
+        },
+        {
+            "text": "AWS Fargate"
+        }
+    ]
+}

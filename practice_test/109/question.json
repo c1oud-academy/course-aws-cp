@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "None. There's no charge."
+        },
+        {
+            "right_answer": true,
+            "text": "128KB per object."
+        },
+        {
+            "text": "256KB per object."
+        },
+        {
+            "text": "40KB per object."
+        }
+    ],
+    "text": "What is the minimum capacity charge per object for an S3 Standard - IA storage class?"
+}

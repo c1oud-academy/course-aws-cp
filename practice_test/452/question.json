@@ -1,0 +1,18 @@
+{
+    "text": "You have set up an account for a new IAM User. What Sign-In URL should you give them?",
+    "answers": [
+        {
+            "text": "https://account-ID-or-alias.aws.amazon.com/console"
+        },
+        {
+            "text": "https://signin.aws.amazon.com/accountId"
+        },
+        {
+            "text": "https://account-ID-or-alias.signin.aws.amazon.com/console",
+            "right_answer": true
+        },
+        {
+            "text": "https://signin.account-ID-or-alias.aws.amazon.com/console"
+        }
+    ]
+}

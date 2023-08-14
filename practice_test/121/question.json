@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "right_answer": true,
+            "text": "Spot"
+        },
+        {
+            "text": "On-Demand"
+        },
+        {
+            "text": "Reserved"
+        },
+        {
+            "text": "Cost-Optimized"
+        }
+    ],
+    "text": "You have an application running on EC2 that can be paused, terminated, and restarted without any adverse effects. Which of the following options is the most cost-effective solution?"
+}

@@ -1,0 +1,26 @@
+{
+    "answers": [
+        {
+            "right_answer": true,
+            "text": "Volume Gateway"
+        },
+        {
+            "text": "Block Gateway"
+        },
+        {
+            "right_answer": true,
+            "text": "File Gateway"
+        },
+        {
+            "text": "Object Gateway"
+        },
+        {
+            "text": "Database Gateway"
+        },
+        {
+            "right_answer": true,
+            "text": "Tape Gateway"
+        }
+    ],
+    "text": "Which storage gateways does AWS Storage Gateway support?"
+}

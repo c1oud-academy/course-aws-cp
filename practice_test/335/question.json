@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "Provisioned IOPS SSD (io1)"
+        },
+        {
+            "text": "Throughput Optimized HDD (st1)"
+        },
+        {
+            "text": "General Purpose SSD (gp2)"
+        },
+        {
+            "right_answer": true,
+            "text": "Cold HDD (sc1)"
+        }
+    ],
+    "text": "Which EBS volume type is recommended for infrequently accessed workloads (particularly where lowest storage cost is important)?"
+}

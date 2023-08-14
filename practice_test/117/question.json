@@ -1,0 +1,22 @@
+{
+    "answers": [
+        {
+            "text": "Amazon EBS"
+        },
+        {
+            "right_answer": true,
+            "text": "Amazon S3 Glacier"
+        },
+        {
+            "right_answer": true,
+            "text": "Amazon S3 Glacier Deep Archive"
+        },
+        {
+            "text": "AWS Backup"
+        },
+        {
+            "text": "Amazon EFS"
+        }
+    ],
+    "text": "Which of these AWS storage technologies, store data in archives (like TAR or ZIP) and use 'vaults' as containers?"
+}

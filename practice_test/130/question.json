@@ -1,0 +1,23 @@
+{
+    "answers": [
+        {
+            "right_answer": true,
+            "text": "Data transfer between two regions (that is, data transfer between two EC2 instances in two different regions)."
+        },
+        {
+            "text": "Data transfer between an EC2 and S3 in the same region."
+        },
+        {
+            "right_answer": true,
+            "text": "Data transfer between two EC2s in two different Availability Zones in the same region."
+        },
+        {
+            "right_answer": true,
+            "text": "Data transfer between two EC2s within the same Availability Zone (using a public IP address)."
+        },
+        {
+            "text": "Data transfer between two EC2s within the same Availability Zone (using a private IP address)."
+        }
+    ],
+    "text": "For which of the following would you be charged?"
+}

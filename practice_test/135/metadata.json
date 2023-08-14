@@ -1,0 +1,36 @@
+{
+    "aws_service": [
+        "S3",
+        "S3 Glacier"
+    ],
+    "type": "practice_test",
+    "title": {
+        "kk": "Practice test quesion 135",
+        "en": "Practice test quesion 135",
+        "ru": "Practice test quesion 135"
+    },
+    "content_type": "test",
+    "id": "135",
+    "property_keys": [
+        "type",
+        "id",
+        "content_type",
+        "aws_service",
+        "aws_group"
+    ],
+    "aws_group": [
+        "Storage"
+    ],
+    "files_list": [
+        {
+            "type": "metadata",
+            "path": "metadata.json",
+            "lang": "en"
+        },
+        {
+            "type": "question",
+            "path": "question.json",
+            "lang": "en"
+        }
+    ]
+}

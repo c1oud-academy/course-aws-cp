@@ -1,0 +1,18 @@
+{
+    "text": "Select service that stores Docker images:",
+    "answers": [
+        {
+            "text": "Amazon ECR",
+            "right_answer": true
+        },
+        {
+            "text": "Amazon ECS"
+        },
+        {
+            "text": "Amazon EKS"
+        },
+        {
+            "text": "AWS Fargate"
+        }
+    ]
+}

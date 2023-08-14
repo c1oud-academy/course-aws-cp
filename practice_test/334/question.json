@@ -1,0 +1,22 @@
+{
+    "answers": [
+        {
+            "text": "Any tagged instances or resources are automatically monitored by Amazon GuardDuty and Amazon Inspector."
+        },
+        {
+            "right_answer": true,
+            "text": "Tagging instances or other resources with an owner or work queue can help to identify the right people to engage."
+        },
+        {
+            "right_answer": true,
+            "text": "Tagging systems with an attribute or data classification can help to estimate the impact of an incident."
+        },
+        {
+            "text": "Tagging an instance or another resource causes it to be tracked and logged by AWS CloudTrail."
+        },
+        {
+            "text": "Tagging of resources is a requirement if you want technical support from AWS."
+        }
+    ],
+    "text": "What is the benefit of tagging resources when it comes to security?"
+}

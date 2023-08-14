@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "You must be logged on as a root account to create IAM Users in a specific region."
+        },
+        {
+            "text": "You don't have the right permissions to be able to select a region."
+        },
+        {
+            "right_answer": true,
+            "text": "IAM is global so it doesn't require or use regions."
+        },
+        {
+            "text": "The region is set after you have created an IAM User."
+        }
+    ],
+    "text": "You've been tasked by your company to create a new IAM User in the US-EAST-2 region. You are finding that all regions are greyed out and you cannot select what you want. What could be the reason for this?"
+}

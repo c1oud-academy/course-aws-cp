@@ -1,0 +1,18 @@
+{
+    "text": "Which service enables you to create a secure site-to-site VPN tunnel from your on-premises network to an AWS VPC over the Internet?",
+    "answers": [
+        {
+            "text": "AWS Direct Connect"
+        },
+        {
+            "text": "AWS PrivateLink"
+        },
+        {
+            "text": "AWS VPN",
+            "right_answer": true
+        },
+        {
+            "text": "VPC Peering"
+        }
+    ]
+}

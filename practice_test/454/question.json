@@ -1,0 +1,18 @@
+{
+    "text": "What feature allows you to securely connect your VPCs to supported AWS services including your own services on AWS, to services hosted by other AWS accounts, and to third-party services on AWS Marketplace?",
+    "answers": [
+        {
+            "text": "Amazon Route 53"
+        },
+        {
+            "text": "AWS PrivateLink",
+            "right_answer": true
+        },
+        {
+            "text": "AWS Direct Connect"
+        },
+        {
+            "text": "AWS VPN"
+        }
+    ]
+}

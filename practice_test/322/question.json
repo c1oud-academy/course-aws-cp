@@ -1,0 +1,25 @@
+{
+    "answers": [
+        {
+            "text": "Amazon Inspector notifies the administrator if it detects that someone has inappropriately access the AWS console."
+        },
+        {
+            "right_answer": true,
+            "text": "Amazon Detective analyzes logs from VPCs, CloudTrail, and GuardDuty and using ML and statistical analysis determines if there's a security problem."
+        },
+        {
+            "right_answer": true,
+            "text": "Amazon Inspector checks for unintended network accessibility of EC2 Instances and for vulnerabilities in those EC2 Instances."
+        },
+        {
+            "text": "Amazon Detective is a logging service that logs all API calls in AWS. You can review them later."
+        },
+        {
+            "text": "Amazon Inspector acts as a virtual firewall for the API Gateway, ALB, and CloudFront. You can define rules and permissions that Inspector executes."
+        },
+        {
+            "text": "Amazon Detective scans your VPC for open ports and vulnerabilities in infrastructure within that VPC."
+        }
+    ],
+    "text": "What do Amazon Inspector and Amazon Detective do?"
+}

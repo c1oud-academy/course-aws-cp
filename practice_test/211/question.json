@@ -1,0 +1,26 @@
+{
+    "answers": [
+        {
+            "text": "Make sure to use MFA for the root user only."
+        },
+        {
+            "text": "Try to limit programmatic access to AWS."
+        },
+        {
+            "right_answer": true,
+            "text": "Apply security at all layers."
+        },
+        {
+            "text": "Re-use IAM roles and Users as often as possible."
+        },
+        {
+            "right_answer": true,
+            "text": "Enable traceability."
+        },
+        {
+            "right_answer": true,
+            "text": "Automate security best practices."
+        }
+    ],
+    "text": "Which of the following are recommended security design principles in AWS?"
+}

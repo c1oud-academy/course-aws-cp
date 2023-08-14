@@ -1,0 +1,18 @@
+{
+    "text": "How can you specify which VPC endpoints or external IP addresses can access your Amazon S3 bucket?",
+    "answers": [
+        {
+            "text": "Set up a Site-to-Site VPN connection between the VPC or External IP and the S3 Bucket."
+        },
+        {
+            "text": "Use an IAM policy to specify which VPC endpoints or external IP addresses can access the S3 bucket."
+        },
+        {
+            "text": "Set up a Direct Connect service between the VPC endpoint (or IP address) and S3."
+        },
+        {
+            "text": "Use a bucket policy to specify which VPC endpoints or external IP addresses can access the S3 bucket.",
+            "right_answer": true
+        }
+    ]
+}

@@ -1,0 +1,493 @@
+QUESTION_ID_PLACEHOLDER
+What is a VPC Endpoint?
+B) A VPC Endpoint is used to connect you to a VPC using HTTPS.
+B) A VPC Endpoint provides a fault-tolerant and highly-available Internet Gateway (IGW).
+B) A VPC Endpoint allows you to connect from an on-premises network to a VPC.
++A) A VPC Endpoint allows you to privately connect your VPC to supported AWS services without leaving the Amazon network.
+
+QUESTION_ID_PLACEHOLDER
+You have multiple AWS accounts for which you are paying. You want to have one bill for all of the accounts. What feature would you use to achieve this?
++A) Consolidated Billing
+B) AWS Marketplace
+B) Volume Discount
+B) AWS Managed Service
+
+QUESTION_ID_PLACEHOLDER
+What kind of model has no server management, flexible scaling, and payment based on throughput or execution?
++A) Serverless
+B) PaaS
+B) IaaS
+B) Peer to Peer
+
+QUESTION_ID_PLACEHOLDER
+What is a benefit of using Amazon Aurora Serverless?
++A) Aurora Serverless automatically scales the DB cluster capacity up or down.
+B) Aurora Serverless will automate disaster recovery between regions.
++A) Aurora Serverless will automatically recreate the DB in a different AZ, if the current AZ becomes unavailable or fails.
+B) It's cheaper to use Aurora Serverless than regular Aurora.
+B) Aurora SLA applies to Aurora Serverless just as they do to regular Aurora.
+
+QUESTION_ID_PLACEHOLDER
+In Amazon EFS what are the two storage classes?
+B) Extended
++A) Standard
+B) Dynamic
+B) Infrequent Access - One Zone
++A) Infrequent Access
+B) Frequent Access
+
+QUESTION_ID_PLACEHOLDER
+What is a Bastion Host?
++A) A Bastion Host is an intermediary Instance that provides access to a private network from an external network.
+B) A Bastion Host is a virtual network card, which is part of the Elastic Network Interface (ENI).
+B) A Bastion Host is a special EC2 Instance used to connect to AWS Direct Connect.
+B) A Bastion Host is a special locked-down environment for hosting an RDS Database.
+
+QUESTION_ID_PLACEHOLDER
+How can you check when an IAM User last accessed AWS through the console or programmatically?
+B) In the main AWS console, click your name, then select 'My Organization', and look under 'Status'.
+B) In the main AWS console, click your name, then select 'My Account', and look under 'Account Settings'.
++A) In the IAM Console, choose Users, and look under 'Last Activity'.
+B) In the IAM Console, choose 'Credential Report' and then click 'Download Report'.
+
+QUESTION_ID_PLACEHOLDER
+What AWS Service could you use to record a history of your AWS account activity including action taken through the AWS Management Console, Command Line Tools, AWS SDKs, and AWS services?
+B) AWS X-Ray
+B) AWS Security Hub
++A) AWS CloudTrail
+B) AWS Resource Access Manager
+
+QUESTION_ID_PLACEHOLDER
+Which AWS service allows you to provide user sign-up, sign-on, and access control in your application?
+B) AWS Organizations
+B) AWS Single Sign-On
+B) AWS IAM
++A) Amazon Cognito
+
+QUESTION_ID_PLACEHOLDER
+Which of the following is a correct statement about Convertible Reserved Instances?
+B) Convertible Reserved Instances can be sold in the Reserved Instance Marketplace.
+B) Convertible Reserved Instances are Reserved Instances that can be moved from one region to another.
+B) Convertible Reserved Instances can be given back to AWS with a pro-rata amount paid back to you.
++A) If you meet requirements, you can exchange Convertible Reserved Instances for another Convertible Reserved Instance with a different configuration.
+
+QUESTION_ID_PLACEHOLDER
+Which of the following determines the price for using Amazon S3?
+B) The number of IAM users accessing S3.
++A) Amount of storage used
++A) The number of requests made monthly.
+B) The number of objects stored in S3.
+B) Amount of data transferred into S3.
++A) Amount of data transferred out of S3.
+
+QUESTION_ID_PLACEHOLDER
+Your company needs the fastest possible MySQL 5.6 database. What service would you recommend using?
++A) Amazon Aurora
+B) Amazon RDS for MariaDB
+B) Amazon RDS for MySQL
+B) Amazon ElastiCache
+
+QUESTION_ID_PLACEHOLDER
+Which service enables you to create a secure site-to-site VPN tunnel from your on-premises network to an AWS VPC over the Internet?
+B) AWS Direct Connect
+B) AWS PrivateLink
++A) AWS VPN
+B) VPC Peering
+
+QUESTION_ID_PLACEHOLDER
+What Amazon CloudWatch metrics types are available for Amazon S3?
+B) Performance metrics
++A) Replication metrics
+B) Accessibility metrics
++A) Storage metrics
+B) Size metrics
++A) Request metrics
+B) Availability metrics
+
+QUESTION_ID_PLACEHOLDER
+A company has built an application using EC2 Instances connected to an on-premises network with a storage gateway, and AWS Direct Connect. What kind of architecture could this be?
+B) Platform-as-a-Service
+B) Serverless
+B) Infrastructure-as-a-Service
++A) Hybrid
+
+QUESTION_ID_PLACEHOLDER
+Which AWS service provides on-demand access to AWS' security and compliance reports and certain online agreements.
+B) AWS Cloud9
++A) AWS Artifact
+B) AWS Certificate Manager
+B) AWS Resource Access Manager
+
+QUESTION_ID_PLACEHOLDER
+The S3 Standard storage type can withstand data loss in how many Availability Zones?
+B) 3
+B) 1
++A) 2
+B) 4
+
+QUESTION_ID_PLACEHOLDER
+What feature allows your web application to have cross-origin access to your Amazon S3 resources (without needing a proxy server)?
++A) CORS
+B) Lifecycle Policy
+B) MARS
+B) VPC
+
+QUESTION_ID_PLACEHOLDER
+Which of the following connectivity options can you use to connect your on-premises network to an AWS VPC?
+B) Amazon Route 53
++A) AWS VPN CloudHub
+B) AWS PrivateLink
+B) VPC Peering
++A) AWS Direct Connect
+B) Amazon API Gateway
++A) AWS Managed VPN
+
+QUESTION_ID_PLACEHOLDER
+On what AWS Support Plan do you get a Technical Account Manager (TAM)?
+B) Developer
++A) Enterprise
+B) Business
+B) Basic
+
+QUESTION_ID_PLACEHOLDER
+What kind of VPC Endpoints are there?
+B) Terminated Endpoints
++A) Gateway Endpoints
++A) Interface Endpoints
+B) Direct Endpoints
+
+QUESTION_ID_PLACEHOLDER
+How can you specify which VPC endpoints or external IP addresses can access your Amazon S3 bucket?
+B) Set up a Site-to-Site VPN connection between the VPC or External IP and the S3 Bucket.
+B) Use an IAM policy to specify which VPC endpoints or external IP addresses can access the S3 bucket.
+B) Set up a Direct Connect service between the VPC endpoint (or IP address) and S3.
++A) Use a bucket policy to specify which VPC endpoints or external IP addresses can access the S3 bucket.
+
+QUESTION_ID_PLACEHOLDER
+Which of the following is the customer's responsibility in accordance with the Shared Responsibility Model?
+B) Updating RDS instance with the newest kernel update.
++A) Installing the latest system updates on Windows on EC2.
+B) Installing anti-malware software on an RDS instance.
+B) Freeing up space on S3 for new RDS backup images.
++A) Installing anti-virus software on an EC2 Windows Instance.
++A) Updating Linux with the newest kernel patch on an EC2.
+
+QUESTION_ID_PLACEHOLDER
+When would you consider using a Transit Gateway?
++A) Transit Gateways are useful for connecting multiple VPCs and then aggregating their connectivity to resources on-premises.
+B) Transit Gateways are designed to enable communication between VPCs and AWS Lambda.
+B) Transit Gateways are needed to enable AWS Direct Connect to work.
+B) Transit Gateways is used to connect a single VPC to resources on-premises.
+
+QUESTION_ID_PLACEHOLDER
+Which of the following determines what you pay for Amazon Aurora?
+B) Data Transfer In
+B) Data Transfer Out to CloudFront
++A) Storage Rate
++A) Data Transfer Out to Internet
++A) I/O Rate
+
+QUESTION_ID_PLACEHOLDER
+You have developed a web application that uses multiple EC2 Servers. How can you ensure that your app remains highly available and automatically scales?
++A) Use Elastic Load Balancer to distribute traffic to available, healthy instances.
+B) Use a mix of EC2 Spot Instances and Reserved Instances.
+B) Use EBS and CloudFront to help with scalability.
++A) Use Auto Scaling Groups to scale a number of instances.
+B) Use API Gateway to handle the variable number of requests coming in.
+
+QUESTION_ID_PLACEHOLDER
+Which AWS service can be used to create a dedicated network connection from your premises to AWS, using a dedicated private network rather than the Internet?
++A) AWS Direct Connect
+B) AWS Transit Gateway
+B) AWS VPN
+B) AWS App Mesh
+
+QUESTION_ID_PLACEHOLDER
+What AWS Service can you use to help estimate the cost of migrating on-premises infrastructure to AWS?
+B) AWS Cost Explorer
++A) Total Cost of Ownership (TCO) Calculator
+B) Pricing Calculator
+B) Simple Monthly Calculator
+
+QUESTION_ID_PLACEHOLDER
+Which AWS services are supported by VPC Gateway Endpoints?
+B) Amazon Neptune
+B) Amazon Aurora
++A) Amazon DynamoDB
++A) Amazon S3
+B) Amazon EC2
+
+QUESTION_ID_PLACEHOLDER
+What are the two types of subnets you can have?
+B) Hybrid
+B) Dynamic
++A) Private
++A) Public
+
+QUESTION_ID_PLACEHOLDER
+What can you use to test and troubleshoot identity-based policies, IAM permissions boundaries, Organization service control policies, and resource-based policies?
++A) IAM policy simulator
+B) IAM validation service
+B) Amazon GuardDuty
+B) Amazon Inspector
+
+QUESTION_ID_PLACEHOLDER
+Which of the following are free to use on or with AWS?
+B) Lambda
++A) CloudFormation
++A) VPC
++A) IAM
+B) ECS
+B) Rekognition
+
+QUESTION_ID_PLACEHOLDER
+Which AWS Service is best suited as a Data Warehouse solution?
++A) Amazon Redshift
+B) Amazon RDS on VMWare
+B) Amazon DynamoDB
+B) Amazon Aurora
+
+QUESTION_ID_PLACEHOLDER
+Which of the following accurately reflects the S3 Standard storage type?
+B) Provides 99.99% durability and 99.99 availability of objects over a given year.
+B) Provides 99.999999999% (that's 11 9s) durability and 99.999999999% (that's 11 9s) availability of objects over a given year.
++A) Provides 99.999999999% (that's 11 9s) durability and 99.99% availability of objects over a given year.
+B) Provides 99.99% durability and 99.999999999 (that's 11 9s) availability of objects over a given year.
+
+QUESTION_ID_PLACEHOLDER
+You are building an application that displays documents stored in S3. You need a service to help you detect if any of those documents contain Personally Identifiable Information (PII) as it needs to be removed. What AWS service could help you with that?
+B) Amazon Athena
+B) Amazon Rekognition
++A) Amazon Macie
+B) Amazon SageMaker
+
+QUESTION_ID_PLACEHOLDER
+What is the recommended best practice when it comes to assigning permissions to an IAM User?
+B) Grant as many privileges/permissions as possible to increase efficiency.
+B) Grant full admin right to all IAM Users for maximum power.
+B) There's no defined best practice for this.
++A) Grant as fewer privileges/permissions as possible for the User to get their job done.
+
+QUESTION_ID_PLACEHOLDER
+You want your EC2 instance to be able to access S3 and create new objects in a bucket. What's the best way to do this?
++A) Create an IAM role that allows access to S3 and assign it to the EC2 Instance.
+B) Use the EC2 console to assign permissions directly to the Instance.
+B) Create an IAM user and use AWS Configure to add Access Keys to the EC2 Instance.
+B) Raise an issue with AWS Support.
+
+QUESTION_ID_PLACEHOLDER
+How many Elastic IP addresses can you have per region by default?
+B) 4
++A) 5
+B) 2
+B) 10
+
+QUESTION_ID_PLACEHOLDER
+You want to retrieve information about your EC2 instances that includes its IP address, instance ID, hostname, and security group information. How can you do it?
+B) Query the EC2 user metadata.
+B) Call up AWS technical support.
+B) Look at the EC2 Info tab in the EC2 console.
++A) Query the EC2 instance metadata.
+
+QUESTION_ID_PLACEHOLDER
+Which of the following database engines are available in Amazon RDS?
++A) MySQL
+B) DynamoDB
++A) Aurora
+B) Elasticsearch
+B) Neptune
++A) Oracle
++A) Microsoft SQL Server
+B) Hive
+
+QUESTION_ID_PLACEHOLDER
+Which AWS Service can distribute traffic across multiple regions while providing a number of routing types such as Latency Based Routing and Geoproximity?
+B) AWS Cloud Map
+B) Amazon CloudFront
++A) Amazon Route 53
+B) Elastic Load Balancer
+
+QUESTION_ID_PLACEHOLDER
+Which of the following determines how you are billed for using Amazon EBS?
+B) You are billed by gigabyte-month (GB/m) and data-transferred each month.
+B) You are billed by terabyte-year (TB/y).
+B) You are billed by the number of requests made monthly.
++A) You are billed by gigabyte-month (GB/m).
+
+QUESTION_ID_PLACEHOLDER
+Which AWS Service can you use to deploy an Application to an On-Premises Instance (and not just EC2 in AWS)?
+B) AWS Elastic Beanstalk
+B) AWS CodeBuild
++A) AWS CodeDeploy
+B) AWS CloudFormation
+
+QUESTION_ID_PLACEHOLDER
+What should you do first if your AWS Access Keys (access key ID and secret access key) are leaked, stolen, or revealed to the public?
+B) Call up the AWS Technical Support and report the incident.
+B) Reset your AWS account password.
++A) Invalidate credentials so they can no longer be used to access your account.
+B) Do nothing. This is not a big deal.
+
+QUESTION_ID_PLACEHOLDER
+Which of the following is the sole responsibility of AWS according to the Shared Responsibility Model?
++A) Physical and Environmental controls
+B) Configuration Management
+B) Patch Management
+B) Awareness & Training
+
+QUESTION_ID_PLACEHOLDER
+You want monitoring data from your EC2 to be available in 1-minute periods in CloudWatch. What should you do?
+B) Nothing. By default, data is available in 1-minute periods.
+B) Enable advanced monitoring in CloudWatch.
++A) Enable detailed monitoring in CloudWatch.
+B) Enable granular monitoring in CloudWatch.
+
+QUESTION_ID_PLACEHOLDER
+Which of the following services could be considered to be Serverless?
++A) AWS Lambda
+B) AWS Outposts
++A) AWS AppSync
+B) Amazon EMR
+B) Amazon LightSail
++A) Amazon API Gateway
+
+QUESTION_ID_PLACEHOLDER
+Which of these features is offered by Route 53?
+B) Load Balancing
++A) Domain Name Registration
+B) Subnet Routing
++A) DNS Failover
++A) Health checks and monitoring
+B) Elastic IPs
+B) Firewall
++A) Latency based routing
+
+QUESTION_ID_PLACEHOLDER
+What AWS service can you use to automatically launch or terminate EC2 instances, launch or terminate instances in an EC2 Spot Fleet, and scale the number of Aurora Read Replicas in an Aurora DB Cluster?
+B) Elastic Load Balancer
+B) AWS Step Functions
++A) AWS Auto Scaling
+B) Auto Scaling Groups (ASG)
+
+QUESTION_ID_PLACEHOLDER
+What can you do with Amazon CloudWatch?
+B) Send you a notification whenever a user logs in to AWS.
+B) Create an unlimited amount of dashboards for free.
++A) Enable detailed monitoring for EC2 instances.
+B) Capture API calls made by AWS Services.
++A) Create alarms to stop, terminate, reboot or recover an EC2 instance.
++A) Set up Log retention policies.
++A) Log Route 53 DNS Queries.
+
+QUESTION_ID_PLACEHOLDER
+What AWS Service can you use to monitor VPC and VPN connections?
++A) Amazon CloudWatch
+B) AWS CloudTrail
+B) AWS Personal Health Dashboard
+B) AWS Control Tower
+
+QUESTION_ID_PLACEHOLDER
+You have set up an account for a new IAM User. What Sign-In URL should you give them?
+B) https://account-ID-or-alias.aws.amazon.com/console
+B) https://signin.aws.amazon.com/accountId
++A) https://account-ID-or-alias.signin.aws.amazon.com/console
+B) https://signin.account-ID-or-alias.aws.amazon.com/console
+
+QUESTION_ID_PLACEHOLDER
+Which AWS storage service allows you to create, mount and use an elastic file system across multiple EC2 and on-premises servers?
++A) Amazon EFS
+B) Amazon S3
+B) Amazon EC2 Instance Store
+B) Amazon EBS
+
+QUESTION_ID_PLACEHOLDER
+What feature allows you to securely connect your VPCs to supported AWS services including your own services on AWS, to services hosted by other AWS accounts, and to third-party services on AWS Marketplace?
+B) Amazon Route 53
++A) AWS PrivateLink
+B) AWS Direct Connect
+B) AWS VPN
+
+QUESTION_ID_PLACEHOLDER
+Against which services are you allowed to carry out security assessments or penetration tests without getting prior approval from AWS?
++A) Amazon RDS
+B) Amazon DynamoDB
+B) Amazon S3
++A) Amazon CloudFront
+B) Amazon Route 53
++A) Amazon EC2 Instances
+
+QUESTION_ID_PLACEHOLDER
+Your company needs to run an Oracle database in AWS. How could you get this done?
++A) Install Oracle Database on EC2.
++A) Use Amazon RDS for Oracle.
+B) Use Amazon Aurora.
+B) Use Amazon Redshift.
+
+QUESTION_ID_PLACEHOLDER
+If you want to encrypt your S3 bucket with Amazon managed S3 keys, what option should you choose?
+B) SSE-KMS
++A) SSE-S3
+B) SSE-C
+B) SSE-RSA
+
+QUESTION_ID_PLACEHOLDER
+What is the purpose of the Concierge Support Team?
+B) They provide account assistance on the Business Support Plan.
+B) They provide technical assistance on the Enterprise Support Plan.
++A) They provide account assistance on the Enterprise Support Plan.
+B) They provide technical assistance on the Business Support Plan.
+
+QUESTION_ID_PLACEHOLDER
+What is the purpose of using an RDS Standby Replica?
+B) RDS Standby Replicas don't exist. Only Read Replicas exist.
++A) It provides high availability. RDS will automatically failover to the standby if the primary DB instance goes offline.
+B) A Standby Replica services read-only traffic so its purpose is to scale read operations and performance.
+B) It's a backup of the database created asynchronously. It needs to be restored into the primary AZ in order to be used.
+
+QUESTION_ID_PLACEHOLDER
+You have created an AMI that you want to share with a colleague in another region. What's the quickest way you can do it?
+B) Copy the AMI to a shared S3 bucket.
++A) Copy the AMI to another region via the EC2 Console.
+B) Use a tool like dropbox to share the AMI.
+B) Create a shared EFS volume and use it copy the AMI across.
+
+QUESTION_ID_PLACEHOLDER
+What is the benefit of accessing AWS services using the AWS SDK?
+B) You can outsource all of your application's logic to the AWS SDK thus minimizing the time needed to build your application.
++A) You can give your applications a way to programmatically access AWS services and resources, using libraries built and tested by AWS.
+B) It is more secure to access AWS using the AWS SDK rather than other ways (such as through the AWS Console).
+B) It is cheaper to used AWS SDK to access AWS rather than using the AWS Console or through direct HTTP requests.
+
+QUESTION_ID_PLACEHOLDER
+Which of the following are CloudWatch Alarm states in Amazon CloudWatch?
++A) INSUFFICIENT_DATA
+B) SUCCESS
++A) OK
+B) NOT_OK
++A) ALARM
+B) VALID
+B) INVALID
+
+QUESTION_ID_PLACEHOLDER
+Where does Amazon RDS store DB snapshots and automated backups?
+B) Amazon EFS
+B) Amazon EC2 Instance Store
+B) Amazon EBS
++A) Amazon S3
+
+QUESTION_ID_PLACEHOLDER
+Which of the following can help to prevent accidental deletion of objects in S3?
+B) Enabling CloudTrail records
+B) Enabling Ask-On-Delete
++A) Enabling MFA Delete
+B) Enabling S3 Glacier
++A) Enabling Versioning
++A) Enabling Cross-Region Replication
+
+QUESTION_ID_PLACEHOLDER
+Your company needs to transfer 80TB of data to S3 as a once-off exercise. However, the Internet connection is slow and it'll take a month to do so. What's the fastest and cheapest way you can accomplish this?
+B) AWS VPN
++A) AWS Snowball
+B) AWS Storage Gateway
+B) AWS Direct Connect
+

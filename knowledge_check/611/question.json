@@ -1,0 +1,21 @@
+{
+    "text": "How many IP addresses in following CIDR block 10.0.0.0/28?",
+    "answers": [
+        {
+            "text": "2"
+        },
+        {
+            "text": "4"
+        },
+        {
+            "text": "8"
+        },
+        {
+            "text": "16",
+            "right_answer": true
+        },
+        {
+            "text": "32"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "aws_service": [
+        "IAM"
+    ],
+    "type": "practice_test",
+    "title": {
+        "kk": "Practice test quesion 147",
+        "en": "Practice test quesion 147",
+        "ru": "Practice test quesion 147"
+    },
+    "content_type": "test",
+    "id": "147",
+    "property_keys": [
+        "type",
+        "id",
+        "content_type",
+        "aws_service",
+        "aws_group"
+    ],
+    "aws_group": [
+        "Security, Identity, & Compliance"
+    ],
+    "files_list": [
+        {
+            "type": "metadata",
+            "path": "metadata.json",
+            "lang": "en"
+        },
+        {
+            "type": "question",
+            "path": "question.json",
+            "lang": "en"
+        }
+    ]
+}

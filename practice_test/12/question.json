@@ -1,0 +1,18 @@
+{
+    "text": "Which Amazon EC2 compute option will interrupt your workload and remove your instance, if it needs spare capacity?",
+    "answers": [
+        {
+            "text": "Reserved"
+        },
+        {
+            "text": "Spot",
+            "right_answer": true
+        },
+        {
+            "text": "Bare Metal"
+        },
+        {
+            "text": "On-Demand"
+        }
+    ]
+}

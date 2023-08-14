@@ -1,0 +1,18 @@
+{
+    "text": "What is the purpose of using an RDS Standby Replica?",
+    "answers": [
+        {
+            "text": "RDS Standby Replicas don't exist. Only Read Replicas exist."
+        },
+        {
+            "text": "It provides high availability. RDS will automatically failover to the standby if the primary DB instance goes offline.",
+            "right_answer": true
+        },
+        {
+            "text": "A Standby Replica services read-only traffic so its purpose is to scale read operations and performance."
+        },
+        {
+            "text": "It's a backup of the database created asynchronously. It needs to be restored into the primary AZ in order to be used."
+        }
+    ]
+}

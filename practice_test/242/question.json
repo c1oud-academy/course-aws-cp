@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "Run the database on an EC2 Instance and use EFS."
+        },
+        {
+            "text": "Run the database on an EC2 Instance and use S3."
+        },
+        {
+            "text": "Run the database on an EC2 Instance and use Instance Store."
+        },
+        {
+            "right_answer": true,
+            "text": "Run the database on an EC2 Instance and use EBS."
+        }
+    ],
+    "text": "Your company has asked you to run a customized, self-hosted database, that you may need to suspend from time to time to save on cost. What's the best option you can take?"
+}

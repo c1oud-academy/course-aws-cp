@@ -1,0 +1,18 @@
+{
+    "text": "Which of the following is an IAM identity, with permission policies, that can be assumed by anyone who needs it for a session?",
+    "answers": [
+        {
+            "text": "IAM Role",
+            "right_answer": true
+        },
+        {
+            "text": "IAM Group"
+        },
+        {
+            "text": "IAM User"
+        },
+        {
+            "text": "IAM Policy"
+        }
+    ]
+}

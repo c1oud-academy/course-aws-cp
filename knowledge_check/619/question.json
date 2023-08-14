@@ -1,0 +1,21 @@
+{
+    "text": "Select AWS service or feature that makes your instances in public subnet accessable from the Internet and vice versa:",
+    "answers": [
+        {
+            "text": "Internet Gateway",
+            "right_answer": true
+        },
+        {
+            "text": "NAT Gateway"
+        },
+        {
+            "text": "NAT Instance"
+        },
+        {
+            "text": "VPC Sharing"
+        },
+        {
+            "text": "VPC Endpoints"
+        }
+    ]
+}

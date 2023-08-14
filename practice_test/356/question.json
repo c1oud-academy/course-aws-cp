@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "AWS CloudWatch Billing Alarms"
+        },
+        {
+            "right_answer": true,
+            "text": "AWS Budgets"
+        },
+        {
+            "text": "Savings Plans"
+        },
+        {
+            "text": "AWS Cost Explorer"
+        }
+    ],
+    "text": "Which service would you use to set reservation utilization or coverage targets, and then receive alerts if your utilization dropped below a threshold you defined?"
+}

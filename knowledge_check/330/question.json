@@ -1,0 +1,18 @@
+{
+    "text": "What is the service where you can set budgets to your cloud spendings?",
+    "answers": [
+        {
+            "text": "AWS Billing and Cost Management"
+        },
+        {
+            "text": "AWS Budgets",
+            "right_answer": true
+        },
+        {
+            "text": "AWS Cost and Usage Report"
+        },
+        {
+            "text": "AWS Cost Explorer"
+        }
+    ]
+}

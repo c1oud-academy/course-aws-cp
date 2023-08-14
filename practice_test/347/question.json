@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "5 per VPC and 1 per Region"
+        },
+        {
+            "text": "1 per VPC and 1 per Region"
+        },
+        {
+            "text": "5 per VPC and 5 per Region"
+        },
+        {
+            "right_answer": true,
+            "text": "1 per VPC and 5 per Region"
+        }
+    ],
+    "text": "Normally, without raising limits with AWS, how many Internet Gateways can you have per VPC and how many Internet Gateways can you have in total per Region?"
+}

@@ -1,0 +1,18 @@
+{
+    "text": "What is the durability level of Amazon S3 service?",
+    "answers": [
+        {
+            "text": "11 9s",
+            "right_answer": true
+        },
+        {
+            "text": "12 9s"
+        },
+        {
+            "text": "9 9s"
+        },
+        {
+            "text": "10 9s"
+        }
+    ]
+}

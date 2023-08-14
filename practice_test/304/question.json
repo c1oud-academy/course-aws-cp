@@ -1,0 +1,26 @@
+{
+    "answers": [
+        {
+            "right_answer": true,
+            "text": "Schema creation."
+        },
+        {
+            "text": "Storage capacity management (with Storage Auto Scaling)."
+        },
+        {
+            "text": "Operating System Updates"
+        },
+        {
+            "right_answer": true,
+            "text": "Database parameter configuration and tuning."
+        },
+        {
+            "right_answer": true,
+            "text": "User access control."
+        },
+        {
+            "text": "Failover management."
+        }
+    ],
+    "text": "When it comes to AWS Relational Database Services what are your responsibilities?"
+}

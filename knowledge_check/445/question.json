@@ -1,0 +1,24 @@
+{
+    "text": "What is the AWS service that provides recommendations to follow AWS best practices?",
+    "answers": [
+        {
+            "text": "AWS Config"
+        },
+        {
+            "text": "Amazon CloudWatch"
+        },
+        {
+            "text": "AWS Auto Scaling"
+        },
+        {
+            "text": "AWS Trusted Advisor",
+            "right_answer": true
+        },
+        {
+            "text": "AWS Well-Architected Tool"
+        },
+        {
+            "text": "AWS CloudTrail"
+        }
+    ]
+}

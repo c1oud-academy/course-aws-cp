@@ -1,0 +1,18 @@
+{
+    "text": "Which AWS service can be used to create a dedicated network connection from your premises to AWS, using a dedicated private network rather than the Internet?",
+    "answers": [
+        {
+            "text": "AWS Direct Connect",
+            "right_answer": true
+        },
+        {
+            "text": "AWS Transit Gateway"
+        },
+        {
+            "text": "AWS VPN"
+        },
+        {
+            "text": "AWS App Mesh"
+        }
+    ]
+}

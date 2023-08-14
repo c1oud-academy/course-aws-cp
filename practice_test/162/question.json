@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "Attach permissions directly to each IAM User."
+        },
+        {
+            "right_answer": true,
+            "text": "Create an IAM Group and attach the necessary policies and permissions to it. Then add IAM Users to the Group."
+        },
+        {
+            "text": "Set a permission boundary and apply it to all users."
+        },
+        {
+            "text": "Copy permissions and policies from an existing user to all new users."
+        }
+    ],
+    "text": "What is the best way to manage permissions across a large number of IAM Users?"
+}

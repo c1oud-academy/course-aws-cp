@@ -1,0 +1,23 @@
+{
+    "answers": [
+        {
+            "text": "Availability of edge locations in every country."
+        },
+        {
+            "text": "Ability to access and inspect any data center."
+        },
+        {
+            "right_answer": true,
+            "text": "Stop guessing capacity."
+        },
+        {
+            "right_answer": true,
+            "text": "Stop spending money running and maintaining data centers."
+        },
+        {
+            "right_answer": true,
+            "text": "Trade capital expense for variable expense."
+        }
+    ],
+    "text": "Which of the following are advantages of Cloud Computing?"
+}

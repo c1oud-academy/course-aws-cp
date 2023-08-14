@@ -1,0 +1,26 @@
+{
+    "text": "Which of the following are free to use on or with AWS?",
+    "answers": [
+        {
+            "text": "Lambda"
+        },
+        {
+            "text": "CloudFormation",
+            "right_answer": true
+        },
+        {
+            "text": "VPC",
+            "right_answer": true
+        },
+        {
+            "text": "IAM",
+            "right_answer": true
+        },
+        {
+            "text": "ECS"
+        },
+        {
+            "text": "Rekognition"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": "33",
+    "files_list": [
+        {
+            "type": "metadata",
+            "path": "metadata.json",
+            "lang": "en"
+        },
+        {
+            "type": "question",
+            "path": "question.json",
+            "lang": "en"
+        }
+    ],
+    "aws_service": [
+        "Elastic Container Service",
+        "EC2",
+        "RDS"
+    ],
+    "content_type": "test",
+    "type": "practice_test",
+    "title": {
+        "en": "Practice test quesion 33",
+        "ru": "Practice test quesion 33",
+        "kk": "Practice test quesion 33"
+    },
+    "property_keys": [
+        "type",
+        "id",
+        "content_type",
+        "aws_service",
+        "aws_group"
+    ],
+    "aws_group": [
+        "Security, Identity, & Compliance",
+        "Networking & Content Delivery"
+    ]
+}

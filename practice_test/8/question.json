@@ -1,0 +1,22 @@
+{
+    "text": "Which AWS Support Plans provides access to 24x7 Cloud Support Engineers via the phone?",
+    "answers": [
+        {
+            "text": "Basic"
+        },
+        {
+            "text": "Developer"
+        },
+        {
+            "text": "Business",
+            "right_answer": true
+        },
+        {
+            "text": "Enterprise",
+            "right_answer": true
+        },
+        {
+            "text": "Corporate"
+        }
+    ]
+}

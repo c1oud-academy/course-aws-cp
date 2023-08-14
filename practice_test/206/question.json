@@ -1,0 +1,33 @@
+{
+    "answers": [
+        {
+            "text": "Amazon OracleDB"
+        },
+        {
+            "text": "Amazon MySQL"
+        },
+        {
+            "text": "Amazon DB"
+        },
+        {
+            "right_answer": true,
+            "text": "Amazon DocumentDB"
+        },
+        {
+            "right_answer": true,
+            "text": "Amazon DynamoDB"
+        },
+        {
+            "right_answer": true,
+            "text": "Amazon Neptune"
+        },
+        {
+            "right_answer": true,
+            "text": "Amazon Aurora"
+        },
+        {
+            "text": "AWS BlueShift"
+        }
+    ],
+    "text": "Which of the following are Database services on AWS?"
+}

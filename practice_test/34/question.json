@@ -1,0 +1,22 @@
+{
+    "text": "What are some of the advantages of using AWS?",
+    "answers": [
+        {
+            "text": "AWS is responsible for your data and applications."
+        },
+        {
+            "text": "AWS is responsible for the capacity planning of physical servers.",
+            "right_answer": true
+        },
+        {
+            "text": "AWS is responsible for the maintenance of physical hardware.",
+            "right_answer": true
+        },
+        {
+            "text": "AWS is responsible for the security of all resources and services."
+        },
+        {
+            "text": "AWS is responsible for proactive maintenance of the Operating System on EC2 instances."
+        }
+    ]
+}

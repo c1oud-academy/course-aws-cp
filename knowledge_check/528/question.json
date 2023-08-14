@@ -1,0 +1,21 @@
+{
+    "text": "What is the service that help you manage cryptographic keys in AWS?",
+    "answers": [
+        {
+            "text": "AWS KMS",
+            "right_answer": true
+        },
+        {
+            "text": "AWS Macie"
+        },
+        {
+            "text": "AWS IAM"
+        },
+        {
+            "text": "AWS Organizations"
+        },
+        {
+            "text": "Amazon Cognito"
+        }
+    ]
+}

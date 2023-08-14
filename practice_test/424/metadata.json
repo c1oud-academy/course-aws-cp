@@ -1,0 +1,38 @@
+{
+    "type": "practice_test",
+    "aws_group": [
+        "Compute",
+        "Networking & Content Delivery"
+    ],
+    "id": "424",
+    "property_keys": [
+        "type",
+        "id",
+        "content_type",
+        "aws_service",
+        "aws_group"
+    ],
+    "title": {
+        "en": "Practice test quesion 424",
+        "kk": "Practice test quesion 424",
+        "ru": "Practice test quesion 424"
+    },
+    "files_list": [
+        {
+            "type": "metadata",
+            "lang": "en",
+            "path": "metadata.json"
+        },
+        {
+            "type": "question",
+            "lang": "en",
+            "path": "question.json"
+        }
+    ],
+    "aws_service": [
+        "VPC",
+        "Lambda",
+        "Direct Connect"
+    ],
+    "content_type": "test"
+}

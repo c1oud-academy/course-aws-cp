@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "Amazon Redshift"
+        },
+        {
+            "right_answer": true,
+            "text": "Amazon EC2"
+        },
+        {
+            "text": "Amazon Aurora"
+        },
+        {
+            "text": "Amazon RDS"
+        }
+    ],
+    "text": "Which of the following services should you use, if you want to deploy a relational database and control the underlying Operating System?"
+}

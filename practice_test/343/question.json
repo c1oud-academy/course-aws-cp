@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "Application Load Balancer"
+        },
+        {
+            "text": "Performance Load Balancer"
+        },
+        {
+            "text": "Classic Load Balancer"
+        },
+        {
+            "right_answer": true,
+            "text": "Network Load Balancer"
+        }
+    ],
+    "text": "Which Elastic Load Balancer, operating at Layer 4, is best suited for load balancing of TCP, UDP, and TLS traffic where high performance is required?"
+}

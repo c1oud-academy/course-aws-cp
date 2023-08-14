@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "Memcached supports advanced data structures."
+        },
+        {
+            "text": "Memcached is cheaper than Redis."
+        },
+        {
+            "right_answer": true,
+            "text": "Memcached is designed for simplicity."
+        },
+        {
+            "text": "Memcached provides extra monitoring and data."
+        }
+    ],
+    "text": "What is one reason for choosing Memcached over Redis for ElastiCache?"
+}

@@ -1,0 +1,18 @@
+{
+    "text": "Your company has asked you to set up DNS failover. What Amazon Route 53 feature can you use to check that your EC2 instance is healthy or unhealthy?",
+    "answers": [
+        {
+            "text": "Health Check",
+            "right_answer": true
+        },
+        {
+            "text": "EC2 Check"
+        },
+        {
+            "text": "CloudWatch"
+        },
+        {
+            "text": "IP Ping"
+        }
+    ]
+}

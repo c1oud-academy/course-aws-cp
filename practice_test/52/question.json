@@ -1,0 +1,18 @@
+{
+    "text": "Which AWS service allows you to have your own source control repositories based on Git?",
+    "answers": [
+        {
+            "text": "AWS CodePipeline"
+        },
+        {
+            "text": "AWS CodeBuild"
+        },
+        {
+            "text": "AWS CodeCommit",
+            "right_answer": true
+        },
+        {
+            "text": "AWS DataSync"
+        }
+    ]
+}

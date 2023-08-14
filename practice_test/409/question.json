@@ -1,0 +1,18 @@
+{
+    "text": "Which AWS service allows you to provide user sign-up, sign-on, and access control in your application?",
+    "answers": [
+        {
+            "text": "AWS Organizations"
+        },
+        {
+            "text": "AWS Single Sign-On"
+        },
+        {
+            "text": "AWS IAM"
+        },
+        {
+            "text": "Amazon Cognito",
+            "right_answer": true
+        }
+    ]
+}

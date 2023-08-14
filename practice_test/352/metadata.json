@@ -1,0 +1,39 @@
+{
+    "type": "practice_test",
+    "files_list": [
+        {
+            "path": "metadata.json",
+            "type": "metadata",
+            "lang": "en"
+        },
+        {
+            "path": "question.json",
+            "type": "question",
+            "lang": "en"
+        }
+    ],
+    "property_keys": [
+        "type",
+        "id",
+        "content_type",
+        "aws_service",
+        "aws_group"
+    ],
+    "aws_service": [
+        "CloudTrail",
+        "Config",
+        "CloudWatch",
+        "GuardDuty"
+    ],
+    "aws_group": [
+        "Management & Governance",
+        "Security, Identity, & Compliance"
+    ],
+    "id": "352",
+    "title": {
+        "ru": "Practice test quesion 352",
+        "en": "Practice test quesion 352",
+        "kk": "Practice test quesion 352"
+    },
+    "content_type": "test"
+}

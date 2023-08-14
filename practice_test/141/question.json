@@ -1,0 +1,23 @@
+{
+    "answers": [
+        {
+            "right_answer": true,
+            "text": "The minimum file size is 0 bytes."
+        },
+        {
+            "text": "It's a high throughput file system."
+        },
+        {
+            "text": "It's a high-performance block storage service."
+        },
+        {
+            "right_answer": true,
+            "text": "It's a durable object storage service."
+        },
+        {
+            "right_answer": true,
+            "text": "The maximum file size is 5 terabytes."
+        }
+    ],
+    "text": "Which of the following characteristics describe the Amazon Simple Storage Service?"
+}

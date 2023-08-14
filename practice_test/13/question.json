@@ -1,0 +1,18 @@
+{
+    "text": "Which AWS service can you use to compare the cost of your applications in an on-premises or traditional hosting environment to AWS?",
+    "answers": [
+        {
+            "text": "AWS Total Cost of Ownership (TCO) Calculator",
+            "right_answer": true
+        },
+        {
+            "text": "AWS Simple Monthly Calculator"
+        },
+        {
+            "text": "AWS Cost Explorer"
+        },
+        {
+            "text": "AWS Pricing Calculator"
+        }
+    ]
+}

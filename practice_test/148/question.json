@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "right_answer": true,
+            "text": "Spot"
+        },
+        {
+            "text": "Dedicated"
+        },
+        {
+            "text": "On-Demand"
+        },
+        {
+            "text": "Reserved"
+        }
+    ],
+    "text": "Which EC2 pricing model can provide you with the greatest possible discount?"
+}

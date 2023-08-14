@@ -1,0 +1,21 @@
+{
+    "text": "What is the AWS service that does NOT belong to storage service group?",
+    "answers": [
+        {
+            "text": "Amazon S3"
+        },
+        {
+            "text": "Amazon EBS"
+        },
+        {
+            "text": "Amazon EFS"
+        },
+        {
+            "text": "Amazon S3 Glacier"
+        },
+        {
+            "text": "Amazon EKS",
+            "right_answer": true
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "Amazon Detective"
+        },
+        {
+            "text": "Amazon GuardDuty"
+        },
+        {
+            "right_answer": true,
+            "text": "AWS Config"
+        },
+        {
+            "text": "AWS Artifact"
+        }
+    ],
+    "text": "You have been asked to audit and evaluate the configuration of AWS resources used by your company. You need to present a review of changes in configuration and assist with compliance auditing. What AWS service can help you with this?"
+}

@@ -1,0 +1,18 @@
+{
+    "text": "Select URL where we can access Amazon EC2 instance metadata from instance:",
+    "answers": [
+        {
+            "text": "http://169.254.169.254/latest/meta-data/",
+            "right_answer": true
+        },
+        {
+            "text": "http://254.169.254.169/latest/user-data/"
+        },
+        {
+            "text": "http://254.169.254.169/latest/meta-data/"
+        },
+        {
+            "text": "http://169.254.169.254/latest/user-data/"
+        }
+    ]
+}

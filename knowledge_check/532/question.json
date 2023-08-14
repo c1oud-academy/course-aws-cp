@@ -1,0 +1,21 @@
+{
+    "text": "What is the AWS service that helps to discover security vulnerabilities in your EC2 workloads?",
+    "answers": [
+        {
+            "text": "AWS KMS"
+        },
+        {
+            "text": "AWS Inspector",
+            "right_answer": true
+        },
+        {
+            "text": "AWS Shield"
+        },
+        {
+            "text": "AWS Organizations"
+        },
+        {
+            "text": "AWS GuardDuty"
+        }
+    ]
+}

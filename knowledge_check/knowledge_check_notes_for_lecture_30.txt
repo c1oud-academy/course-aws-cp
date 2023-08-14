@@ -1,0 +1,299 @@
+Knowledge check questions #30
+
+300
+Select the main factors that affect the cost with AWS:
++ A) Compute
++ B) Storage
++ C) Data transfer
+D) Service
+E) Block
+F) Driver
+
+301
+Select the main factors that affect the cost with AWS:
++ B) Storage
++ C) Data transfer
+D) Service
+E) Block
+F) Driver
+
+302
+Select the main factors that affect the cost with AWS:
++ A) Compute
++ C) Data transfer
+D) Service
+E) Block
+F) Driver
+
+303
+Select the main factors that affect the cost with AWS:
++ A) Compute
++ B) Storage
+D) Service
+E) Block
+F) Driver
+
+304
+Select option that is NOT a main factor that affects the cost with AWS:
+A) Compute
+B) Storage
+C) Data transfer
++ D) Service
+
+305
+Select options when you do NOT need to pay to AWS:
++ A) Data upload to AWS
+B) Data download from AWS
+C) Cross-region data transfer
++ D) Region level data transfer
+E) Compute resources
+
+306
+Select option when you do NOT need to pay to AWS:
++ A) Data upload to AWS
+B) Data download from AWS
+C) Cross-region data transfer
+E) Compute resources
+
+307
+Select option when you do NOT need to pay to AWS:
+B) Data download from AWS
+C) Cross-region data transfer
++ D) Region level data transfer
+E) Compute resources
+
+308
+Select options when you need to pay to AWS:
+A) Data upload to AWS
++ B) Data download from AWS
++ C) Cross-region data transfer
+D) Region level data transfer
++ E) Compute resources
+
+309
+What is pay-as-you-go pricing?
+A) Pay only for what you want
++B) Pay only for what you used
+C) Pay before you start using
+D) No need to pay
+
+310
+Select available Reserved Instances (RI) payment models:
++A) AURI
+B) BURI
+C) FURI
++D) PURI
++E) NURI
+F) MURI
+G) ZURI
+
+311
+Select available Reserved Instances (RI) payment models:
++A) AURI
+B) BURI
+C) FURI
++D) PURI
+F) MURI
+
+312
+Select available Reserved Instances (RI) payment models:
++A) AURI
+B) BURI
+C) FURI
++E) NURI
+F) MURI
+
+313
+Select available Reserved Instances (RI) payment models:
+B) BURI
+C) FURI
++D) PURI
++E) NURI
+F) MURI
+
+314
+What does AURI stand for?
++ A) All Upfront Reserved Instance
+B) All Unreserved Regular Instance
+C) All Ultimately Reserved Instance
+D) AWS Unreserved Regular Instance
+E) Other
+
+315
+What does PURI stand for?
++ A) Partial Upfront Reserved Instance
+A) Partial Unreserved Regular Instance
+A) Part-time Upfront Reserved Instance
+A) Part-time Unreserved Regular Instance
+E) Other
+
+316
+What does NURI stand for?
++ A) No Upfront Reserved Instance
+A) No Unreserved Regular Instance
+A) Nominal Upfront Reserved Instance
+A) Nominal Unreserved Regular Instance
+E) Other
+
+317
+What is the RI payment model that gives maximum discounts?
++ A) AURI
+D) PURI
+E) NURI
+D) Other
+
+318
+What is the RI payment model that gives minimum discounts?
+A) AURI
+D) PURI
++ E) NURI
+D) Other
+
+319
+What are available RI contract periods?
++ A) 1 year
+D) 2 years
++ E) 3 years
+D) 4 years
+E) 5 years
+
+320
+What is the RI option that gives maximum discounts?
++ A) AURI 3-year contract
+D) PURI 3-year contract
+E) NURI 3-year contract
+A) AURI 1-year contract
+D) PURI 1-year contract
+E) NURI 1-year contract
+
+321
+What is the RI option that gives minimum discounts?
+A) AURI 3-year contract
+D) PURI 3-year contract
+E) NURI 3-year contract
+A) AURI 1-year contract
+D) PURI 1-year contract
++ E) NURI 1-year contract
+
+322
+What does TCO stand for?
++ A) Total Cost of Ownership
+D) Total Center of Ownership
+E) Total Company of Ownership
+A) Other
+
+323
+Which service helps to calculate the TCO of cloud infrastructure?
+A) Amazon TCO
+B) AWS TCO
+C) AWS Cost Calculator
++ D) AWS Pricing Calculator
+
+324
+What is the name of AWS Service that helps to centrally manage other AWS Accounts?
++ A) AWS Organizations
+B) AWS Departments
+C) AWS Accounts
+D) AWS Groups
+
+325
+What is the benefits of using AWS Organizations?
++ A) Policy-based account management (SCPs)
++ B) Group based account management (OUs)
++ C) Consolidated billing
+D) Reserved Instances (RI)
+
+326
+What do we typically use to meet security related aspects on OU level when using AWS Organizations?
++ A) SCPs
+B) AWS IAM
+C) AWS EC2
+D) AWS RDS
+
+327
+What we usually use to meet security related aspects on specific account when using AWS Organizations?
+A) SCPs
++ B) AWS IAM
+C) AWS EC2
+D) AWS RDS
+
+328
+Select services related to costs and billing:
++ A) AWS Billing and Cost Management
++ B) AWS Budgets
++ C) AWS Cost and Usage Report
++ D) AWS Cost Explorer
+E) AWS EC2
+F) AWS Config
+G) AWS Organizations
+H) AWS IAM
+
+329
+What is the service where you can see all your monthly AWS bills?
++ A) AWS Billing and Cost Management
+B) AWS Budgets
+C) AWS Cost and Usage Report
+D) AWS Cost Explorer
+
+330
+What is the service where you can set budgets to your cloud spendings?
+A) AWS Billing and Cost Management
++ B) AWS Budgets
+C) AWS Cost and Usage Report
+D) AWS Cost Explorer
+
+331
+What is the service where you can generate raw data with all your spendings and with all available details?
+A) AWS Billing and Cost Management
+B) AWS Budgets
++ C) AWS Cost and Usage Report
+D) AWS Cost Explorer
+
+332
+What is the service where you can see your spendings in different perspectives with simple interactive UI?
+A) AWS Billing and Cost Management
+B) AWS Budgets
+C) AWS Cost and Usage Report
++ D) AWS Cost Explorer
+
+333
+Select option that is NOT related to AWS support:
+A) Technical Account Manager (TAM)
+B) AWS Trusted Advisor
+C) AWS Support Concierge
++ D) AWS Organizations
+
+334
+Select non-existing support plan:
+A) Basic Support
+B) Developer Support
+C) Business Support
+D) Enterprise Support
++ E) Corporate Support
+
+335
+Select support plan activated by default on new AWS accounts:
++ A) Basic Support
+B) Developer Support
+C) Business Support
+D) Enterprise Support
+
+336
+Select support plan that is free:
++ A) Basic Support
+B) Developer Support
+C) Business Support
+D) Enterprise Support
+
+337
+Select non-existing AWS Support case severity:
+A) Critical
+B) Urgent
+C) High
+D) Normal
+E) Low
++ F) Amazing
+
+
+
+

@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "right_answer": true,
+            "text": "AWS WAF"
+        },
+        {
+            "text": "Amazon Inspector"
+        },
+        {
+            "text": "Amazon VPC Security Groups"
+        },
+        {
+            "text": "AWS Firewall Manager"
+        }
+    ],
+    "text": "What AWS service lets you set up a firewall to monitor and protect against malicious HTTP/HTTPS requests sent to API Gateway, CloudFront, or ALB? Hint: this service lets you set and block on conditions such as IP addresses that requests originate from."
+}

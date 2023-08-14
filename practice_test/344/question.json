@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "right_answer": true,
+            "text": "A Virtual Private Gateway sits at the edge of the VPC and connects to VPN connections from on-premises data centers or networks."
+        },
+        {
+            "text": "A Virtual Private Gateway is used to connect two VPCs in two different AWS accounts to one another."
+        },
+        {
+            "text": "A Virtual Private Gateway connects two VPCs together in a secure fashion."
+        },
+        {
+            "text": "A Virtual Private Gateway is used to connect two separate on-premises data centres or networks to each other."
+        }
+    ],
+    "text": "What is the purpose of a Virtual Private Gateway?"
+}

@@ -1,0 +1,22 @@
+{
+    "text": "What are available RI contract periods?",
+    "answers": [
+        {
+            "text": "1 year",
+            "right_answer": true
+        },
+        {
+            "text": "2 years"
+        },
+        {
+            "text": "3 years",
+            "right_answer": true
+        },
+        {
+            "text": "4 years"
+        },
+        {
+            "text": "5 years"
+        }
+    ]
+}

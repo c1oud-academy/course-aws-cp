@@ -1,0 +1,40 @@
+{
+    "type": "practice_test",
+    "aws_group": [
+        "Security, Identity, & Compliance",
+        "Networking & Content Delivery",
+        "Storage"
+    ],
+    "id": "422",
+    "property_keys": [
+        "type",
+        "id",
+        "content_type",
+        "aws_service",
+        "aws_group"
+    ],
+    "title": {
+        "en": "Practice test quesion 422",
+        "kk": "Practice test quesion 422",
+        "ru": "Practice test quesion 422"
+    },
+    "files_list": [
+        {
+            "type": "metadata",
+            "lang": "en",
+            "path": "metadata.json"
+        },
+        {
+            "type": "question",
+            "lang": "en",
+            "path": "question.json"
+        }
+    ],
+    "aws_service": [
+        "VPC",
+        "IAM",
+        "Direct Connect",
+        "S3"
+    ],
+    "content_type": "test"
+}

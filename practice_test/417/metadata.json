@@ -1,0 +1,37 @@
+{
+    "type": "practice_test",
+    "aws_group": [
+        "AWS Global Infrastructure",
+        "Storage"
+    ],
+    "id": "417",
+    "property_keys": [
+        "type",
+        "id",
+        "content_type",
+        "aws_service",
+        "aws_group"
+    ],
+    "title": {
+        "en": "Practice test quesion 417",
+        "kk": "Practice test quesion 417",
+        "ru": "Practice test quesion 417"
+    },
+    "files_list": [
+        {
+            "type": "metadata",
+            "lang": "en",
+            "path": "metadata.json"
+        },
+        {
+            "type": "question",
+            "lang": "en",
+            "path": "question.json"
+        }
+    ],
+    "aws_service": [
+        "S3",
+        "Availability Zone"
+    ],
+    "content_type": "test"
+}

@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "AWS Trusted Advisor"
+        },
+        {
+            "right_answer": true,
+            "text": "AWS Cost and Usage Report"
+        },
+        {
+            "text": "AWS Cost Explorer"
+        },
+        {
+            "text": "Consolidated Billing"
+        }
+    ],
+    "text": "Which of the following provides a comprehensive and granular breakdown of usage and cost data, that you can also download as a CSV file?"
+}

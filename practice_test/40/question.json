@@ -1,0 +1,18 @@
+{
+    "text": "What does elasticity refer to in AWS?",
+    "answers": [
+        {
+            "text": "Ability to horizontally (or vertically) scale resources.",
+            "right_answer": true
+        },
+        {
+            "text": "Ability to route traffic from one Availability Zone to another."
+        },
+        {
+            "text": "Pay-as-you-go pricing model."
+        },
+        {
+            "text": "Enhanced reliability of AWS Cloud services."
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "right_answer": true,
+            "text": "IAM Role"
+        },
+        {
+            "text": "IAM Access Analyzer"
+        },
+        {
+            "text": "IAM Group"
+        },
+        {
+            "text": "IAM User"
+        }
+    ],
+    "text": "You want your EC2 Instance to be able to save and read files to S3. Which IAM feature should you use to help you with that?"
+}

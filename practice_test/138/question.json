@@ -1,0 +1,23 @@
+{
+    "answers": [
+        {
+            "right_answer": true,
+            "text": "Ensuring that Security Groups are correctly configured."
+        },
+        {
+            "right_answer": true,
+            "text": "Operating System configuration and patch management."
+        },
+        {
+            "text": "EC2 Hypervisor patching and maintenance."
+        },
+        {
+            "text": "Availability Zone maintenance, physical, and environmental control."
+        },
+        {
+            "right_answer": true,
+            "text": "Client-Side Data Encryption and Data Integrity Authentication."
+        }
+    ],
+    "text": "In terms of the Shared Responsibility Model, as a customer which of the following are you responsible for when using EC2?"
+}

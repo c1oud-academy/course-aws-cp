@@ -1,0 +1,38 @@
+{
+    "type": "practice_test",
+    "files_list": [
+        {
+            "path": "metadata.json",
+            "type": "metadata",
+            "lang": "en"
+        },
+        {
+            "path": "question.json",
+            "type": "question",
+            "lang": "en"
+        }
+    ],
+    "property_keys": [
+        "type",
+        "id",
+        "content_type",
+        "aws_service",
+        "aws_group"
+    ],
+    "aws_service": [
+        "Key Management Service",
+        "Certificate Manager",
+        "Resource Access Manager",
+        "CloudHSM"
+    ],
+    "aws_group": [
+        "Security, Identity, & Compliance"
+    ],
+    "id": "310",
+    "title": {
+        "ru": "Practice test quesion 310",
+        "en": "Practice test quesion 310",
+        "kk": "Practice test quesion 310"
+    },
+    "content_type": "test"
+}

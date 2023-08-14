@@ -1,0 +1,35 @@
+{
+    "type": "practice_test",
+    "files_list": [
+        {
+            "path": "metadata.json",
+            "type": "metadata",
+            "lang": "en"
+        },
+        {
+            "path": "question.json",
+            "type": "question",
+            "lang": "en"
+        }
+    ],
+    "property_keys": [
+        "type",
+        "id",
+        "content_type",
+        "aws_service",
+        "aws_group"
+    ],
+    "aws_service": [
+        "Misc"
+    ],
+    "aws_group": [
+        "Compute"
+    ],
+    "id": "343",
+    "title": {
+        "ru": "Practice test quesion 343",
+        "en": "Practice test quesion 343",
+        "kk": "Practice test quesion 343"
+    },
+    "content_type": "test"
+}

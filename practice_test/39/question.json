@@ -1,0 +1,18 @@
+{
+    "text": "Which AWS service or feature lets you route traffic between two VPCs using private IP addresses?",
+    "answers": [
+        {
+            "text": "VPC Traffic Mirroring"
+        },
+        {
+            "text": "AWS Transit Gateway"
+        },
+        {
+            "text": "AWS PrivateLink"
+        },
+        {
+            "text": "VPC Peering",
+            "right_answer": true
+        }
+    ]
+}

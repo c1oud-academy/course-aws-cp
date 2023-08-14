@@ -1,0 +1,39 @@
+{
+    "type": "practice_test",
+    "aws_group": [
+        "Database",
+        "Compute",
+        "Analytics"
+    ],
+    "id": "456",
+    "property_keys": [
+        "type",
+        "id",
+        "content_type",
+        "aws_service",
+        "aws_group"
+    ],
+    "title": {
+        "en": "Practice test quesion 456",
+        "kk": "Practice test quesion 456",
+        "ru": "Practice test quesion 456"
+    },
+    "files_list": [
+        {
+            "type": "metadata",
+            "lang": "en",
+            "path": "metadata.json"
+        },
+        {
+            "type": "question",
+            "lang": "en",
+            "path": "question.json"
+        }
+    ],
+    "aws_service": [
+        "EC2",
+        "Amazon Redshift",
+        "RDS"
+    ],
+    "content_type": "test"
+}

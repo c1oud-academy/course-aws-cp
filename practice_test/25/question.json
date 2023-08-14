@@ -1,0 +1,18 @@
+{
+    "text": "The customer is responsible for patching the Operating System of which AWS service?",
+    "answers": [
+        {
+            "text": "AWS Fargate"
+        },
+        {
+            "text": "AWS Lambda"
+        },
+        {
+            "text": "Amazon Lightsail",
+            "right_answer": true
+        },
+        {
+            "text": "Amazon RDS"
+        }
+    ]
+}

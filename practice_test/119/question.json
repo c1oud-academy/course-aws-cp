@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "AWS Application Discovery Service"
+        },
+        {
+            "text": "AWS Artifact"
+        },
+        {
+            "right_answer": true,
+            "text": "AWS Marketplace"
+        },
+        {
+            "text": "Amazon Bracket"
+        }
+    ],
+    "text": "Which AWS service allows customers to find, buy, and deploy software solutions, from third-party vendors, to their AWS environment?"
+}

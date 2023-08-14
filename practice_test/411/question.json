@@ -1,0 +1,26 @@
+{
+    "text": "Which of the following determines the price for using Amazon S3?",
+    "answers": [
+        {
+            "text": "The number of IAM users accessing S3."
+        },
+        {
+            "text": "Amount of storage used",
+            "right_answer": true
+        },
+        {
+            "text": "The number of requests made monthly.",
+            "right_answer": true
+        },
+        {
+            "text": "The number of objects stored in S3."
+        },
+        {
+            "text": "Amount of data transferred into S3."
+        },
+        {
+            "text": "Amount of data transferred out of S3.",
+            "right_answer": true
+        }
+    ]
+}

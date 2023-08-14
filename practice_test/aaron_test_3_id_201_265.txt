@@ -1,0 +1,505 @@
+QUESTION_ID_PLACEHOLDER
+Which of the following is a correct statement about Security Groups and outbound traffic?
+B) Security Groups are stateless and they allow all outbound traffic by default.
++A) Security Groups are stateful and they allow all outbound traffic by default.
+B) Security Groups are stateful and they block all outbound traffic by default.
+B) Security Groups are stateless and they block all outbound traffic by default.
+
+QUESTION_ID_PLACEHOLDER
+Which of the following statements about Security Groups and Network ACLs (NACL) is true?
+B) Security Groups are stateless and NACLs are stateful.
+B) Security Groups are stateless and NACLs are stateless.
+B) Security Groups are stateful and NACLs are stateful.
++A) Security Groups are stateful and NACLs are stateless.
+
+QUESTION_ID_PLACEHOLDER
+What is a major difference between a NAT instance and a NAT Gateway Service?
+B) A NAT Gateway Service is an EC2 instance you must manage yourself in a public subnet, it can be cheaper. A NAT Instance is a fully-managed, highly-available NAT service. It has a higher bandwidth.
++A) A NAT instance is an EC2 instance you must manage yourself in a public subnet, it can be cheaper. A NAT Gateway Service is a fully-managed, highly-available NAT service. It has a higher bandwidth.
+B) A NAT Gateway requires at least 2 EC2 instances to be manually configured. A NAT Instance provisions these 2 EC2 instances automatically hence making administration easier.
+B) A NAT instance requires at least 2 EC2 instances to be manually configured. A NAT Gateway provisions these 2 EC2 instances automatically hence making administration easier.
+
+QUESTION_ID_PLACEHOLDER
+Which AWS service lets you visualize, understand, and manage your AWS costs and usage over time?
+B) Savings Plan
++A) AWS Cost Explorer
+B) AWS Budgets
+B) AWS Inspector
+
+QUESTION_ID_PLACEHOLDER
+Which storage service is best suited to mount as a shared volume across multiple regions and EC2 instances?
+B) Amazon S3
+B) Amazon EBS
++A) Amazon EFS
+B) AWS Storage Gateway
+
+QUESTION_ID_PLACEHOLDER
+Which of the following are Database services on AWS?
+B) Amazon OracleDB
+B) Amazon MySQL
+B) Amazon DB
++A) Amazon DocumentDB
++A) Amazon DynamoDB
++A) Amazon Neptune
++A) Amazon Aurora
+B) AWS BlueShift
+
+QUESTION_ID_PLACEHOLDER
+On the Basic support plan how many AWS Trusted Advisor core checks are you given?
+B) None
+B) Full Set of Checks
+B) 5 Core Checks
++A) 7 Core Checks
+
+QUESTION_ID_PLACEHOLDER
+Amazon Aurora is compatible with which databases?
+B) Microsoft SQL
+B) MariaDB
+B) Amazon DocumentDB
++A) PostgreSQL
+B) Oracle
++A) MySQL
+B) Amazon DynamoDB
+
+QUESTION_ID_PLACEHOLDER
+As part of an audit, you've been asked to demonstrate the current compliance of AWS infrastructure including the AWS ISO certifications. What service can you use to download compliance documents from AWS?
++A) AWS Artifact
+B) Amazon Inspector
+B) Amazon Detective
+B) AWS CloudHSM
+
+QUESTION_ID_PLACEHOLDER
+Your company is migrating some of its infrastructure to AWS. However, they have decided to keep a few servers on-premise which will work with the infrastructure running in AWS. What type of cloud computing model is this?
+B) Public
+B) Mixed
+B) Private
++A) Hybrid
+
+QUESTION_ID_PLACEHOLDER
+Which of the following are recommended security design principles in AWS?
+B) Make sure to use MFA for the root user only.
+B) Try to limit programmatic access to AWS.
++A) Apply security at all layers.
+B) Re-use IAM roles and Users as often as possible.
++A) Enable traceability.
++A) Automate security best practices.
+
+QUESTION_ID_PLACEHOLDER
+Your company has asked you to scan for security exposures and vulnerabilities in your EC2 instances.  Which AWS Service would you consider using to do this?
+B) AWS Trusted Advisor
++A) Amazon Inspector
+B) Amazon GuardDuty
+B) AWS Config
+
+QUESTION_ID_PLACEHOLDER
+Which AWS Service provides a threat detection service by automatically analyzing your CloudTrail logs, VPC Flow Logs, and DNS Logs for suspicious activity?
+B) AWS Trusted Advisor
+B) Amazon Inspector
+B) AWS Config
++A) Amazon GuardDuty
+
+QUESTION_ID_PLACEHOLDER
+Which of the following are advantages of Cloud Computing?
++A) Ability to go global in minutes.
++A) Increased speed and agility.
+B) Not possible to have downtime.
+B) Low learning curve.
+B) Always cheaper in all circumstances.
++A) Benefits from massive economies of scale.
+
+QUESTION_ID_PLACEHOLDER
+If you want to enable S3 static website hosting what do you need to have?
+B) A domain name configured in Route 53.
+B) An HTTPS certificate.
++A) An index document (like index.html) in the root of the bucket.
+B) An error document in the root of the bucket.
++A) The option to 'Use this bucket to host a website' enabled.
+
+QUESTION_ID_PLACEHOLDER
+What support plan should your company be on to receive technical assistance from AWS in under 4 hours, when a production system is impaired?
++A) Enterprise
+B) Basic
++A) Business
+B) Professional
+B) Developer
+
+QUESTION_ID_PLACEHOLDER
+Which of the following are Global AWS services?
++A) Amazon Route 53
+B) Amazon Comprehend
+B) Amazon VPC
+B) EBS Volumes
++A) Amazon CloudFront
++A) AWS IAM
+B) AWS Global Availability Service
+
+QUESTION_ID_PLACEHOLDER
+Which storage gateways does AWS Storage Gateway support?
++A) Volume Gateway
+B) Block Gateway
++A) File Gateway
+B) Object Gateway
+B) Database Gateway
++A) Tape Gateway
+
+QUESTION_ID_PLACEHOLDER
+Which of the following is recommended best practice when using S3?
+B) Make all buckets and objects public for easier access.
+B) Create object policies for each object in the bucket.
+B) Use both ACL and Bucket Policies to lock down bucket access.
++A) Restrict access to buckets and objects only to the people that absolutely need it.
+
+QUESTION_ID_PLACEHOLDER
+Which of the following services or features are Regional?
+B) EC2 Instances
+B) Amazon CloudFront
+B) EBS Volumes
++A) Auto Scaling Groups
++A) Security Groups
++A) Elastic Load Balancer
+B) AWS IAM
+
+QUESTION_ID_PLACEHOLDER
+Which of the following are correct statements about IAM policies and S3 bucket policies?
++A) S3 bucket policies specify what actions are allowed (or denied) for which principals.
+B) S3 Bucket Policies specify CORS settings.
+B) S3 Bucket Policies apply to IAM users, groups, or roles.
++A) S3 Bucket Policies apply only to S3 buckets.
+B) S3 Bucket Policies define what a principal is able to do in an AWS environment.
++A) S3 Bucket Policies have mostly replaced S3 ACLs.
+
+QUESTION_ID_PLACEHOLDER
+What are the available support plans offered by AWS?
++A) Basic
+B) Free
++A) Business
++A) Enterprise
++A) Developer
+B) Professional
+
+QUESTION_ID_PLACEHOLDER
+Which AWS services can be used to create a foundational AWS environment based on best practice blueprints implemented through AWS Service Catalog?
++A) AWS Landing Zone
++A) AWS Control Tower
+B) AWS CloudFormation
+B) AWS Managed Services
+B) AWS OpsWorks
+B) AWS Organizations
+
+QUESTION_ID_PLACEHOLDER
+Your company wants to save money on EC2. The plan is to have the same EC2 instances for 3 years. What should your recommendation be to help get the cheapest price?
+B) Buy Convertible Reserved Instances on a 3-year term with an all upfront option plan.
+B) Buy Convertible Reserved Instances on a 3-year term with a partial upfront option plan.
++A) Buy Standard Reserved Instances on a 3-year term with an all upfront payment plan.
+B) Buy Standard Reserved Instances on a 3-year term with a partial upfront option plan.
+
+QUESTION_ID_PLACEHOLDER
+A company has built an application that is running some of its systems in AWS and a part of the system using servers located on-premise. What kind of architecture is it?
++A) Hybrid
+B) Platform-as-a-Service
+B) Infrastructure-as-a-Service
+B) Serverless
+
+QUESTION_ID_PLACEHOLDER
+What is the purpose of NAT Gateways in AWS?
+B) They are needed to enable a connection to the Internet in a public subnet.
+B) They are needed to support IPv6 traffic to EC2 instances.
+B) They are used to reduce the number of required private and public subnets.
++A) They allow instances in private subnets to connect to the Internet but prevent the Internet from initiating a connection with those instances.
+
+QUESTION_ID_PLACEHOLDER
+Your company is using AWS Organizations to centrally manage all departments. You want to disallow Organizational Units (OU) like finance and operations from creating EC2 Instances. What feature can you use to accomplish that?
+B) IAM Role Policy
+B) Bucket Policy
+B) Tag Policy
++A) Service Control Policy (SCP)
+
+QUESTION_ID_PLACEHOLDER
+What are the main Deployment Models?
++A) Cloud
++A) On-Premises
++A) Hybrid
+B) Mixed
+B) Private
+
+QUESTION_ID_PLACEHOLDER
+Which of the following are Relational database services on AWS?
+B) Amazon Timestream
+B) Amazon QLDB
++A) Amazon Aurora
++A) Amazon RDS
+B) Amazon DynamoDB
+
+QUESTION_ID_PLACEHOLDER
+Which of the following is a correct statement about your VPC's default Network Access Control List (NACL) and inbound traffic?
+B) NACLs are stateful. Default NACL blocks all inbound traffic by default.
+B) NACLs are stateless. Default NACL blocks all inbound traffic by default.
++A) NACLs are stateless. Default NACL allows all inbound traffic by default.
+B) NACLs are stateful. Default NACL allows all inbound traffic by default.
+
+QUESTION_ID_PLACEHOLDER
+Which of the following are advantages of Cloud Computing?
+B) Availability of edge locations in every country.
+B) Ability to access and inspect any data center.
++A) Stop guessing capacity.
++A) Stop spending money running and maintaining data centers.
++A) Trade capital expense for variable expense.
+
+QUESTION_ID_PLACEHOLDER
+Your company wants to run a pilot program using a number of EC2 Instances. These may need to be exchanged for another set of EC2 Instances with a different configuration. What kind of Reserved Instance (RI) should you consider?
+B) Standard RIs
+B) Exchangeable RIs
+B) Scheduled RIs
++A) Convertible RIs
+
+QUESTION_ID_PLACEHOLDER
+In the VPC Service Console which of the following can you manage?
++A) NAT Gateways
+B) Launch Templates
++A) Egress Only Internet Gateways
+B) EBS Volumes
++A) Security Groups
+B) Capacity Reservations
+
+QUESTION_ID_PLACEHOLDER
+Which of the following is an advantage of using AWS over building and deploying your own infrastructure?
+B) AWS has a data center in every country which means that you can run your system as close as possible to your customer.
+B) You have access to the AWS data center and the ability to audit AWS at any time.
++A) Instead of investing in infrastructure up front, you pay for only the services you use and only for how long you use them.
+B) You can request AWS to build a new service for you and they will do it.
+
+QUESTION_ID_PLACEHOLDER
+In Amazon S3 what feature would you use to grant access to your buckets and objects to other AWS accounts and IAM users?
++A) S3 Bucket Policy
+B) S3 ACL
+B) CORS
+B) Lifecycle Policy
+
+QUESTION_ID_PLACEHOLDER
+Which AWS Service allows you to test (some of your) AWS resources against a number of pre-defined checks such as if CloudTrail encryption is enabled or if security groups disallow unrestricted SSH traffic?
+B) Amazon Inspector
++A) AWS Config
+B) AWS Trusted Advisor
+B) Amazon GuardDuty
+
+QUESTION_ID_PLACEHOLDER
+What is the purpose of using an Egress-Only Internet Gateway in AWS?
++A) It provides outbound-only Internet communication over IPv6 and is designed for IPv6 traffic only.
+B) Egress-Only Internet Gateways allow you to associate a security group whereas that's impossible to do with a NAT Gateway.
+B) It provides outbound-only Internet communication over IPv6 & IPv4 and is designed for IPv6 and IPv4 traffic.
+B) It's a cheaper alternative to the more expensive NAT Gateway Service.
+
+QUESTION_ID_PLACEHOLDER
+Which is the fastest EBS volume type?
+B) Throughput Optimized HDD
+B) Cold HDD
++A) EBS Provisioned IOPS SSD
+B) EBS General Purpose SSD
+
+QUESTION_ID_PLACEHOLDER
+Which of the following is the responsibility of the customer in accordance with AWS's Shared Responsibility Model?
+B) Updating MySQL on RDS to the latest version.
++A) Creating custom IAM roles with least-privilege permissions.
+B) Security patching of the Operating System which runs SNS and SQS.
+B) Updating the version of Python on Lambda.
+
+QUESTION_ID_PLACEHOLDER
+How does AWS help you get IT resources quickly?
+B) AWS can dispatch a team of solution architects and engineers to help you configure
++A) AWS provides a way to programmatically provision needed resources. These are created and are made available to you rapidly.
+B) AWS will send the needed hardware over to your datacentre in the form of an AWS Landing Zone.
+B) AWS provides Professional services that can help you configure your servers over the phone.
+
+QUESTION_ID_PLACEHOLDER
+What is the purpose of AWS STS?
++A) It lets you request temporary, limited-privilege credentials for authentication with other AWS APIs.
+B) It's used to enforce who is able to access your AWS account.
+B) It's used to enable logging and API trail across AWS APIs.
+B) It's used to allow EC2 Instances to access other AWS resources.
+
+QUESTION_ID_PLACEHOLDER
+Your company has asked you to run a customized, self-hosted database, that you may need to suspend from time to time to save on cost. What's the best option you can take?
+B) Run the database on an EC2 Instance and use EFS.
+B) Run the database on an EC2 Instance and use S3.
+B) Run the database on an EC2 Instance and use Instance Store.
++A) Run the database on an EC2 Instance and use EBS.
+
+QUESTION_ID_PLACEHOLDER
+At what rate can you read and retrieve a high-resolution metric from CloudWatch?
+B) 100 seconds
++A) 5 seconds
++A) Any multiple of 60 seconds
+B) 20 seconds
+B) 150 seconds
++A) 30 seconds
++A) 1 second
++A) 10 seconds
+
+QUESTION_ID_PLACEHOLDER
+Which IAM feature allows you to delegate access with defined permissions to trusted entities without having to share long-term access keys?
++A) IAM Role
+B) IAM Group
+B) IAM User
+B) S3 Bucket Policy
+
+QUESTION_ID_PLACEHOLDER
+What is the purpose of Cost Allocation Tags?
+B) Cost Allocation Tags are used to show the Recommended Retail Price of each service and product.
+B) Cost Allocation Tags are needed to enable the AWS Cost & Usage Report.
+B) Cost Allocation Tags are used to track AWS costs and enable billing alerts once your spend goes above a certain budget.
++A) Cost Allocation Tags are used to track your AWS costs at a detailed level and display costs in a cost allocation report (CSV file).
+
+QUESTION_ID_PLACEHOLDER
+AWS Shield Advanced provides additional protection to which AWS Services?
+B) Amazon Neptune
++A) Amazon EC2
+B) Amazon ECS
++A) Elastic Load Balancing
+B) AWS Lambda
++A) Amazon CloudFront
+
+QUESTION_ID_PLACEHOLDER
+Which AWS service lets you set a custom budget and receive alerts when your cost or usage has exceeded the budgeted amount?
+B) AWS Trusted Advisor
+B) AWS Cost & Usage Report
+B) AWS Cost Explorer
++A) AWS Budgets
+
+QUESTION_ID_PLACEHOLDER
+A company has built an application that uses AWS Lambda, API Gateway, DynamoDB, and S3. What kind of architecture is it?
+B) Hybrid
+B) Infrastructure-as-a-Service
++A) Serverless
+B) Platform-as-a-Service
+
+QUESTION_ID_PLACEHOLDER
+Which Server-Side Encryption mechanism provides an audit trail?
+B) Server-Side Encryption with Customer-Provided Keys (SSE-C)
+B) Server-Side Encryption with Amazon S3-Managed Keys (SSE-S3)
++A) Server-Side Encryption with Customer Master Keys (CMKs) Stored in AWS Key Management Service (SSE-KMS)
+B) Server-Side Encryption with Auto-Generated Keys (SSE-AGK)
+
+QUESTION_ID_PLACEHOLDER
+Which of the following are Cloud Computing Models?
++A) Platform as a Service (PaaS)
++A) Infrastructure as a Service (IaaS)
+B) EC2 as a Service (EC2aaS)
+B) Mainframe as a Service (MaaS)
++A) Software as a Service (SaaS)
+
+QUESTION_ID_PLACEHOLDER
+Metrics produced by AWS services are what kind of resolution by default?
+B) Normal resolution
+B) High resolution
+B) Undefined
++A) Standard resolution
+
+QUESTION_ID_PLACEHOLDER
+In the EC2 service console which of the following can you manage?
++A) Scheduled Instances
+B) Network ACLs
++A) Dedicated Hosts
++A) EC2 Instances
+B) Transit Gateways
++A) Spot Requests
+B) Customer Gateways
+
+QUESTION_ID_PLACEHOLDER
+What is the purpose of Network ACLs (NACLs)?
+B) NACL provides monitoring for your subnets and traffic in a VPC.
+B) NACL validates compliance in a VPC.
+B) NACL works as a firewall for individual instances in a VPC.
++A) NACL works as a firewall for subnets in a VPC.
+
+QUESTION_ID_PLACEHOLDER
+What AWS service helps to collect monitoring and operational data in the form of logs, metrics, and events?
+B) AWS X-Ray
++A) AWS CloudWatch
+B) Amazon Inspector
+B) Amazon Connect
+
+QUESTION_ID_PLACEHOLDER
+Which of the following are IAM best practices?
+B) Use AWS root account keys to create VPCs.
++A) Use Customer Managed Policies Instead of Inline Policies.
+B) Grant as many permissions to IAM Users as possible to minimize disruptions.
++A) Use Roles to Delegate Permissions.
+B) Use the same IAM user for anyone who needs to access AWS.
++A) Rotate Credentials Regularly.
+
+QUESTION_ID_PLACEHOLDER
+In the AWS Partner Network (APN) what do Consulting Partners primarily do?
+B) Consulting Partners build services & products on top of AWS which they then sell to their customers.
+B) Consulting Partners provide educational services, including in-person and online training.
+B) Consulting Partners provide advice on setting and managing up on-premises infrastructure and servers.
++A) Consulting Partners provide professional services to help other companies design, architect and build applications on AWS.
+
+QUESTION_ID_PLACEHOLDER
+Which AWS Service allows organizations to create and manage catalogs of IT services that are approved for use on AWS?
+B) AWS Config
+B) AWS Control Tower
+B) AWS Organizations
++A) AWS Service Catalog
+
+QUESTION_ID_PLACEHOLDER
+Your company has an Enterprise support plan and your business-critical system is down. How quickly can you expect to receive technical support from AWS?
++A) In 15 minutes
+B) In 1 hour
+B) In 12 hours
+B) In 4 hours
+
+QUESTION_ID_PLACEHOLDER
+Which of the following is zonal, i.e. they are created and work within a given Availability Zone?
+B) Amazon DynamoDB
+B) Auto Scaling Groups
+B) AWS Batch
++A) Subnet
++A) EC2 Instance
++A) EBS Volumes
+B) Amazon VPC
+
+QUESTION_ID_PLACEHOLDER
+Which of the following services can enable you to build loosely coupled applications on AWS?
++A) Amazon SQS
+B) Amazon EMR
+B) Amazon Sumerian
++A) Amazon SNS
+B) Amazon CodeGuru
+
+QUESTION_ID_PLACEHOLDER
+Which of the following provides a comprehensive and granular breakdown of usage and cost data, that you can also download as a CSV file?
+B) AWS Trusted Advisor
++A) AWS Cost and Usage Report
+B) AWS Cost Explorer
+B) Consolidated Billing
+
+QUESTION_ID_PLACEHOLDER
+When is a Subnet deemed to be a Public Subnet in AWS?
+B) The Subnet must be associated with a NAT Instance.
+B) The Subnet must be associated with a NAT Gateway Service.
+B) The Subnet must have a Route Table that doesn't direct traffic to the Internet Gateway (IGW).
++A) The Subnet must have a Route Table that directs traffic to the Internet Gateway (IGW).
+
+QUESTION_ID_PLACEHOLDER
+Your company website has been under a sustained Distributed Denial of Service (DDoS) attack. You are looking for additional detection and mitigation help from the attack, as well as additional operational insight in to what's happening. What AWS service could you consider using?
+B) Amazon Inspector
+B) Amazon GuardDuty
++A) AWS Shield
+B) AWS WAF
+
+QUESTION_ID_PLACEHOLDER
+Which of the following services should you use, if you want to deploy a relational database and control the underlying Operating System?
+B) Amazon Redshift
++A) Amazon EC2
+B) Amazon Aurora
+B) Amazon RDS
+
+QUESTION_ID_PLACEHOLDER
+Which of the following can developers use to interact with various AWS Services?
+B) Amazon AMI
++A) AWS Software Development Kit (SDKs)
+B) AWS Organizations
++A) AWS Command Line Interface (CLI)
+B) AWS Control Tower
+B) AWS Managed Services
+

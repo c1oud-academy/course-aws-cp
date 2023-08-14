@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "right_answer": true,
+            "text": "Using the AWS console you decrypt your private key to get the password."
+        },
+        {
+            "text": "You use a root account password which is emailed directly to you by AWS."
+        },
+        {
+            "text": "Using the AWS console you decrypt your public key to get the password."
+        },
+        {
+            "text": "You use a root account password that is given to you at the end of the AMI configuration."
+        }
+    ],
+    "text": "You have just launched an EC2 instance running Windows and are trying to access it. How do you get the local administrator password?"
+}

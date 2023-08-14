@@ -1,0 +1,18 @@
+{
+    "text": "Which AWS storage service allows you to create, mount and use an elastic file system across multiple EC2 and on-premises servers?",
+    "answers": [
+        {
+            "text": "Amazon EFS",
+            "right_answer": true
+        },
+        {
+            "text": "Amazon S3"
+        },
+        {
+            "text": "Amazon EC2 Instance Store"
+        },
+        {
+            "text": "Amazon EBS"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "aws_service": [
+        "Detective",
+        "GuardDuty",
+        "Inspector"
+    ],
+    "type": "practice_test",
+    "title": {
+        "kk": "Practice test quesion 108",
+        "en": "Practice test quesion 108",
+        "ru": "Practice test quesion 108"
+    },
+    "content_type": "test",
+    "id": "108",
+    "property_keys": [
+        "type",
+        "id",
+        "content_type",
+        "aws_service",
+        "aws_group"
+    ],
+    "aws_group": [
+        "Security, Identity, & Compliance"
+    ],
+    "files_list": [
+        {
+            "type": "metadata",
+            "path": "metadata.json",
+            "lang": "en"
+        },
+        {
+            "type": "question",
+            "path": "question.json",
+            "lang": "en"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "text": "Which AWS service can be used to cache relational database queries and reduce latency for end-users?",
+    "answers": [
+        {
+            "text": "Amazon S3"
+        },
+        {
+            "text": "Amazon ElastiCache",
+            "right_answer": true
+        },
+        {
+            "text": "AWS Lambda"
+        },
+        {
+            "text": "Amazon EC2"
+        }
+    ]
+}

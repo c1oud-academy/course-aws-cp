@@ -1,0 +1,22 @@
+{
+    "answers": [
+        {
+            "right_answer": true,
+            "text": "Enterprise"
+        },
+        {
+            "text": "Basic"
+        },
+        {
+            "right_answer": true,
+            "text": "Business"
+        },
+        {
+            "text": "Professional"
+        },
+        {
+            "text": "Developer"
+        }
+    ],
+    "text": "What support plan should your company be on to receive technical assistance from AWS in under 4 hours, when a production system is impaired?"
+}

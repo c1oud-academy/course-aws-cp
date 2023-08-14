@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "AWS WAF"
+        },
+        {
+            "right_answer": true,
+            "text": "AWS Security Hub"
+        },
+        {
+            "text": "AWS Artifact"
+        },
+        {
+            "text": "Amazon Detective"
+        }
+    ],
+    "text": "What AWS service allows you to aggregate and view results from Amazon GuardDuty, Amazon Macie, Amazon Inspector, AWS Firewall Manager, and IAM Access Analyzer, and conduct automated compliance checks?"
+}

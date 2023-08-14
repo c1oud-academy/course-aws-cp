@@ -1,0 +1,18 @@
+{
+    "text": "What is the AWS service that helps you for providing SQL Server RDBMS instance?",
+    "answers": [
+        {
+            "text": "Amazon RDS",
+            "right_answer": true
+        },
+        {
+            "text": "Amazon Aurora"
+        },
+        {
+            "text": "Amazon Redshift"
+        },
+        {
+            "text": "AWS DynamoDB"
+        }
+    ]
+}

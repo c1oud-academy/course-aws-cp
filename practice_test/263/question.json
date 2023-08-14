@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "Amazon Inspector"
+        },
+        {
+            "text": "Amazon GuardDuty"
+        },
+        {
+            "right_answer": true,
+            "text": "AWS Shield"
+        },
+        {
+            "text": "AWS WAF"
+        }
+    ],
+    "text": "Your company website has been under a sustained Distributed Denial of Service (DDoS) attack. You are looking for additional detection and mitigation help from the attack, as well as additional operational insight in to what's happening. What AWS service could you consider using?"
+}

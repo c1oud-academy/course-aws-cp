@@ -1,0 +1,18 @@
+{
+    "text": "What AWS service can you use to automatically launch or terminate EC2 instances, launch or terminate instances in an EC2 Spot Fleet, and scale the number of Aurora Read Replicas in an Aurora DB Cluster?",
+    "answers": [
+        {
+            "text": "Elastic Load Balancer"
+        },
+        {
+            "text": "AWS Step Functions"
+        },
+        {
+            "text": "AWS Auto Scaling",
+            "right_answer": true
+        },
+        {
+            "text": "Auto Scaling Groups (ASG)"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": "1",
+    "files_list": [
+        {
+            "type": "metadata",
+            "path": "metadata.json",
+            "lang": "en"
+        },
+        {
+            "type": "question",
+            "path": "question.json",
+            "lang": "en"
+        }
+    ],
+    "aws_service": [
+        "Inspector",
+        "Systems Manager",
+        "Resource Access Manager",
+        "Config"
+    ],
+    "content_type": "test",
+    "type": "practice_test",
+    "title": {
+        "en": "Practice test quesion 1",
+        "ru": "Practice test quesion 1",
+        "kk": "Practice test quesion 1"
+    },
+    "property_keys": [
+        "type",
+        "id",
+        "content_type",
+        "aws_service",
+        "aws_group"
+    ],
+    "aws_group": [
+        "Security, Identity, & Compliance",
+        "Management & Governance"
+    ]
+}

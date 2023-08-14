@@ -1,0 +1,485 @@
+QUESTION_ID_PLACEHOLDER
+You have just launched an EC2 instance running Amazon Linux and are trying to SSH into it. How do you authenticate your account?
+B) Use a root account password which is emailed directly to you by AWS.
++A) Use your SSH private key. No password is needed.
+B) Use your SSH public key. No password is needed.
+B) Use a root account password that is given to you at the end of the AMI configuration.
+
+QUESTION_ID_PLACEHOLDER
+Which are the categories used by AWS Trusted Advisor to evaluate your system against a set of best practices?
+B) Efficiency
++A) Service Limits
+B) Prohibited Actions
++A) Cost Optimization
++A) Security
++A) Fault Tolerance
++A) Performance
+B) Reliability
+
+QUESTION_ID_PLACEHOLDER
+What is the main purpose of RDS Read Replicas?
+B) Backup
+B) High Availability
++A) Scalability
+B) Disaster Recovery and Local Performance
+
+QUESTION_ID_PLACEHOLDER
+Which of the following gives you Access Keys to allow you to manage cloud resources using the AWS Command Line Interface (CLI)?
+B) IAM Policy
+B) IAM Role
++A) IAM User
+B) IAM Group
+
+QUESTION_ID_PLACEHOLDER
+Which of the following is your responsibility under the AWS Shared Responsibility Model?
+B) Maintaining Physical Hardware.
+B) Securing network connections between Availability Zones.
+B) Patching the Operating System in AWS Lambda.
++A) Configuring Security Groups with EC2.
+
+QUESTION_ID_PLACEHOLDER
+What are IAM Policies?
+B) Policies are unique identities recognized by AWS services. They are similar to IAM Users and can contain API keys and passwords.
+B) Policies are groupings of IAM Users. They are a way to assign and manage similar permissions to a set of Users.
+B) Policies are a collection of IAM Users. You can add or remove Users in a policy. Policies cannot belong to other policies.
++A) Policies contain permissions and are attached to IAM identities. AWS evaluates policies to determine whether a request made by the carrier of the policy should be allowed or denied.
+
+QUESTION_ID_PLACEHOLDER
+In what ways can AWS be more economical than traditional data centers for compute workloads?
+B) Customers can run enough instances to handle peak workloads.
++A) EC2 instances can be launched on-demand to correspond to varying workloads.
++A) EC2 instances can be pre-paid for higher savings.
+B) Customers can acquire different EC2 instances including dedicated hosts.
++A) If workloads can be terminated and resumed, buying spot instances can result in even greater savings.
+
+QUESTION_ID_PLACEHOLDER
+Which AWS service provides an automated security assessment to help improve the security and compliance of applications deployed to AWS?
+B) Amazon GuardDuty
++A) Amazon Inspector
+B) AWS Shield
+B) Amazon Detective
+
+QUESTION_ID_PLACEHOLDER
+What is the minimum capacity charge per object for an S3 Standard - IA storage class?
+B) None. There's no charge.
++A) 128KB per object.
+B) 256KB per object.
+B) 40KB per object.
+
+QUESTION_ID_PLACEHOLDER
+Which AWS Support Plan provides a business hours email access to Cloud Support Associates only?
++A) Developer
+B) Enterprise
+B) Business
+B) Free
+
+QUESTION_ID_PLACEHOLDER
+Which of the following pillars make up the AWS Well-Architected Framework?
++A) Security
+B) High-Availability
+B) Effectiveness
++A) Reliability
+B) Resilience
+
+QUESTION_ID_PLACEHOLDER
+Which of the following is an advantage of using a managed PaaS (Platform as a Service) like RDS or ElastiCache?
+B) You get better performance than running the same service yourself on an EC2 instance.
+B) It alleviates the need for you to choose the underlying instance class and capacity.
++A) Patching and maintenance of the Operating System are done for you automatically.
+B) It's more cost-effective to run.
+
+QUESTION_ID_PLACEHOLDER
+If you were designing a new cloud application running on EC2, which of the following techniques would you use to make your application Highly Available?
+B) Deploy a fleet of EC2 instances to a single Availability Zone.
++A) Deploy EC2 to multiple Availability Zones and use an Elastic Load Balancer to distribute traffic.
++A) Create two EC2 instances in two different Regions and use Route 53 DNS failover to route to a healthy instance.
+B) Create an application using a microservices approach on a large EC2 instance.
+B) Use Cloud Watch alarms to notify you if an instance is down.
+
+QUESTION_ID_PLACEHOLDER
+You have just launched an EC2 instance running Windows and are trying to access it. How do you get the local administrator password?
++A) Using the AWS console you decrypt your private key to get the password.
+B) You use a root account password which is emailed directly to you by AWS.
+B) Using the AWS console you decrypt your public key to get the password.
+B) You use a root account password that is given to you at the end of the AMI configuration.
+
+QUESTION_ID_PLACEHOLDER
+Your company has asked you to build an application that recognizes fancy hats in different images. What AWS service could help you with that?
+B) Amazon SageMaker
++A) Amazon Rekognition
+B) Amazon Kendra
+B) Amazon Macie
+
+QUESTION_ID_PLACEHOLDER
+Which of the following are correct statements with regard to AWS security credentials and users?
+B) AWS recommends that you use the root user as much as possible for everyday interaction with AWS.
++A) Getting AWS account root user credentials is different than getting IAM user credentials.
+B) You can use IAM policies to explicitly deny access to the root user.
++A) Security credentials are account specific.
+B) IAM Users can change support plans and close an AWS account.
+
+QUESTION_ID_PLACEHOLDER
+Which of these AWS storage technologies, store data in archives (like TAR or ZIP) and use 'vaults' as containers?
+B) Amazon EBS
++A) Amazon S3 Glacier
++A) Amazon S3 Glacier Deep Archive
+B) AWS Backup
+B) Amazon EFS
+
+QUESTION_ID_PLACEHOLDER
+Which S3 feature can be used to move objects from one storage class to another based on specific configuration rules?
++A) Lifecycle Management
+B) CORS
+B) Versioning
+B) Change Management
+
+QUESTION_ID_PLACEHOLDER
+Which AWS service allows customers to find, buy, and deploy software solutions, from third-party vendors, to their AWS environment?
+B) AWS Application Discovery Service
+B) AWS Artifact
++A) AWS Marketplace
+B) Amazon Bracket
+
+QUESTION_ID_PLACEHOLDER
+Which one of these components does AWS use to ensure low-latency delivery of data with Amazon CloudFront?
+B) AWS PrivateLink
+B) AWS Direct Connect
+B) AWS Global Accelerator
++A) AWS Edge Locations
+
+QUESTION_ID_PLACEHOLDER
+You have an application running on EC2 that can be paused, terminated, and restarted without any adverse effects. Which of the following options is the most cost-effective solution?
++A) Spot
+B) On-Demand
+B) Reserved
+B) Cost-Optimized
+
+QUESTION_ID_PLACEHOLDER
+Linux EC2 On-Demand usage can be billed in which of the following increments?
+B) Per-minute, with a minimum of 10 minutes.
+B) Per-hour, with a minimum of 10 hours.
++A) Per-second, with a minimum of 60 seconds.
+B) Per-day, with a minimum of 7 days.
+
+QUESTION_ID_PLACEHOLDER
+Which EC2 pricing model can provide a discount by paying for capacity ahead of time?
+B) On-Demand
+B) Dedicated
+B) Spot
++A) Reserved
+
+QUESTION_ID_PLACEHOLDER
+Which of the following are unique IDs given to each AWS account?
+B) Secret Access Key
+B) Public Access ID
+B) Secret Access ID
++A) Canonical User ID
++A) AWS Account ID
+
+QUESTION_ID_PLACEHOLDER
+Your company is running an RDS database with MySQL. Your boss has asked you to configure RDS so that in case the primary database fails, you have a standby database for failover (i.e. your boss wants to ensure high availability of your database). How would you configure RDS to meet this requirement?
++A) Implement a Multi-AZ deployment.
+B) Deploy RDS to an EC2 Spot Fleet.
+B) Implement a Multi-Region deployment.
+B) Implement a Read Replica.
+
+QUESTION_ID_PLACEHOLDER
+Your application is making an expensive query to your RDS database. The query has a lot of joins and calculations and takes a long time to process. You want to cache that query result so that you don't have to perform the operation too many times. What is a service that can help you with that?
++A) Amazon ElastiCache
+B) Amazon S3
+B) Amazon DynamoDB Accelerator (DAX)
+B) Amazon DynamoDB
+
+QUESTION_ID_PLACEHOLDER
+Which of these is a benefit of using Amazon DynamoDB?
++A) Data encryption at rest.
+B) Strongly consistent reads across Regions.
+B) Support for fast SQL queries.
++A) No servers to manage.
+B) Global Secondary Indexes do not cost any extra.
+
+QUESTION_ID_PLACEHOLDER
+Your company is building an application that has customers in North America, Europe, and Australia. You want to route requests to EC2 instances with the lowest possible latency. What type of Route 53 Routing Policy would you use to achieve this?
++A) Latency Routing
+B) Weighted Routing
+B) Geolocation Routing
+B) Performance Optimized Routing
+
+QUESTION_ID_PLACEHOLDER
+CloudWatch custom metrics come in two resolutions: Standard and High. At what rate is data reported for those two resolutions?
+B) High resolution has a one-minute granularity.
+B) High resolution has a five-minute granularity.
+B) Standard resolution has a one-second granularity.
+B) Standard resolution has a five-minute granularity.
+B) High resolution has a one-hour granularity.
+B) Standard resolution has a one-hour granularity.
++A) Standard resolution has a one-minute granularity.
++A) High resolution has a one-second granularity.
+
+QUESTION_ID_PLACEHOLDER
+For which of the following would you be charged?
++A) Data transfer between two regions (that is, data transfer between two EC2 instances in two different regions).
+B) Data transfer between an EC2 and S3 in the same region.
++A) Data transfer between two EC2s in two different Availability Zones in the same region.
++A) Data transfer between two EC2s within the same Availability Zone (using a public IP address).
+B) Data transfer between two EC2s within the same Availability Zone (using a private IP address).
+
+QUESTION_ID_PLACEHOLDER
+What AWS service allows a customer to create a Virtual Network within AWS?
+B) AWS Virtual Private Network (VPN)
+B) Amazon Route 53
+B) AWS App Mesh
++A) Amazon Virtual Private Cloud (VPC)
+
+QUESTION_ID_PLACEHOLDER
+To which of the following is it possible to attach an Elastic IP?
++A) EC2 Instance
+B) S3 Bucket
+B) ECS Container
+B) Lambda Function
+B) DynamoDB
++A) Network Load Balancer
+
+QUESTION_ID_PLACEHOLDER
+You've been tasked by your company to create a new IAM User in the US-EAST-2 region. You are finding that all regions are greyed out and you cannot select what you want. What could be the reason for this?
+B) You must be logged on as a root account to create IAM Users in a specific region.
+B) You don't have the right permissions to be able to select a region.
++A) IAM is global so it doesn't require or use regions.
+B) The region is set after you have created an IAM User.
+
+QUESTION_ID_PLACEHOLDER
+Which EBS Volume Type is recommended for general workloads, development and test environments, and system boot volumes?
+B) Throughput Optimized HDD (st1)
+B) Provisioned IOPS SSD (io1)
++A) General Purpose SSD (gp2)
+B) Cold HDD (sc1)
+
+QUESTION_ID_PLACEHOLDER
+Which S3 storage class has an availability of 99.5% (lowest among all other classes)?
+B) S3 Glacier
+B) S3 Standard - IA
++A) S3 One Zone - IA
+B) S3 Standard
+
+QUESTION_ID_PLACEHOLDER
+Which AWS service can scan your AWS environment and make recommendations on how to optimize cost, improve performance, security, and enhance fault tolerance?
+B) AWS Well-Architected Tool
+B) AWS Inspector
+B) AWS Systems Manager
++A) AWS Trusted Advisor
+
+QUESTION_ID_PLACEHOLDER
+The EC2 Nitro Hypervisor is having issues and not delivering the right level of performance. You have been called in to deal with this problem. What do you do?
+B) Update the Nitro Hypervisor to a new version.
+B) Migrate to a different version of the Hypervisor.
++A) Nothing. This is AWS's responsibility as per the Shared Responsibility Model.
+B) Call up AWS Support and complain about the issue.
+
+QUESTION_ID_PLACEHOLDER
+In terms of the Shared Responsibility Model, as a customer which of the following are you responsible for when using EC2?
++A) Ensuring that Security Groups are correctly configured.
++A) Operating System configuration and patch management.
+B) EC2 Hypervisor patching and maintenance.
+B) Availability Zone maintenance, physical, and environmental control.
++A) Client-Side Data Encryption and Data Integrity Authentication.
+
+QUESTION_ID_PLACEHOLDER
+In terms of the Shared Responsibility Model, as a customer which of the following are you responsible for when using RDS?
++A) Customer Data.
+B) Management of the internal RDS orchestrator/platform.
+B) Operating System configuration and patch management.
++A) Client-Side Data Encryption and Data Integrity Authentication.
++A) Firewall Configuration.
+
+QUESTION_ID_PLACEHOLDER
+Which of the following are IAM Policy types?
++A) Access Control List
++A) Identity Based
++A) Resource Based
+B) User Based
+B) Close Network Control List
+B) Role Based
+
+QUESTION_ID_PLACEHOLDER
+Which of the following characteristics describe the Amazon Simple Storage Service?
++A) The minimum file size is 0 bytes.
+B) It's a high throughput file system.
+B) It's a high-performance block storage service.
++A) It's a durable object storage service.
++A) The maximum file size is 5 terabytes.
+
+QUESTION_ID_PLACEHOLDER
+Which two AWS services in combination can be used to create a billing alarm and send a notification when your AWS usage exceeds a set amount?
++A) Amazon CloudWatch
+B) AWS Cost and Usage Report
++A) Amazon Simple Notification Service (SNS)
+B) AWS CloudTrail
+B) AWS Cost Explorer
+
+QUESTION_ID_PLACEHOLDER
+What is the best EC2 allocation strategy if you want to acquire Spot instances distributed across all pools?
++A) diversified
+B) capacity-optimized
+B) lowest-price
+B) distributed
+
+QUESTION_ID_PLACEHOLDER
+Your company has an Enterprise support plan and your production system is down. How quickly can you expect to receive technical support from AWS?
++A) In 1 hour
+B) In 4 hours
+B) In 15 minutes
+B) In 12 hours
+
+QUESTION_ID_PLACEHOLDER
+Which of the following is the AWS's responsibility under the AWS Shared Responsibility Model?
+B) Configuring Security Groups with EC2.
+B) Securing application data.
+B) Configuring custom IAM policies.
++A) Maintaining Physical Hardware.
+
+QUESTION_ID_PLACEHOLDER
+What IAM Policy type helps organizations define permissions for account members and organization units (OU)?
+B) Organizations Access List
+B) Organizations ISC
++A) Organizations SCP
+B) Organizations Control List
+
+QUESTION_ID_PLACEHOLDER
+Which of the following are best practice recommendations for managing AWS Access Keys?
++A) Remove (or don't generate) account access key for your AWS root user.
++A) Use IAM Roles instead of long-term access keys where possible.
+B) It's good practice to embed access keys directly into code.
++A) Rotate access keys periodically.
+B) Feel free to share the private access key with anyone but not the public access key.
+B) Use the same keys for different applications as much as possible.
+
+QUESTION_ID_PLACEHOLDER
+Which EC2 pricing model can provide you with the greatest possible discount?
++A) Spot
+B) Dedicated
+B) On-Demand
+B) Reserved
+
+QUESTION_ID_PLACEHOLDER
+What is one reason for choosing Memcached over Redis for ElastiCache?
+B) Memcached supports advanced data structures.
+B) Memcached is cheaper than Redis.
++A) Memcached is designed for simplicity.
+B) Memcached provides extra monitoring and data.
+
+QUESTION_ID_PLACEHOLDER
+Which of the following is a correct statement about Security Groups and inbound traffic?
++A) Security Groups are stateful and they block all inbound traffic by default.
+B) Security Groups are stateless and they block all inbound traffic by default.
+B) Security Groups are stateful and they allow all inbound traffic by default.
+B) Security Groups are stateless and they allow all inbound traffic by default.
+
+QUESTION_ID_PLACEHOLDER
+What is the main purpose of a Multi-Region RDS deployment?
++A) Disaster Recovery and Local Performance
+B) Scalability
+B) High Availability
+B) Backup
+
+QUESTION_ID_PLACEHOLDER
+In terms of the Shared Responsibility Model, as a customer which of the following are you responsible for when using Amazon SQS?
++A) Client-Side Data Encryption and Data Integrity Authentication.
+B) Operating System configuration and patch management.
+B) Network traffic configuration and protection.
+B) Protection of data at rest.
++A) Customer Data.
+
+QUESTION_ID_PLACEHOLDER
+What do you need to be able to access and manage AWS from the Command Line Interface (CLI)?
+B) AWS Account username and password.
+B) IAM User username and password.
++A) Access Key consisting of the Access Key ID and the Secret Access Key.
+B) API Key.
+
+QUESTION_ID_PLACEHOLDER
+Which AWS service can be used to assist in a migration of a database to AWS?
+B) AWS Elastic Compute Cloud (EC2)
++A) AWS Database Migration Service (DMS)
+B) AWS Storage Gateway
+B) Amazon Redshift
+
+QUESTION_ID_PLACEHOLDER
+Your company has a Business support plan and your production system has suddenly developed an impairment (that is, it has technical issues but it's not entirely down). How quickly can you expect to receive technical support from AWS?
+B) In 1 hour
+B) In 24 hours
++A) In 4 hours
+B) In 12 hours
+
+QUESTION_ID_PLACEHOLDER
+Which service would you use to set permissions and policies for users wanting to access AWS?
+B) Amazon Cognito
+B) AWS Directory Service
++A) AWS Identity and Access Management (IAM)
+B) AWS Cloud Directory
+
+QUESTION_ID_PLACEHOLDER
+Which AWS feature allows you to attach a static IP to an EC2 instance that will not change between reboots and can be re-assigned to another EC2 instance?
+B) Public IP
+B) Static IP
++A) Elastic IP
+B) Dynamic IP
+
+QUESTION_ID_PLACEHOLDER
+Which AWS service is used to manage Identity and User Access in AWS?
++A) AWS IAM
+B) AWS Active Directory
+B) Amazon Identity
+B) Amazon Cognito
+
+QUESTION_ID_PLACEHOLDER
+How would a system administrator ensure an additional layer of login security for a user wanting to access the AWS console?
+B) Use AWS Directory Service.
+B) Force the user to reset their password every 30 days.
+B) Set a strong password.
++A) Enable Multi-Factor Authentication (MFA).
+
+QUESTION_ID_PLACEHOLDER
+What is the recommended best practice for securing your root AWS account?
+B) Connect the root account to a specific person's (e.g. head of IT) email address/mobile number/MFA.
+B) Deploy all core/critical resources under the root account.
++A) Enable physical or virtual MFA on the root account.
++A) Create a strong root account password.
+B) Remove all extraneous permissions from the root account.
+
+QUESTION_ID_PLACEHOLDER
+Your company is building an application that has customers in North America, Europe, and Australia. You want to route requests from users in the USA to EC2 instances that are located in the USA. Likewise, users from Europe should only be routed to European EC2 instances. What type of Route 53 Routing Policy would you use to achieve this?
++A) Geolocation Routing
+B) Location Routing
+B) Weighted Routing
+B) Latency Routing
+
+QUESTION_ID_PLACEHOLDER
+What is the best way to manage permissions across a large number of IAM Users?
+B) Attach permissions directly to each IAM User.
++A) Create an IAM Group and attach the necessary policies and permissions to it. Then add IAM Users to the Group.
+B) Set a permission boundary and apply it to all users.
+B) Copy permissions and policies from an existing user to all new users.
+
+QUESTION_ID_PLACEHOLDER
+Which of the following features apply to Amazon ElastiCache for Redis?
+B) Multithreaded Architecture
++A) Sub-millisecond Latency
++A) Data Partitioning
++A) Transactions
++A) Replication
+
+QUESTION_ID_PLACEHOLDER
+Which of the following is AWS Auto Scaling capable of scaling?
+B) AWS Lambda
++A) Amazon EC2 Spot Fleets
++A) Amazon DynamoDB throughput capacity
++A) Aurora replicas for Amazon Aurora
++A) Amazon EC2 Auto Scaling Groups
+
+QUESTION_ID_PLACEHOLDER
+You have been asked to audit and evaluate the configuration of AWS resources used by your company. You need to present a review of changes in configuration and assist with compliance auditing. What AWS service can help you with this?
+B) Amazon Detective
+B) Amazon GuardDuty
++A) AWS Config
+B) AWS Artifact
+

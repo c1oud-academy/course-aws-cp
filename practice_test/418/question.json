@@ -1,0 +1,18 @@
+{
+    "text": "What feature allows your web application to have cross-origin access to your Amazon S3 resources (without needing a proxy server)?",
+    "answers": [
+        {
+            "text": "CORS",
+            "right_answer": true
+        },
+        {
+            "text": "Lifecycle Policy"
+        },
+        {
+            "text": "MARS"
+        },
+        {
+            "text": "VPC"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "text": "Your company has asked you to set up a system that replicates data between multiple geographical regions. What feature of AWS would assist you in this?",
+    "answers": [
+        {
+            "text": "AWS Regions",
+            "right_answer": true
+        },
+        {
+            "text": "Edge Locations"
+        },
+        {
+            "text": "Availability Zones"
+        },
+        {
+            "text": "Local Zones"
+        }
+    ]
+}

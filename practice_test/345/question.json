@@ -1,0 +1,26 @@
+{
+    "answers": [
+        {
+            "text": "Amazon ECS"
+        },
+        {
+            "right_answer": true,
+            "text": "Amazon RDS"
+        },
+        {
+            "text": "Amazon Managed Apache Cassandra Service"
+        },
+        {
+            "right_answer": true,
+            "text": "Amazon EBS"
+        },
+        {
+            "text": "Amazon CodeGuru"
+        },
+        {
+            "right_answer": true,
+            "text": "Amazon S3"
+        }
+    ],
+    "text": "Which of the following services can use AWS KMS to allow encryption of data?"
+}

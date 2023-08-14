@@ -1,0 +1,21 @@
+{
+    "text": "What is the AWS service or feature that helps to connect local office with cloud infrastracture with dedicated connection over the Internet?",
+    "answers": [
+        {
+            "text": "AWS Direct Connect"
+        },
+        {
+            "text": "AWS Transit Gateway"
+        },
+        {
+            "text": "NAT Instance"
+        },
+        {
+            "text": "VPC Site-to-Site VPN",
+            "right_answer": true
+        },
+        {
+            "text": "VPC Endpoints"
+        }
+    ]
+}

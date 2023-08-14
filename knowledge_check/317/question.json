@@ -1,0 +1,18 @@
+{
+    "text": "What is the RI payment model that gives maximum discounts?",
+    "answers": [
+        {
+            "text": "AURI",
+            "right_answer": true
+        },
+        {
+            "text": "PURI"
+        },
+        {
+            "text": "NURI"
+        },
+        {
+            "text": "Other"
+        }
+    ]
+}

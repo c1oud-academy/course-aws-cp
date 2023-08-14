@@ -1,0 +1,18 @@
+{
+    "text": "An AWS customer stores images in a bucket and wants other websites to be able to show them in a web browser. What S3 feature should be enabled to make this work?",
+    "answers": [
+        {
+            "text": "Access Logs"
+        },
+        {
+            "text": "CORS",
+            "right_answer": true
+        },
+        {
+            "text": "SSE-C"
+        },
+        {
+            "text": "Lifecycle Policy"
+        }
+    ]
+}

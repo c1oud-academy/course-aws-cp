@@ -1,0 +1,25 @@
+{
+    "answers": [
+        {
+            "right_answer": true,
+            "text": "EC2 Instance"
+        },
+        {
+            "text": "S3 Bucket"
+        },
+        {
+            "text": "ECS Container"
+        },
+        {
+            "text": "Lambda Function"
+        },
+        {
+            "text": "DynamoDB"
+        },
+        {
+            "right_answer": true,
+            "text": "Network Load Balancer"
+        }
+    ],
+    "text": "To which of the following is it possible to attach an Elastic IP?"
+}

@@ -1,0 +1,18 @@
+{
+    "text": "Which of the following accurately reflects the S3 Standard storage type?",
+    "answers": [
+        {
+            "text": "Provides 99.99% durability and 99.99 availability of objects over a given year."
+        },
+        {
+            "text": "Provides 99.999999999% (that's 11 9s) durability and 99.999999999% (that's 11 9s) availability of objects over a given year."
+        },
+        {
+            "text": "Provides 99.999999999% (that's 11 9s) durability and 99.99% availability of objects over a given year.",
+            "right_answer": true
+        },
+        {
+            "text": "Provides 99.99% durability and 99.999999999 (that's 11 9s) availability of objects over a given year."
+        }
+    ]
+}

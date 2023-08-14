@@ -1,0 +1,18 @@
+{
+    "text": "You have created an AMI that you want to share with a colleague in another region. What's the quickest way you can do it?",
+    "answers": [
+        {
+            "text": "Copy the AMI to a shared S3 bucket."
+        },
+        {
+            "text": "Copy the AMI to another region via the EC2 Console.",
+            "right_answer": true
+        },
+        {
+            "text": "Use a tool like dropbox to share the AMI."
+        },
+        {
+            "text": "Create a shared EFS volume and use it copy the AMI across."
+        }
+    ]
+}

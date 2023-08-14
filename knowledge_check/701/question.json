@@ -1,0 +1,18 @@
+{
+    "text": "Select service that helps to acquire virtual servers:",
+    "answers": [
+        {
+            "text": "Amazon EC2",
+            "right_answer": true
+        },
+        {
+            "text": "Amazon ECR"
+        },
+        {
+            "text": "Amazon ECS"
+        },
+        {
+            "text": "AWS Elastic Beanstalk"
+        }
+    ]
+}

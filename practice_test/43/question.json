@@ -1,0 +1,22 @@
+{
+    "text": "Which of the following is an AWS Cloud architecture design principle?",
+    "answers": [
+        {
+            "text": "Implement tight coupling."
+        },
+        {
+            "text": "Implement loose coupling.",
+            "right_answer": true
+        },
+        {
+            "text": "Use monolithic design principles."
+        },
+        {
+            "text": "Scale servers vertically."
+        },
+        {
+            "text": "Use disposable resources instead of fixed servers.",
+            "right_answer": true
+        }
+    ]
+}

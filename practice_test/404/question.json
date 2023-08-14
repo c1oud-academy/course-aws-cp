@@ -1,0 +1,22 @@
+{
+    "text": "What is a benefit of using Amazon Aurora Serverless?",
+    "answers": [
+        {
+            "text": "Aurora Serverless automatically scales the DB cluster capacity up or down.",
+            "right_answer": true
+        },
+        {
+            "text": "Aurora Serverless will automate disaster recovery between regions."
+        },
+        {
+            "text": "Aurora Serverless will automatically recreate the DB in a different AZ, if the current AZ becomes unavailable or fails.",
+            "right_answer": true
+        },
+        {
+            "text": "It's cheaper to use Aurora Serverless than regular Aurora."
+        },
+        {
+            "text": "Aurora SLA applies to Aurora Serverless just as they do to regular Aurora."
+        }
+    ]
+}

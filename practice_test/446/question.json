@@ -1,0 +1,18 @@
+{
+    "text": "You want monitoring data from your EC2 to be available in 1-minute periods in CloudWatch. What should you do?",
+    "answers": [
+        {
+            "text": "Nothing. By default, data is available in 1-minute periods."
+        },
+        {
+            "text": "Enable advanced monitoring in CloudWatch."
+        },
+        {
+            "text": "Enable detailed monitoring in CloudWatch.",
+            "right_answer": true
+        },
+        {
+            "text": "Enable granular monitoring in CloudWatch."
+        }
+    ]
+}

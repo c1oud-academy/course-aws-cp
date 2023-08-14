@@ -1,0 +1,21 @@
+{
+    "text": "What does AURI stand for?",
+    "answers": [
+        {
+            "text": "All Upfront Reserved Instance",
+            "right_answer": true
+        },
+        {
+            "text": "All Unreserved Regular Instance"
+        },
+        {
+            "text": "All Ultimately Reserved Instance"
+        },
+        {
+            "text": "AWS Unreserved Regular Instance"
+        },
+        {
+            "text": "Other"
+        }
+    ]
+}

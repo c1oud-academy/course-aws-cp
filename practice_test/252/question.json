@@ -1,0 +1,30 @@
+{
+    "answers": [
+        {
+            "right_answer": true,
+            "text": "Scheduled Instances"
+        },
+        {
+            "text": "Network ACLs"
+        },
+        {
+            "right_answer": true,
+            "text": "Dedicated Hosts"
+        },
+        {
+            "right_answer": true,
+            "text": "EC2 Instances"
+        },
+        {
+            "text": "Transit Gateways"
+        },
+        {
+            "right_answer": true,
+            "text": "Spot Requests"
+        },
+        {
+            "text": "Customer Gateways"
+        }
+    ],
+    "text": "In the EC2 service console which of the following can you manage?"
+}

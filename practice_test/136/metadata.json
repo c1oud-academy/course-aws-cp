@@ -1,0 +1,39 @@
+{
+    "aws_service": [
+        "Trusted Advisor",
+        "AWS Well-Architected Tool",
+        "Systems Manager",
+        "Inspector"
+    ],
+    "type": "practice_test",
+    "title": {
+        "kk": "Practice test quesion 136",
+        "en": "Practice test quesion 136",
+        "ru": "Practice test quesion 136"
+    },
+    "content_type": "test",
+    "id": "136",
+    "property_keys": [
+        "type",
+        "id",
+        "content_type",
+        "aws_service",
+        "aws_group"
+    ],
+    "aws_group": [
+        "Security, Identity, & Compliance",
+        "Management & Governance"
+    ],
+    "files_list": [
+        {
+            "type": "metadata",
+            "path": "metadata.json",
+            "lang": "en"
+        },
+        {
+            "type": "question",
+            "path": "question.json",
+            "lang": "en"
+        }
+    ]
+}

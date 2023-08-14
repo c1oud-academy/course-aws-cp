@@ -1,0 +1,35 @@
+{
+    "aws_service": [
+        "ElastiCache"
+    ],
+    "type": "practice_test",
+    "title": {
+        "kk": "Practice test quesion 149",
+        "en": "Practice test quesion 149",
+        "ru": "Practice test quesion 149"
+    },
+    "content_type": "test",
+    "id": "149",
+    "property_keys": [
+        "type",
+        "id",
+        "content_type",
+        "aws_service",
+        "aws_group"
+    ],
+    "aws_group": [
+        "Database"
+    ],
+    "files_list": [
+        {
+            "type": "metadata",
+            "path": "metadata.json",
+            "lang": "en"
+        },
+        {
+            "type": "question",
+            "path": "question.json",
+            "lang": "en"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "answers": [
+        {
+            "text": "Deploy a fleet of EC2 instances to a single Availability Zone."
+        },
+        {
+            "right_answer": true,
+            "text": "Deploy EC2 to multiple Availability Zones and use an Elastic Load Balancer to distribute traffic."
+        },
+        {
+            "right_answer": true,
+            "text": "Create two EC2 instances in two different Regions and use Route 53 DNS failover to route to a healthy instance."
+        },
+        {
+            "text": "Create an application using a microservices approach on a large EC2 instance."
+        },
+        {
+            "text": "Use Cloud Watch alarms to notify you if an instance is down."
+        }
+    ],
+    "text": "If you were designing a new cloud application running on EC2, which of the following techniques would you use to make your application Highly Available?"
+}

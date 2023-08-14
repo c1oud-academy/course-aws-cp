@@ -1,0 +1,29 @@
+{
+    "answers": [
+        {
+            "right_answer": true,
+            "text": "Edge locations exist separately to AWS Regions."
+        },
+        {
+            "text": "AWS Wavelength is deployed in each Availability Zone."
+        },
+        {
+            "right_answer": true,
+            "text": "AWS Local Zone is an extension of an AWS Region."
+        },
+        {
+            "text": "An edge location contains multiple Availability Zones."
+        },
+        {
+            "text": "AWS Outposts only work in AWS Regions."
+        },
+        {
+            "text": "Edge Locations are placed only in AWS Regions."
+        },
+        {
+            "right_answer": true,
+            "text": "An AWS Region contains multiple Availability Zones."
+        }
+    ],
+    "text": "Which of the following is correct about AWS Global Infrastructure?"
+}

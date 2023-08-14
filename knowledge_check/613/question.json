@@ -1,0 +1,21 @@
+{
+    "text": "Which IP address corresponds to CIDR block 10.0.0.10/32?",
+    "answers": [
+        {
+            "text": "10.0.0.0"
+        },
+        {
+            "text": "10.0.0.1"
+        },
+        {
+            "text": "10.0.1.0"
+        },
+        {
+            "text": "10.0.0.10",
+            "right_answer": true
+        },
+        {
+            "text": "10.0.0.32"
+        }
+    ]
+}

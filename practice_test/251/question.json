@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "Normal resolution"
+        },
+        {
+            "text": "High resolution"
+        },
+        {
+            "text": "Undefined"
+        },
+        {
+            "right_answer": true,
+            "text": "Standard resolution"
+        }
+    ],
+    "text": "Metrics produced by AWS services are what kind of resolution by default?"
+}

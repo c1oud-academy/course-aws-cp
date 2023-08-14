@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "Amazon SageMaker"
+        },
+        {
+            "right_answer": true,
+            "text": "Amazon Rekognition"
+        },
+        {
+            "text": "Amazon Kendra"
+        },
+        {
+            "text": "Amazon Macie"
+        }
+    ],
+    "text": "Your company has asked you to build an application that recognizes fancy hats in different images. What AWS service could help you with that?"
+}

@@ -1,0 +1,22 @@
+{
+    "text": "Which AWS services are supported by VPC Gateway Endpoints?",
+    "answers": [
+        {
+            "text": "Amazon Neptune"
+        },
+        {
+            "text": "Amazon Aurora"
+        },
+        {
+            "text": "Amazon DynamoDB",
+            "right_answer": true
+        },
+        {
+            "text": "Amazon S3",
+            "right_answer": true
+        },
+        {
+            "text": "Amazon EC2"
+        }
+    ]
+}

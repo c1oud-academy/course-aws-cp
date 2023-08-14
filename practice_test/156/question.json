@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "Amazon Cognito"
+        },
+        {
+            "text": "AWS Directory Service"
+        },
+        {
+            "right_answer": true,
+            "text": "AWS Identity and Access Management (IAM)"
+        },
+        {
+            "text": "AWS Cloud Directory"
+        }
+    ],
+    "text": "Which service would you use to set permissions and policies for users wanting to access AWS?"
+}

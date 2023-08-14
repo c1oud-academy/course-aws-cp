@@ -1,0 +1,18 @@
+{
+    "text": "Your company needs the fastest possible MySQL 5.6 database. What service would you recommend using?",
+    "answers": [
+        {
+            "text": "Amazon Aurora",
+            "right_answer": true
+        },
+        {
+            "text": "Amazon RDS for MariaDB"
+        },
+        {
+            "text": "Amazon RDS for MySQL"
+        },
+        {
+            "text": "Amazon ElastiCache"
+        }
+    ]
+}

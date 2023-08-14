@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "They are needed to enable a connection to the Internet in a public subnet."
+        },
+        {
+            "text": "They are needed to support IPv6 traffic to EC2 instances."
+        },
+        {
+            "text": "They are used to reduce the number of required private and public subnets."
+        },
+        {
+            "right_answer": true,
+            "text": "They allow instances in private subnets to connect to the Internet but prevent the Internet from initiating a connection with those instances."
+        }
+    ],
+    "text": "What is the purpose of NAT Gateways in AWS?"
+}

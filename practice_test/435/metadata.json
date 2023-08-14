@@ -1,0 +1,40 @@
+{
+    "type": "practice_test",
+    "aws_group": [
+        "Analytics",
+        "Security, Identity, & Compliance",
+        "Machine Learning"
+    ],
+    "id": "435",
+    "property_keys": [
+        "type",
+        "id",
+        "content_type",
+        "aws_service",
+        "aws_group"
+    ],
+    "title": {
+        "en": "Practice test quesion 435",
+        "kk": "Practice test quesion 435",
+        "ru": "Practice test quesion 435"
+    },
+    "files_list": [
+        {
+            "type": "metadata",
+            "lang": "en",
+            "path": "metadata.json"
+        },
+        {
+            "type": "question",
+            "lang": "en",
+            "path": "question.json"
+        }
+    ],
+    "aws_service": [
+        "Amazon Rekognition",
+        "Athena",
+        "Amazon SageMaker",
+        "Amazon Macie"
+    ],
+    "content_type": "test"
+}

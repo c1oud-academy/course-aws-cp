@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "AWS Elastic Compute Cloud (EC2)"
+        },
+        {
+            "right_answer": true,
+            "text": "AWS Database Migration Service (DMS)"
+        },
+        {
+            "text": "AWS Storage Gateway"
+        },
+        {
+            "text": "Amazon Redshift"
+        }
+    ],
+    "text": "Which AWS service can be used to assist in a migration of a database to AWS?"
+}

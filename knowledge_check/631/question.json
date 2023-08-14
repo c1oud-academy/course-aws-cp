@@ -1,0 +1,21 @@
+{
+    "text": "What is AWS Service that is CDN service?",
+    "answers": [
+        {
+            "text": "Amazon Route 53"
+        },
+        {
+            "text": "Amazon VPC"
+        },
+        {
+            "text": "Amazon CloudFront",
+            "right_answer": true
+        },
+        {
+            "text": "AWS Transit Gateway"
+        },
+        {
+            "text": "AWS Direct Connect"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "answers": [
+        {
+            "text": "You cannot actually import keys. You can only generate keys in AWS KMS."
+        },
+        {
+            "right_answer": true,
+            "text": "You must keep a copy of the imported key so that you can re-import it at any time."
+        },
+        {
+            "text": "Keys generated in AWS KMS must be rotated every 30 days."
+        },
+        {
+            "text": "Imported keys cost more to store than keys generated in AWS KMS."
+        },
+        {
+            "right_answer": true,
+            "text": "You can set an expiration time for the imported key (or delete it on demand)."
+        }
+    ],
+    "text": "What are the main differences between a key imported into and a key generated in AWS KMS?"
+}

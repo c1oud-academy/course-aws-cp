@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "Use AWS Directory Service."
+        },
+        {
+            "text": "Force the user to reset their password every 30 days."
+        },
+        {
+            "text": "Set a strong password."
+        },
+        {
+            "right_answer": true,
+            "text": "Enable Multi-Factor Authentication (MFA)."
+        }
+    ],
+    "text": "How would a system administrator ensure an additional layer of login security for a user wanting to access the AWS console?"
+}

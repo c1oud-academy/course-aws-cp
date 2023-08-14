@@ -1,0 +1,22 @@
+{
+    "text": "For which of the following will you be charged by AWS?",
+    "answers": [
+        {
+            "text": "Creating an additional VPC."
+        },
+        {
+            "text": "Creating an additional subnet in a VPC."
+        },
+        {
+            "text": "Amount of data transferred from S3 out to the Internet.",
+            "right_answer": true
+        },
+        {
+            "text": "The number of executions made by AWS Lambda and duration.",
+            "right_answer": true
+        },
+        {
+            "text": "Adding an Internet Gateway to a subnet."
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "Network Load Balancer"
+        },
+        {
+            "right_answer": true,
+            "text": "Application Load Balancer"
+        },
+        {
+            "text": "Classic Load Balancer"
+        },
+        {
+            "text": "Performance Load Balancer"
+        }
+    ],
+    "text": "Which Elastic Load Balancer, operating at Layer 7, is best suited for load balancing HTTP and HTTPS traffic and providing request routing needed by modern applications?"
+}

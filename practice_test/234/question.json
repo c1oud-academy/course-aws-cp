@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "AWS has a data center in every country which means that you can run your system as close as possible to your customer."
+        },
+        {
+            "text": "You have access to the AWS data center and the ability to audit AWS at any time."
+        },
+        {
+            "right_answer": true,
+            "text": "Instead of investing in infrastructure up front, you pay for only the services you use and only for how long you use them."
+        },
+        {
+            "text": "You can request AWS to build a new service for you and they will do it."
+        }
+    ],
+    "text": "Which of the following is an advantage of using AWS over building and deploying your own infrastructure?"
+}

@@ -1,0 +1,99 @@
+901
+Select highly scalable, high-performance container management service which supports Docker containers:
+A) AWS Lambda
+B) Amazon ECR
++C) Amazon ECS
+D) Amazon EKS
+
+902
+Select managed Kubernetes service that makes it easy for you to run Kubernetes on AWS:
+A) AWS Lambda
+B) Amazon ECR
+C) Amazon ECS
++D) Amazon EKS
+
+903
+Select fully managed Docker container registry that makes it easy for developers to store, manage, and deploy Docker container images:
+A) AWS Lambda
++B) Amazon ECR
+C) Amazon ECS
+D) Amazon EKS
+
+904
+Select event-driven, serverless compute service that enables you to run code without provisioning or managing servers:
++A) AWS Lambda
+B) Amazon ECR
+C) Amazon ECS
+D) Amazon EKS
+
+905
+Which of the folowing possible event sources for Lambda?
++A) Amazon S3
++B) Amazon SNS
++C) Amazon SQS
++D) Amazon API Gateway
+B) Amazon ECR
+C) Amazon ECS
+D) Amazon EKS
+
+906
+What is the maximum memory allocation for AWS Lambda function?
+A) 15 MB
+B) 10 MB
++C) 10 GB
+D) 15 GB
+
+907
+What is the maximum AWS Lambda function execution time?
++A) 15 minutes
+B) 10 minutes
+C) 10 seconds
+D) 15 seconds
+
+908
+Select platform as a service (or PaaS) that facilitates the quick deployment, scaling, and management of your web applications and services:
+A) AWS Lambda
++B) AWS Elastic Beanstalk
+C) Amazon ECS
+D) Amazon EKS
+
+909
+Select valid definition for AWS Lambda:
++A) Event-driven, serverless compute service that enables you to run code without provisioning or managing servers
+B) Highly scalable, high-performance container management service which supports Docker containers
+C) Managed Kubernetes service that makes it easy for you to run Kubernetes on AWS
+D) Fully managed Docker container registry that makes it easy for developers to store, manage, and deploy Docker container images
+E) Platform as a service (or PaaS) that facilitates the quick deployment, scaling, and management of your web applications and services
+
+910
+Select valid definition for Amazon ECS:
+A) Event-driven, serverless compute service that enables you to run code without provisioning or managing servers
++B) Highly scalable, high-performance container management service which supports Docker containers
+C) Managed Kubernetes service that makes it easy for you to run Kubernetes on AWS
+D) Fully managed Docker container registry that makes it easy for developers to store, manage, and deploy Docker container images
+E) Platform as a service (or PaaS) that facilitates the quick deployment, scaling, and management of your web applications and services
+
+911
+Select valid definition for Amazon EKS:
+A) Event-driven, serverless compute service that enables you to run code without provisioning or managing servers
+B) Highly scalable, high-performance container management service which supports Docker containers
++C) Managed Kubernetes service that makes it easy for you to run Kubernetes on AWS
+D) Fully managed Docker container registry that makes it easy for developers to store, manage, and deploy Docker container images
+E) Platform as a service (or PaaS) that facilitates the quick deployment, scaling, and management of your web applications and services
+
+912
+Select valid definition for Amazon ECR:
+A) Event-driven, serverless compute service that enables you to run code without provisioning or managing servers
+B) Highly scalable, high-performance container management service which supports Docker containers
+C) Managed Kubernetes service that makes it easy for you to run Kubernetes on AWS
++D) Fully managed Docker container registry that makes it easy for developers to store, manage, and deploy Docker container images
+E) Platform as a service (or PaaS) that facilitates the quick deployment, scaling, and management of your web applications and services
+
+913
+Select valid definition for AWS Elastic Beanstalk:
+A) Event-driven, serverless compute service that enables you to run code without provisioning or managing servers
+B) Highly scalable, high-performance container management service which supports Docker containers
+C) Managed Kubernetes service that makes it easy for you to run Kubernetes on AWS
+D) Fully managed Docker container registry that makes it easy for developers to store, manage, and deploy Docker container images
++E) Platform as a service (or PaaS) that facilitates the quick deployment, scaling, and management of your web applications and services
+

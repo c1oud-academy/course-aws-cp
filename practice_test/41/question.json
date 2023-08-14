@@ -1,0 +1,18 @@
+{
+    "text": "Which AWS service or feature provides pre-made accelerators & templates to help solution architects deploy over 100 different production environments to AWS?",
+    "answers": [
+        {
+            "text": "AWS CloudFormation"
+        },
+        {
+            "text": "AWS Lightsail"
+        },
+        {
+            "text": "AWS CodePipeline"
+        },
+        {
+            "text": "AWS Quick Starts",
+            "right_answer": true
+        }
+    ]
+}

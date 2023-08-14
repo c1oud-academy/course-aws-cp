@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "Consulting Partners build services & products on top of AWS which they then sell to their customers."
+        },
+        {
+            "text": "Consulting Partners provide educational services, including in-person and online training."
+        },
+        {
+            "text": "Consulting Partners provide advice on setting and managing up on-premises infrastructure and servers."
+        },
+        {
+            "right_answer": true,
+            "text": "Consulting Partners provide professional services to help other companies design, architect and build applications on AWS."
+        }
+    ],
+    "text": "In the AWS Partner Network (APN) what do Consulting Partners primarily do?"
+}

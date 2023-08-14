@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "Policies are unique identities recognized by AWS services. They are similar to IAM Users and can contain API keys and passwords."
+        },
+        {
+            "text": "Policies are groupings of IAM Users. They are a way to assign and manage similar permissions to a set of Users."
+        },
+        {
+            "text": "Policies are a collection of IAM Users. You can add or remove Users in a policy. Policies cannot belong to other policies."
+        },
+        {
+            "right_answer": true,
+            "text": "Policies contain permissions and are attached to IAM identities. AWS evaluates policies to determine whether a request made by the carrier of the policy should be allowed or denied."
+        }
+    ],
+    "text": "What are IAM Policies?"
+}

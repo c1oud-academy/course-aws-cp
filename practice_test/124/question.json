@@ -1,0 +1,22 @@
+{
+    "answers": [
+        {
+            "text": "Secret Access Key"
+        },
+        {
+            "text": "Public Access ID"
+        },
+        {
+            "text": "Secret Access ID"
+        },
+        {
+            "right_answer": true,
+            "text": "Canonical User ID"
+        },
+        {
+            "right_answer": true,
+            "text": "AWS Account ID"
+        }
+    ],
+    "text": "Which of the following are unique IDs given to each AWS account?"
+}

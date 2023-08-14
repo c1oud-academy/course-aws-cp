@@ -1,0 +1,29 @@
+{
+    "answers": [
+        {
+            "text": "Amazon DynamoDB"
+        },
+        {
+            "text": "Auto Scaling Groups"
+        },
+        {
+            "text": "AWS Batch"
+        },
+        {
+            "right_answer": true,
+            "text": "Subnet"
+        },
+        {
+            "right_answer": true,
+            "text": "EC2 Instance"
+        },
+        {
+            "right_answer": true,
+            "text": "EBS Volumes"
+        },
+        {
+            "text": "Amazon VPC"
+        }
+    ],
+    "text": "Which of the following is zonal, i.e. they are created and work within a given Availability Zone?"
+}

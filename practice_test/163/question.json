@@ -1,0 +1,24 @@
+{
+    "answers": [
+        {
+            "text": "Multithreaded Architecture"
+        },
+        {
+            "right_answer": true,
+            "text": "Sub-millisecond Latency"
+        },
+        {
+            "right_answer": true,
+            "text": "Data Partitioning"
+        },
+        {
+            "right_answer": true,
+            "text": "Transactions"
+        },
+        {
+            "right_answer": true,
+            "text": "Replication"
+        }
+    ],
+    "text": "Which of the following features apply to Amazon ElastiCache for Redis?"
+}

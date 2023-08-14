@@ -1,0 +1,18 @@
+{
+    "text": "What is the benefit of accessing AWS services using the AWS SDK?",
+    "answers": [
+        {
+            "text": "You can outsource all of your application's logic to the AWS SDK thus minimizing the time needed to build your application."
+        },
+        {
+            "text": "You can give your applications a way to programmatically access AWS services and resources, using libraries built and tested by AWS.",
+            "right_answer": true
+        },
+        {
+            "text": "It is more secure to access AWS using the AWS SDK rather than other ways (such as through the AWS Console)."
+        },
+        {
+            "text": "It is cheaper to used AWS SDK to access AWS rather than using the AWS Console or through direct HTTP requests."
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "text": "Select NON-existent Amazon EC2 pricing model:",
+    "answers": [
+        {
+            "text": "On-Demand Instances"
+        },
+        {
+            "text": "Reserved Instances"
+        },
+        {
+            "text": "Spot Instances"
+        },
+        {
+            "text": "Main Instances",
+            "right_answer": true
+        }
+    ]
+}

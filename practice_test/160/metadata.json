@@ -1,0 +1,36 @@
+{
+    "aws_service": [
+        "Misc"
+    ],
+    "type": "practice_test",
+    "title": {
+        "kk": "Practice test quesion 160",
+        "en": "Practice test quesion 160",
+        "ru": "Practice test quesion 160"
+    },
+    "content_type": "test",
+    "id": "160",
+    "property_keys": [
+        "type",
+        "id",
+        "content_type",
+        "aws_service",
+        "aws_group"
+    ],
+    "aws_group": [
+        "Misc",
+        "Security, Identity, & Compliance"
+    ],
+    "files_list": [
+        {
+            "type": "metadata",
+            "path": "metadata.json",
+            "lang": "en"
+        },
+        {
+            "type": "question",
+            "path": "question.json",
+            "lang": "en"
+        }
+    ]
+}

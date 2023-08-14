@@ -1,0 +1,18 @@
+{
+    "text": "What is a Region in AWS?",
+    "answers": [
+        {
+            "text": "An AWS compute and storage services deployed within the telecommunications providers\u2019 data centers at the edge of the 5G networks."
+        },
+        {
+            "text": "A separate geographical area that has a cluster of multiple, isolated data centers.",
+            "right_answer": true
+        },
+        {
+            "text": "One or more discrete data centers with redundant power, networking, and connectivity."
+        },
+        {
+            "text": "A small subset of AWS services located next to a large population, industry, and IT centers."
+        }
+    ]
+}

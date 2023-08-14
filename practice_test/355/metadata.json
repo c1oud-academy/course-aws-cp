@@ -1,0 +1,37 @@
+{
+    "type": "practice_test",
+    "files_list": [
+        {
+            "path": "metadata.json",
+            "type": "metadata",
+            "lang": "en"
+        },
+        {
+            "path": "question.json",
+            "type": "question",
+            "lang": "en"
+        }
+    ],
+    "property_keys": [
+        "type",
+        "id",
+        "content_type",
+        "aws_service",
+        "aws_group"
+    ],
+    "aws_service": [
+        "CloudWatch",
+        "Inspector"
+    ],
+    "aws_group": [
+        "Management & Governance",
+        "Security, Identity, & Compliance"
+    ],
+    "id": "355",
+    "title": {
+        "ru": "Practice test quesion 355",
+        "en": "Practice test quesion 355",
+        "kk": "Practice test quesion 355"
+    },
+    "content_type": "test"
+}

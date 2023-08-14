@@ -1,0 +1,34 @@
+{
+    "answers": [
+        {
+            "text": "Efficiency"
+        },
+        {
+            "right_answer": true,
+            "text": "Service Limits"
+        },
+        {
+            "text": "Prohibited Actions"
+        },
+        {
+            "right_answer": true,
+            "text": "Cost Optimization"
+        },
+        {
+            "right_answer": true,
+            "text": "Security"
+        },
+        {
+            "right_answer": true,
+            "text": "Fault Tolerance"
+        },
+        {
+            "right_answer": true,
+            "text": "Performance"
+        },
+        {
+            "text": "Reliability"
+        }
+    ],
+    "text": "Which are the categories used by AWS Trusted Advisor to evaluate your system against a set of best practices?"
+}

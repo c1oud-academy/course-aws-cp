@@ -1,0 +1,431 @@
+Knowledge check questions #40
+
+400
+Select main factors to select AWS Region:
++ A) Data governance, legal requirements
++ B) Proximity to customers (latency)
++ C) Availability of AWS services
++ D) Costs
+E) Devices of end-users
+F) Browsers of end-users
+G) Operating system of end-user devices
+H) Age of auditory
+
+401
+Select main factors to select AWS Region:
++ A) Data governance, legal requirements
++ B) Proximity to customers (latency)
++ C) Availability of AWS services 
+E) Devices of end-users
+F) Browsers of end-users
+G) Operating system of end-user devices
+H) Age of auditory
+
+402
+Select main factors to select AWS Region:
++ A) Data governance, legal requirements
++ C) Availability of AWS services 
++ D) Costs
+E) Devices of end-users
+F) Browsers of end-users
+G) Operating system of end-user devices
+H) Age of auditory
+
+403
+Select main factors to select AWS Region:
++ A) Data governance, legal requirements
++ B) Proximity to customers (latency)
++ D) Costs
+E) Devices of end-users
+F) Browsers of end-users
+G) Operating system of end-user devices
+H) Age of auditory
+
+404
+Select main factors to select AWS Region:
++ A) Data governance, legal requirements
++ B) Proximity to customers (latency)
++ C) Availability of AWS services 
+E) Devices of end-users
+F) Browsers of end-users
+G) Operating system of end-user devices
+H) Age of auditory
+
+405
+Select a factor that is NOT the main factor for choosing AWS region:
+A) Data governance, legal requirements
+B) Proximity to customers (latency)
+C) Availability of AWS services 
+D) Costs
++ E) Devices of end-users
+
+406
+Select a factor that is NOT the main factor for choosing AWS Region:
+A) Data governance, legal requirements
+B) Proximity to customers (latency)
+C) Availability of AWS services 
+D) Costs
++ F) Browsers of end-users
+
+407
+Select a factor that is NOT main for AWS Region selection:
+A) Data governance, legal requirements
+B) Proximity to customers (latency)
+C) Availability of AWS services 
+D) Costs
++ G) Operating system of end-user devices
+
+408
+Select a factor that is NOT main for AWS Region selection:
+A) Data governance, legal requirements
+B) Proximity to customers (latency)
+C) Availability of AWS services 
+D) Costs
++ H) Age of auditory
+
+409
+What is the mininun amount of availability zones in AWS Region?
+A) 1
++ A) 2
+A) 3
+A) 4
+A) 5
+
+410
+What is the mininun amount of data centers in AWS Availailty Zone?
+A) 1
++ A) 2
+A) 3
+A) 4
+A) 5
+
+411
+What is the Content Delivery Network (CDN) service of AWS?
++ A) AWS CloudFront
+B) AWS Organizations
+C) AWS IAM
+D) AWS Cost Explorer
+
+412
+What is the AWS service to store data as objects?
++ A) Amazon S3
+B) Amazon EBS
+C) Amazon EFS
+D) Amazon S3 Glacier
+
+413
+What is the AWS service to store archive data cost-effectively?
+A) Amazon S3
+B) Amazon EBS
+C) Amazon EFS
++ D) Amazon S3 Glacier
+
+414
+What is the AWS service to store data as blocks and is filesystem in cloud?
+A) Amazon S3
++ B) Amazon EBS
+C) Amazon EFS
+D) Amazon S3 Glacier
+
+415
+What is the AWS shareable filesystem service?
+A) Amazon S3
+B) Amazon EBS
++ C) Amazon EFS
+D) Amazon S3 Glacier
+
+416
+What is the AWS service that does NOT belong to storage service group?
+A) Amazon S3
+B) Amazon EBS
+C) Amazon EFS
+D) Amazon S3 Glacier
++ E) Amazon EKS
+
+417
+What is the main AWS service for providing virtual servers?
++ A) Amazon EC2
+B) Amazon EC2 Auto Scaling
+C) Amazon ECS
+D) Amazon ECR
+E) AWS Elastic Beanstalk
+F) AWS Lambda
+G) Amazon EKS
+H) AWS Fargate
+
+418
+What is the AWS service to setup autoscaling feature to the fleet of EC2 instances?
+A) Amazon EC2
++ B) Amazon EC2 Auto Scaling
+C) Amazon ECS
+D) Amazon ECR
+E) AWS Elastic Beanstalk
+F) AWS Lambda
+G) Amazon EKS
+H) AWS Fargate
+
+419
+What is the AWS service to deal with containers?
+A) Amazon EC2
+B) Amazon EC2 Auto Scaling
++ C) Amazon ECS
+D) Amazon ECR
+E) AWS Elastic Beanstalk
+F) AWS Lambda
+G) Amazon EKS
+H) AWS Fargate
+
+420
+What is the AWS service that is containers registry?
+A) Amazon EC2
+B) Amazon EC2 Auto Scaling
+C) Amazon ECS
++ D) Amazon ECR
+E) AWS Elastic Beanstalk
+F) AWS Lambda
+G) Amazon EKS
+H) AWS Fargate
+
+421
+What is the AWS service that is delivered by FaaS model?
+A) Amazon EC2
+B) Amazon EC2 Auto Scaling
+C) Amazon ECS
+D) Amazon ECR
+E) AWS Elastic Beanstalk
++ F) AWS Lambda
+G) Amazon EKS
+H) AWS Fargate
+
+422
+What is the AWS service that helps to handle Kubernetes workloads?
+A) Amazon EC2
+B) Amazon EC2 Auto Scaling
+C) Amazon ECS
+D) Amazon ECR
+E) AWS Elastic Beanstalk
+F) AWS Lambda
++ G) Amazon EKS
+H) AWS Fargate
+
+423
+What is the AWS service that is serverless, pay-as-you-go compute engine that lets you focus on building applications without managing servers?
+A) Amazon EC2
+B) Amazon EC2 Auto Scaling
+C) Amazon ECS
+D) Amazon ECR
+E) AWS Elastic Beanstalk
+F) AWS Lambda
+G) Amazon EKS
++ H) AWS Fargate
+
+424
+What is the AWS service that does NOT belong to compute service group?
+A) Amazon EC2
+C) Amazon ECS
+D) Amazon ECR
+F) AWS Lambda
++ E) Amazon EBS
+
+425
+What is the AWS service that does NOT belong to database service group?
+A) Amazon RDS
+C) Amazon Aurora
+D) Amazon Redshift
+F) AWS DynamoDB
++ E) Amazon EC2
+
+426
+What is the AWS service that helps you for providing Oracle RDBMS instance?
++ A) Amazon RDS
+C) Amazon Aurora
+D) Amazon Redshift
+F) AWS DynamoDB
+
+427
+What is the AWS service that helps you for providing SQL Server RDBMS instance?
++ A) Amazon RDS
+C) Amazon Aurora
+D) Amazon Redshift
+F) AWS DynamoDB
+
+428
+What is the AWS in-house developed service that helps you for providing RDBMS instance based on MySQL or PostgreSQL engine?
+A) Amazon RDS
++ C) Amazon Aurora
+D) Amazon Redshift
+F) AWS DynamoDB
+
+429
+What is the AWS service that helps you for providing data warehouse for analytical workloads?
+A) Amazon RDS
+C) Amazon Aurora
++ D) Amazon Redshift
+F) AWS DynamoDB
+
+430
+What is the AWS in-house developed and serverless service that helps you for providing NoSQL DB instance?
+A) Amazon RDS
+C) Amazon Aurora
+D) Amazon Redshift
++ F) AWS DynamoDB
+
+431
+What is the AWS service that helps to create private/local network in cloud?
++ A) Amazon VPC
+B) Elastic Load Balancing
+C) Amazon CloudFront
+D) AWS Transit Gateway
+E) Amazon Route 53
+F) AWS Direct Connect
+G) AWS VPN
+
+432
+What is the AWS service that helps you to organize load balancing to your EC2 instances?
+A) Amazon VPC
++ B) Elastic Load Balancing
+C) Amazon CloudFront
+D) AWS Transit Gateway
+E) Amazon Route 53
+F) AWS Direct Connect
+G) AWS VPN
+
+433
+What is the AWS service that helps you to use Content Delivery Network (CDN) of AWS?
+A) Amazon VPC
+B) Elastic Load Balancing
++ C) Amazon CloudFront
+D) AWS Transit Gateway
+E) Amazon Route 53
+F) AWS Direct Connect
+G) AWS VPN
+
+434
+Select services that helps you to connect on-premise with cloud?
+A) Amazon VPC
+B) Elastic Load Balancing
+C) Amazon CloudFront
++ D) AWS Transit Gateway
+E) Amazon Route 53
++ F) AWS Direct Connect
++ G) AWS VPN
+
+435
+What is the AWS Domain Name System (DNS) service?
+A) Amazon VPC
+B) Elastic Load Balancing
+C) Amazon CloudFront
+D) AWS Transit Gateway
++ E) Amazon Route 53
+F) AWS Direct Connect
+G) AWS VPN
+
+436
+What is the AWS service that helps you to create and manage users, groups, roles and policies?
++ A) AWS IAM
+C) AWS Organizations
+D) Amazon Cognito
+F) AWS Artifact
+E) AWS Key Management Service
+F) AWS Shield
+
+437
+What is the AWS service that helps you to centrally manage fleet of AWS accounts?
+A) AWS IAM
++ C) AWS Organizations
+D) Amazon Cognito
+F) AWS Artifact
+E) AWS Key Management Service
+F) AWS Shield
+
+438
+What is the AWS native service that helps you to sign-up, sign-in, and access control of users to your web and mobile apps?
+A) AWS IAM
+C) AWS Organizations
++ D) Amazon Cognito
+F) AWS Artifact
+E) AWS Key Management Service
+F) AWS Shield
+
+439
+What is the free self-service portal for on-demand access to compliance reports submitted by AWS?
+A) AWS IAM
+C) AWS Organizations
+D) Amazon Cognito
++ F) AWS Artifact
+E) AWS Key Management Service
+F) AWS Shield
+
+440
+What is the AWS service that allows you to create, manage, and control cryptographic keys?
+A) AWS IAM
+C) AWS Organizations
+D) Amazon Cognito
+F) AWS Artifact
++ E) AWS Key Management Service
+F) AWS Shield
+
+441
+What is the AWS managed service to protect from DDoS attacks?
+A) AWS IAM
+C) AWS Organizations
+D) Amazon Cognito
+F) AWS Artifact
+E) AWS Key Management Service
++ F) AWS Shield
+
+442
+What is the AWS service that monitors all infrastructure resource changes?
++ A) AWS Config
+B) Amazon CloudWatch
+C) AWS Auto Scaling
+D) AWS Trusted Advisor
+E) AWS Well-Architected Tool
+F) AWS CloudTrail
+
+443
+What is the AWS service that gathers all metrics and logs from your applications?
+A) AWS Config
++ B) Amazon CloudWatch
+C) AWS Auto Scaling
+D) AWS Trusted Advisor
+E) AWS Well-Architected Tool
+F) AWS CloudTrail
+
+444
+What is the AWS service that helps you to organize scaling feature for variety of services?
+A) AWS Config
+B) Amazon CloudWatch
++ C) AWS Auto Scaling
+D) AWS Trusted Advisor
+E) AWS Well-Architected Tool
+F) AWS CloudTrail
+
+445
+What is the AWS service that provides recommendations to follow AWS best practices?
+A) AWS Config
+B) Amazon CloudWatch
+C) AWS Auto Scaling
++ D) AWS Trusted Advisor
+E) AWS Well-Architected Tool
+F) AWS CloudTrail
+
+446
+What is the AWS service that provides you with recommendations to follow AWS architectural best practices and guidance?
+A) AWS Config
+B) Amazon CloudWatch
+C) AWS Auto Scaling
+D) AWS Trusted Advisor
++ E) AWS Well-Architected Tool
+F) AWS CloudTrail
+
+447
+What is the AWS service that gathers all AWS API calls and acts as a 'black-box' in airplanes?
+A) AWS Config
+B) Amazon CloudWatch
+C) AWS Auto Scaling
+D) AWS Trusted Advisor
+E) AWS Well-Architected Tool
++ F) AWS CloudTrail
+
+

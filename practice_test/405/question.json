@@ -1,0 +1,25 @@
+{
+    "text": "In Amazon EFS what are the two storage classes?",
+    "answers": [
+        {
+            "text": "Extended"
+        },
+        {
+            "text": "Standard",
+            "right_answer": true
+        },
+        {
+            "text": "Dynamic"
+        },
+        {
+            "text": "Infrequent Access - One Zone"
+        },
+        {
+            "text": "Infrequent Access",
+            "right_answer": true
+        },
+        {
+            "text": "Frequent Access"
+        }
+    ]
+}

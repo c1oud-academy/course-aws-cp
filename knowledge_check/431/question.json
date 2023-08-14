@@ -1,0 +1,27 @@
+{
+    "text": "What is the AWS service that helps to create private/local network in cloud?",
+    "answers": [
+        {
+            "text": "Amazon VPC",
+            "right_answer": true
+        },
+        {
+            "text": "Elastic Load Balancing"
+        },
+        {
+            "text": "Amazon CloudFront"
+        },
+        {
+            "text": "AWS Transit Gateway"
+        },
+        {
+            "text": "Amazon Route 53"
+        },
+        {
+            "text": "AWS Direct Connect"
+        },
+        {
+            "text": "AWS VPN"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "text": "Which fully managed Amazon Kinesis service allows you to capture, transform, and load data streams into AWS data stores (like S3 or Redshift) for near real-time analytics?",
+    "answers": [
+        {
+            "text": "Kinesis Data Streams"
+        },
+        {
+            "text": "Kinesis Video Streams"
+        },
+        {
+            "text": "Kinesis Data Firehose",
+            "right_answer": true
+        },
+        {
+            "text": "Kinesis Data Analytics"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "type": "practice_test",
+    "files_list": [
+        {
+            "path": "metadata.json",
+            "type": "metadata",
+            "lang": "en"
+        },
+        {
+            "path": "question.json",
+            "type": "question",
+            "lang": "en"
+        }
+    ],
+    "property_keys": [
+        "type",
+        "id",
+        "content_type",
+        "aws_service",
+        "aws_group"
+    ],
+    "aws_service": [
+        "S3"
+    ],
+    "aws_group": [
+        "Storage"
+    ],
+    "id": "320",
+    "title": {
+        "ru": "Practice test quesion 320",
+        "en": "Practice test quesion 320",
+        "kk": "Practice test quesion 320"
+    },
+    "content_type": "test"
+}

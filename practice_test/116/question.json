@@ -1,0 +1,22 @@
+{
+    "answers": [
+        {
+            "text": "AWS recommends that you use the root user as much as possible for everyday interaction with AWS."
+        },
+        {
+            "right_answer": true,
+            "text": "Getting AWS account root user credentials is different than getting IAM user credentials."
+        },
+        {
+            "text": "You can use IAM policies to explicitly deny access to the root user."
+        },
+        {
+            "right_answer": true,
+            "text": "Security credentials are account specific."
+        },
+        {
+            "text": "IAM Users can change support plans and close an AWS account."
+        }
+    ],
+    "text": "Which of the following are correct statements with regard to AWS security credentials and users?"
+}

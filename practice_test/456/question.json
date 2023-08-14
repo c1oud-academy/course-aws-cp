@@ -1,0 +1,19 @@
+{
+    "text": "Your company needs to run an Oracle database in AWS. How could you get this done?",
+    "answers": [
+        {
+            "text": "Install Oracle Database on EC2.",
+            "right_answer": true
+        },
+        {
+            "text": "Use Amazon RDS for Oracle.",
+            "right_answer": true
+        },
+        {
+            "text": "Use Amazon Aurora."
+        },
+        {
+            "text": "Use Amazon Redshift."
+        }
+    ]
+}

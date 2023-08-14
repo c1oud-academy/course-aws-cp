@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "right_answer": true,
+            "text": "IAM Role"
+        },
+        {
+            "text": "IAM Group"
+        },
+        {
+            "text": "IAM User"
+        },
+        {
+            "text": "S3 Bucket Policy"
+        }
+    ],
+    "text": "Which IAM feature allows you to delegate access with defined permissions to trusted entities without having to share long-term access keys?"
+}

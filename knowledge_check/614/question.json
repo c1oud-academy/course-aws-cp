@@ -1,0 +1,21 @@
+{
+    "text": "How many layers are there in OSI model?",
+    "answers": [
+        {
+            "text": "4"
+        },
+        {
+            "text": "5"
+        },
+        {
+            "text": "6"
+        },
+        {
+            "text": "7",
+            "right_answer": true
+        },
+        {
+            "text": "8"
+        }
+    ]
+}

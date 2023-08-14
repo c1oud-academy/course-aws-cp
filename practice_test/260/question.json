@@ -1,0 +1,22 @@
+{
+    "answers": [
+        {
+            "right_answer": true,
+            "text": "Amazon SQS"
+        },
+        {
+            "text": "Amazon EMR"
+        },
+        {
+            "text": "Amazon Sumerian"
+        },
+        {
+            "right_answer": true,
+            "text": "Amazon SNS"
+        },
+        {
+            "text": "Amazon CodeGuru"
+        }
+    ],
+    "text": "Which of the following services can enable you to build loosely coupled applications on AWS?"
+}

@@ -1,0 +1,18 @@
+{
+    "text": "Which AWS Service can you use to deploy an Application to an On-Premises Instance (and not just EC2 in AWS)?",
+    "answers": [
+        {
+            "text": "AWS Elastic Beanstalk"
+        },
+        {
+            "text": "AWS CodeBuild"
+        },
+        {
+            "text": "AWS CodeDeploy",
+            "right_answer": true
+        },
+        {
+            "text": "AWS CloudFormation"
+        }
+    ]
+}

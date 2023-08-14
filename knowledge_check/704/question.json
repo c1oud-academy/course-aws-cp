@@ -1,0 +1,18 @@
+{
+    "text": "Select service that provides a simple way to run and manage web applications:",
+    "answers": [
+        {
+            "text": "AWS Elastic Beanstalk",
+            "right_answer": true
+        },
+        {
+            "text": "AWS Lambda"
+        },
+        {
+            "text": "Amazon EKS"
+        },
+        {
+            "text": "AWS Fargate"
+        }
+    ]
+}
