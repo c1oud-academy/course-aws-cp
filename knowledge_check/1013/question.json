@@ -1,0 +1,18 @@
+{
+    "text": "Select service that archive data at an extremely low cost, but you cannot retrieve your data immediately when you want it:",
+    "answers": [
+        {
+            "text": "Amazon EBS"
+        },
+        {
+            "text": "Amazon S3"
+        },
+        {
+            "text": "Amazon EFS"
+        },
+        {
+            "text": "Amazon S3 Glacier",
+            "right_answer": true
+        }
+    ]
+}

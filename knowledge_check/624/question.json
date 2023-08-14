@@ -1,0 +1,21 @@
+{
+    "text": "What is the AWS service or feature that helps to connect local office with cloud infrastracture through direct connection to AWS Global Infrastructure?",
+    "answers": [
+        {
+            "text": "AWS Direct Connect",
+            "right_answer": true
+        },
+        {
+            "text": "AWS Transit Gateway"
+        },
+        {
+            "text": "NAT Instance"
+        },
+        {
+            "text": "VPC Site-to-Site VPN"
+        },
+        {
+            "text": "VPC Endpoints"
+        }
+    ]
+}

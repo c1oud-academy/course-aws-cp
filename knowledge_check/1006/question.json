@@ -1,0 +1,19 @@
+{
+    "text": "Select service that provides object-level storage:",
+    "answers": [
+        {
+            "text": "Amazon EBS"
+        },
+        {
+            "text": "Amazon S3",
+            "right_answer": true
+        },
+        {
+            "text": "Amazon EFS"
+        },
+        {
+            "text": "Amazon S3 Glacier",
+            "right_answer": true
+        }
+    ]
+}

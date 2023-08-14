@@ -1,0 +1,24 @@
+{
+    "text": "Select option with security of the cloud which is AWS responsibility according to Shared Responsibilty Model:",
+    "answers": [
+        {
+            "text": "Virtualization infrastructure",
+            "right_answer": true
+        },
+        {
+            "text": "Security group configuration"
+        },
+        {
+            "text": "Applications"
+        },
+        {
+            "text": "OS or host-based firewalls"
+        },
+        {
+            "text": "Network configurations"
+        },
+        {
+            "text": "Account management"
+        }
+    ]
+}

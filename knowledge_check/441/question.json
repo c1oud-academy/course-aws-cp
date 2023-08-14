@@ -1,0 +1,24 @@
+{
+    "text": "What is the AWS managed service to protect from DDoS attacks?",
+    "answers": [
+        {
+            "text": "AWS IAM"
+        },
+        {
+            "text": "AWS Organizations"
+        },
+        {
+            "text": "Amazon Cognito"
+        },
+        {
+            "text": "AWS Artifact"
+        },
+        {
+            "text": "AWS Key Management Service"
+        },
+        {
+            "text": "AWS Shield",
+            "right_answer": true
+        }
+    ]
+}

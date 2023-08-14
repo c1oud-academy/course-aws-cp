@@ -1,0 +1,31 @@
+{
+    "linked_type": "lecture",
+    "type": "knowledge_check",
+    "content_type": "test",
+    "files_list": [
+        {
+            "path": "metadata.json",
+            "lang": "en",
+            "type": "metadata"
+        },
+        {
+            "path": "question.json",
+            "lang": "en",
+            "type": "question"
+        }
+    ],
+    "title": {
+        "kk": "Knowledge check quesion 705",
+        "ru": "Knowledge check quesion 705",
+        "en": "Knowledge check quesion 705"
+    },
+    "property_keys": [
+        "type",
+        "id",
+        "content_type",
+        "linked_type",
+        "linked_id"
+    ],
+    "id": "705",
+    "linked_id": "70"
+}

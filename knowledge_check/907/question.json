@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "right_answer": true,
+            "text": "15 minutes"
+        },
+        {
+            "text": "10 minutes"
+        },
+        {
+            "text": "10 seconds"
+        },
+        {
+            "text": "15 seconds"
+        }
+    ],
+    "text": "What is the maximum AWS Lambda function execution time?"
+}

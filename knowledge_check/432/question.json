@@ -1,0 +1,27 @@
+{
+    "text": "What is the AWS service that helps you to organize load balancing to your EC2 instances?",
+    "answers": [
+        {
+            "text": "Amazon VPC"
+        },
+        {
+            "text": "Elastic Load Balancing",
+            "right_answer": true
+        },
+        {
+            "text": "Amazon CloudFront"
+        },
+        {
+            "text": "AWS Transit Gateway"
+        },
+        {
+            "text": "Amazon Route 53"
+        },
+        {
+            "text": "AWS Direct Connect"
+        },
+        {
+            "text": "AWS VPN"
+        }
+    ]
+}

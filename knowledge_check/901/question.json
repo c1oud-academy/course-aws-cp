@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "AWS Lambda"
+        },
+        {
+            "text": "Amazon ECR"
+        },
+        {
+            "right_answer": true,
+            "text": "Amazon ECS"
+        },
+        {
+            "text": "Amazon EKS"
+        }
+    ],
+    "text": "Select highly scalable, high-performance container management service which supports Docker containers:"
+}

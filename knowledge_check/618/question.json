@@ -1,0 +1,22 @@
+{
+    "text": "Select available public IP address types:",
+    "answers": [
+        {
+            "text": "Private IP address"
+        },
+        {
+            "text": "Personal IP address"
+        },
+        {
+            "text": "Public IP address",
+            "right_answer": true
+        },
+        {
+            "text": "Open IP address"
+        },
+        {
+            "text": "Elastic IP address",
+            "right_answer": true
+        }
+    ]
+}

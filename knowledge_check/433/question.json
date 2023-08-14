@@ -1,0 +1,27 @@
+{
+    "text": "What is the AWS service that helps you to use Content Delivery Network (CDN) of AWS?",
+    "answers": [
+        {
+            "text": "Amazon VPC"
+        },
+        {
+            "text": "Elastic Load Balancing"
+        },
+        {
+            "text": "Amazon CloudFront",
+            "right_answer": true
+        },
+        {
+            "text": "AWS Transit Gateway"
+        },
+        {
+            "text": "Amazon Route 53"
+        },
+        {
+            "text": "AWS Direct Connect"
+        },
+        {
+            "text": "AWS VPN"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "text": "Select services that helps you to connect on-premise with cloud?",
+    "answers": [
+        {
+            "text": "Amazon VPC"
+        },
+        {
+            "text": "Elastic Load Balancing"
+        },
+        {
+            "text": "Amazon CloudFront"
+        },
+        {
+            "text": "AWS Transit Gateway",
+            "right_answer": true
+        },
+        {
+            "text": "Amazon Route 53"
+        },
+        {
+            "text": "AWS Direct Connect",
+            "right_answer": true
+        },
+        {
+            "text": "AWS VPN",
+            "right_answer": true
+        }
+    ]
+}

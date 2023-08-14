@@ -1,0 +1,33 @@
+{
+    "text": "Select main factors to select AWS Region:",
+    "answers": [
+        {
+            "text": "Data governance, legal requirements",
+            "right_answer": true
+        },
+        {
+            "text": "Proximity to customers (latency)",
+            "right_answer": true
+        },
+        {
+            "text": "Availability of AWS services",
+            "right_answer": true
+        },
+        {
+            "text": "Costs",
+            "right_answer": true
+        },
+        {
+            "text": "Devices of end-users"
+        },
+        {
+            "text": "Browsers of end-users"
+        },
+        {
+            "text": "Operating system of end-user devices"
+        },
+        {
+            "text": "Age of auditory"
+        }
+    ]
+}

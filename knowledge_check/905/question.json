@@ -1,0 +1,30 @@
+{
+    "answers": [
+        {
+            "right_answer": true,
+            "text": "Amazon S3"
+        },
+        {
+            "right_answer": true,
+            "text": "Amazon SNS"
+        },
+        {
+            "right_answer": true,
+            "text": "Amazon SQS"
+        },
+        {
+            "right_answer": true,
+            "text": "Amazon API Gateway"
+        },
+        {
+            "text": "Amazon ECR"
+        },
+        {
+            "text": "Amazon ECS"
+        },
+        {
+            "text": "Amazon EKS"
+        }
+    ],
+    "text": "Which of the folowing possible event sources for Lambda?"
+}

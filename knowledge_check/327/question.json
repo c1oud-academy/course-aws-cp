@@ -1,0 +1,18 @@
+{
+    "text": "What we usually use to meet security related aspects on specific account when using AWS Organizations?",
+    "answers": [
+        {
+            "text": "SCPs"
+        },
+        {
+            "text": "AWS IAM",
+            "right_answer": true
+        },
+        {
+            "text": "AWS EC2"
+        },
+        {
+            "text": "AWS RDS"
+        }
+    ]
+}

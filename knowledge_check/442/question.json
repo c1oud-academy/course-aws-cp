@@ -1,0 +1,24 @@
+{
+    "text": "What is the AWS service that monitors all infrastructure resource changes?",
+    "answers": [
+        {
+            "text": "AWS Config",
+            "right_answer": true
+        },
+        {
+            "text": "Amazon CloudWatch"
+        },
+        {
+            "text": "AWS Auto Scaling"
+        },
+        {
+            "text": "AWS Trusted Advisor"
+        },
+        {
+            "text": "AWS Well-Architected Tool"
+        },
+        {
+            "text": "AWS CloudTrail"
+        }
+    ]
+}

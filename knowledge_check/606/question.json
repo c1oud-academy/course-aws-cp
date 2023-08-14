@@ -1,0 +1,27 @@
+{
+    "text": "Select valid CIDR blocks:",
+    "answers": [
+        {
+            "text": "192.0.10.0/36"
+        },
+        {
+            "text": "192.0.10.0/34"
+        },
+        {
+            "text": "192.0.10.0/32",
+            "right_answer": true
+        },
+        {
+            "text": "192.0.10.0/30",
+            "right_answer": true
+        },
+        {
+            "text": "192.0.10.0/28",
+            "right_answer": true
+        },
+        {
+            "text": "192.0.10.0/26",
+            "right_answer": true
+        }
+    ]
+}

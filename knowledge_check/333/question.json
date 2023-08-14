@@ -1,0 +1,18 @@
+{
+    "text": "Select option that is NOT related to AWS support:",
+    "answers": [
+        {
+            "text": "Technical Account Manager (TAM)"
+        },
+        {
+            "text": "AWS Trusted Advisor"
+        },
+        {
+            "text": "AWS Support Concierge"
+        },
+        {
+            "text": "AWS Organizations",
+            "right_answer": true
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "AWS Lambda"
+        },
+        {
+            "right_answer": true,
+            "text": "Amazon ECR"
+        },
+        {
+            "text": "Amazon ECS"
+        },
+        {
+            "text": "Amazon EKS"
+        }
+    ],
+    "text": "Select fully managed Docker container registry that makes it easy for developers to store, manage, and deploy Docker container images:"
+}

@@ -1,0 +1,18 @@
+{
+    "text": "Select service that enables you to run managed Kubernetes on AWS:",
+    "answers": [
+        {
+            "text": "Amazon ECR"
+        },
+        {
+            "text": "Amazon ECS"
+        },
+        {
+            "text": "Amazon EKS",
+            "right_answer": true
+        },
+        {
+            "text": "AWS Fargate"
+        }
+    ]
+}

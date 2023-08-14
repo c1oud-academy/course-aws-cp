@@ -1,0 +1,107 @@
+1001
+Select service that provides persistent block storage volumes for use with Amazon EC2 instances:
++A) Amazon EBS
+B) Amazon S3
+C) Amazon EFS
+D) Amazon S3 Glacier
+
+1002
+Select SSD based EBS volume types:
++A) General Purpose
++B) Provisioned IOPS
+C) Throughput-Optimized
+D) Cold
+
+1003
+Select HDD based EBS volume types:
+A) General Purpose
+B) Provisioned IOPS
++C) Throughput-Optimized
++D) Cold
+
+1004
+Select EBS volume types that can be used as root volume:
++A) General Purpose
++B) Provisioned IOPS
+C) Throughput-Optimized
+D) Cold
+
+1005
+Select EBS volume types that can not be used as root volume:
+A) General Purpose
+B) Provisioned IOPS
++C) Throughput-Optimized
++D) Cold
+
+1006
+Select service that provides object-level storage:
+A) Amazon EBS
++B) Amazon S3
+C) Amazon EFS
++D) Amazon S3 Glacier
+
+1007
+What is the durability level of Amazon S3 service?
++A) 11 9s
+B) 12 9s
+C) 9 9s
+D) 10 9s
+
+1008
+What is the maximum file size in Amazon S3?
++A) 5 TB
+B) 1 TB
+C) 1 GB
+D) 5 GB
+
+1009
+Select non-existing S3 storage class:
+A) Standard
+B) Intelligent-Tiering
+C) Standard-IA
+D) One Zone-IA
+E) Glacier
+F) Glacier Deep Archive
++H) Intelligent-Standard
+
+1010
+Select non-existing S3 storage class:
+A) Standard
+B) Intelligent-Tiering
+C) Standard-IA
+D) One Zone-IA
+E) Glacier
+F) Glacier Deep Archive
++H) One Region-IA
+
+1011
+Select non-existing S3 storage class:
+A) Standard
+B) Intelligent-Tiering
+C) Standard-IA
+D) One Zone-IA
+E) Glacier
+F) Glacier Deep Archive
++H) Glacier Simple
+
+1012
+Select service that implements storage for EC2 instances that multiple virtual machines can access at the same time:
+A) Amazon EBS
+B) Amazon S3
++C) Amazon EFS
+D) Amazon S3 Glacier
+
+1013
+Select service that archive data at an extremely low cost, but you cannot retrieve your data immediately when you want it:
+A) Amazon EBS
+B) Amazon S3
+C) Amazon EFS
++D) Amazon S3 Glacier
+
+1014
+What is the maximum file size in Amazon S3 Glacier?
+A) 5 TB
++B) 40 TB
+C) 40 GB
+D) 5 GB
+

@@ -1,0 +1,21 @@
+{
+    "text": "Select a factor that is NOT the main factor for choosing AWS region:",
+    "answers": [
+        {
+            "text": "Data governance, legal requirements"
+        },
+        {
+            "text": "Proximity to customers (latency)"
+        },
+        {
+            "text": "Availability of AWS services"
+        },
+        {
+            "text": "Costs"
+        },
+        {
+            "text": "Age of auditory",
+            "right_answer": true
+        }
+    ]
+}

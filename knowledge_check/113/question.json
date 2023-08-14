@@ -1,0 +1,10 @@
+{
+  "text": "What is the special program for universities developed by AWS?",
+  "answers": [
+    {"text": "AWS academy", "right_answer": true},
+    {"text": "AWS university"},
+    {"text": "AWS colledge"},
+    {"text": "AWS school"}
+  ],
+  "right_answers_count": 1
+}

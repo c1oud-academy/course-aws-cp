@@ -1,0 +1,24 @@
+{
+    "text": "Select non-existing AWS Support case severity:",
+    "answers": [
+        {
+            "text": "Critical"
+        },
+        {
+            "text": "Urgent"
+        },
+        {
+            "text": "High"
+        },
+        {
+            "text": "Normal"
+        },
+        {
+            "text": "Low"
+        },
+        {
+            "text": "Amazing",
+            "right_answer": true
+        }
+    ]
+}

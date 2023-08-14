@@ -1,0 +1,18 @@
+{
+    "text": "What is AMI?",
+    "answers": [
+        {
+            "text": "Amazon Media Instance"
+        },
+        {
+            "text": "Amazon Machine Instance"
+        },
+        {
+            "text": "Amazon Machine Image",
+            "right_answer": true
+        },
+        {
+            "text": "Amazon Media Image"
+        }
+    ]
+}

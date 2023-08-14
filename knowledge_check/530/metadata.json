@@ -1,0 +1,31 @@
+{
+    "property_keys": [
+        "type",
+        "id",
+        "content_type",
+        "linked_type",
+        "linked_id"
+    ],
+    "content_type": "test",
+    "id": "530",
+    "linked_id": "50",
+    "type": "knowledge_check",
+    "files_list": [
+        {
+            "path": "metadata.json",
+            "type": "metadata",
+            "lang": "en"
+        },
+        {
+            "path": "question.json",
+            "type": "question",
+            "lang": "en"
+        }
+    ],
+    "title": {
+        "en": "Knowledge check quesion 530",
+        "kk": "Knowledge check quesion 530",
+        "ru": "Knowledge check quesion 530"
+    },
+    "linked_type": "lecture"
+}

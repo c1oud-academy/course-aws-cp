@@ -1,0 +1,21 @@
+{
+    "text": "What is the managed service that protects infrastucture from DDoS attacks in AWS?",
+    "answers": [
+        {
+            "text": "AWS KMS"
+        },
+        {
+            "text": "AWS Macie"
+        },
+        {
+            "text": "AWS Shield",
+            "right_answer": true
+        },
+        {
+            "text": "AWS Organizations"
+        },
+        {
+            "text": "Amazon Cognito"
+        }
+    ]
+}

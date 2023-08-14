@@ -1,0 +1,10 @@
+{
+  "text": "What is the main platform of the course?",
+  "answers": [
+    {"text": "Telegram-bot", "right_answer": true},
+    {"text": "WhatsApp-bot"},
+    {"text": "AWS academy"},
+    {"text": "Amazon academy"}
+  ],
+  "right_answers_count": 1
+}

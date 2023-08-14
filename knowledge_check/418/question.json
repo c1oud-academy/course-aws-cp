@@ -1,0 +1,30 @@
+{
+    "text": "What is the AWS service to setup autoscaling feature to the fleet of EC2 instances?",
+    "answers": [
+        {
+            "text": "Amazon EC2"
+        },
+        {
+            "text": "Amazon EC2 Auto Scaling",
+            "right_answer": true
+        },
+        {
+            "text": "Amazon ECS"
+        },
+        {
+            "text": "Amazon ECR"
+        },
+        {
+            "text": "AWS Elastic Beanstalk"
+        },
+        {
+            "text": "AWS Lambda"
+        },
+        {
+            "text": "Amazon EKS"
+        },
+        {
+            "text": "AWS Fargate"
+        }
+    ]
+}

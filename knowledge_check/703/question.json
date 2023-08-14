@@ -1,0 +1,18 @@
+{
+    "text": "Select container orchestration service that supports Docker:",
+    "answers": [
+        {
+            "text": "Amazon ECR"
+        },
+        {
+            "text": "Amazon ECS",
+            "right_answer": true
+        },
+        {
+            "text": "Amazon EKS"
+        },
+        {
+            "text": "AWS Fargate"
+        }
+    ]
+}

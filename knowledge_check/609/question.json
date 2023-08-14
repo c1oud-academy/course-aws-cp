@@ -1,0 +1,30 @@
+{
+    "text": "How many IP addresses in following CIDR block 10.0.0.0/30?",
+    "answers": [
+        {
+            "text": "1"
+        },
+        {
+            "text": "2"
+        },
+        {
+            "text": "3"
+        },
+        {
+            "text": "4",
+            "right_answer": true
+        },
+        {
+            "text": "5"
+        },
+        {
+            "text": "6"
+        },
+        {
+            "text": "7"
+        },
+        {
+            "text": "8"
+        }
+    ]
+}

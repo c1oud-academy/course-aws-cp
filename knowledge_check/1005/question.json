@@ -1,0 +1,19 @@
+{
+    "text": "Select EBS volume types that can not be used as root volume:",
+    "answers": [
+        {
+            "text": "General Purpose"
+        },
+        {
+            "text": "Provisioned IOPS"
+        },
+        {
+            "text": "Throughput-Optimized",
+            "right_answer": true
+        },
+        {
+            "text": "Cold",
+            "right_answer": true
+        }
+    ]
+}

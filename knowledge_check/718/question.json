@@ -1,0 +1,19 @@
+{
+    "text": "Select cost optimization pillars for Amazon EC2:",
+    "answers": [
+        {
+            "text": "Right size",
+            "right_answer": true
+        },
+        {
+            "text": "Optimize storage choices",
+            "right_answer": true
+        },
+        {
+            "text": "Left size"
+        },
+        {
+            "text": "Decrease elasticity"
+        }
+    ]
+}

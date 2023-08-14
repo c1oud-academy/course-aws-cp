@@ -1,0 +1,21 @@
+{
+    "text": "What is the AWS service or feature that helps to connect VPC with AWS services outside VPC?",
+    "answers": [
+        {
+            "text": "AWS Direct Connect"
+        },
+        {
+            "text": "AWS Transit Gateway"
+        },
+        {
+            "text": "NAT Instance"
+        },
+        {
+            "text": "VPC Site-to-Site VPN"
+        },
+        {
+            "text": "VPC Endpoints",
+            "right_answer": true
+        }
+    ]
+}

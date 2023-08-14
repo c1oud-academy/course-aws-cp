@@ -1,0 +1,25 @@
+{
+    "text": "Select correct IPv4 addresses:",
+    "answers": [
+        {
+            "text": "10.0.0.1",
+            "right_answer": true
+        },
+        {
+            "text": "300.0.0.10"
+        },
+        {
+            "text": "192.0.0.1",
+            "right_answer": true
+        },
+        {
+            "text": "10.0.0.0.10"
+        },
+        {
+            "text": "10.0.0.256"
+        },
+        {
+            "text": "2600:1f18:22ba:8c00:ba86:a05e:a5ba:00FF"
+        }
+    ]
+}

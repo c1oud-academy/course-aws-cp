@@ -1,0 +1,21 @@
+{
+    "text": "How many IP addresses available for your use in CIDR block 192.0.0.0/24 in AWS?",
+    "answers": [
+        {
+            "text": "255"
+        },
+        {
+            "text": "250"
+        },
+        {
+            "text": "256"
+        },
+        {
+            "text": "251",
+            "right_answer": true
+        },
+        {
+            "text": "257"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "text": "What are the components of Amazon CloudFront infrastructure?",
+    "answers": [
+        {
+            "text": "Region"
+        },
+        {
+            "text": "Availability Zone"
+        },
+        {
+            "text": "Edge locations",
+            "right_answer": true
+        },
+        {
+            "text": "Regional edge cache",
+            "right_answer": true
+        },
+        {
+            "text": "Data centers"
+        }
+    ]
+}

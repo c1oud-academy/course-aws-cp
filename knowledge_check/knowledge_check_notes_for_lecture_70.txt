@@ -1,0 +1,147 @@
+701
+Select service that helps to acquire virtual servers:
++A) Amazon EC2
+B) Amazon ECR
+C) Amazon ECS
+D) AWS Elastic Beanstalk
+
+702
+Select service that stores Docker images:
++B) Amazon ECR
+C) Amazon ECS
+F) Amazon EKS
+H) AWS Fargate
+
+703
+Select container orchestration service that supports Docker:
+B) Amazon ECR
++C) Amazon ECS
+F) Amazon EKS
+H) AWS Fargate
+
+704
+Select service that provides a simple way to run and manage web applications:
++D) AWS Elastic Beanstalk
+E) AWS Lambda
+H) Amazon EKS
+H) AWS Fargate
+
+705
+Select service that is serverless compute solution:
+A) Amazon EC2
+D) AWS Elastic Beanstalk
++E) AWS Lambda
+H) Amazon Lightsail
+
+706
+Select service that enables you to run managed Kubernetes on AWS:
+B) Amazon ECR
+C) Amazon ECS
++F) Amazon EKS
+H) AWS Fargate
+
+707
+What is AMI?
+B) Amazon Media Instance
+C) Amazon Machine Instance
++F) Amazon Machine Image
+H) Amazon Media Image
+
+708
+Select URL where we can access Amazon EC2 instance metadata from instance:
++B) http://169.254.169.254/latest/meta-data/
+C) http://254.169.254.169/latest/user-data/
+F) http://254.169.254.169/latest/meta-data/
+H) http://169.254.169.254/latest/user-data/
+
+709
+Select URL where we can access Amazon EC2 instance user data from instance:
+B) http://169.254.169.254/latest/meta-data/
+C) http://254.169.254.169/latest/user-data/
+F) http://254.169.254.169/latest/meta-data/
++H) http://169.254.169.254/latest/user-data/
+
+710
+Select NON-existent Amazon EC2 pricing model:
+B) On-Demand Instances
+C) Reserved Instances
+F) Spot Instances
++H) Open Instances
+
+711
+Select NON-existent Amazon EC2 pricing model:
+B) On-Demand Instances
+C) Reserved Instances
+F) Spot Instances
++H) Private Instances
+
+712
+Select NON-existent Amazon EC2 pricing model:
+B) On-Demand Instances
+C) Reserved Instances
+F) Spot Instances
++H) Public Instances
+
+713
+Select NON-existent Amazon EC2 pricing model:
+B) On-Demand Instances
+C) Reserved Instances
+F) Spot Instances
++H) Main Instances
+
+714
+Select Amazon EC2 pricing model that best suits for spiky workloads:
++B) On-Demand Instances
+C) Reserved Instances
+F) Spot Instances
+H) Dedicated Hosts
+
+715
+Select Amazon EC2 pricing model that best suits for predictable and steady workloads:
+B) On-Demand Instances
++C) Reserved Instances
+F) Spot Instances
+H) Dedicated Hosts
+
+716
+Select cost optimization pillars for Amazon EC2:
++B) Right size
++C) Increase elasticity
+B) Left size
+B) Decrease elasticity
+
+717
+Select cost optimization pillars for Amazon EC2:
++B) Right size
++F) Optimal pricing model
+B) Left size
+B) Decrease elasticity
+
+718
+Select cost optimization pillars for Amazon EC2:
++B) Right size
++H) Optimize storage choices
+B) Left size
+B) Decrease elasticity
+
+719
+Select cost optimization pillars for Amazon EC2:
++C) Increase elasticity
++F) Optimal pricing model
+B) Left size
+B) Decrease elasticity
+
+720
+Select cost optimization pillars for Amazon EC2:
++C) Increase elasticity
++H) Optimize storage choices
+B) Left size
+B) Decrease elasticity
+
+721
+Select cost optimization pillars for Amazon EC2:
++F) Optimal pricing model
++H) Optimize storage choices
+B) Left size
+B) Decrease elasticity
+

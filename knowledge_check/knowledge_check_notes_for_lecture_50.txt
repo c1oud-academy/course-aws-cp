@@ -1,0 +1,306 @@
+500
+Select option with security of the cloud which is AWS responsibility according to Shared Responsibilty Model:
++A) Physical security of data centers
+F) Security group configuration
+G) Applications
+H) OS or host-based firewalls
+H) Network configurations
+H) Account management
+
+501
+Select option with security of the cloud which is AWS responsibility according to Shared Responsibilty Model:
++B) Hardware infrastructure
+F) Security group configuration
+G) Applications
+H) OS or host-based firewalls
+H) Network configurations
+H) Account management
+
+502
+Select option with security of the cloud which is AWS responsibility according to Shared Responsibilty Model:
++C) Software infrastructure
+F) Security group configuration
+G) Applications
+H) OS or host-based firewalls
+H) Network configurations
+H) Account management
+
+503
+Select option with security of the cloud which is AWS responsibility according to Shared Responsibilty Model:
++D) Network infrastructure
+F) Security group configuration
+G) Applications
+H) OS or host-based firewalls
+H) Network configurations
+H) Account management
+
+504
+Select option with security of the cloud which is AWS responsibility according to Shared Responsibilty Model:
++E) Virtualization infrastructure
+F) Security group configuration
+G) Applications
+H) OS or host-based firewalls
+H) Network configurations
+H) Account management
+
+505
+Select options with security of the cloud which is AWS responsibility according to Shared Responsibilty Model:
++A) Physical security of data centers
++B) Hardware infrastructure
+F) Security group configuration
+G) Applications
+H) OS or host-based firewalls
+H) Network configurations
+H) Account management
+
+506
+Select options with security of the cloud which is AWS responsibility according to Shared Responsibilty Model:
++B) Hardware infrastructure
++C) Software infrastructure
+F) Security group configuration
+G) Applications
+H) OS or host-based firewalls
+H) Network configurations
+H) Account management
+
+507
+Select options with security of the cloud which is AWS responsibility according to Shared Responsibilty Model:
++C) Software infrastructure
++D) Network infrastructure
+F) Security group configuration
+G) Applications
+H) OS or host-based firewalls
+H) Network configurations
+H) Account management
+
+508
+Select options with security of the cloud which is AWS responsibility according to Shared Responsibilty Model:
++D) Network infrastructure
++E) Virtualization infrastructure
+F) Security group configuration
+G) Applications
+H) OS or host-based firewalls
+H) Network configurations
+H) Account management
+
+509
+Select option with security in the cloud which is Customer responsibility according to Shared Responsibilty Model:
+A) Physical security of data centers
+B) Hardware infrastructure
+C) Software infrastructure
+D) Network infrastructure
+E) Virtualization infrastructure
++F) Security group configuration
+
+510
+Select option with security in the cloud which is Customer responsibility according to Shared Responsibilty Model:
+A) Physical security of data centers
+B) Hardware infrastructure
+C) Software infrastructure
+D) Network infrastructure
+E) Virtualization infrastructure
++G) Applications
+
+511
+Select option with security in the cloud which is Customer responsibility according to Shared Responsibilty Model:
+A) Physical security of data centers
+B) Hardware infrastructure
+C) Software infrastructure
+D) Network infrastructure
+E) Virtualization infrastructure
++H) OS or host-based firewalls
+
+512
+Select option with security in the cloud which is Customer responsibility according to Shared Responsibilty Model:
+A) Physical security of data centers
+B) Hardware infrastructure
+C) Software infrastructure
+D) Network infrastructure
+E) Virtualization infrastructure
++H) Network configurations
+
+513
+Select option with security in the cloud which is Customer responsibility according to Shared Responsibilty Model:
+A) Physical security of data centers
+B) Hardware infrastructure
+C) Software infrastructure
+D) Network infrastructure
+E) Virtualization infrastructure
++H) Account management
+
+514
+Select options with security in the cloud which is Customer responsibility according to Shared Responsibilty Model:
+A) Physical security of data centers
+B) Hardware infrastructure
+C) Software infrastructure
+D) Network infrastructure
+E) Virtualization infrastructure
++F) Security group configuration
++G) Applications
+
+515
+Select options with security in the cloud which is Customer responsibility according to Shared Responsibilty Model:
+A) Physical security of data centers
+B) Hardware infrastructure
+C) Software infrastructure
+D) Network infrastructure
+E) Virtualization infrastructure
++G) Applications
++H) OS or host-based firewalls
+
+516
+Select options with security in the cloud which is Customer responsibility according to Shared Responsibilty Model:
+A) Physical security of data centers
+B) Hardware infrastructure
+C) Software infrastructure
+D) Network infrastructure
+E) Virtualization infrastructure
++H) OS or host-based firewalls
++H) Network configurations
+
+517
+Select options with security in the cloud which is Customer responsibility according to Shared Responsibilty Model:
+A) Physical security of data centers
+B) Hardware infrastructure
+C) Software infrastructure
+D) Network infrastructure
+E) Virtualization infrastructure
++H) Network configurations
++H) Account management
+
+518
+Select AWS service which is used to manage all users, roles and groups in AWS Account:
++A) AWS IAM
+B) AWS CodeCommit
+C) AWS Trusted Advisor
+D) Amazon Inspector
+
+519
+Select available resources in AWS IAM service:
++A) IAM User
++B) IAM Group
++C) IAM Policy
++D) IAM Role
+E) IAM Service
+D) IAM Instance
+G) IAM Bucket
+H) IAM Console
+
+520
+Select available resource in AWS IAM service:
++A) IAM User
+E) IAM Service
+D) IAM Instance
+G) IAM Bucket
+H) IAM Console
+
+521
+Select available resource in AWS IAM service:
++B) IAM Group
+E) IAM Service
+D) IAM Instance
+G) IAM Bucket
+H) IAM Console
+
+522
+Select available resource in AWS IAM service:
++C) IAM Policy
+E) IAM Service
+D) IAM Instance
+G) IAM Bucket
+H) IAM Console
+
+523
+Select available resource in AWS IAM service:
++D) IAM Role
+E) IAM Service
+D) IAM Instance
+G) IAM Bucket
+H) IAM Console
+
+524
+Select available resources in AWS IAM service:
++A) IAM User
++B) IAM Group
+E) IAM Service
+D) IAM Instance
+G) IAM Bucket
+H) IAM Console
+
+525
+Select available resources in AWS IAM service:
++B) IAM Group
++C) IAM Policy
+E) IAM Service
+D) IAM Instance
+G) IAM Bucket
+H) IAM Console
+
+526
+Select available resources in AWS IAM service:
++C) IAM Policy
++D) IAM Role
+E) IAM Service
+D) IAM Instance
+G) IAM Bucket
+H) IAM Console
+
+527
+What is the feature of AWS Organizations that help you centrally manage access over several accounts grouped into OU?
++A) SCPs
+B) PCPs
+C) GCPs
+D) CCPs
+
+528
+What is the service that help you manage cryptographic keys in AWS?
++A) AWS KMS
+B) AWS Macie
+C) AWS IAM
+D) AWS Organizations
+E) Amazon Cognito
+
+529
+What is the service that sign up and sign in your application users in AWS?
+A) AWS KMS
+B) AWS Macie
+C) AWS IAM
+D) AWS Organizations
++E) Amazon Cognito
+
+530
+What is the managed service that protects infrastucture from DDoS attacks in AWS?
+A) AWS KMS
+B) AWS Macie
++C) AWS Shield
+D) AWS Organizations
+E) Amazon Cognito
+
+531
+What is the AWS service that helps to discover sensitive and personal information in your data?
+A) AWS KMS
++B) AWS Macie
+C) AWS Shield
+D) AWS Organizations
+E) AWS Config
+
+532
+What is the AWS service that helps to discover security vulnerabilities in your EC2 workloads?
+A) AWS KMS
++B) AWS Inspector
+C) AWS Shield
+D) AWS Organizations
+E) AWS GuardDuty
+
+533
+What is the AWS threat detection service that monitors entire AWS account and delivers detailed security findings?
+A) AWS KMS
+B) AWS Inspector
+C) AWS Shield
+D) AWS Organizations
++E) AWS GuardDuty
+
+
+
+
+

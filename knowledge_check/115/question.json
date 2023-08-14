@@ -1,0 +1,10 @@
+{
+  "text": "How many modules in AWS Cloud Practitioner course will be?",
+  "answers": [
+    {"text": "5"},
+    {"text": "10", "right_answer": true},
+    {"text": "15"},
+    {"text": "20"}
+  ],
+  "right_answers_count": 1
+}

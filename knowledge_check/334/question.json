@@ -1,0 +1,21 @@
+{
+    "text": "Select non-existing support plan:",
+    "answers": [
+        {
+            "text": "Basic Support"
+        },
+        {
+            "text": "Developer Support"
+        },
+        {
+            "text": "Business Support"
+        },
+        {
+            "text": "Enterprise Support"
+        },
+        {
+            "text": "Corporate Support",
+            "right_answer": true
+        }
+    ]
+}

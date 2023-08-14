@@ -1,0 +1,18 @@
+{
+    "text": "Select service that implements storage for EC2 instances that multiple virtual machines can access at the same time:",
+    "answers": [
+        {
+            "text": "Amazon EBS"
+        },
+        {
+            "text": "Amazon S3"
+        },
+        {
+            "text": "Amazon EFS",
+            "right_answer": true
+        },
+        {
+            "text": "Amazon S3 Glacier"
+        }
+    ]
+}

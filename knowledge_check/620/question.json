@@ -1,0 +1,22 @@
+{
+    "text": "Select AWS services or features that makes your instances in private subnet access the Internet and unaccessable from the Internet:",
+    "answers": [
+        {
+            "text": "Internet Gateway"
+        },
+        {
+            "text": "NAT Gateway",
+            "right_answer": true
+        },
+        {
+            "text": "NAT Instance",
+            "right_answer": true
+        },
+        {
+            "text": "VPC Sharing"
+        },
+        {
+            "text": "VPC Endpoints"
+        }
+    ]
+}

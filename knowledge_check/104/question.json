@@ -1,0 +1,10 @@
+{
+  "text": "What is TRUE about AWS Certified Cloud Practitioner Exam?",
+  "answers": [
+    {"text": "Exam format is a Test", "right_answer": true},
+    {"text": "You are given 90 mins to complete the test", "right_answer": true},
+    {"text": "There are 65 questions", "right_answer": true},
+    {"text": "There are only multiple choice questions"}
+  ],
+  "right_answers_count": 3
+}

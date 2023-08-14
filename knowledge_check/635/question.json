@@ -1,0 +1,28 @@
+{
+    "text": "Select Amazon Route 53 routing policies:",
+    "answers": [
+        {
+            "text": "Geolocation routing",
+            "right_answer": true
+        },
+        {
+            "text": "Geoproximity routing",
+            "right_answer": true
+        },
+        {
+            "text": "Basic routing"
+        },
+        {
+            "text": "Hard routing"
+        },
+        {
+            "text": "Soft routing"
+        },
+        {
+            "text": "GPS routing"
+        },
+        {
+            "text": "Active routing"
+        }
+    ]
+}

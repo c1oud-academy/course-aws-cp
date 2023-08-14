@@ -1,0 +1,18 @@
+{
+    "text": "What is the Content Delivery Network (CDN) service of AWS?",
+    "answers": [
+        {
+            "text": "AWS CloudFront",
+            "right_answer": true
+        },
+        {
+            "text": "AWS Organizations"
+        },
+        {
+            "text": "AWS IAM"
+        },
+        {
+            "text": "AWS Cost Explorer"
+        }
+    ]
+}

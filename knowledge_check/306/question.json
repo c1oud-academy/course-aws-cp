@@ -1,0 +1,18 @@
+{
+    "text": "Select option when you do NOT need to pay to AWS:",
+    "answers": [
+        {
+            "text": "Data upload to AWS",
+            "right_answer": true
+        },
+        {
+            "text": "Data download from AWS"
+        },
+        {
+            "text": "Cross-region data transfer"
+        },
+        {
+            "text": "Compute resources"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "AWS Lambda"
+        },
+        {
+            "right_answer": true,
+            "text": "AWS Elastic Beanstalk"
+        },
+        {
+            "text": "Amazon ECS"
+        },
+        {
+            "text": "Amazon EKS"
+        }
+    ],
+    "text": "Select platform as a service (or PaaS) that facilitates the quick deployment, scaling, and management of your web applications and services:"
+}

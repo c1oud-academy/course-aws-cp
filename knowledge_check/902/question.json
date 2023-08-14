@@ -1,0 +1,18 @@
+{
+    "answers": [
+        {
+            "text": "AWS Lambda"
+        },
+        {
+            "text": "Amazon ECR"
+        },
+        {
+            "text": "Amazon ECS"
+        },
+        {
+            "right_answer": true,
+            "text": "Amazon EKS"
+        }
+    ],
+    "text": "Select managed Kubernetes service that makes it easy for you to run Kubernetes on AWS:"
+}

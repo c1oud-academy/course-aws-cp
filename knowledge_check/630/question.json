@@ -1,0 +1,21 @@
+{
+    "text": "What is AWS Service that is DNS web service?",
+    "answers": [
+        {
+            "text": "Amazon Route 53",
+            "right_answer": true
+        },
+        {
+            "text": "Amazon VPC"
+        },
+        {
+            "text": "Amazon CloudFront"
+        },
+        {
+            "text": "AWS Transit Gateway"
+        },
+        {
+            "text": "AWS Direct Connect"
+        }
+    ]
+}

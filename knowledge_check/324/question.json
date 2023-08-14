@@ -1,0 +1,18 @@
+{
+    "text": "What is the name of AWS Service that helps to centrally manage other AWS Accounts?",
+    "answers": [
+        {
+            "text": "AWS Organizations",
+            "right_answer": true
+        },
+        {
+            "text": "AWS Departments"
+        },
+        {
+            "text": "AWS Accounts"
+        },
+        {
+            "text": "AWS Groups"
+        }
+    ]
+}
