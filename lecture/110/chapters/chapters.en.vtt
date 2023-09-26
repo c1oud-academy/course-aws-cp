@@ -1,0 +1,49 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:44.000
+Introduction
+
+00:00:44.000 --> 00:04:55.000
+Section 1 
+
+00:04:55.000 --> 00:08:58.000
+Challenges of relational databases
+
+00:08:58.000 --> 00:10:01.000
+DB Instance
+
+00:10:01.000 --> 00:15:54.000
+Amazon RDS read replicas
+
+00:15:54.000 --> 00:19:09.000
+Use/Do not use Amazon RDS
+
+00:19:09.000 --> 00:22:45.000
+Factors that influence the final cost of Amazon RDS
+
+00:22:45.000 --> 00:23:48.000
+Section 1 key takeaways
+
+00:23:48.000 --> 00:30:38.000
+Section 2
+
+00:30:40.000 --> 00:31:27.000
+Section 2 key takeaways
+
+00:31:29.000 --> 00:34:01.000
+Section 3
+ 
+00:34:01.000 --> 00:35:26.000
+Amazon Redshift use cases
+
+00:35:26.000 --> 00:36:23.000
+Section 3 key takeaways
+
+00:36:23.000 --> 00:40:37.000
+Section 4
+
+00:40:39.000 --> 00:43:37.271
+Section 4 key takeaways
+
+00:43:37.295 --> 00:44:32.000
+Module summary
