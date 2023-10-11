@@ -1,0 +1,43 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:55.600
+Introduction
+
+00:00:55.600 --> 00:02:43.680
+Section 1 
+
+00:02:43.680 --> 00:04:49.880
+Load Balancer types
+
+00:04:49.880 --> 00:06:36.000
+Load Balancer architecture example
+
+00:06:36.000 --> 00:10:18.560
+ELB use cases
+
+00:10:18.560 --> 00:11:23.680
+Load balancer monitoring
+
+00:11:23.680 --> 00:12:45.640
+Section 1 key takeaways
+
+00:12:45.640 --> 00:15:31.400
+Section 2
+
+00:15:31.400 --> 00:18:25.708
+CloudWatch Alarms
+
+00:18:25.732 --> 00:18:59.760
+Section 2 key takeaways
+
+00:18:59.760 --> 00:30:37.480
+Section 3
+ 
+00:30:37.480 --> 00:31:23.208
+AWS Auto Scaling
+
+00:31:23.232 --> 00:32:03.780
+Section 3 key takeaways
+
+00:32:03.804 --> 00:33:59.520
+Module summary
