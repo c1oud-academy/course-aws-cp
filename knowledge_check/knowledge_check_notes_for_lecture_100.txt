@@ -1,5 +1,5 @@
 1001
-Select service that provides persistent block storage volumes for use with Amazon EC2 instances:
+Select a service that offers persistent block storage volumes that can be used with Amazon EC2 instances:
 +A) Amazon EBS
 B) Amazon S3
 C) Amazon EFS
@@ -20,14 +20,14 @@ B) Provisioned IOPS
 +D) Cold
 
 1004
-Select EBS volume types that can be used as root volume:
+Select EBS volume types that can be used as a root volume:
 +A) General Purpose
 +B) Provisioned IOPS
 C) Throughput-Optimized
 D) Cold
 
 1005
-Select EBS volume types that can not be used as root volume:
+Select EBS volume types that can NOT be used as a root volume:
 A) General Purpose
 B) Provisioned IOPS
 +C) Throughput-Optimized
@@ -55,7 +55,7 @@ C) 1 GB
 D) 5 GB
 
 1009
-Select non-existing S3 storage class:
+Select NON-existing S3 storage class:
 A) Standard
 B) Intelligent-Tiering
 C) Standard-IA
@@ -65,7 +65,7 @@ F) Glacier Deep Archive
 +H) Intelligent-Standard
 
 1010
-Select non-existing S3 storage class:
+Select NON-existing S3 storage class:
 A) Standard
 B) Intelligent-Tiering
 C) Standard-IA
@@ -75,7 +75,7 @@ F) Glacier Deep Archive
 +H) One Region-IA
 
 1011
-Select non-existing S3 storage class:
+Select NON-existing S3 storage class:
 A) Standard
 B) Intelligent-Tiering
 C) Standard-IA
@@ -85,14 +85,14 @@ F) Glacier Deep Archive
 +H) Glacier Simple
 
 1012
-Select service that implements storage for EC2 instances that multiple virtual machines can access at the same time:
+Select a service that provides storage for EC2 instances accessible simultaneously by multiple virtual machines:
 A) Amazon EBS
 B) Amazon S3
 +C) Amazon EFS
 D) Amazon S3 Glacier
 
 1013
-Select service that archive data at an extremely low cost, but you cannot retrieve your data immediately when you want it:
+Select a service that stores archival data at a very low price, but does not allow for immediate data retrieval when needed:
 A) Amazon EBS
 B) Amazon S3
 C) Amazon EFS
@@ -104,4 +104,3 @@ A) 5 TB
 +B) 40 TB
 C) 40 GB
 D) 5 GB
-

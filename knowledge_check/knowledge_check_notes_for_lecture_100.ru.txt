@@ -1,0 +1,106 @@
+1001
+Выберите сервис, который предоставляет блочные носители для использования с Amazon EC2 инстансами:
++A) Amazon EBS
+B) Amazon S3
+C) Amazon EFS
+D) Amazon S3 Glacier
+
+1002
+Выберите типы томов EBS на основе SSD:
++A) General Purpose
++B) Provisioned IOPS
+C) Throughput-Optimized
+D) Cold
+
+1003
+Выберите типы томов EBS на основе HDD:
+A) General Purpose
+B) Provisioned IOPS
++C) Throughput-Optimized
++D) Cold
+
+1004
+Выберите типы томов EBS, которые могут быть использованы в качестве корневого тома:
++A) General Purpose
++B) Provisioned IOPS
+C) Throughput-Optimized
+D) Cold
+
+1005
+Выберите типы томов EBS, которые НЕ могут быть использованы в качестве корневого тома:
+A) General Purpose
+B) Provisioned IOPS
++C) Throughput-Optimized
++D) Cold
+
+1006
+Выберите сервис, предоставляющий объектное хранилище:
+A) Amazon EBS
++B) Amazon S3
+C) Amazon EFS
++D) Amazon S3 Glacier
+
+1007
+Какой уровень надежности предоставляет сервис Amazon S3?
++A) 11 девяток
+B) 12 девяток
+C) 9 девяток
+D) 10 девяток
+
+1008
+Какой максимальный допустимый размер файла в Amazon S3?
++A) 5 ТБ
+B) 1 ТБ
+C) 1 ГБ
+D) 5 ГБ
+
+1009
+Выберите НЕсуществующий класс хранения S3:
+A) Standard
+B) Intelligent-Tiering
+C) Standard-IA
+D) One Zone-IA
+E) Glacier
+F) Glacier Deep Archive
++H) Intelligent-Standard
+
+1010
+Выберите НЕсуществующий класс хранения S3:
+A) Standard
+B) Intelligent-Tiering
+C) Standard-IA
+D) One Zone-IA
+E) Glacier
+F) Glacier Deep Archive
++H) One Region-IA
+
+1011
+Выберите НЕсуществующий класс хранения S3:
+A) Standard
+B) Intelligent-Tiering
+C) Standard-IA
+D) One Zone-IA
+E) Glacier
+F) Glacier Deep Archive
++H) Glacier Simple
+
+1012
+Выберите сервис, который предоставляет хранилище для инстансов EC2, к которому одновременно могут обращаться несколько виртуальных машин:
+A) Amazon EBS
+B) Amazon S3
++C) Amazon EFS
+D) Amazon S3 Glacier
+
+1013
+Выберите сервис, который архивирует данные по очень низкой стоимости, но не позволяет мгновенно извлекать данные при необходимости:
+A) Amazon EBS
+B) Amazon S3
+C) Amazon EFS
++D) Amazon S3 Glacier
+
+1014
+Какой максимальный допустимый размер файла в Amazon S3 Glacier?
+A) 5 ТБ
++B) 40 ТБ
+C) 40 ГБ
+D) 5 ГБ

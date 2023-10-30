@@ -1,0 +1,371 @@
+601
+Дұрыс IPv4-адрестерді таңдаңыз:
++A) 123.123.123.123
++B) 10.0.0.1
+C) 300.0.0.10
++D) 192.0.0.1
+E) 10.0.0.0.10
+F) 10.0.0.256
+H) 2600:1f18:22ba:8c00:ba86:a05e:a5ba:00FF
+
+602
+Дұрыс IPv4-адрестерді таңдаңыз:
++A) 123.123.123.123
++B) 10.0.0.1
+C) 300.0.0.10
+E) 10.0.0.0.10
+F) 10.0.0.256
+H) 2600:1f18:22ba:8c00:ba86:a05e:a5ba:00FF
+
+603
+Дұрыс IPv4-адрестерді таңдаңыз:
++A) 123.123.123.123
+C) 300.0.0.10
++D) 192.0.0.1
+E) 10.0.0.0.10
+F) 10.0.0.256
+H) 2600:1f18:22ba:8c00:ba86:a05e:a5ba:00FF
+
+604
+Дұрыс IPv4-адрестерді таңдаңыз:
++B) 10.0.0.1
+C) 300.0.0.10
++D) 192.0.0.1
+E) 10.0.0.0.10
+F) 10.0.0.256
+H) 2600:1f18:22ba:8c00:ba86:a05e:a5ba:00FF
+
+605
+Дұрыс CIDR блоктарды таңдаңыз:
++A) 192.0.10.0/32
+A) 192.0.10.0/33
+A) 192.0.10.0/34
++A) 192.0.10.0/31
++A) 192.0.10.0/30
++A) 192.0.10.0/24
+
+606
+Дұрыс CIDR блоктарды таңдаңыз:
+A) 192.0.10.0/36
+A) 192.0.10.0/34
++A) 192.0.10.0/32
++A) 192.0.10.0/30
++A) 192.0.10.0/28
++A) 192.0.10.0/26
+
+607
+Келесі 10.0.0.0/32 CIDR блогында қанша IP-адрес бар?
++A) 1
+B) 2
+C) 3
+D) 4
+D) 5
+D) 6
+D) 7
+D) 8
+
+608
+Келесі 10.0.0.0/31 CIDR блогында қанша IP-адрес бар?
+A) 1
++B) 2
+C) 3
+D) 4
+D) 5
+D) 6
+D) 7
+D) 8
+
+609
+Келесі 10.0.0.0/30 CIDR блогында қанша IP-адрес бар?
+A) 1
+B) 2
+C) 3
++D) 4
+D) 5
+D) 6
+D) 7
+D) 8
+
+610
+Келесі 10.0.0.0/29 CIDR блогында қанша IP-адрес бар?
+A) 1
+B) 2
+C) 3
+D) 4
+D) 5
+D) 6
+D) 7
++D) 8
+
+611
+Келесі 10.0.0.0/28 CIDR блогында қанша IP-адрес бар?
+B) 2
+D) 4
+D) 8
++D) 16
+D) 32
+
+612
+Келесі 10.0.0.0/28 CIDR блогының диапазонында бар IP-адрестерді таңдаңыз:
++B) 10.0.0.0
++D) 10.0.0.1
++D) 10.0.0.2
+D) 10.0.1.0
++D) 10.0.0.9
+D) 10.0.0.28
+D) 10.0.0.27
++D) 10.0.0.15
+D) 10.0.0.16
+
+613
+10.0.0.10/32 CIDR блогына қандай IP-адрес сәйкес келеді?
+B) 10.0.0.0
+D) 10.0.0.1
+D) 10.0.1.0
++D) 10.0.0.10
+D) 10.0.0.32
+
+614
+OSI моделінде неше деңгей бар?
+A) 4
+A) 5
+A) 6
++A) 7
+A) 8
+
+615
+AWS кез келген CIDR блогында қанша IP-адрес сақтайды?
+A) 1
+A) 2
+A) 3
+A) 4
++A) 5
+
+616
+AWS жүйесінде 192.0.0.0/28 CIDR блогында пайдалану үшін қанша IP-адрес қолжетімді?
+A) 8
+A) 3
+A) 16
++A) 11
+A) 7
+
+617
+AWS жүйесінде 192.0.0.0/24 CIDR блогында пайдалану үшін қанша IP-адрес қолжетімді?
+A) 255
+A) 250
+A) 256
++A) 251
+A) 257
+
+618
+Жалпыға ортақ IP-адрестің қолжетімді түрлерін таңдаңыз:
+A) Дербес IP-адрес
+B) Жеке IP-адрес
++C) Жалпыға ортақ IP-адрес
+D) Ашық IP-адрес
++E) Elastic IP-адрес
+
+619
+Public subnet-тегі инстанстарыңызды Интернеттен және керісінше қол жетімді ететін AWS сервисін немесе функциясын таңдаңыз:
++A) Internet Gateway
+B) NAT Gateway
+C) NAT Instance
+D) VPC Sharing
+E) VPC Endpoints
+
+620
+Private subnet-тегі инстанстарыңызды Интернетке қолжеткізе алатын, бірақ Интернеттен қолжетімсіз AWS сервистерін немесе функцияларын таңдаңыз:
+A) Internet Gateway
++B) NAT Gateway
++C) NAT Instance
+D) VPC Sharing
+E) VPC Endpoints
+
+621
+VPC ішіндегі сабнеттерге қолжетімділікті басқа AWS аккаунтындағы VPC-лармен бөлісуге көмектесетін AWS сервисін немесе функциясын таңдаңыз:
+A) Internet Gateway
+B) NAT Gateway
+C) NAT Instance
++D) VPC Sharing
+E) VPC Endpoints
+
+622
+Қандай AWS сервисі немесе функциясы екі VPC-ді бір-бірімен байланыстырады?
+A) Internet Gateway
+B) NAT Gateway
+C) NAT Instance
++D) VPC peering
+E) VPC Endpoints
+
+623
+Қандай AWS сервисі немесе функциясы жергілікті кеңсеңізді арнайы интернет қосылымы бар бұлттық инфрақұрылыммен байланыстыруға көмектеседі?
+A) AWS Direct Connect
+B) AWS Transit Gateway
+C) NAT Instance
++D) VPC Site-to-Site VPN
+E) VPC Endpoints
+
+624
+Қандай AWS сервисі немесе функциясы жаһандық AWS инфрақұрылымына тікелей қосылу арқылы жергілікті кеңсеңізді бұлттық инфрақұрылыммен байланыстыруға көмектеседі?
++A) AWS Direct Connect
+B) AWS Transit Gateway
+C) NAT Instance
+D) VPC Site-to-Site VPN
+E) VPC Endpoints
+
+625
+Қандай AWS сервисі немесе функциясы VPC-ді VPC-ден тыс орналасқан AWS сервистерімен байланыстыруға көмектеседі?
+A) AWS Direct Connect
+B) AWS Transit Gateway
+C) NAT Instance
+D) VPC Site-to-Site VPN
++E) VPC Endpoints
+
+626
+Қандай AWS сервисі немесе функциясы көптеген VPC-ді «hub-and-spoke» құрылымында байланыстырады?
+A) AWS Direct Connect
++B) AWS Transit Gateway
+C) NAT Instance
+D) VPC Site-to-Site VPN
+E) VPC Endpoints
+
+627
+Security group қандай деңгейде әрекет етеді?
++A) инстанс деңгейінде 
+B) сабнет деңгейінде 
+C) VPC деңгейінде 
+D) Availability Zone деңгейінде 
+E) аймақ деңгейінде 
+
+628
+Network ACL қандай деңгейде әрекет етеді? 
+A) инстанс деңгейінде 
++B) сабнет деңгейінде 
+C) VPC деңгейінде 
+D) Availability Zone деңгейінде 
+E) аймақ деңгейінде
+
+629
+Дұрыс тұжырымдарды таңдаңыз:
++A) Security Group stateful болып табылады (күйді сақтайтын)
+A) Security Group stateless болып табылады (күйді сақтамайтын)
+A) Network ACL stateful болып табылады (күйді сақтайтын)
++A) Network ACL stateless болып табылады (күйді сақтамайтын)
+
+630
+Қандай AWS сервисі DNS веб-сервисі болып табылады?
++A) Amazon Route 53
+B) Amazon VPC
+C) Amazon CloudFront
+C) AWS Transit Gateway
+C) AWS Direct Connect
+
+631
+Қандай AWS сервисі CDN сервисі болып табылады?
+A) Amazon Route 53
+B) Amazon VPC
++C) Amazon CloudFront
+C) AWS Transit Gateway
+C) AWS Direct Connect
+
+632
+Қолжетімді Amazon Route 53 бағыттау саясаттарын таңдаңыз:
++A) Simple routing
++B) Weighted round robin routing
+A) Basic routing
+A) Hard routing
+A) Soft routing
+A) GPS routing
+A) Active routing
+
+633
+Қолжетімді Amazon Route 53 бағыттау саясаттарын таңдаңыз:
++B) Weighted round robin routing
++C) Latency routing
+A) Basic routing
+A) Hard routing
+A) Soft routing
+A) GPS routing
+A) Active routing
+
+634
+Қолжетімді Amazon Route 53 бағыттау саясаттарын таңдаңыз:
++C) Latency routing
++D) Geolocation routing
+A) Basic routing
+A) Hard routing
+A) Soft routing
+A) GPS routing
+A) Active routing
+
+635
+Қолжетімді Amazon Route 53 бағыттау саясаттарын таңдаңыз:
++D) Geolocation routing
++E) Geoproximity routing
+A) Basic routing
+A) Hard routing
+A) Soft routing
+A) GPS routing
+A) Active routing
+
+636
+Қолжетімді Amazon Route 53 бағыттау саясаттарын таңдаңыз:
++E) Geoproximity routing
++E) Failover routing
+A) Basic routing
+A) Hard routing
+A) Soft routing
+A) GPS routing
+A) Active routing
+
+637
+Қолжетімді Amazon Route 53 бағыттау саясаттарын таңдаңыз:
++E) Failover routing
++E) Multivalue answer routing
+A) Basic routing
+A) Hard routing
+A) Soft routing
+A) GPS routing
+A) Active routing
+
+638
+Қолжетімді Amazon Route 53 бағыттау саясаттарын таңдаңыз:
++A) Simple routing
++C) Latency routing
++E) Geoproximity routing
++E) Multivalue answer routing
+A) Basic routing
+A) Hard routing
+A) Soft routing
+A) GPS routing
+A) Active routing
+
+639
+Қолжетімді Amazon Route 53 бағыттау саясаттарын таңдаңыз:
++B) Weighted round robin routing
++D) Geolocation routing
++E) Failover routing
+A) Basic routing
+A) Hard routing
+A) Soft routing
+A) GPS routing
+A) Active routing
+
+640
+Қолжетімді Amazon Route 53 бағыттау саясаттарын таңдаңыз:
++A) Simple routing
++C) Latency routing
++E) Failover routing
+A) Basic routing
+A) Hard routing
+A) Soft routing
+A) GPS routing
+A) Active routing
+
+641
+Amazon CloudFront инфрақұрылымының қандай құрамдас бөліктері бар?
+A) Region
+A) Availability Zone
++A) Edge locations
++A) Regional edge cache
+A) Data centers

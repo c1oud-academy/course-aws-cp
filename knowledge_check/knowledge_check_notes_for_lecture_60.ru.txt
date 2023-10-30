@@ -1,0 +1,371 @@
+601
+Выберите валидные IPv4-адреса:
++A) 123.123.123.123
++B) 10.0.0.1
+C) 300.0.0.10
++D) 192.0.0.1
+E) 10.0.0.0.10
+F) 10.0.0.256
+H) 2600:1f18:22ba:8c00:ba86:a05e:a5ba:00FF
+
+602
+Выберите валидные IPv4-адреса:
++A) 123.123.123.123
++B) 10.0.0.1
+C) 300.0.0.10
+E) 10.0.0.0.10
+F) 10.0.0.256
+H) 2600:1f18:22ba:8c00:ba86:a05e:a5ba:00FF
+
+603
+Выберите валидные IPv4-адреса:
++A) 123.123.123.123
+C) 300.0.0.10
++D) 192.0.0.1
+E) 10.0.0.0.10
+F) 10.0.0.256
+H) 2600:1f18:22ba:8c00:ba86:a05e:a5ba:00FF
+
+604
+Выберите валидные IPv4-адреса:
++B) 10.0.0.1
+C) 300.0.0.10
++D) 192.0.0.1
+E) 10.0.0.0.10
+F) 10.0.0.256
+H) 2600:1f18:22ba:8c00:ba86:a05e:a5ba:00FF
+
+605
+Выберите валидные CIDR блоки:
++A) 192.0.10.0/32
+A) 192.0.10.0/33
+A) 192.0.10.0/34
++A) 192.0.10.0/31
++A) 192.0.10.0/30
++A) 192.0.10.0/24
+
+606
+Выберите валидные CIDR блоки:
+A) 192.0.10.0/36
+A) 192.0.10.0/34
++A) 192.0.10.0/32
++A) 192.0.10.0/30
++A) 192.0.10.0/28
++A) 192.0.10.0/26
+
+607
+Сколько IP-адресов содержится в следующем CIDR блоке 10.0.0.0/32?
++A) 1
+B) 2
+C) 3
+D) 4
+D) 5
+D) 6
+D) 7
+D) 8
+
+608
+Сколько IP-адресов содержится в следующем CIDR блоке 10.0.0.0/31?
+A) 1
++B) 2
+C) 3
+D) 4
+D) 5
+D) 6
+D) 7
+D) 8
+
+609
+Сколько IP-адресов содержится в следующем CIDR блоке 10.0.0.0/30?
+A) 1
+B) 2
+C) 3
++D) 4
+D) 5
+D) 6
+D) 7
+D) 8
+
+610
+Сколько IP-адресов содержится в следующем CIDR блоке  10.0.0.0/29?
+A) 1
+B) 2
+C) 3
+D) 4
+D) 5
+D) 6
+D) 7
++D) 8
+
+611
+Сколько IP-адресов содержится в следующем CIDR блоке  10.0.0.0/28?
+B) 2
+D) 4
+D) 8
++D) 16
+D) 32
+
+612
+Выберите IP-адреса в диапазоне следующего CIDR блока 10.0.0.0/28?
++B) 10.0.0.0
++D) 10.0.0.1
++D) 10.0.0.2
+D) 10.0.1.0
++D) 10.0.0.9
+D) 10.0.0.28
+D) 10.0.0.27
++D) 10.0.0.15
+D) 10.0.0.16
+
+613
+Какой IP-адрес соответствует CIDR блоку 10.0.0.10/32?
+B) 10.0.0.0
+D) 10.0.0.1
+D) 10.0.1.0
++D) 10.0.0.10
+D) 10.0.0.32
+
+614
+Сколько уровней есть в модели OSI?
+A) 4
+A) 5
+A) 6
++A) 7
+A) 8
+
+615
+Сколько IP-адресов резервирует AWS в любом CIDR блоке?
+A) 1
+A) 2
+A) 3
+A) 4
++A) 5
+
+616
+Сколько IP-адресов доступно для вашего использования в CIDR блоке 192.0.0.0/28 в AWS?
+A) 8
+A) 3
+A) 16
++A) 11
+A) 7
+
+617
+Сколько IP-адресов доступно для вашего использования в CIDR блоке 192.0.0.0/24 в AWS?
+A) 255
+A) 250
+A) 256
++A) 251
+A) 257
+
+618
+Выберите доступные типы публичных IP-адресов:
+A) Частный IP-адрес
+B) Личный IP-адрес
++C) Публичный IP-адрес
+D) Открытый IP-адрес
++E) Elastic IP-адрес
+
+619
+Выберите сервис или функцию AWS, которая делает ваши инстансы в public subnet-е доступными из интернета и наоборот:
++A) Internet Gateway
+B) NAT Gateway
+C) NAT Instance
+D) VPC Sharing
+E) VPC Endpoints
+
+620
+Выберите сервисы или функции AWS, которые позволяют вашим инстансам в private subnet-е получать доступ к Интернету и в то же время оставаться недоступными из Интернета:
+A) Internet Gateway
++B) NAT Gateway
++C) NAT Instance
+D) VPC Sharing
+E) VPC Endpoints
+
+621
+Выберите сервис или функцию AWS, которая помогает выдать совместный доступ к сабнетам в вашей VPC для VPC из других аккаунтов AWS:
+A) Internet Gateway
+B) NAT Gateway
+C) NAT Instance
++D) VPC Sharing
+E) VPC Endpoints
+
+622
+Какой сервис или функция AWS соединяет две VPC между собой?
+A) Internet Gateway
+B) NAT Gateway
+C) NAT Instance
++D) VPC peering
+E) VPC Endpoints
+
+623
+Какой сервис или функция AWS помогает соединить локальный офис с облачной инфраструктурой с выделенным подключением через Интернет?
+A) AWS Direct Connect
+B) AWS Transit Gateway
+C) NAT Instance
++D) VPC Site-to-Site VPN
+E) VPC Endpoints
+
+624
+Какой сервис или функция AWS помогает соединить локальный офис с облачной инфраструктурой через прямое подключение к глобальной инфраструктуре AWS?
++A) AWS Direct Connect
+B) AWS Transit Gateway
+C) NAT Instance
+D) VPC Site-to-Site VPN
+E) VPC Endpoints
+
+625
+Какой сервис или функция AWS помогает соединить VPC с сервисами AWS, которые находятся вне VPC?
+A) AWS Direct Connect
+B) AWS Transit Gateway
+C) NAT Instance
+D) VPC Site-to-Site VPN
++E) VPC Endpoints
+
+626
+Какой сервис или функция AWS соединяет множество VPC в структуре типа "луч-концентратор" ("hub-and-spoke")?
+A) AWS Direct Connect
++B) AWS Transit Gateway
+C) NAT Instance
+D) VPC Site-to-Site VPN
+E) VPC Endpoints
+
+627
+На каком уровне действует security group?
++A) на уровне инстанса
+B) на уровне сабнета
+C) на уровне VPC
+D) на уровне зон доступности (Availability Zone)
+E) на уровне региона
+
+628
+На каком уровне действует Network ACL? 
+A) на уровне инстанса
++B) на уровне сабнета
+C) на уровне VPC
+D) на уровне зон доступности (Availability Zone)
+E) на уровне региона
+
+629
+Выберите верные утверждения:
++A) Security Group является stateful (сохраняющий состояние)
+A) Security Group является stateless (без сохранения состояния)
+A) Network ACL является stateful (сохраняющий состояние)
++A) Network ACL является stateless (без сохранения состояния)
+
+630
+Какой сервис AWS является веб-сервисом DNS?
++A) Amazon Route 53
+B) Amazon VPC
+C) Amazon CloudFront
+C) AWS Transit Gateway
+C) AWS Direct Connect
+
+631
+Какой сервис AWS является сервисом CDN?
+A) Amazon Route 53
+B) Amazon VPC
++C) Amazon CloudFront
+C) AWS Transit Gateway
+C) AWS Direct Connect
+
+632
+Выберите валидные политики маршрутизации Amazon Route 53:
++A) Simple routing
++B) Weighted round robin routing
+A) Basic routing
+A) Hard routing
+A) Soft routing
+A) GPS routing
+A) Active routing
+
+633
+Выберите валидные политики маршрутизации Amazon Route 53:
++B) Weighted round robin routing
++C) Latency routing
+A) Basic routing
+A) Hard routing
+A) Soft routing
+A) GPS routing
+A) Active routing
+
+634
+Выберите валидные политики маршрутизации Amazon Route 53:
++C) Latency routing
++D) Geolocation routing
+A) Basic routing
+A) Hard routing
+A) Soft routing
+A) GPS routing
+A) Active routing
+
+635
+Выберите валидные политики маршрутизации Amazon Route 53:
++D) Geolocation routing
++E) Geoproximity routing
+A) Basic routing
+A) Hard routing
+A) Soft routing
+A) GPS routing
+A) Active routing
+
+636
+Выберите валидные политики маршрутизации Amazon Route 53:
++E) Geoproximity routing
++E) Failover routing
+A) Basic routing
+A) Hard routing
+A) Soft routing
+A) GPS routing
+A) Active routing
+
+637
+Выберите валидные политики маршрутизации Amazon Route 53:
++E) Failover routing
++E) Multivalue answer routing
+A) Basic routing
+A) Hard routing
+A) Soft routing
+A) GPS routing
+A) Active routing
+
+638
+Выберите валидные политики маршрутизации Amazon Route 53:
++A) Simple routing
++C) Latency routing
++E) Geoproximity routing
++E) Multivalue answer routing
+A) Basic routing
+A) Hard routing
+A) Soft routing
+A) GPS routing
+A) Active routing
+
+639
+Выберите валидные политики маршрутизации Amazon Route 53:
++B) Weighted round robin routing
++D) Geolocation routing
++E) Failover routing
+A) Basic routing
+A) Hard routing
+A) Soft routing
+A) GPS routing
+A) Active routing
+
+640
+Выберите валидные политики маршрутизации Amazon Route 53:
++A) Simple routing
++C) Latency routing
++E) Failover routing
+A) Basic routing
+A) Hard routing
+A) Soft routing
+A) GPS routing
+A) Active routing
+
+641
+Какие компоненты относятся к инфраструктуре Amazon CloudFront?
+A) Region
+A) Availability Zone
++A) Edge locations
++A) Regional edge cache
+A) Data centers

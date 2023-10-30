@@ -1,0 +1,429 @@
+Біліміңізді тексеруге арналған сұрақтар #40
+
+400
+AWS аймағын таңдау үшін негізгі факторларды көрсетіңіз:
++A) Деректерді басқару, заң талаптары
++B) Клиенттерге жақындық (кідіріс)
++C) AWS сервистерінің қолжетімділігі
++D) Шығындар
+E) Соңғы пайдаланушылардың құрылғылары
+F) Соңғы пайдаланушылардың браузерлері
+G) Соңғы пайдаланушылардың құрылғыларының операциялық жүйесі
+H) Аудитория жасы
+
+401
+AWS аймағын таңдау үшін негізгі факторларды көрсетіңіз:
++A) Деректерді басқару, заң талаптары
++B) Клиенттерге жақындық (кідіріс)
++C) AWS сервистерінің қолжетімділігі
+E) Соңғы пайдаланушылардың құрылғылары
+F) Соңғы пайдаланушылардың браузерлері
+G) Соңғы пайдаланушылардың құрылғыларының операциялық жүйесі
+H) Аудитория жасы
+
+402
+AWS аймағын таңдау үшін негізгі факторларды көрсетіңіз:
++A) Деректерді басқару, заң талаптары
++C) AWS сервистерінің қолжетімділігі
++D) Шығындар
+E) Соңғы пайдаланушылардың құрылғылары
+F) Соңғы пайдаланушылардың браузерлері
+G) Соңғы пайдаланушылардың құрылғыларының операциялық жүйесі
+H) Аудитория жасы
+
+403
+AWS аймағын таңдау үшін негізгі факторларды көрсетіңіз:
++A) Деректерді басқару, заң талаптары
++B) Клиенттерге жақындық (кідіріс)
++D) Шығындар
+E) Соңғы пайдаланушылардың құрылғылары
+F) Соңғы пайдаланушылардың браузерлері
+G) Соңғы пайдаланушылардың құрылғыларының операциялық жүйесі
+H) Аудитория жасы
+
+404
+AWS аймағын таңдау үшін негізгі факторларды көрсетіңіз:
++A) Деректерді басқару, заң талаптары
++B) Клиенттерге жақындық (кідіріс)
++C) AWS сервистерінің қолжетімділігі
+E) Соңғы пайдаланушылардың құрылғылары
+F) Соңғы пайдаланушылардың браузерлері
+G) Соңғы пайдаланушылардың құрылғыларының операциялық жүйесі
+H) Аудитория жасы
+
+405
+AWS аймағын таңдау үшін негізгі ЕМЕС факторды көрсетіңіз:
+A) Деректерді басқару, заң талаптары
+B) Клиенттерге жақындық (кідіріс)
+C) AWS сервистерінің қолжетімділігі
+D) Шығындар
++E) Соңғы пайдаланушылардың құрылғылары
+
+406
+AWS аймағын таңдау үшін негізгі ЕМЕС факторды көрсетіңіз:
+A) Деректерді басқару, заң талаптары
+B) Клиенттерге жақындық (кідіріс)
+C) AWS сервистерінің қолжетімділігі
+D) Шығындар
++F) Соңғы пайдаланушылардың браузерлері
+
+407
+AWS аймағын таңдау үшін негізгі ЕМЕС факторды көрсетіңіз:
+A) Деректерді басқару, заң талаптары
+B) Клиенттерге жақындық (кідіріс)
+C) AWS сервистерінің қолжетімділігі
+D) Шығындар
++G) Соңғы пайдаланушылардың құрылғыларының операциялық жүйесі
+
+408
+AWS аймағын таңдау үшін негізгі ЕМЕС факторды көрсетіңіз:
+A) Деректерді басқару, заң талаптары
+B) Клиенттерге жақындық (кідіріс)
+C) AWS сервистерінің қолжетімділігі
+D) Шығындар
++H) Аудитория жасы
+
+409
+AWS аймағындағы қолжетімділік аймақтарының (Availability Zones) ең аз саны қанша?
+A) 1
++A) 2
+A) 3
+A) 4
+A) 5
+
+410
+AWS Availability Zone-да әдетте болатын дата-центрлердің ең аз саны қанша?
+A) 1
++A) 2
+A) 3
+A) 4
+A) 5
+
+411
+Қандай AWS сервисі Content Delivery Network (CDN) болып табылады?
++A) AWS CloudFront
+B) AWS Organizations
+C) AWS IAM
+D) AWS Cost Explorer
+
+412
+Деректерді объект ретінде сақтау үшін қандай AWS сервисі пайдаланылады?
++A) Amazon S3
+B) Amazon EBS
+C) Amazon EFS
+D) Amazon S3 Glacier
+
+413
+Мұрағат деректерді үнемді сақтау үшін қандай AWS сервисі пайдаланылады?
+A) Amazon S3
+B) Amazon EBS
+C) Amazon EFS
++D) Amazon S3 Glacier
+
+414
+Деректерді блоктар түрінде сақтау және бұлтта файлдық жүйені ұсыну үшін қандай AWS сервисі пайдаланылады?
+A) Amazon S3
++B) Amazon EBS
+C) Amazon EFS
+D) Amazon S3 Glacier
+
+415
+Қандай AWS сервисі бұлтта ортақ пайдалану үшін файлдық жүйені қамтамасыз етеді?
+A) Amazon S3
+B) Amazon EBS
++C) Amazon EFS
+D) Amazon S3 Glacier
+
+416
+Қандай AWS сервисі деректерді сақтау сервистері тобына жатпайды?
+A) Amazon S3
+B) Amazon EBS
+C) Amazon EFS
+D) Amazon S3 Glacier
++E) Amazon EKS
+
+417
+Виртуалды серверлерді қамтамасыз ететін негізгі AWS сервисі қандай?
++A) Amazon EC2
+B) Amazon EC2 Auto Scaling
+C) Amazon ECS
+D) Amazon ECR
+E) AWS Elastic Beanstalk
+F) AWS Lambda
+G) Amazon EKS
+H) AWS Fargate
+
+418
+EC2 инстанстары үшін автомасштабтауды баптайтын қандай AWS сервисі пайдаланылады?
+A) Amazon EC2
++B) Amazon EC2 Auto Scaling
+C) Amazon ECS
+D) Amazon ECR
+E) AWS Elastic Beanstalk
+F) AWS Lambda
+G) Amazon EKS
+H) AWS Fargate
+
+419
+Контейнерлерді басқару үшін қандай AWS сервисі қолданылады?
+A) Amazon EC2
+B) Amazon EC2 Auto Scaling
++C) Amazon ECS
+D) Amazon ECR
+E) AWS Elastic Beanstalk
+F) AWS Lambda
+G) Amazon EKS
+H) AWS Fargate
+
+420
+Қандай AWS сервисі контейнерлер тізілімі ретінде әрекет етеді?
+A) Amazon EC2
+B) Amazon EC2 Auto Scaling
+C) Amazon ECS
++D) Amazon ECR
+E) AWS Elastic Beanstalk
+F) AWS Lambda
+G) Amazon EKS
+H) AWS Fargate
+
+421
+Қай AWS сервисі Function as a Service (FaaS) ретінде ұсынылады?
+A) Amazon EC2
+B) Amazon EC2 Auto Scaling
+C) Amazon ECS
+D) Amazon ECR
+E) AWS Elastic Beanstalk
++F) AWS Lambda
+G) Amazon EKS
+H) AWS Fargate
+
+422
+Қандай AWS сервисі Kubernetes жұмыс жүктемелерін басқаруға көмектеседі?
+A) Amazon EC2
+B) Amazon EC2 Auto Scaling
+C) Amazon ECS
+D) Amazon ECR
+E) AWS Elastic Beanstalk
+F) AWS Lambda
++G) Amazon EKS
+H) AWS Fargate
+
+423
+Қандай AWS сервисі серверлерді басқарусыз қосымшаларды әзірлеуге назар аударуға мүмкіндік беретін серверсіз, пайдаланғаны үшін ғана төлейтін (pay-as-you-go) есептеу ресурсы болып табылады?
+A) Amazon EC2
+B) Amazon EC2 Auto Scaling
+C) Amazon ECS
+D) Amazon ECR
+E) AWS Elastic Beanstalk
+F) AWS Lambda
+G) Amazon EKS
++H) AWS Fargate
+
+424
+Қандай AWS сервисі Есептеу сервистері тобына жатпайды?
+A) Amazon EC2
+C) Amazon ECS
+D) Amazon ECR
+F) AWS Lambda
++E) Amazon EBS
+
+425
+Қай AWS сервисі дерекқор сервистері тобына жатпайды?
+A) Amazon RDS
+C) Amazon Aurora
+D) Amazon Redshift
+F) AWS DynamoDB
++E) Amazon EC2
+
+426
+Oracle RDBMS инстансын қамтамасыз ету үшін қандай AWS сервисі пайдаланылады?
++A) Amazon RDS
+C) Amazon Aurora
+D) Amazon Redshift
+F) AWS DynamoDB
+
+427
+SQL Server RDBMS инстансын қамтамасыз ету үшін қандай AWS сервисі пайдаланылады?
++A) Amazon RDS
+C) Amazon Aurora
+D) Amazon Redshift
+F) AWS DynamoDB
+
+428
+MySQL немесе PostgreSQL қозғалтқышына негізделген RDBMS инстансын қамтамасыз ету үшін қандай AWS in-house сервисі пайдаланылады?
+A) Amazon RDS
++C) Amazon Aurora
+D) Amazon Redshift
+F) AWS DynamoDB
+
+429
+Қандай AWS сервисі аналитикалық есептеулер үшін деректерді сақтауды қамтамасыз ету үшін пайдаланылады?
+A) Amazon RDS
+C) Amazon Aurora
++D) Amazon Redshift
+F) AWS DynamoDB
+
+430
+NoSQL DB инстансын қамтамасыз ету үшін қандай AWS in-house және серверсіз сервисі пайдаланылады?
+A) Amazon RDS
+C) Amazon Aurora
+D) Amazon Redshift
++F) AWS DynamoDB
+
+431
+Қандай AWS сервисі бұлтта жеке немесе жергілікті желіні жасауға көмектеседі?
++A) Amazon VPC
+B) Elastic Load Balancing
+C) Amazon CloudFront
+D) AWS Transit Gateway
+E) Amazon Route 53
+F) AWS Direct Connect
+G) AWS VPN
+
+432
+Қандай AWS сервисі EC2 инстанстары үшін жүктемені теңестіруді баптауға көмектеседі?
+A) Amazon VPC
++B) Elastic Load Balancing
+C) Amazon CloudFront
+D) AWS Transit Gateway
+E) Amazon Route 53
+F) AWS Direct Connect
+G) AWS VPN
+
+433
+Қандай AWS сервисі AWS Content Delivery Network (CDN) пайдалануға көмектеседі?
+A) Amazon VPC
+B) Elastic Load Balancing
++C) Amazon CloudFront
+D) AWS Transit Gateway
+E) Amazon Route 53
+F) AWS Direct Connect
+G) AWS VPN
+
+434
+Жергілікті инфрақұрылым мен бұлт арасында байланыс орнатуға мүмкіндік беретін сервистерді таңдаңыз:
+A) Amazon VPC
+B) Elastic Load Balancing
+C) Amazon CloudFront
++D) AWS Transit Gateway
+E) Amazon Route 53
++F) AWS Direct Connect
++G) AWS VPN
+
+435
+Қандай AWS сервисі домендік атаулар жүйесі (DNS) болып табылады?
+A) Amazon VPC
+B) Elastic Load Balancing
+C) Amazon CloudFront
+D) AWS Transit Gateway
++E) Amazon Route 53
+F) AWS Direct Connect
+G) AWS VPN
+
+436
+Қандай AWS сервисі пайдаланушыларды, топтарды, рөлдерді және қолжеткізу құқықтарын жасауға және басқаруға көмектеседі?
++A) AWS IAM
+C) AWS Organizations
+D) Amazon Cognito
+F) AWS Artifact
+E) AWS Key Management Service
+F) AWS Shield
+
+437
+Қандай AWS сервисі AWS аккаунттарын орталықтан басқаруға көмектеседі?
+A) AWS IAM
++C) AWS Organizations
+D) Amazon Cognito
+F) AWS Artifact
+E) AWS Key Management Service
+F) AWS Shield
+
+438
+Қандай AWS сервисі веб және мобильді қосымшаларыңыз үшін пайдаланушыны тіркеуді, жүйеге кіруді және кіруді басқаруды қолдайды?
+A) AWS IAM
+C) AWS Organizations
++D) Amazon Cognito
+F) AWS Artifact
+E) AWS Key Management Service
+F) AWS Shield
+
+439
+AWS сәйкестік есептеріне жылдам қол жеткізу үшін тегін өзіне-өзі қызмет көрсету порталын көрсетіңіз:
+A) AWS IAM
+C) AWS Organizations
+D) Amazon Cognito
++F) AWS Artifact
+E) AWS Key Management Service
+F) AWS Shield
+
+440
+Қандай AWS сервисі криптографиялық кілттерді жасауға және басқаруға мүмкіндік береді?
+A) AWS IAM
+C) AWS Organizations
+D) Amazon Cognito
+F) AWS Artifact
++E) AWS Key Management Service
+F) AWS Shield
+
+441
+Қандай AWS басқарылатын сервисі DDoS шабуылдарынан қорғауға арналған?
+A) AWS IAM
+C) AWS Organizations
+D) Amazon Cognito
+F) AWS Artifact
+E) AWS Key Management Service
++F) AWS Shield
+
+442
+Қандай AWS сервисі инфрақұрылым ресурстарындағы барлық өзгерістерді бақылауға жауапты?
++A) AWS Config
+B) Amazon CloudWatch
+C) AWS Auto Scaling
+D) AWS Trusted Advisor
+E) AWS Well-Architected Tool
+F) AWS CloudTrail
+
+443
+Қандай AWS сервисі қосымшаңыз жасаған барлық көрсеткіштер мен журналдарды жинақтайды?
+A) AWS Config
++B) Amazon CloudWatch
+C) AWS Auto Scaling
+D) AWS Trusted Advisor
+E) AWS Well-Architected Tool
+F) AWS CloudTrail
+
+444
+Қандай AWS сервисі әртүрлі сервистер үшін масштабтау функциясын орнатуға көмектеседі?
+A) AWS Config
+B) Amazon CloudWatch
++C) AWS Auto Scaling
+D) AWS Trusted Advisor
+E) AWS Well-Architected Tool
+F) AWS CloudTrail
+
+445
+Қандай AWS сервисі AWS ең жақсы тәжірибелері бойынша нұсқаулық береді?
+A) AWS Config
+B) Amazon CloudWatch
+C) AWS Auto Scaling
++D) AWS Trusted Advisor
+E) AWS Well-Architected Tool
+F) AWS CloudTrail
+
+446
+Қандай AWS сервисі AWS архитектуралық ең жақсы тәжірибелері мен нұсқауларын орындау бойынша нұсқаулар береді?
+A) AWS Config
+B) Amazon CloudWatch
+C) AWS Auto Scaling
+D) AWS Trusted Advisor
++E) AWS Well-Architected Tool
+F) AWS CloudTrail
+
+447
+Қай AWS сервисі барлық AWS API қоңырауларын жинақтап, ұшақтардағы "қара жәшікке" ұқсас функцияларды орындайды?
+A) AWS Config
+B) Amazon CloudWatch
+C) AWS Auto Scaling
+D) AWS Trusted Advisor
+E) AWS Well-Architected Tool
++F) AWS CloudTrail

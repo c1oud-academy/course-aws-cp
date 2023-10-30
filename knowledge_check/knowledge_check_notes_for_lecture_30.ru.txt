@@ -1,0 +1,295 @@
+Вопросы для проверки знаний #30
+
+300
+Выберите основные факторы, влияющие на расходы в AWS:
++A) Вычисление
++B) Хранение
++C) Передача данных
+D) Сервис
+E) Блок
+F) Драйвер
+
+301
+Выберите основные факторы, влияющие на расходы в AWS:
++B) Хранение
++C) Передача данных
+D) Сервис
+E) Блок
+F) Драйвер
+
+302
+Выберите основные факторы, влияющие на расходы в AWS:
++A) Вычисление
++C) Передача данных
+D) Сервис
+E) Блок
+F) Драйвер
+
+303
+Выберите основные факторы, влияющие на расходы в AWS:
++A) Вычисление
++B) Хранение
+D) Сервис
+E) Блок
+F) Драйвер
+
+304
+Выберите вариант, который НЕ является одним из основных факторов, влияющих на расходы в AWS:
+A) Вычисление
+B) Хранение
+C) Передача данных
++D) Сервис
+
+305
+Выберите варианты, в которых оплата AWS НЕ является необходимой:
++A) Загрузка данных в AWS
+B) Выгрузка данных из AWS
+C) Передача данных между регионами
++D) Передача данных на уровне региона
+E) Вычислительные ресурсы
+
+306
+Выберите вариант, в котором оплата AWS НЕ является необходимой:
++A) Загрузка данных в AWS
+B) Выгрузка данных из AWS
+C) Передача данных между регионами
+E) Вычислительные ресурсы
+
+307
+Выберите вариант, в котором оплата AWS НЕ является необходимой:
+B) Выгрузка данных из AWS
+C) Передача данных между регионами
++D) Передача данных на уровне региона
+E) Вычислительные ресурсы
+
+308
+Выберите варианты, в которых оплата AWS является необходимой:
+A) Загрузка данных в AWS
++B) Выгрузка данных из AWS
++C) Передача данных между регионами
+D) Передача данных на уровне региона
++E) Вычислительные ресурсы
+
+309
+Что такое ценообразование "pay-as-you-go"?
+A) Платите только за то, что вам нужно
++B) Платите только за то, что вы использовали
+C) Платите перед началом использования
+D) Нет необходимости платить
+
+310
+Выберите доступные модели оплаты Reserved Instances (RI):
++A) AURI
+B) BURI
+C) FURI
++D) PURI
++E) NURI
+F) MURI
+G) ZURI
+
+311
+Выберите доступные модели оплаты Reserved Instances (RI):
++A) AURI
+B) BURI
+C) FURI
++D) PURI
+F) MURI
+
+312
+Выберите доступные модели оплаты Reserved Instances (RI):
++A) AURI
+B) BURI
+C) FURI
++E) NURI
+F) MURI
+
+313
+Выберите доступные модели оплаты Reserved Instances (RI):
+B) BURI
+C) FURI
++D) PURI
++E) NURI
+F) MURI
+
+314
+Как расшифруется AURI?
++A) All Upfront Reserved Instance
+B) All Unreserved Regular Instance
+C) All Ultimately Reserved Instance
+D) AWS Unreserved Regular Instance
+E) Другое
+
+315
+Как расшифруется PURI?
++A) Partial Upfront Reserved Instance
+A) Partial Unreserved Regular Instance
+A) Part-time Upfront Reserved Instance
+A) Part-time Unreserved Regular Instance
+E) Другое
+
+316
+Как расшифруется NURI?
++A) No Upfront Reserved Instance
+A) No Unreserved Regular Instance
+A) Nominal Upfront Reserved Instance
+A) Nominal Unreserved Regular Instance
+E) Другое
+
+317
+Какая модель оплаты RI предоставляет наибольшие скидки?
++A) AURI
+D) PURI
+E) NURI
+D) Другое
+
+318
+Какая модель оплаты RI предоставляет наименьшие скидки?
+A) AURI
+D) PURI
++E) NURI
+D) Другое
+
+319
+Какие сроки контрактов для RI доступны?
++A) 1 год
+D) 2 года
++E) 3 года
+D) 4 года
+E) 5 лет
+
+320
+Какая модель оплаты RI предоставляет наибольшие скидки?
++A) AURI контракт на 3 года
+D) PURI контракт на 3 года
+E) NURI контракт на 3 года
+A) AURI контракт на 1 год
+D) PURI контракт на 1 год
+E) NURI контракт на 1 год
+
+321
+Какая модель оплаты RI предоставляет наименьшие скидки?
+A) AURI контракт на 3 года
+D) PURI контракт на 3 года
+E) NURI контракт на 3 года
+A) AURI контракт на 1 год
+D) PURI контракт на 1 год
++E) NURI контракт на 1 год
+
+322
+Как расшифруется TCO?
++A) Total Cost of Ownership
+D) Total Center of Ownership
+E) Total Company of Ownership
+A) Другое
+
+323
+Какой сервис помогает рассчитать Total Cost of Ownership (TCO) облачной инфраструктуры?
+A) Amazon TCO
+B) AWS TCO
+C) AWS Cost Calculator
++D) AWS Pricing Calculator
+
+324
+Какой сервис AWS используется для централизованного управления аккаунтами AWS? 
++A) AWS Organizations
+B) AWS Departments
+C) AWS Accounts
+D) AWS Groups
+
+325
+Каковы преимущества использования AWS Organizations?
++A) Policy-based account management (SCPs)
++B) Group based account management (OUs)
++C) Consolidated billing
+D) Reserved Instances (RI)
+
+326
+Что мы можем использовать для решения вопросов, связанных с безопасностью на уровне организационных единиц (OU) при использовании AWS Organizations?
++A) SCPs
+B) AWS IAM
+C) AWS EC2
+D) AWS RDS
+
+327
+Что мы можем использовать для решения вопросов, связанных с безопасностью в рамках конкретного AWS аккаунта?
+A) SCPs
++B) AWS IAM
+C) AWS EC2
+D) AWS RDS
+
+328
+Выберите сервисы, связанные с расходами и выставлением счетов:
++A) AWS Billing and Cost Management
++B) AWS Budgets
++C) AWS Cost and Usage Report
++D) AWS Cost Explorer
+E) AWS EC2
+F) AWS Config
+G) AWS Organizations
+H) AWS IAM
+
+329
+Какой сервис позволяет вам просматривать все ваши ежемесячные выставленные счета AWS?
++A) AWS Billing and Cost Management
+B) AWS Budgets
+C) AWS Cost and Usage Report
+D) AWS Cost Explorer
+
+330
+Какой сервис позволяет устанавливать бюджеты для расходов в облаке?
+A) AWS Billing and Cost Management
++B) AWS Budgets
+C) AWS Cost and Usage Report
+D) AWS Cost Explorer
+
+331
+Какой сервис позволяет вам генерировать "сырые" данные с информацией обо всех ваших расходах и всеми доступными подробностями?
+A) AWS Billing and Cost Management
+B) AWS Budgets
++C) AWS Cost and Usage Report
+D) AWS Cost Explorer
+
+332
+Какой сервис предоставляет удобный интерактивный интерфейс для просмотра ваших расходов в различных разрезах?
+A) AWS Billing and Cost Management
+B) AWS Budgets
+C) AWS Cost and Usage Report
++D) AWS Cost Explorer
+
+333
+Выберите вариант, который НЕ связан с AWS support:
+A) Technical Account Manager (TAM)
+B) AWS Trusted Advisor
+C) AWS Support Concierge
++D) AWS Organizations
+
+334
+Выберите несуществующий план поддержки:
+A) Basic Support
+B) Developer Support
+C) Business Support
+D) Enterprise Support
++E) Corporate Support
+
+335
+Выберите план поддержки по умолчанию, который автоматически активируется для новых аккаунтов AWS:
++A) Basic Support
+B) Developer Support
+C) Business Support
+D) Enterprise Support
+
+336
+Выберите бесплатный план поддержки:
++A) Basic Support
+B) Developer Support
+C) Business Support
+D) Enterprise Support
+
+337
+Выберите несуществующую степень серьезности запроса в поддержку AWS:
+A) Critical
+B) Urgent
+C) High
+D) Normal
+E) Low
++F) Amazing

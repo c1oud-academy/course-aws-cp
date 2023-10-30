@@ -2,27 +2,27 @@ Knowledge check questions
 
 100
 What AWS exam will you be prepared for on this course?
-+ A) AWS Certified Cloud Practitioner
++A) AWS Certified Cloud Practitioner
 B) AWS Certified Solutions Architect - Associate
 C) AWS Certified Developer - Associate
 D) AWS Certified SysOps Administrator - Associate
 
 101
 What does AWS stand for?
-+ A) Amazon Web Services
++A) Amazon Web Services
 B) Amazon Web Site
 C) Apple Web Site
 D) Apple Web Services
 
 102
 Select the company which is not a cloud provider:
-+ A) Netflix
++A) Netflix
 B) AWS
 C) Azure
 D) GCP
 
 103
-Select a non-existing AWS exams group:
+Select a NON-existing AWS exams group:
 +A) Enterprise
 B) Foundational
 C) Associate
@@ -86,7 +86,7 @@ C) There are 65 questions
 E) There are two types of questions: multiple choice and multiple response
 
 112
-What is the option/accommodation available for non-native English specialists? ESL (“English as a Second Language”)
+What is the option/accommodation available for non-native English examinees? ESL (“English as a Second Language”)
 A) ESL +10
 B) ESL +20
 +C) ESL +30
@@ -140,5 +140,3 @@ What is the knowledge source where you can find answers for the most of AWS rela
 B) StackOverflow
 C) Meduim
 D) Other
-
-

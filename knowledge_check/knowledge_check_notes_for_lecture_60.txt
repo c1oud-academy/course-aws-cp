@@ -54,7 +54,7 @@ A) 192.0.10.0/34
 +A) 192.0.10.0/26
 
 607
-How many IP addresses in following CIDR block 10.0.0.0/32?
+How many IP addresses are in following CIDR block 10.0.0.0/32?
 +A) 1
 B) 2
 C) 3
@@ -65,7 +65,7 @@ D) 7
 D) 8
 
 608
-How many IP addresses in following CIDR block 10.0.0.0/31?
+How many IP addresses are in following CIDR block 10.0.0.0/31?
 A) 1
 +B) 2
 C) 3
@@ -76,7 +76,7 @@ D) 7
 D) 8
 
 609
-How many IP addresses in following CIDR block 10.0.0.0/30?
+How many IP addresses are in following CIDR block 10.0.0.0/30?
 A) 1
 B) 2
 C) 3
@@ -87,7 +87,7 @@ D) 7
 D) 8
 
 610
-How many IP addresses in following CIDR block 10.0.0.0/29?
+How many IP addresses are in following CIDR block 10.0.0.0/29?
 A) 1
 B) 2
 C) 3
@@ -98,7 +98,7 @@ D) 7
 +D) 8
 
 611
-How many IP addresses in following CIDR block 10.0.0.0/28?
+How many IP addresses are in following CIDR block 10.0.0.0/28?
 B) 2
 D) 4
 D) 8
@@ -142,7 +142,7 @@ A) 4
 +A) 5
 
 616
-How many IP addresses available for your use in CIDR block 192.0.0.0/28 in AWS?
+How many IP addresses are available for your use in CIDR block 192.0.0.0/28 in AWS?
 A) 8
 A) 3
 A) 16
@@ -166,7 +166,7 @@ D) Open IP address
 +E) Elastic IP address
 
 619
-Select AWS service or feature that makes your instances in public subnet accessable from the Internet and vice versa:
+Select AWS service or feature that makes your instances in public subnet accessible from the Internet and vice versa:
 +A) Internet Gateway
 B) NAT Gateway
 C) NAT Instance
@@ -174,7 +174,7 @@ D) VPC Sharing
 E) VPC Endpoints
 
 620
-Select AWS services or features that makes your instances in private subnet access the Internet and unaccessable from the Internet:
+Select AWS services or features that make your instances in private subnet to reach the Internet and be inaccessible from the Internet:
 A) Internet Gateway
 +B) NAT Gateway
 +C) NAT Instance
@@ -190,7 +190,7 @@ C) NAT Instance
 E) VPC Endpoints
 
 622
-What is the AWS service or feature that connects 2 VPCs?
+What is the AWS service or feature that connects two VPCs with each other?
 A) Internet Gateway
 B) NAT Gateway
 C) NAT Instance
@@ -198,7 +198,7 @@ C) NAT Instance
 E) VPC Endpoints
 
 623
-What is the AWS service or feature that helps to connect local office with cloud infrastracture with dedicated connection over the Internet?
+What is the AWS service or feature that helps to connect local office with cloud infrastructure with dedicated connection over the Internet?
 A) AWS Direct Connect
 B) AWS Transit Gateway
 C) NAT Instance
@@ -206,7 +206,7 @@ C) NAT Instance
 E) VPC Endpoints
 
 624
-What is the AWS service or feature that helps to connect local office with cloud infrastracture through direct connection to AWS Global Infrastructure?
+What is the AWS service or feature that helps to connect local office with cloud infrastructure through direct connection to AWS Global Infrastructure?
 +A) AWS Direct Connect
 B) AWS Transit Gateway
 C) NAT Instance
@@ -230,7 +230,7 @@ D) VPC Site-to-Site VPN
 E) VPC Endpoints
 
 627
-Which level security groups act on?
+On what level do security groups operate?
 +A) Instance level
 B) Subnet level
 C) VPC level
@@ -238,7 +238,7 @@ D) Availability Zone level
 E) Region level
 
 628
-Which level Network ACLs act on?
+On what level do Network ACLs operate?
 A) Instance level
 +B) Subnet level
 C) VPC level
@@ -253,7 +253,7 @@ A) Network ACLs are stateful
 +A) Network ACLs are stateless
 
 630
-What is AWS Service that is DNS web service?
+Which AWS Service is DNS web service?
 +A) Amazon Route 53
 B) Amazon VPC
 C) Amazon CloudFront
@@ -261,7 +261,7 @@ C) AWS Transit Gateway
 C) AWS Direct Connect
 
 631
-What is AWS Service that is CDN service?
+Which AWS Service is CDN service?
 A) Amazon Route 53
 B) Amazon VPC
 +C) Amazon CloudFront
@@ -269,7 +269,7 @@ C) AWS Transit Gateway
 C) AWS Direct Connect
 
 632
-Select Amazon Route 53 routing policies:
+Select valid Amazon Route 53 routing policies:
 +A) Simple routing
 +B) Weighted round robin routing
 A) Basic routing
@@ -279,7 +279,7 @@ A) GPS routing
 A) Active routing
 
 633
-Select Amazon Route 53 routing policies:
+Select valid Amazon Route 53 routing policies:
 +B) Weighted round robin routing
 +C) Latency routing
 A) Basic routing
@@ -289,7 +289,7 @@ A) GPS routing
 A) Active routing
 
 634
-Select Amazon Route 53 routing policies:
+Select valid Amazon Route 53 routing policies:
 +C) Latency routing
 +D) Geolocation routing
 A) Basic routing
@@ -299,7 +299,7 @@ A) GPS routing
 A) Active routing
 
 635
-Select Amazon Route 53 routing policies:
+Select valid Amazon Route 53 routing policies:
 +D) Geolocation routing
 +E) Geoproximity routing
 A) Basic routing
@@ -309,7 +309,7 @@ A) GPS routing
 A) Active routing
 
 636
-Select Amazon Route 53 routing policies:
+Select valid Amazon Route 53 routing policies:
 +E) Geoproximity routing
 +E) Failover routing
 A) Basic routing
@@ -319,7 +319,7 @@ A) GPS routing
 A) Active routing
 
 637
-Select Amazon Route 53 routing policies:
+Select valid Amazon Route 53 routing policies:
 +E) Failover routing
 +E) Multivalue answer routing
 A) Basic routing
@@ -329,7 +329,7 @@ A) GPS routing
 A) Active routing
 
 638
-Select Amazon Route 53 routing policies:
+Select valid Amazon Route 53 routing policies:
 +A) Simple routing
 +C) Latency routing
 +E) Geoproximity routing
@@ -341,7 +341,7 @@ A) GPS routing
 A) Active routing
 
 639
-Select Amazon Route 53 routing policies:
+Select valid Amazon Route 53 routing policies:
 +B) Weighted round robin routing
 +D) Geolocation routing
 +E) Failover routing
@@ -352,7 +352,7 @@ A) GPS routing
 A) Active routing
 
 640
-Select Amazon Route 53 routing policies:
+Select valid Amazon Route 53 routing policies:
 +A) Simple routing
 +C) Latency routing
 +E) Failover routing
@@ -369,4 +369,3 @@ A) Availability Zone
 +A) Edge locations
 +A) Regional edge cache
 A) Data centers
-

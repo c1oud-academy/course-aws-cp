@@ -1,56 +1,56 @@
 Knowledge check questions #30
 
 300
-Select the main factors that affect the cost with AWS:
-+ A) Compute
-+ B) Storage
-+ C) Data transfer
+Select the main factors that affect the expenses on AWS:
++A) Compute
++B) Storage
++C) Data transfer
 D) Service
 E) Block
 F) Driver
 
 301
-Select the main factors that affect the cost with AWS:
-+ B) Storage
-+ C) Data transfer
+Select the main factors that affect the expenses on AWS:
++B) Storage
++C) Data transfer
 D) Service
 E) Block
 F) Driver
 
 302
-Select the main factors that affect the cost with AWS:
-+ A) Compute
-+ C) Data transfer
+Select the main factors that affect the expenses on AWS:
++A) Compute
++C) Data transfer
 D) Service
 E) Block
 F) Driver
 
 303
-Select the main factors that affect the cost with AWS:
-+ A) Compute
-+ B) Storage
+Select the main factors that affect the expenses on AWS:
++A) Compute
++B) Storage
 D) Service
 E) Block
 F) Driver
 
 304
-Select option that is NOT a main factor that affects the cost with AWS:
+Select the option that is NOT one of the main factors influencing the cost on AWS:
 A) Compute
 B) Storage
 C) Data transfer
-+ D) Service
++D) Service
 
 305
 Select options when you do NOT need to pay to AWS:
-+ A) Data upload to AWS
++A) Data upload to AWS
 B) Data download from AWS
 C) Cross-region data transfer
-+ D) Region level data transfer
++D) Region level data transfer
 E) Compute resources
 
 306
 Select option when you do NOT need to pay to AWS:
-+ A) Data upload to AWS
++A) Data upload to AWS
 B) Data download from AWS
 C) Cross-region data transfer
 E) Compute resources
@@ -59,16 +59,16 @@ E) Compute resources
 Select option when you do NOT need to pay to AWS:
 B) Data download from AWS
 C) Cross-region data transfer
-+ D) Region level data transfer
++D) Region level data transfer
 E) Compute resources
 
 308
 Select options when you need to pay to AWS:
 A) Data upload to AWS
-+ B) Data download from AWS
-+ C) Cross-region data transfer
++B) Data download from AWS
++C) Cross-region data transfer
 D) Region level data transfer
-+ E) Compute resources
++E) Compute resources
 
 309
 What is pay-as-you-go pricing?
@@ -113,7 +113,7 @@ F) MURI
 
 314
 What does AURI stand for?
-+ A) All Upfront Reserved Instance
++A) All Upfront Reserved Instance
 B) All Unreserved Regular Instance
 C) All Ultimately Reserved Instance
 D) AWS Unreserved Regular Instance
@@ -121,7 +121,7 @@ E) Other
 
 315
 What does PURI stand for?
-+ A) Partial Upfront Reserved Instance
++A) Partial Upfront Reserved Instance
 A) Partial Unreserved Regular Instance
 A) Part-time Upfront Reserved Instance
 A) Part-time Unreserved Regular Instance
@@ -129,37 +129,37 @@ E) Other
 
 316
 What does NURI stand for?
-+ A) No Upfront Reserved Instance
++A) No Upfront Reserved Instance
 A) No Unreserved Regular Instance
 A) Nominal Upfront Reserved Instance
 A) Nominal Unreserved Regular Instance
 E) Other
 
 317
-What is the RI payment model that gives maximum discounts?
-+ A) AURI
+Which RI payment model offers maximum discounts?
++A) AURI
 D) PURI
 E) NURI
 D) Other
 
 318
-What is the RI payment model that gives minimum discounts?
+Which RI payment model provides minimum discounts?
 A) AURI
 D) PURI
-+ E) NURI
++E) NURI
 D) Other
 
 319
-What are available RI contract periods?
-+ A) 1 year
+What RI contract durations are available?
++A) 1 year
 D) 2 years
-+ E) 3 years
++E) 3 years
 D) 4 years
 E) 5 years
 
 320
-What is the RI option that gives maximum discounts?
-+ A) AURI 3-year contract
+Which RI option offers maximum discounts?
++A) AURI 3-year contract
 D) PURI 3-year contract
 E) NURI 3-year contract
 A) AURI 1-year contract
@@ -167,17 +167,17 @@ D) PURI 1-year contract
 E) NURI 1-year contract
 
 321
-What is the RI option that gives minimum discounts?
+Which RI option provides minimum discounts?
 A) AURI 3-year contract
 D) PURI 3-year contract
 E) NURI 3-year contract
 A) AURI 1-year contract
 D) PURI 1-year contract
-+ E) NURI 1-year contract
++E) NURI 1-year contract
 
 322
 What does TCO stand for?
-+ A) Total Cost of Ownership
++A) Total Cost of Ownership
 D) Total Center of Ownership
 E) Total Company of Ownership
 A) Other
@@ -187,81 +187,81 @@ Which service helps to calculate the TCO of cloud infrastructure?
 A) Amazon TCO
 B) AWS TCO
 C) AWS Cost Calculator
-+ D) AWS Pricing Calculator
++D) AWS Pricing Calculator
 
 324
-What is the name of AWS Service that helps to centrally manage other AWS Accounts?
-+ A) AWS Organizations
+Which AWS service is used for centralized management of multiple AWS accounts?
++A) AWS Organizations
 B) AWS Departments
 C) AWS Accounts
 D) AWS Groups
 
 325
-What is the benefits of using AWS Organizations?
-+ A) Policy-based account management (SCPs)
-+ B) Group based account management (OUs)
-+ C) Consolidated billing
+What are the benefits of using AWS Organizations?
++A) Policy-based account management (SCPs)
++B) Group based account management (OUs)
++C) Consolidated billing
 D) Reserved Instances (RI)
 
 326
-What do we typically use to meet security related aspects on OU level when using AWS Organizations?
-+ A) SCPs
+What do we typically use to handle security-related aspects at the organizational unit (OU) level within AWS Organizations?
++A) SCPs
 B) AWS IAM
 C) AWS EC2
 D) AWS RDS
 
 327
-What we usually use to meet security related aspects on specific account when using AWS Organizations?
+What we usually use to meet security-related aspects on specific account when using AWS Organizations?
 A) SCPs
-+ B) AWS IAM
++B) AWS IAM
 C) AWS EC2
 D) AWS RDS
 
 328
-Select services related to costs and billing:
-+ A) AWS Billing and Cost Management
-+ B) AWS Budgets
-+ C) AWS Cost and Usage Report
-+ D) AWS Cost Explorer
+Select services associated with costs and billing:
++A) AWS Billing and Cost Management
++B) AWS Budgets
++C) AWS Cost and Usage Report
++D) AWS Cost Explorer
 E) AWS EC2
 F) AWS Config
 G) AWS Organizations
 H) AWS IAM
 
 329
-What is the service where you can see all your monthly AWS bills?
-+ A) AWS Billing and Cost Management
+Which service enables you to access all your AWS monthly billing statements?
++A) AWS Billing and Cost Management
 B) AWS Budgets
 C) AWS Cost and Usage Report
 D) AWS Cost Explorer
 
 330
-What is the service where you can set budgets to your cloud spendings?
+Which service allows you to establish budgets for your cloud spendings?
 A) AWS Billing and Cost Management
-+ B) AWS Budgets
++B) AWS Budgets
 C) AWS Cost and Usage Report
 D) AWS Cost Explorer
 
 331
-What is the service where you can generate raw data with all your spendings and with all available details?
+Which service enables you to generate raw data containing all your spendings along with all available details?
 A) AWS Billing and Cost Management
 B) AWS Budgets
-+ C) AWS Cost and Usage Report
++C) AWS Cost and Usage Report
 D) AWS Cost Explorer
 
 332
-What is the service where you can see your spendings in different perspectives with simple interactive UI?
+Which service provides a user-friendly interactive interface for viewing your expenses from various perspectives?
 A) AWS Billing and Cost Management
 B) AWS Budgets
 C) AWS Cost and Usage Report
-+ D) AWS Cost Explorer
++D) AWS Cost Explorer
 
 333
-Select option that is NOT related to AWS support:
+Select an option that is NOT related to AWS support:
 A) Technical Account Manager (TAM)
 B) AWS Trusted Advisor
 C) AWS Support Concierge
-+ D) AWS Organizations
++D) AWS Organizations
 
 334
 Select non-existing support plan:
@@ -269,18 +269,18 @@ A) Basic Support
 B) Developer Support
 C) Business Support
 D) Enterprise Support
-+ E) Corporate Support
++E) Corporate Support
 
 335
-Select support plan activated by default on new AWS accounts:
-+ A) Basic Support
+Select the default support plan automatically enabled for new AWS accounts:
++A) Basic Support
 B) Developer Support
 C) Business Support
 D) Enterprise Support
 
 336
 Select support plan that is free:
-+ A) Basic Support
++A) Basic Support
 B) Developer Support
 C) Business Support
 D) Enterprise Support
@@ -292,8 +292,4 @@ B) Urgent
 C) High
 D) Normal
 E) Low
-+ F) Amazing
-
-
-
-
++F) Amazing
