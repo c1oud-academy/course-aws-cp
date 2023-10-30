@@ -1,0 +1,146 @@
+701
+Выберите сервис, который помогает приобрести виртуальные серверы:
++A) Amazon EC2
+B) Amazon ECR
+C) Amazon ECS
+D) AWS Elastic Beanstalk
+
+702
+Выберите сервис, который хранит Docker-образы:
++B) Amazon ECR
+C) Amazon ECS
+F) Amazon EKS
+H) AWS Fargate
+
+703
+Выберите сервис оркестрации контейнеров, который поддерживает Docker:
+B) Amazon ECR
++C) Amazon ECS
+F) Amazon EKS
+H) AWS Fargate
+
+704
+Выберите сервис, который предоставляет простой способ запуска и управления веб-приложениями:
++D) AWS Elastic Beanstalk
+E) AWS Lambda
+H) Amazon EKS
+H) AWS Fargate
+
+705
+Выберите сервис, который представляет собой вычислительное решение без серверов (serverless):
+A) Amazon EC2
+D) AWS Elastic Beanstalk
++E) AWS Lambda
+H) Amazon Lightsail
+
+706
+Выберите сервис, который позволяет вам запускать управляемый Kubernetes на AWS:
+B) Amazon ECR
+C) Amazon ECS
++F) Amazon EKS
+H) AWS Fargate
+
+707
+Как расшифруется AMI?
+B) Amazon Media Instance
+C) Amazon Machine Instance
++F) Amazon Machine Image
+H) Amazon Media Image
+
+708
+Выберите URL, по которому можно получить доступ к метаданным Amazon EC2 инстанса с самого инстанса:
++B) http://169.254.169.254/latest/meta-data/
+C) http://254.169.254.169/latest/user-data/
+F) http://254.169.254.169/latest/meta-data/
+H) http://169.254.169.254/latest/user-data/
+
+709
+Выберите URL, по которому можно получить доступ к пользовательским данным (user data) Amazon EC2 инстанса с самого инстанса:
+B) http://169.254.169.254/latest/meta-data/
+C) http://254.169.254.169/latest/user-data/
+F) http://254.169.254.169/latest/meta-data/
++H) http://169.254.169.254/latest/user-data/
+
+710
+Выберите модель ценообразования Amazon EC2, которая НЕ существует:
+B) On-Demand Instances
+C) Reserved Instances
+F) Spot Instances
++H) Open Instances
+
+711
+Выберите модель ценообразования Amazon EC2, которая НЕ существует:
+B) On-Demand Instances
+C) Reserved Instances
+F) Spot Instances
++H) Private Instances
+
+712
+Выберите модель ценообразования Amazon EC2, которая НЕ существует:
+B) On-Demand Instances
+C) Reserved Instances
+F) Spot Instances
++H) Public Instances
+
+713
+Выберите модель ценообразования Amazon EC2, которая НЕ существует:
+B) On-Demand Instances
+C) Reserved Instances
+F) Spot Instances
++H) Main Instances
+
+714
+Выберите модель ценообразования Amazon EC2, которая наилучшим образом подходит для непостоянных рабочих нагрузок:
++B) On-Demand Instances
+C) Reserved Instances
+F) Spot Instances
+H) Dedicated Hosts
+
+715
+Выберите модель ценообразования Amazon EC2, которая наиболее подходит для нагрузки, которая является стабильной и легко прогнозируемой:
+B) On-Demand Instances
++C) Reserved Instances
+F) Spot Instances
+H) Dedicated Hosts
+
+716
+Выберите pillar-ы оптимизации затрат для Amazon EC2:
++B) Right size
++C) Increase elasticity
+B) Left size
+B) Decrease elasticity
+
+717
+Выберите pillar-ы оптимизации затрат для Amazon EC2:
++B) Right size
++F) Optimal pricing model
+B) Left size
+B) Decrease elasticity
+
+718
+Выберите pillar-ы оптимизации затрат для Amazon EC2:
++B) Right size
++H) Optimize storage choices
+B) Left size
+B) Decrease elasticity
+
+719
+Выберите pillar-ы оптимизации затрат для Amazon EC2:
++C) Increase elasticity
++F) Optimal pricing model
+B) Left size
+B) Decrease elasticity
+
+720
+Выберите pillar-ы оптимизации затрат для Amazon EC2:
++C) Increase elasticity
++H) Optimize storage choices
+B) Left size
+B) Decrease elasticity
+
+721
+Выберите pillar-ы оптимизации затрат для Amazon EC2:
++F) Optimal pricing model
++H) Optimize storage choices
+B) Left size
+B) Decrease elasticity

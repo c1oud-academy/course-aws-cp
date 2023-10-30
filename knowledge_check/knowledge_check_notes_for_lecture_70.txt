@@ -62,42 +62,42 @@ F) http://254.169.254.169/latest/meta-data/
 +H) http://169.254.169.254/latest/user-data/
 
 710
-Select NON-existent Amazon EC2 pricing model:
+Select NON-existing Amazon EC2 pricing model:
 B) On-Demand Instances
 C) Reserved Instances
 F) Spot Instances
 +H) Open Instances
 
 711
-Select NON-existent Amazon EC2 pricing model:
+Select NON-existing Amazon EC2 pricing model:
 B) On-Demand Instances
 C) Reserved Instances
 F) Spot Instances
 +H) Private Instances
 
 712
-Select NON-existent Amazon EC2 pricing model:
+Select NON-existing Amazon EC2 pricing model:
 B) On-Demand Instances
 C) Reserved Instances
 F) Spot Instances
 +H) Public Instances
 
 713
-Select NON-existent Amazon EC2 pricing model:
+Select NON-existing Amazon EC2 pricing model:
 B) On-Demand Instances
 C) Reserved Instances
 F) Spot Instances
 +H) Main Instances
 
 714
-Select Amazon EC2 pricing model that best suits for spiky workloads:
+Select the Amazon EC2 pricing model that is most suitable for workloads with fluctuating demand:
 +B) On-Demand Instances
 C) Reserved Instances
 F) Spot Instances
 H) Dedicated Hosts
 
 715
-Select Amazon EC2 pricing model that best suits for predictable and steady workloads:
+Select the Amazon EC2 pricing model that is most appropriate for workloads that are consistent and easy to forecast:
 B) On-Demand Instances
 +C) Reserved Instances
 F) Spot Instances
@@ -144,4 +144,3 @@ Select cost optimization pillars for Amazon EC2:
 +H) Optimize storage choices
 B) Left size
 B) Decrease elasticity
-

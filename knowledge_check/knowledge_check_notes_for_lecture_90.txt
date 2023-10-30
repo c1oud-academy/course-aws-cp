@@ -27,7 +27,7 @@ C) Amazon ECS
 D) Amazon EKS
 
 905
-Which of the folowing possible event sources for Lambda?
+Which of the following event sources for Lambda are valid?
 +A) Amazon S3
 +B) Amazon SNS
 +C) Amazon SQS
@@ -51,7 +51,7 @@ C) 10 seconds
 D) 15 seconds
 
 908
-Select platform as a service (or PaaS) that facilitates the quick deployment, scaling, and management of your web applications and services:
+Select platform as a service (PaaS) that facilitates the quick deployment, scaling, and management of your web applications and services:
 A) AWS Lambda
 +B) AWS Elastic Beanstalk
 C) Amazon ECS
@@ -96,4 +96,3 @@ B) Highly scalable, high-performance container management service which supports
 C) Managed Kubernetes service that makes it easy for you to run Kubernetes on AWS
 D) Fully managed Docker container registry that makes it easy for developers to store, manage, and deploy Docker container images
 +E) Platform as a service (or PaaS) that facilitates the quick deployment, scaling, and management of your web applications and services
-

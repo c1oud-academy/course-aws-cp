@@ -1,0 +1,106 @@
+1001
+Amazon EC2 инстанстарымен пайдалану үшін блоктық тасымалдаушыларды қамтамасыз ететін сервисті таңдаңыз:
++A) Amazon EBS
+B) Amazon S3
+C) Amazon EFS
+D) Amazon S3 Glacier
+
+1002
+SSD негізіндегі EBS томының түрлерін таңдаңыз:
++A) General Purpose
++B) Provisioned IOPS
+C) Throughput-Optimized
+D) Cold
+
+1003
+HDD негізіндегі EBS томының түрлерін таңдаңыз:
+A) General Purpose
+B) Provisioned IOPS
++C) Throughput-Optimized
++D) Cold
+
+1004
+Түбірлік том ретінде пайдалануға болатын EBS томының түрлерін таңдаңыз:
++A) General Purpose
++B) Provisioned IOPS
+C) Throughput-Optimized
+D) Cold
+
+1005
+Түбірлік том ретінде пайдалануға болмайтын EBS томының түрлерін таңдаңыз:
+A) General Purpose
+B) Provisioned IOPS
++C) Throughput-Optimized
++D) Cold
+
+1006
+Объектілік сақтауды қамтамасыз ететін сервисті таңдаңыз:
+A) Amazon EBS
++B) Amazon S3
+C) Amazon EFS
++D) Amazon S3 Glacier
+
+1007
+Amazon S3 сенімділіктің қандай деңгейін қамтамасыз етеді?
++A) 11 тоғыз
+B) 12 тоғыз
+C) 9 тоғыз
+D) 10 тоғыз
+
+1008
+Amazon S3-те файлдың рұқсат етілген ең үлкен көлемі қандай?
++A) 5 ТБ
+B) 1 ТБ
+C) 1 ГБ
+D) 5 ГБ
+
+1009
+Қолданыста болмайтын S3 сақтау класын таңдаңыз:
+A) Standard
+B) Intelligent-Tiering
+C) Standard-IA
+D) One Zone-IA
+E) Glacier
+F) Glacier Deep Archive
++H) Intelligent-Standard
+
+1010
+Қолданыста болмайтын S3 сақтау класын таңдаңыз:
+A) Standard
+B) Intelligent-Tiering
+C) Standard-IA
+D) One Zone-IA
+E) Glacier
+F) Glacier Deep Archive
++H) One Region-IA
+
+1011
+Қолданыста болмайтын S3 сақтау класын таңдаңыз:
+A) Standard
+B) Intelligent-Tiering
+C) Standard-IA
+D) One Zone-IA
+E) Glacier
+F) Glacier Deep Archive
++H) Glacier Simple
+
+1012
+Бірнеше виртуалды машиналар бір уақытта қол жеткізуге болатын EC2 инстанстарын сақтауды қамтамасыз ететін сервисті таңдаңыз:
+A) Amazon EBS
+B) Amazon S3
++C) Amazon EFS
+D) Amazon S3 Glacier
+
+1013
+Деректерді өте төмен бағамен мұрағаттайтын, бірақ қажет болған кезде деректерді лезде шығарып алуға мүмкіндік бермейтін сервисті таңдаңыз:
+A) Amazon EBS
+B) Amazon S3
+C) Amazon EFS
++D) Amazon S3 Glacier
+
+1014
+Amazon S3 Glacier-де файлдың рұқсат етілген ең үлкен көлемі қандай?
+A) 5 ТБ
++B) 40 ТБ
+C) 40 ГБ
+D) 5 ГБ

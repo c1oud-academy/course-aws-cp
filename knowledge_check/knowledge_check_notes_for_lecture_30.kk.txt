@@ -1,0 +1,295 @@
+Біліміңізді тексеруге арналған сұрақтар #30
+
+300
+AWS жүйесіндегі шығындарға әсер ететін негізгі факторларды таңдаңыз:
++A) Есептеу
++B) Сақтау
++C) Деректерді тасымалдау
+D) Сервис
+E) Блок
+F) Драйвер
+
+301
+AWS жүйесіндегі шығындарға әсер ететін негізгі факторларды таңдаңыз:
++B) Сақтау
++C) Деректерді тасымалдау
+D) Сервис
+E) Блок
+F) Драйвер
+
+302
+AWS жүйесіндегі шығындарға әсер ететін негізгі факторларды таңдаңыз:
++A) Есептеу
++C) Деректерді тасымалдау
+D) Сервис
+E) Блок
+F) Драйвер
+
+303
+AWS жүйесіндегі шығындарға әсер ететін негізгі факторларды таңдаңыз:
++A) Есептеу
++B) Сақтау
+D) Сервис
+E) Блок
+F) Драйвер
+
+304
+AWS жүйесіндегі шығындарға әсер ететін негізгі факторлардың бірі ЕМЕС нұсқаны таңдаңыз:
+A) Есептеу
+B) Сақтау
+C) Деректерді тасымалдау
++D) Сервис
+
+305
+AWS төлем талап етілмейтін нұсқаларды таңдаңыз:
++A) Деректерді AWS-ке жүктеп салу
+B) Деректерді AWS-тен жүктеп алу
+C) Деректерді аймақтар арасында тасымалдау
++D) Деректерді аймақ деңгейінде тасымалдау
+E) Есептеу ресурстары
+
+306
+AWS төлем талап етілмейтін нұсқаны таңдаңыз:
++A) Деректерді AWS-ке жүктеп салу
+B) Деректерді AWS-тен жүктеп алу
+C) Деректерді аймақтар арасында тасымалдау
+E) Есептеу ресурстары
+
+307
+AWS төлем талап етілмейтін нұсқаны таңдаңыз:
+B) Деректерді AWS-тен жүктеп алу
+C) Деректерді аймақтар арасында тасымалдау
++D) Деректерді аймақ деңгейінде тасымалдау
+E) Есептеу ресурстары
+
+308
+AWS төлем талап етілетін нұсқаларды таңдаңыз:
+A) Деректерді AWS-ке жүктеп салу
++B) Деректерді AWS-тен жүктеп алу
++C) Деректерді аймақтар арасында тасымалдау
+D) Деректерді аймақ деңгейінде тасымалдау
++E) Есептеу ресурстары
+
+309
+"Pay-as-you-go" баға белгіленімі дегеніміз не?
+A) Тек қалаған нәрсе үшін ғана төлеңіз
++B) Тек пайдаланғаныңыз үшін төлеңіз
+C) Қолданар алдында төлеңіз
+D) Төлеудің қажеті жоқ
+
+310
+Қолжетімді Reserved Instances (RI) төлем үлгілерін таңдаңыз:
++A) AURI
+B) BURI
+C) FURI
++D) PURI
++E) NURI
+F) MURI
+G) ZURI
+
+311
+Қолжетімді Reserved Instances (RI) төлем үлгілерін таңдаңыз:
++A) AURI
+B) BURI
+C) FURI
++D) PURI
+F) MURI
+
+312
+Қолжетімді Reserved Instances (RI) төлем үлгілерін таңдаңыз:
++A) AURI
+B) BURI
+C) FURI
++E) NURI
+F) MURI
+
+313
+Қолжетімді Reserved Instances (RI) төлем үлгілерін таңдаңыз:
+B) BURI
+C) FURI
++D) PURI
++E) NURI
+F) MURI
+
+314
+AURI нені білдіреді?
++A) All Upfront Reserved Instance
+B) All Unreserved Regular Instance
+C) All Ultimately Reserved Instance
+D) AWS Unreserved Regular Instance
+E) Басқа
+
+315
+PURI нені білдіреді?
++A) Partial Upfront Reserved Instance
+A) Partial Unreserved Regular Instance
+A) Part-time Upfront Reserved Instance
+A) Part-time Unreserved Regular Instance
+E) Басқа
+
+316
+NURI нені білдіреді?
++A) No Upfront Reserved Instance
+A) No Unreserved Regular Instance
+A) Nominal Upfront Reserved Instance
+A) Nominal Unreserved Regular Instance
+E) Басқа
+
+317
+Қай RI төлем үлгісі ең үлкен жеңілдіктерді ұсынады?
++A) AURI
+D) PURI
+E) NURI
+D) Басқа
+
+318
+Қай RI төлем үлгісі ең аз жеңілдіктерді ұсынады?
+A) AURI
+D) PURI
++E) NURI
+D) Басқа
+
+319
+RI үшін қандай келісім шарттары бар?
++A) 1 жыл
+D) 2 жыл
++E) 3 жыл
+D) 4 жыл
+E) 5 жыл
+
+320
+Қай RI төлем үлгісі ең үлкен жеңілдіктерді ұсынады?
++A) 3 жылдық AURI келісімшарты
+D) 3 жылдық PURI келісімшарты
+E) 3 жылдық NURI келісімшарты
+A) 1 жылдық AURI келісімшарты
+D) 1 жылдық PURI келісімшарты
+E) 1 жылдық NURI келісімшарты
+
+321
+Қандай RI төлем үлгісі ең аз жеңілдіктерді ұсынады?
+A) 3 жылдық AURI келісімшарты
+D) 3 жылдық PURI келісімшарты
+E) 3 жылдық NURI келісімшарты
+A) 1 жылдық AURI келісімшарты
+D) 1 жылдық PURI келісімшарты
++E) 1 жылдық NURI келісімшарты
+
+322
+TCO нені білдіреді?
++A) Total Cost of Ownership
+D) Total Center of Ownership
+E) Total Company of Ownership
+A) Басқа
+
+323
+Қандай сервис бұлттық инфрақұрылымның Total Cost of Ownership (TCO) есептеуге көмектеседі?
+A) Amazon TCO
+B) AWS TCO
+C) AWS Cost Calculator
++D) AWS Pricing Calculator
+
+324
+AWS аккаунттарын орталықтан басқару үшін қандай AWS сервисі пайдаланылады?
++A) AWS Organizations
+B) AWS Departments
+C) AWS Accounts
+D) AWS Groups
+
+325
+AWS Organizations пайдаланудың қандай артықшылықтары бар?
++A) Policy-based account management (SCPs)
++B) Group based account management (OUs)
++C) Consolidated billing
+D) Reserved Instances (RI)
+
+326
+AWS Organizations пайдалану кезінде Organizational Units (OU) деңгейінде қауіпсіздік мәселелерін шешу үшін нені пайдалана аламыз?
++A) SCPs
+B) AWS IAM
+C) AWS EC2
+D) AWS RDS
+
+327
+Белгілі бір AWS аккаунты аясында қауіпсіздік мәселелерін шешу үшін нені пайдалана аламыз?
+A) SCPs
++B) AWS IAM
+C) AWS EC2
+D) AWS RDS
+
+328ы
+Шығындар мен шоттарды ұсыну сервистерін таңдаңыз:
++A) AWS Billing and Cost Management
++B) AWS Budgets
++C) AWS Cost and Usage Report
++D) AWS Cost Explorer
+E) AWS EC2
+F) AWS Config
+G) AWS Organizations
+H) AWS IAM
+
+329
+Қандай сервис ай сайынғы AWS ұсынылған шоттардың барлығын көруге мүмкіндік береді?
++A) AWS Billing and Cost Management
+B) AWS Budgets
+C) AWS Cost and Usage Report
+D) AWS Cost Explorer
+
+330
+Қандай сервис бұлттық шығындарға арналған бюджеттерді орнатуға мүмкіндік береді?
+A) AWS Billing and Cost Management
++B) AWS Budgets
+C) AWS Cost and Usage Report
+D) AWS Cost Explorer
+
+331
+Қандай сервис сіздің барлық шығындарыңыз бен барлық қолжетімді мәліметтері бар өңделмеген деректерді жасауға мүмкіндік береді?
+A) AWS Billing and Cost Management
+B) AWS Budgets
++C) AWS Cost and Usage Report
+D) AWS Cost Explorer
+
+332
+Қандай сервис сіздің шығындарыңызды әртүрлі тұрғыдан талдауға мүмкіндік беретін ыңғайлы интерактивті интерфейсті ұсынады?
+A) AWS Billing and Cost Management
+B) AWS Budgets
+C) AWS Cost and Usage Report
++D) AWS Cost Explorer
+
+333
+AWS support-пен байланысты ЕМЕС нұсқаны таңдаңыз:
+A) Technical Account Manager (TAM)
+B) AWS Trusted Advisor
+C) AWS Support Concierge
++D) AWS Organizations
+
+334
+Қолдау жоспарының қандай түрі болмайды?
+A) Basic Support
+B) Developer Support
+C) Business Support
+D) Enterprise Support
++E) Corporate Support
+
+335
+Жаңа AWS аккаунттары үшін автоматты түрде іске қосылатын әдепкі қолдау жоспарын таңдаңыз:
++A) Basic Support
+B) Developer Support
+C) Business Support
+D) Enterprise Support
+
+336
+Тегін қолдау жоспарын таңдаңыз:
++A) Basic Support
+B) Developer Support
+C) Business Support
+D) Enterprise Support
+
+337
+AWS support-қа сұраудың қандай қауіптілік дәрежесі болмайды?
+A) Critical
+B) Urgent
+C) High
+D) Normal
+E) Low
++F) Amazing

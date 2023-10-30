@@ -1,0 +1,429 @@
+Вопросы для проверки знаний #40
+
+400
+Выберите основные факторы для выбора региона AWS:
++A) Управление данными, юридические требования
++B) Близость к клиентам (задержка)
++C) Доступность сервисов AWS
++D) Затраты
+E) Устройства конечных пользователей
+F) Браузеры конечных пользователей
+G) Операционная система устройств конечных пользователей
+H) Возраст аудитории
+
+401
+Выберите основные факторы для выбора региона AWS:
++A) Управление данными, юридические требования
++B) Близость к клиентам (задержка)
++C) Доступность сервисов AWS
+E) Устройства конечных пользователей
+F) Браузеры конечных пользователей
+G) Операционная система устройств конечных пользователей
+H) Возраст аудитории
+
+402
+Выберите основные факторы для выбора региона AWS:
++A) Управление данными, юридические требования
++C) Доступность сервисов AWS
++D) Затраты
+E) Устройства конечных пользователей
+F) Браузеры конечных пользователей
+G) Операционная система устройств конечных пользователей
+H) Возраст аудитории
+
+403
+Выберите основные факторы для выбора региона AWS:
++A) Управление данными, юридические требования
++B) Близость к клиентам (задержка)
++D) Затраты
+E) Устройства конечных пользователей
+F) Браузеры конечных пользователей
+G) Операционная система устройств конечных пользователей
+H) Возраст аудитории
+
+404
+Выберите основные факторы для выбора региона AWS:
++A) Управление данными, юридические требования
++B) Близость к клиентам (задержка)
++C) Доступность сервисов AWS
+E) Устройства конечных пользователей
+F) Браузеры конечных пользователей
+G) Операционная система устройств конечных пользователей
+H) Возраст аудитории
+
+405
+Выберите фактор, который НЕ является основным для выбора региона AWS:
+A) Управление данными, юридические требования
+B) Близость к клиентам (задержка)
+C) Доступность сервисов AWS
+D) Затраты
++E) Устройства конечных пользователей
+
+406
+Выберите фактор, который НЕ является основным для выбора региона AWS:
+A) Управление данными, юридические требования
+B) Близость к клиентам (задержка)
+C) Доступность сервисов AWS
+D) Затраты
++F) Браузеры конечных пользователей
+
+407
+Выберите фактор, который НЕ является основным для выбора региона AWS:
+A) Управление данными, юридические требования
+B) Близость к клиентам (задержка)
+C) Доступность сервисов AWS
+D) Затраты
++G) Операционная система устройств конечных пользователей
+
+408
+Выберите фактор, который НЕ является основным для выбора региона AWS:
+A) Управление данными, юридические требования
+B) Близость к клиентам (задержка)
+C) Доступность сервисов AWS
+D) Затраты
++H) Возраст аудитории
+
+409
+Какое минимальное количество зон доступности (Availability Zones) присутствует в регионе AWS?
+A) 1
++A) 2
+A) 3
+A) 4
+A) 5
+
+410
+Какое минимальное количество дата-центров обычно присутствует в AWS Availability Zone?
+A) 1
++A) 2
+A) 3
+A) 4
+A) 5
+
+411
+Какой из сервисов AWS является Content Delivery Network (CDN)?
++A) AWS CloudFront
+B) AWS Organizations
+C) AWS IAM
+D) AWS Cost Explorer
+
+412
+Какой сервис AWS используется для хранения данных в виде объектов?
++A) Amazon S3
+B) Amazon EBS
+C) Amazon EFS
+D) Amazon S3 Glacier
+
+413
+Какой сервис AWS используется для экономически эффективного хранения архивных данных?
+A) Amazon S3
+B) Amazon EBS
+C) Amazon EFS
++D) Amazon S3 Glacier
+
+414
+Какой сервис AWS используется для хранения данных в виде блоков и предоставляет файловую систему в облаке?
+A) Amazon S3
++B) Amazon EBS
+C) Amazon EFS
+D) Amazon S3 Glacier
+
+415
+Какой сервис AWS предоставляет файловую систему для совместного использования в облаке?
+A) Amazon S3
+B) Amazon EBS
++C) Amazon EFS
+D) Amazon S3 Glacier
+
+416
+Какой сервис AWS НЕ относится к группе сервисов хранения данных?
+A) Amazon S3
+B) Amazon EBS
+C) Amazon EFS
+D) Amazon S3 Glacier
++E) Amazon EKS
+
+417
+Какой основной сервис AWS предоставляет виртуальные серверы?
++A) Amazon EC2
+B) Amazon EC2 Auto Scaling
+C) Amazon ECS
+D) Amazon ECR
+E) AWS Elastic Beanstalk
+F) AWS Lambda
+G) Amazon EKS
+H) AWS Fargate
+
+418
+Какой сервис AWS используется для настройки автомасштабирования группы EC2 инстансов?
+A) Amazon EC2
++B) Amazon EC2 Auto Scaling
+C) Amazon ECS
+D) Amazon ECR
+E) AWS Elastic Beanstalk
+F) AWS Lambda
+G) Amazon EKS
+H) AWS Fargate
+
+419
+Какой сервис AWS используется для управления контейнерами?
+A) Amazon EC2
+B) Amazon EC2 Auto Scaling
++C) Amazon ECS
+D) Amazon ECR
+E) AWS Elastic Beanstalk
+F) AWS Lambda
+G) Amazon EKS
+H) AWS Fargate
+
+420
+Какой сервис AWS выступает в роли реестра контейнеров?
+A) Amazon EC2
+B) Amazon EC2 Auto Scaling
+C) Amazon ECS
++D) Amazon ECR
+E) AWS Elastic Beanstalk
+F) AWS Lambda
+G) Amazon EKS
+H) AWS Fargate
+
+421
+Какой сервис AWS предоставляется как Function as a Service (FaaS)?
+A) Amazon EC2
+B) Amazon EC2 Auto Scaling
+C) Amazon ECS
+D) Amazon ECR
+E) AWS Elastic Beanstalk
++F) AWS Lambda
+G) Amazon EKS
+H) AWS Fargate
+
+422
+Какой сервис AWS помогает в управлении Kubernetes нагрузками?
+A) Amazon EC2
+B) Amazon EC2 Auto Scaling
+C) Amazon ECS
+D) Amazon ECR
+E) AWS Elastic Beanstalk
+F) AWS Lambda
++G) Amazon EKS
+H) AWS Fargate
+
+423
+Какой сервис AWS представляет собой бессерверный, вычислительный ресурс с оплатой по факту использования (pay-as-you-go), который позволяет сосредотачиваться на разработке приложений, не управляя серверами?
+A) Amazon EC2
+B) Amazon EC2 Auto Scaling
+C) Amazon ECS
+D) Amazon ECR
+E) AWS Elastic Beanstalk
+F) AWS Lambda
+G) Amazon EKS
++H) AWS Fargate
+
+424
+Какой сервис AWS не входит в группу сервисов вычислений?
+A) Amazon EC2
+C) Amazon ECS
+D) Amazon ECR
+F) AWS Lambda
++E) Amazon EBS
+
+425
+Какой сервис AWS не входит в группу сервисов баз данных?
+A) Amazon RDS
+C) Amazon Aurora
+D) Amazon Redshift
+F) AWS DynamoDB
++E) Amazon EC2
+
+426
+Какой сервис AWS используется для предоставления инстанса Oracle RDBMS?
++A) Amazon RDS
+C) Amazon Aurora
+D) Amazon Redshift
+F) AWS DynamoDB
+
+427
+Какой сервис AWS используется для предоставления инстанса SQL Server RDBMS?
++A) Amazon RDS
+C) Amazon Aurora
+D) Amazon Redshift
+F) AWS DynamoDB
+
+428
+Какой in-house сервис AWS используется для предоставления инстанса RDBMS на основе движка MySQL или PostgreSQL?
+A) Amazon RDS
++C) Amazon Aurora
+D) Amazon Redshift
+F) AWS DynamoDB
+
+429
+Какой сервис AWS используется для предоставления хранилища данных для аналитических расчетов?
+A) Amazon RDS
+C) Amazon Aurora
++D) Amazon Redshift
+F) AWS DynamoDB
+
+430
+Какой in-house и бессерверный сервис AWS используется для предоставления NoSQL DB инстанса?
+A) Amazon RDS
+C) Amazon Aurora
+D) Amazon Redshift
++F) AWS DynamoDB
+
+431
+Какой сервис AWS помогает создать частную или локальную сеть в облаке?
++A) Amazon VPC
+B) Elastic Load Balancing
+C) Amazon CloudFront
+D) AWS Transit Gateway
+E) Amazon Route 53
+F) AWS Direct Connect
+G) AWS VPN
+
+432
+Какой сервис AWS помогает настроить балансировку нагрузки для ваших инстансов EC2?
+A) Amazon VPC
++B) Elastic Load Balancing
+C) Amazon CloudFront
+D) AWS Transit Gateway
+E) Amazon Route 53
+F) AWS Direct Connect
+G) AWS VPN
+
+433
+Какой сервис AWS помогает вам использовать сеть доставки контента (CDN) AWS?
+A) Amazon VPC
+B) Elastic Load Balancing
++C) Amazon CloudFront
+D) AWS Transit Gateway
+E) Amazon Route 53
+F) AWS Direct Connect
+G) AWS VPN
+
+434
+Выберите сервисы, которые позволяют вам устанавливать соединения между локальной инфраструктурой и облаком:
+A) Amazon VPC
+B) Elastic Load Balancing
+C) Amazon CloudFront
++D) AWS Transit Gateway
+E) Amazon Route 53
++F) AWS Direct Connect
++G) AWS VPN
+
+435
+Какой AWS сервис представляет собой систему доменных имен (DNS)?
+A) Amazon VPC
+B) Elastic Load Balancing
+C) Amazon CloudFront
+D) AWS Transit Gateway
++E) Amazon Route 53
+F) AWS Direct Connect
+G) AWS VPN
+
+436
+Какой сервис AWS помогает в создании и управлении пользователями, группами, ролями и правами доступа?
++A) AWS IAM
+C) AWS Organizations
+D) Amazon Cognito
+F) AWS Artifact
+E) AWS Key Management Service
+F) AWS Shield
+
+437
+Какой сервис AWS помогает в централизованном управлении аккаунтов AWS?
+A) AWS IAM
++C) AWS Organizations
+D) Amazon Cognito
+F) AWS Artifact
+E) AWS Key Management Service
+F) AWS Shield
+
+438
+Какой сервис AWS нативно поддерживает регистрацию, вход и контроль доступа пользователей для ваших веб- и мобильных приложений?
+A) AWS IAM
+C) AWS Organizations
++D) Amazon Cognito
+F) AWS Artifact
+E) AWS Key Management Service
+F) AWS Shield
+
+439
+Укажите бесплатный портал самообслуживания для мгновенного доступа к отчетам о соответствии от AWS:
+A) AWS IAM
+C) AWS Organizations
+D) Amazon Cognito
++F) AWS Artifact
+E) AWS Key Management Service
+F) AWS Shield
+
+440
+Какой сервис AWS позволяет создавать и управлять криптографические ключи?
+A) AWS IAM
+C) AWS Organizations
+D) Amazon Cognito
+F) AWS Artifact
++E) AWS Key Management Service
+F) AWS Shield
+
+441
+Какой управляемый сервис AWS предназначен для защиты от DDoS атак?
+A) AWS IAM
+C) AWS Organizations
+D) Amazon Cognito
+F) AWS Artifact
+E) AWS Key Management Service
++F) AWS Shield
+
+442
+Какой сервис AWS отвечает за мониторинг всех изменений в ресурсах инфраструктуры?
++A) AWS Config
+B) Amazon CloudWatch
+C) AWS Auto Scaling
+D) AWS Trusted Advisor
+E) AWS Well-Architected Tool
+F) AWS CloudTrail
+
+443
+Какой сервис AWS собирает все метрики и логи, генерируемые вашими приложениями?
+A) AWS Config
++B) Amazon CloudWatch
+C) AWS Auto Scaling
+D) AWS Trusted Advisor
+E) AWS Well-Architected Tool
+F) AWS CloudTrail
+
+444
+Какой сервис AWS помогает настроить функцию масштабирования для различных сервисов?
+A) AWS Config
+B) Amazon CloudWatch
++C) AWS Auto Scaling
+D) AWS Trusted Advisor
+E) AWS Well-Architected Tool
+F) AWS CloudTrail
+
+445
+Какой сервис AWS предоставляет рекомендации по соблюдению лучших практик AWS?
+A) AWS Config
+B) Amazon CloudWatch
+C) AWS Auto Scaling
++D) AWS Trusted Advisor
+E) AWS Well-Architected Tool
+F) AWS CloudTrail
+
+446
+Какой сервис AWS предоставляет рекомендации по соблюдению архитектурных лучших практик и руководств AWS?
+A) AWS Config
+B) Amazon CloudWatch
+C) AWS Auto Scaling
+D) AWS Trusted Advisor
++E) AWS Well-Architected Tool
+F) AWS CloudTrail
+
+447
+Какой сервис AWS собирает все вызовы AWS API и функционирует аналогично "черному ящику" на самолетах?
+A) AWS Config
+B) Amazon CloudWatch
+C) AWS Auto Scaling
+D) AWS Trusted Advisor
+E) AWS Well-Architected Tool
++F) AWS CloudTrail

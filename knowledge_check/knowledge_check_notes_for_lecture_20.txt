@@ -8,165 +8,165 @@ C) Pay before you start using
 D) No need to pay
 
 201
-Select existing computing models:
-+ A) Traditional computing model
-+ B) Cloud computing model
+Select the existing computing models:
++A) Traditional computing model
++B) Cloud computing model
 C) Modern computing model
 D) Ancient computing model
-E) Rain computing model
+E) Sun computing model
 F) Foreign computing model
 
 202
-Which computing model makes you think of infrastructure as hadrware?
-+ A) Traditional computing model
+Which computing model makes you think of infrastructure as hardware?
++A) Traditional computing model
 B) Cloud computing model
 C) Modern computing model
 D) Ancient computing model
-E) Rain computing model
+E) Sun computing model
 F) Foreign computing model
 
 203
 Which computing model makes you think of infrastructure as software?
 A) Traditional computing model
-+ B) Cloud computing model
++B) Cloud computing model
 C) Modern computing model
 D) Ancient computing model
-E) Rain computing model
+E) Sun computing model
 F) Foreign computing model
 
 204
-Which computing model usually deals with long hardware procurement cycle?
-+ A) Traditional computing model
+Which computing model usually deals with the long hardware procurement cycle?
++A) Traditional computing model
 B) Cloud computing model
 C) Modern computing model
 D) Ancient computing model
-E) Rain computing model
+E) Sun computing model
 F) Foreign computing model
 
 205
-Which computing model forces you to guess theoretical maximum peaks of loads on your infrastructure?
-+ A) Traditional computing model
+For which computing model are you required to estimate the theoretical upper limits of loads on your infrastructure?
++A) Traditional computing model
 B) Cloud computing model
 C) Modern computing model
 D) Ancient computing model
-E) Rain computing model
+E) Sun computing model
 F) Foreign computing model
 
 206
-Which computing model gives an opportunity to stop guessing theoretical maximum peaks of loads on your infrastructure?
+Which computing model allows you to eliminate the need for estimating theoretical maximum load peaks on your infrastructure?
 A) Traditional computing model
-+ B) Cloud computing model
++B) Cloud computing model
 C) Modern computing model
 D) Ancient computing model
-E) Rain computing model
+E) Sun computing model
 F) Foreign computing model
 
 207
-Select computing model where your servers are forced to idle without load:
-+ A) Traditional computing model
+Select a computing model where your servers need to remain inactive in the absence of any workload:
++A) Traditional computing model
 B) Cloud computing model
 C) Modern computing model
 D) Ancient computing model
-E) Rain computing model
+E) Sun computing model
 F) Foreign computing model
 
 208
 Which computing model makes you pay only for what you use?
 A) Traditional computing model
-+ B) Cloud computing model
++B) Cloud computing model
 C) Modern computing model
 D) Ancient computing model
-E) Rain computing model
+E) Sun computing model
 F) Foreign computing model
 
 209
 Which computing model forces you to organize infrastructure security physically?
-+ A) Traditional computing model
++A) Traditional computing model
 B) Cloud computing model
 C) Modern computing model
 D) Ancient computing model
-E) Rain computing model
+E) Sun computing model
 F) Foreign computing model
 
 210
-Select existing cloud service models:
-+ A) PaaS
+Select the existing cloud service models:
++A) PaaS
 B) BaaS
-+ C) IaaS
++C) IaaS
 D) ZaaS
-+ E) SaaS
++E) SaaS
 F) KaaS
 
 211
-What is the cloud service model with the most control over IT resources?
+Which cloud service model offers the highest degree of control over IT resources?
 A) PaaS
-+ C) IaaS
++C) IaaS
 E) SaaS
 F) Other
 
 212
-What is the cloud service model with the least control over IT resources?
+Which cloud service model offers the lowest degree of control over IT resources?
 A) PaaS
 C) IaaS
-+ E) SaaS
++E) SaaS
 F) Other
 
 213
 What does IaaS stand for?
-+ A) Infrastructure as a Service
++A) Infrastructure as a Service
 C) Internet as a Service
 E) Intranet as a Service
 F) Implementation as a Service
 
 214
 What does PaaS stand for?
-+ A) Platform as a Service
++A) Platform as a Service
 C) Pyramid as a Service
 E) Product as a Service
 F) Other
 
 215
 What does SaaS stand for?
-+ A) Software as a Service
++A) Software as a Service
 C) Service as a Service
 E) Solution as a Service
 F) Service as a Solution
 
 216
-Select existing cloud computing deployment models:
-+ A) Cloud
+Select the existing cloud computing deployment models:
++A) Cloud
 B) Ground
-+ C) Hybrid
++C) Hybrid
 D) Mixed
-+ E) On-premise
++E) On-premise
 F) Local
 
 217
-Select advantages of cloud:
-+A) Trade capital expense for variable expense
+Select the advantages of cloud:
++A) Trading capital expenses for variable expenses
 +E) Stop wasting money on running and maintaining data centers
 +F) Going global in minutes
 F) Going global in days
 F) Going global in seconds
 
 218
-Select advantages of cloud:
-+ A) Trade capital expense for variable expense
-B) Trade variable expense for capital expense
+Select the advantages of cloud:
++A) Trading capital expenses for variable expenses
+B) Trading variable expenses for capital expenses
 +B) Benefit from massive economies of scale
 +C) Stop guessing capacity
 C) Need to guess capacity
 
 219
-Select advantages of cloud:
-+A) Trade capital expense for variable expense
+Select the advantages of cloud:
++A) Trading capital expenses for variable expenses
 +B) Benefit from massive economies of scale
 C) Start guessing capacity
 D) Decrease speed and agility
 +F) Going global in minutes
 
 220
-Select advantages of cloud:
+Select the advantages of cloud:
 C) Start guessing capacity
 +D) Increase speed and agility
 E) Start spending money on running and maintaining data centers
@@ -174,16 +174,16 @@ E) Start spending money on running and maintaining data centers
 
 221
 What are the ways of interaction with AWS?
-+ A) AWS Management Console
++A) AWS Management Console
 B) AWS SLI
-+ C) AWS CLI
++C) AWS CLI
 D) CDK
-+ E) SDK
++E) SDK
 F) Amazon Management Console
 
 222
-What is the way of interaction with AWS with UI interface?
-+ A) AWS Management Console
+What is the way to interact with AWS using a UI interface?
++A) AWS Management Console
 B) AWS SLI
 C) AWS CLI
 D) CDK
@@ -191,26 +191,18 @@ E) SDK
 F) Amazon Management Console
 
 223
-What is the way of interaction with AWS with programming languages like Python, JS, etc.?
+What is the method of interacting with AWS using programming languages such as Python, JavaScript, etc.?
 A) AWS Management Console
 B) AWS SLI
 C) AWS CLI
 D) CDK
-+ E) SDK
++E) SDK
 F) Amazon Management Console
 
 224
 What does AWS CAF stand for?
-+ A) AWS Cloud Adoption Framework
++A) AWS Cloud Adoption Framework
 A) AWS Cloud Adaptation Framework
 A) AWS Cloud Adoption Firewall
 A) AWS Cloud Adaptation Firewall
 A) Other
-
-
-
-
-
-
-
-
