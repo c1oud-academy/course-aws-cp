@@ -6,28 +6,28 @@ C) Amazon EFS
 D) Amazon S3 Glacier
 
 1002
-SSD негізіндегі EBS томының түрлерін таңдаңыз:
+SSD негізіндегі EBS volume-ның түрлерін таңдаңыз:
 +A) General Purpose
 +B) Provisioned IOPS
 C) Throughput-Optimized
 D) Cold
 
 1003
-HDD негізіндегі EBS томының түрлерін таңдаңыз:
+HDD негізіндегі EBS volume-ның түрлерін таңдаңыз:
 A) General Purpose
 B) Provisioned IOPS
 +C) Throughput-Optimized
 +D) Cold
 
 1004
-Түбірлік том ретінде пайдалануға болатын EBS томының түрлерін таңдаңыз:
+Түбірлік volume ретінде пайдалануға болатын EBS volume-ның түрлерін таңдаңыз:
 +A) General Purpose
 +B) Provisioned IOPS
 C) Throughput-Optimized
 D) Cold
 
 1005
-Түбірлік том ретінде пайдалануға болмайтын EBS томының түрлерін таңдаңыз:
+Түбірлік volume ретінде пайдалануға болмайтын EBS volume-ның түрлерін таңдаңыз:
 A) General Purpose
 B) Provisioned IOPS
 +C) Throughput-Optimized
